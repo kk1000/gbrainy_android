@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="fr">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Introduction à <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Le jeu</title>
+  
+  <p><app>gbrainy</app> est un jeu d'énigmes intellectuelles ; le but du jeu est de se faire plaisir et de faire travailler vos méninges.</p>
+  <p>Il présente différents types de jeu tels que des énigmes de logique, des calculs mentaux, des jeux de mémorisation, des analogies verbales conçus pour tester différentes compétences cognitives.</p>
+  <p>Vous pouvez choisir parmi différents niveaux de difficulté afin de rendre <app>gbrainy</app> amusant pour les enfants, les adultes ou les personnes plus âgées. Il présente également un historique des jeux, les records personnels, des astuces et une prise en charge de l'affichage plein écran. <app>gbrainy</app> peut également être facilement <link href="http://live.gnome.org/gbrainy/Extending">étendu</link> avec de nouveaux jeux développés par des tiers.</p>
+  <p><app>gbrainy</app> repose grandement sur le travail d'anciens maîtres en énigme, allant d'énigmes classiques très anciennes à des travaux plus récents comme les énigmes de <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> ou le jeu classique <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>.</p>
+  <note>
+    <p>Il y a eu récemment des discussions dans la communauté scientifique pour savoir si les logiciels d'entrainement cérébral améliorent ou pas les performances cognitives. La plupart des études montrent qu'il y a peu ou aucune amélioration mais cela ne signifie pas que vous ne pouvez pas prendre du plaisir en jouant à des jeux comme <app>gbrainy</app> !</p>
+  </note>
+</page>

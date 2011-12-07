@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="multiplayer" xml:lang="sl">
+
+  <info>
+    <link type="guide" xref="index#multi"/>
+  	<desc>Kako igrati z drugimi ljudmi.</desc>
+  	<!-- Taken from GNOME Tetravex -->
+    <revision pkgversion="2.30" version="0.1" date="2009-12-18" status="draft"/> 
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+    </license>
+  </info>
+
+  <title>Igrajte z drugimi ljudmi</title>
+
+  <p>S programom <app>gbrainy</app> ni mogoče igrati proti drugim ljudem preko interneta ali krajevnega omrežja.</p>
+</page>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="hi">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>कानूनी जानकारी</desc>
+  </info>
+
+  <title>अनुज्ञा पत्र</title>
+  <p>
+    
+    This work is distributed under a CreativeCommons Attribution-Share Alike
+    3.0 Unported license.
+  </p>
+  <p>आप स्वतंत्र हैं:</p>
+  <terms>
+    <item>
+      <title><em>To share</em></title>
+      <p>नकल करने के लिए, वितरित और काम संचारित</p>
+    </item>
+    <item>
+      <title><em>रीमिक्स करने के लिए</em></title>
+      <p>काम करने के लिए अनुकूलित</p> 
+    </item>
+  </terms>
+  <p>निम्नलिखित शर्तों के तहत</p>
+  <terms>
+    <item>
+      <title><em>आरोपण</em></title>
+      <p>
+        You must attribute the work in the manner specified by the author or 
+        licensor (but not in any way that suggests that they endorse you or 
+        your use of the work).  
+      </p>
+    </item>
+    <item>
+      <title><em>Share Alike</em></title>
+      <p>
+        If you alter, transform, or build upon this work, you may distribute the 
+        resulting work only under the same, similar or a compatible license.  
+      </p>
+    </item>
+  </terms>
+  <p>
+    
+    For the full text of the license, see the 
+    <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">CreativeCommons website</link>, 
+    or read the full <link href="http://creativecommons.org/licenses/by-sa/3.0/">Commons Deed</link>. 
+  </p>
+</page>

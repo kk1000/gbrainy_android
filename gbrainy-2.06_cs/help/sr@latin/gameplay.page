@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="sr@latin">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Uvod u <app>g-kefalo</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Kazagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>„Creative Commons Share Alike 3.0“</p>
+   </license>
+  </info>
+
+  <title>Igranje</title>
+  
+  <p><app>g-kefalo</app> je igra mozgalica; cilj igre je da se zabavite i da održavate vaš um obučenim.</p>
+  <p>Poseduje različite vrste igara kao što su logičke zagonetke, igre mentalnog računa, memorijske vežbe i verbalne analogije, osmišljen je da testira različite sposobnosti zaključivanja.</p>
+  <p>Možete da izaberete različite nivoe težine čineći <app>g-kefalo</app> prijatnim za decu, odrasle i starije građane. Takođe poseduje istorijat igre, lične zapise, savete i podršku celog ekrana. <app>g-kefalo</app> takođe može biti lako <link href="http://live.gnome.org/gbrainy/Extending">proširen</link> novim igrama razvijenim od strane trećih lica.</p>
+  <p><app>g-kefalo</app> se u velikoj meri oslanja na rad prethodnih majstora zagonetki, u rasponu od klasičnih zagonetki najstarijih vremena do novijih radova kao što su zagonetke <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Teri Stikelsa</link> ili klasična igra <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Um</link>.</p>
+  <note>
+    <p>Bilo je nedavnih diskusija u naučnim krugovima o tome da li softver za vežbanje uma poboljšava performanse saznavanja. Većina studija pokazuje da do poboljšanja dolazi vrlo malo ili nimalo, ali to ne znači da ne možete imati dobar provod igrajući igre kao što je <app>g-kefalo</app>!</p>
+  </note>
+</page>

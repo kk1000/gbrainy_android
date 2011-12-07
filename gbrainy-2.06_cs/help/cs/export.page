@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="cs">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Export her pro hraní off-line.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Export her</title>
+  <p>Hry nabízené v aplikaci je možné vyexportovat a následně vytisknout, abyste je mohli hrát, i když nejste u počítače.</p>
+  <p>Hry budou uloženy v souboru <file>PDF</file> ve vybrané složce.</p>
+  <p>Pokud chcete hru vyexportovat:</p>
+  <steps>
+    <item>
+      <p>Zvolte <guiseq><gui style="menu">Hra</gui><gui style="menuitem">Export her do PDF na hraní off-line</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Vyberte typy her, náročnost a počet her, které chcete vyexportovat. Po té klikněte na <gui style="button">Uložit</gui>.</p>
+    </item>
+  </steps>
+
+</page>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="sr@latin">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Koristite savete da rešite zagonetku.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Saveti</title>
+  <p>Sa nekim od igara koje možete igrati, moguće je dobiti jednostavne savete koji vam mogu pomoći da rešite problem.</p>
+  <p>Kada igrate igru, kliknite na dugme „</p>
+  <note>
+    <p>Ova funkcija nije dostupna za neke od igara.</p>
+  </note>
+</page>

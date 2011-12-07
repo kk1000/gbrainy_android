@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="ro">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Modificați timpul de prezentare provocare în jocuri de memorie.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Modificați durata provocării</title>
+  <p>Pentru a schimba numărul de secunde care vi se oferă să memorați provocarea când jucați jocuri de memorie, procedați după cum urmează:</p>
+  <steps>
+    <item>
+      <p>Selectați <guiseq><gui style="menu">Configurări</gui><gui style="menuitem">Preferințe</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>În secțiunea <gui>Jocuri de memorie</gui>, folosiți căsuța derulantă pentru a mări sau micșora numărul de secunde pentru care va fi vizibilă provocarea.</p>
+      <p>Valoarea implicită este 6 secunde.</p>
+    </item>
+  </steps>
+</page>

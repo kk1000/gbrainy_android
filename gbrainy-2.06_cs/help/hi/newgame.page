@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="hi">
+      
+  <info>
+    <title type="sort">१ </title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>खेल आरंभ करें </desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>खेल सत्र</title>
+  
+  <section id="game-start">
+    <title>एक नया सत्र शुरू करें </title>
+    <p>एक नया खेल शुरू करने के लिए, निम्न में से एक कार्य करें:</p>
+    <list>
+      <item>
+        <p>
+          Choose <guiseq><gui style="menu">Game</gui><gui style="menuitem">New Game</gui></guiseq>, and select
+          the type of game to play.
+        </p>
+      </item>
+      <item>
+        <p>उपकरण पट्टी में एक बटन को दबाएँ</p>
+      </item>
+    </list>
+    <p>उपकरण पट्टी में जो बटन होती हैं  उनका अर्थ निम्नलिखित है:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>सभी</title>
+            <p>नया खेल शुरू होता है  खेल के सभी प्रकार के उपलब्ध खेल खेल सकते हैं </p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>सभी खेल बटन</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>तर्क</title>
+            <p>केवल तर्क खेलों का नया  खेल शुरू करें</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>तर्क खेल बटन</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>गणना</title>
+            <p>केवल गणना खेलों का नया खेल शुरू होता  है</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>गणना खेल बटन</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>स्मृति</title>
+            <p>केवल स्मृति खेलों का नया खेल शुरू होता  है</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>स्मृति खेल बटन</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>मौखिक</title>
+            <p>केवल मौखिक खेलों का नया खेल शुरू होता  है</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>मौखिक खेल बटन</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>
+        These descriptions also apply to the game types that you can select from
+        the <gui style="menu">Game</gui> menu.
+      </p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>एक सत्र खेलें</title>
+    <note style="tip">
+      <p>जब आप एक खेल खेलते हैं, हमेशा निर्देशों का सावधानी से पढ़ें !</p>
+    </note>
+    <p>
+      The game session begins by showing you the problem and then asking for the answer.
+      At the bottom of the window is the main set of controls that you can use to interact with the game.
+    </p>
+    <p>
+      Once you know the answer to the problem, type it in the <gui style="input">Answer</gui>
+      text entry and press <gui style="button">OK</gui>.
+    </p>
+    <p>
+      To proceed to the next game, click <gui style="button">Next</gui>.
+    </p>
+    <note>
+      <p>
+        If you click <gui style="button">Next</gui> before completing the game,
+        or without providing an answer, that game will be counted in your results.
+      </p>
+    </note>
+  </section>
+</page>

@@ -1,0 +1,193 @@
+gbrainy NEWS
+
+Version 2.06
+* 1 bug fix
+* Updated Spanish
+
+Version 2.05
+* 1 bug fix
+* Updated translation
+
+Version 2.04
+* 3 bug fixes
+* Fixes to translations
+
+Version 2.03
+* Several translations updated to fix bugs
+* Add Esperanto translation
+* Fixes assembly versioning
+
+Version 2.02
+* 7 bugs fixed
+* Updated translations for many languages
+
+Version 2.01
+* Add Mono.Addins.Gui 0.6 strings for L10N
+* remove libgnome support (deprecated lib)
+* 11 bugs fixed
+
+Version 2.00
+* UI
+** Integrated question and solution
+** Theme support
+** New default theme (notebook)
+** Vertical / Horizontal toolbar orientation
+* Game experience
+** Better answer handling
+** Accept words, accept figures names, more flexibility handling spaces, etc
+** Better rationale explanations (%)
+** Fixed some verbal analogies
+* Localization
+** I18N fixes
+*** Proof-reading on English by native speakers. 20% of strings where enhanced for better grammar
+**** Ability to run gbrainy in English ignoring the translations 
+* 11 new games: 4 logic games, 1 calculation game, 6 new verbal analogies
+* Infrastructure Fixes
+** Minor memory leaks
+** Mono 2.10 support 
+* Several bug fixes
+
+Version 1.65
+* 2 bug fixes
+* Updated translations
+
+Version 1.64
+* 2 bug fixes
+* Updated French translation
+
+Version 1.63
+* 2 bug fixes
+* Updated and new translations
+* More flexibility accepting answers
+
+Version 1.62
+* 4 bug fixes
+* Updated and new translations
+
+Version 1.61
+* 5 bug fixes
+* Updated and new translations
+
+Version 1.60
+* Better I18N (string concatenation and plurals)
+* 7 new logic games, 1 calculation and 16 verbal analogies
+* PDF export support
+* 14 bug fixes
+* Updated and new translations
+
+Version 1.52
+* 3 bug fixes
+* Updated and new translations
+
+Version 1.51
+* 5 bug fixes
+* Updated and new translations
+
+Version 1.50
+* 11 new logic games, 4 new calculation trainers, 13 verbal analogies
+* Usability enhancements from Alexandre Laplante and Jeff Stewart, students from University of Ottawa
+* Unit testing for the gbrainy.Core
+* Ability to define external logic puzzles using an xml file (games.xml)
+* Command line support
+* 7 bug fixes
+
+Version 1.42
+* 14 bug fixes
+* Updated and new translations
+* Updated Mallard documentation
+
+Version 1.41
+* 18 bug fixes
+* Updated and new translations
+
+Version 1.4
+* 2 new logic games
+* Deprecated Glade and moved to Builder
+* Mouse support
+* Better RTL support
+* Updated and new translations
+* Remove dead and legacy code
+* 12 Bug fixes 
+
+Version 1.3
+* Re-architectured for better multiplatform support
+* Personal records tracking
+* Improved player scoring algorithm
+* Better accessibility
+* 9 new verbal analogies and a new logic puzzle
+* Mallard documentation
+* More HIG complaint 
+* Bug fixes
+
+Version 1.2
+* 6 new games
+* Verbal analogies
+* New translations
+* Bug fixes
+
+Version 1.1
+* 4 new games
+* Use Mono.Addins for extending gbrainy
+* New translations
+* Bug fixes
+
+Version 1.00
+* 1 new logic puzzle, 1 new memory puzzle
+* Better look and feel (new background)
+* Switch font drawing to Pango
+* Better I18N support
+* Bug fixes
+
+Version 0.7
+* 8 new puzzles
+* License included in the about box
+* The drawing area is now square and the application resizes better
+* Better score feedback
+* Player's history
+* Preferences persistence
+* Better game selection
+* Bug fixes
+
+Version 0.6
+* Implemented difficulty levels: easy, medium and master
+* Complete revision of the texts
+* 1 new math game and 3 new logic games
+* Bug fixes
+ 
+Version 0.5
+* Basic user preferences (memory games)
+* 4 new logic games and 2 new memory trainers
+* Count down for memory games (to get your memory ready)
+* Some bug fixes
+
+Version 0.4
+* Many bugs fixes and corrections
+* More tip and better explanations
+* New Welcome screen that gives a better explanation of what gbrainy is about
+* A complete score system and summary of the score
+* A toolbar that makes more accessible the main options
+* 4 new logic games, 1 new math trainer and 1 memory trainer
+
+Version 0.3
+* Many bugs fixes and corrections
+* Many questions and answers are more precise
+* Custom game support: define which puzzles you want to play
+* 3 new logic puzzles: Divide circles, matrix groups, Balance
+* 2 new math puzzles: Greater divisor, two numbers
+* Fixes in gbrainy.glade to make it work on Win32
+* Small UI enhancements
+
+Version 0.2
+* Fixed make distcheck 
+* 3 new logic Puzzles (Cube, sheets, figures and words)
+* Refactor GameManager, GameSession and other classes
+* 4 new memory trainers (numbers, colours, figures, words)
+* 1 new math trainer (arithmetic)
+* New application icon
+* Fixed a couple of usability bugs
+
+Version 0.1
+* Initial release
+* 13 different logic puzzles included
+* Possibility to localize it to different languages (Catalan included)
+

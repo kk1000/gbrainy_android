@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="da">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Eksporter spillene så de kan spilles adskilt fra computeren</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Eksporter spillene</title>
+  <p>Det er muligt at eksportere og så udskrive spillene, som tilbydes af programmet, så de kan spilles uden at computeren er tændt.</p>
+  <p>Spillene vil blive gemt i en <file>PDF-fil</file> i den valgte mappe.</p>
+  <p>For at eksportere spillene:</p>
+  <steps>
+    <item>
+      <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Eksporter spil til PDF så du kan spille uden computeren</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Vælg typen af spil, sværhedsgraden og hvor mange spil der skal eksporteres. Når du er færdig så klik på <gui style="button">Gem</gui>.</p>
+    </item>
+  </steps>
+
+</page>

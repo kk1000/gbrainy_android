@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="history" xml:lang="sl">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Dostopajte do svoje osebne zgodovine iger.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+    </license>
+  </info>
+
+  <title>Osebna zgodovina iger</title>
+  
+  <p>Pogovorno okno <gui>Igralčeva zgodovina iger</gui> prikaže vaše rezultate v vsaki vrsti iger za zadnjih nekaj sej iger.</p>
+  
+  <section id="history-personal">
+    <title>Ogled zgodovine iger</title>
+    <p>Za dostop do osebne zgodovine iger izberite <guiseq><gui style="menu">Pogled</gui><gui style="menuitem">Igralčeva zgodovina iger</gui></guiseq>.</p>
+  </section>
+  
+  <section id="history-change-graphic">
+    <title>Izberite rezultate za prikaz</title>
+    <p>Za izbiro prikazanih rezultatov uporabite različna izbirna polja pod grafom.</p>
+  </section>
+  
+  <section id="history-save-prefs">
+    <title>Spremenite število shranjenih iger</title>
+    <p><app>gbrainy</app> shrani rezultate igralca zato, da lahko sledi njihovim spremembam.</p>
+    <p>Za spremembo števila sej iger shranjenih v zgodovini storite naslednje: </p>
+    <steps>
+      <item>
+        <p>Izberite <guiseq><gui style="menu">Nastavitve</gui><gui style="menuitem"> Možnosti</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>V odseku <gui>Igralčeva zgodovina iger</gui>:</p>
+        <list>
+          <item>
+            <p>Uporabite prvo vrstilno polje za spremembo števila sej iger, ki morajo biti shranjene, preden lahko svoje rezultate vidite v grafu zgodovine. </p>
+          </item>
+          <item>
+            <p>Uporabite drugo vrstilno polje za spremembo števila prikazanih sej iger v grafu zgodovine.</p>
+          </item>
+        </list>
+      </item>
+    </steps>
+  </section>
+</page>

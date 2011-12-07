@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Tippek használata a rejtvények megoldására.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Tippek</title>
+  <p>Néhány játék esetén egyszerű tippeket kaphat a probléma megoldásához.</p>
+  <p>Játék közben kattintson a <gui style="button">Tipp</gui> gombra az ablak alján (a <gui style="input">Válasz</gui> mező mellett).</p>
+  <note>
+    <p>Ez a szolgáltatás nem érhető el egyes játékokhoz.</p>
+  </note>
+</page>

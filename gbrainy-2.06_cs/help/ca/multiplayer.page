@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="multiplayer" xml:lang="ca">
+
+  <info>
+    <link type="guide" xref="index#multi"/>
+  	<desc>Com jugar amb altres persones.</desc>
+  	<!-- Taken from GNOME Tetravex -->
+    <revision pkgversion="2.30" version="0.1" date="2009-12-18" status="draft"/> 
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Reconeixement-Compartir Igual 3.0</p>
+    </license>
+  </info>
+
+  <title>Jugueu amb altres persones</title>
+
+  <p>No és possible jugar amb altres jugadors per Internet o per xarxa local amb el <app>gbrainy</app>.</p>
+</page>

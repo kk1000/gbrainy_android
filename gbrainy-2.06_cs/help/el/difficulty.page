@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="el">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Αλλαγή του επιπέδου δυσκολίας των παιχνιδιών.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Επίπεδα δυσκολίας</title>
+  <p>Για να αλλάξετε το επίπεδο δυσκολίας ενός παιχνιδιού, κάντε τα εξής:</p>
+  <steps>
+    <item>
+      <p>Πηγαίνετε <guiseq><gui style="menu">Ρυθμίσεις</gui><gui style="menuitem">Προτιμήσεις</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Στην περιοχή <gui>Επίπεδο Δυσκολίας</gui>, επιλέξτε το επιθυμητό επίπεδο.</p>
+      <p>Μπορείτε να επιλέξετε ανάμεσα σε τρία διαφορετικά επίπεδα: <gui style="radiobutton">Εύκολο</gui>, <gui style="radiobutton">Μεσαίο</gui>, και <gui style="radiobutton">Δύσκολο</gui>. Το προεπιλεγμένο επίπεδο είναι το <gui style="radiobutton">Μεσαίο</gui>.</p>
+    </item>
+  </steps>
+</page>

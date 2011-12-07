@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="cs">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Jak se počítá hodnocení hráče.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Hodnocení hry a měření času</title>
+  <p>Pokud jste hlavolam nevyřešili správně, nedostanete za něj žádné hodnocení.</p>
+  <p>Pokud jste hlavolam vyřešili správně, dostanete hodnocení závislé na čase, který jste k vyřešení problému potřebovali a zda jste v průběhu museli použít pomůcku.</p>
+  <p>Následující tabulka podává souhrnný přehled o časových limitech her (v sekundách) pro jednotlivé náročnosti.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Lehká</p></td>
+      <td><p>Střední</p></td>
+      <td><p>Těžká</p></td>
+    </tr>
+    <tr>
+      <td><p>Logické hlavolamy</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Výpočty z hlavy</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Trénování paměti</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Slovní analogie</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>S pomocí očekávaného času pro aktuální náročnost a času, který hráč ve skutečnosti potřeboval k vyřešení, se použije následující logika:</p>
+  <list>
+    <item>
+      <p>Pokud jste potřeboval méně času, než se k dokončení hry očekává, je hodnocení 10 bodů.</p>
+    </item>
+    <item>
+      <p>Pokud jste potřeboval více času, než se k dokončení hry očekává, je hodnocení 8.</p>
+    </item>
+    <item>
+      <p>Pokud jste potřeboval 2× více času, než se k dokončení hry očekává, je hodnocení 7 bodů.</p>
+    </item>
+    <item>
+      <p>Pokud jste potřeboval 3× více času, než se k dokončení hry očekává, je hodnocení 6 bodů.</p>
+    </item>
+    <item>
+      <p>Pokud jste použili pomůcku, bude vaše hodnocení pouze 80 % původního hodnocení.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Výpočet celkového hodnocení</title>
+    <p>Aplikace <app>gbrainy</app> si pamatuje různé typy odehraných her. K výpočtu závěrečného hodnocení každé sady her stejného typu se sečtou všechny výsledky odehraných her stejného typu a použije se faktor založený na logaritmu 10 pro lehkou náročnost, 20 pro střední náročnost a 30 pro těžkou náročnost.</p>
+	  <p>To znamená, že když se hraje střední náročnost, je potřeba pro získání hodnocení 100 bodů získat 10 bodů v nejméně 20 hrách každého odehraného typu hry.</p>
+	  <p>To může znít jako obtížný úkol, ale umožňuje to hráčům srovnávat hodnocení z různých sezení (v historii her hráče) a umožňuje to lépe sledovat vývoj zlepšování hráče během všech her, co odehrál.</p>
+  </section>
+</page>

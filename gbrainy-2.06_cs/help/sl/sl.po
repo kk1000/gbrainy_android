@@ -1,0 +1,771 @@
+# Slovenian translation for gbrainy help.
+# Copyright (C) 2010 gbrainy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gbrainy package.
+#
+# Andrej Žnidaršič <andrej.znidarsic@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy help master\n"
+"POT-Creation-Date: 2011-01-30 22:27+0000\n"
+"PO-Revision-Date: 2011-01-31 13:21+0100\n"
+"Last-Translator: Andrej Žnidaršič <andrej.znidarsic@gmail.com>\n"
+"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: C/export.page:7(desc)
+msgid "Export the games for playing off-line."
+msgstr "Izvoz iger za igranje brez računalnika."
+
+#: C/export.page:10(name)
+#: C/times.page:11(name)
+#: C/newgame.page:13(name)
+#: C/index.page:14(name)
+#: C/gameplay.page:12(name)
+#: C/score.page:11(name)
+#: C/multiplayer.page:11(name)
+#: C/history.page:9(name)
+#: C/difficulty.page:12(name)
+#: C/tips.page:12(name)
+#: C/pause.page:12(name)
+#: C/customgame.page:12(name)
+msgid "Milo Casagrande"
+msgstr "Milo Casagrande"
+
+#: C/export.page:11(email)
+#: C/times.page:12(email)
+#: C/newgame.page:14(email)
+#: C/index.page:15(email)
+#: C/gameplay.page:13(email)
+#: C/score.page:12(email)
+#: C/multiplayer.page:12(email)
+#: C/history.page:10(email)
+#: C/difficulty.page:13(email)
+#: C/tips.page:13(email)
+#: C/pause.page:13(email)
+#: C/customgame.page:13(email)
+msgid "milo@ubuntu.com"
+msgstr "milo@ubuntu.com"
+
+#: C/export.page:14(p)
+#: C/times.page:15(p)
+#: C/newgame.page:17(p)
+#: C/index.page:18(p)
+#: C/gameplay.page:16(p)
+#: C/score.page:15(p)
+#: C/multiplayer.page:15(p)
+#: C/history.page:13(p)
+#: C/difficulty.page:16(p)
+#: C/tips.page:16(p)
+#: C/pause.page:16(p)
+#: C/gametypes.page:12(p)
+#: C/customgame.page:16(p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr "Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0"
+
+#: C/export.page:20(title)
+msgid "Export the games"
+msgstr "Izvoz iger"
+
+#: C/export.page:21(p)
+msgid "It is possible to export and then print the games provided by the app for playing while not at the computer."
+msgstr "Igre je mogoče izvoziti in natisniti za igranje, ko niste za računalnikom."
+
+#: C/export.page:25(p)
+msgid "The games will be saved in a <file>PDF</file> file in the selected folder."
+msgstr "Igre bodo bile shranjene v datoteki <file>PDF</file> v izbrani mapi."
+
+#: C/export.page:28(p)
+msgid "To export the games:"
+msgstr "Za izvor iger:"
+
+#: C/export.page:33(p)
+msgid "Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Export Games to PDF for Off-Line Playing</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Igra</gui><gui style=\"menuitem\">Izvozi igre v PDF za igranje brez računalnika</gui></guiseq>."
+
+#: C/export.page:38(p)
+msgid "Select the type of games, the difficult level, and how many games to export. When done click <gui style=\"button\">Save</gui>."
+msgstr "Izberite vrste iger, težavnostno raven in koliko iger želite izvoziti. Ko boste končali, kliknite <gui style=\"button\">Shrani</gui>."
+
+#: C/times.page:7(desc)
+msgid "Change the challenge presentation time in memory games."
+msgstr "Spremenite čas prikaza izziva v igrah pomnjenja."
+
+#: C/times.page:19(title)
+msgid "Change the challenge duration"
+msgstr "Spremeni trajanje izziva"
+
+#: C/times.page:20(p)
+msgid "To change the number of seconds you are given to memorize the challenge when playing memory games, proceed as follows:"
+msgstr "Za spremembo števila sekund, ki ga imate na voljo za pomnjenje izziva ob igranju iger pomnjenja, storite naslednje:"
+
+#: C/times.page:26(p)
+#: C/difficulty.page:26(p)
+msgid "Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\">Preferences</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Nastavitve</gui><gui style=\"menuitem\">Možnosti</gui></guiseq>."
+
+#: C/times.page:31(p)
+msgid "In the <gui>Memory Games</gui> section, use the spin box to increase or decrease the number of seconds that the challenge will be visible for."
+msgstr "V odseku <gui>Igre pomnjenja</gui> uporabite vrtilno polje za povečanje ali zmanjšanje števila sekund vidnosti izziva."
+
+#: C/times.page:35(p)
+msgid "The default value is 4 seconds."
+msgstr "Privzeta vrednost je 4 sekunde."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:57(None)
+msgid "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+msgstr "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:76(None)
+#: C/gametypes.page:36(None)
+msgid "@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+msgstr "@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:95(None)
+#: C/gametypes.page:57(None)
+msgid "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+msgstr "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:114(None)
+#: C/gametypes.page:78(None)
+msgid "@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+msgstr "@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:133(None)
+#: C/gametypes.page:98(None)
+msgid "@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+msgstr "@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+
+#: C/newgame.page:6(title)
+msgid "1"
+msgstr "1"
+
+#: C/newgame.page:9(desc)
+msgid "Start and play a game."
+msgstr "Začetek in igranje igre."
+
+#: C/newgame.page:21(title)
+msgid "Game session"
+msgstr "Seja iger"
+
+#: C/newgame.page:24(title)
+msgid "Start a new session"
+msgstr "Začni novo sejo"
+
+#: C/newgame.page:25(p)
+msgid "To start a new game, do one of the following:"
+msgstr "Za začetek nove igre storite nekaj od naslednjega:"
+
+#: C/newgame.page:30(p)
+msgid "Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New Game</gui></guiseq>, and select the type of game to play."
+msgstr "Izberite <guiseq><gui style=\"menu\">Igra</gui><gui style=\"menuitem\">Nova igra</gui></guiseq> in izberite vrsto igre za igranje."
+
+#: C/newgame.page:36(p)
+msgid "Click on one of the buttons in the toolbar."
+msgstr "Kliknite na enega od gumbov v orodni vrstici."
+
+#: C/newgame.page:41(p)
+msgid "The toolbar buttons have the following meanings:"
+msgstr "Gumbi orodne vrstice imajo naslednje pomene:"
+
+#: C/newgame.page:49(title)
+msgid "All"
+msgstr "Vse"
+
+#: C/newgame.page:50(p)
+msgid "Starts a new game playing all the available game types."
+msgstr "Začne novo igro sestavljeno iz vseh razpoložljivih vrst iger."
+
+#: C/newgame.page:58(p)
+msgid "All games button"
+msgstr "Gumb vseh iger"
+
+#: C/newgame.page:68(title)
+msgid "Logic"
+msgstr "Logika"
+
+#: C/newgame.page:69(p)
+msgid "Start a new game playing only logic games."
+msgstr "Začne novo igro sestavljeno le iz logičnih iger."
+
+#: C/newgame.page:77(p)
+msgid "Logic games button"
+msgstr "Gumb logičnih iger"
+
+#: C/newgame.page:87(title)
+msgid "Calculation"
+msgstr "Računanje"
+
+#: C/newgame.page:88(p)
+msgid "Starts a new game playing only calculation games."
+msgstr "Začne novo igro sestavljeno le iz računskih iger"
+
+#: C/newgame.page:96(p)
+msgid "Calculation games button"
+msgstr "Gumb računskih iger"
+
+#: C/newgame.page:106(title)
+msgid "Memory"
+msgstr "Pomnjenje"
+
+#: C/newgame.page:107(p)
+msgid "Starts a new game playing only memory games."
+msgstr "Začne novo igro sestavljeno le iz iger pomnjenja."
+
+#: C/newgame.page:115(p)
+msgid "Memory games button"
+msgstr "Gumb iger pomnjenja"
+
+#: C/newgame.page:125(title)
+msgid "Verbal"
+msgstr "Besede"
+
+#: C/newgame.page:126(p)
+msgid "Starts a new game playing only verbal analogy games."
+msgstr "Začne novo igro sestavljeno le iz iger besednih analogij."
+
+#: C/newgame.page:134(p)
+msgid "Verbal games button"
+msgstr "Gumb besednih iger"
+
+#: C/newgame.page:142(p)
+msgid "These descriptions also apply to the game types that you can select from the <gui style=\"menu\">Game</gui> menu."
+msgstr "Ti opisi veljajo tudi za vrste iger, ki jih lahko izberete v meniju <gui style=\"menu\">Igra</gui>. "
+
+#: C/newgame.page:149(title)
+msgid "Play a session"
+msgstr "Igraj sejo"
+
+#: C/newgame.page:151(p)
+msgid "When you play a game, always read the instructions carefully!"
+msgstr "Med igranjem vedno previdno preberite navodila!"
+
+#: C/newgame.page:155(p)
+msgid "The game session begins by showing you the problem and then asking for the answer. At the bottom of the window is the main set of controls that you can use to interact with the game."
+msgstr "Seja igre se začne s prikazom težave in nato vpraša za odgovor. Na dnu okna so glavni nadzorni gumbi za sporazumevanje z igro."
+
+#: C/newgame.page:159(p)
+msgid "Once you know the answer to the problem, type it in the <gui style=\"input\">Answer</gui> text entry and press <gui style=\"button\">OK</gui>."
+msgstr "Ko poznate odgovor, ga vpišite v besedilni vnos <gui style=\"input\">Odgovor</gui> in pritisnite <gui style=\"button\">V redu</gui>."
+
+#: C/newgame.page:163(p)
+msgid "To proceed to the next game, click <gui style=\"button\">Next</gui>."
+msgstr "Za naslednje vprašanje kliknite <gui style=\"button\">Naprej</gui>."
+
+#: C/newgame.page:167(p)
+msgid "If you click <gui style=\"button\">Next</gui> before completing the game, or without providing an answer, that game will be counted in your results."
+msgstr "Tudi če kliknete <gui style=\"button\">Naprej</gui> pred dokončanjem igre ali brez podajanjem odgovora, se bo igra vseeno štela v vaše rezultate."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/index.page:23(None)
+msgid "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+msgstr "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+
+#: C/index.page:7(title)
+#: C/index.page:8(title)
+#: C/index.page:11(title)
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: C/index.page:12(desc)
+msgid "The <app>gbrainy</app> help."
+msgstr "Pomoč <app>gbrainy</app>."
+
+#: C/index.page:22(title)
+msgid "<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy logo</media> gbrainy"
+msgstr "<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">logotip gbrainy</media> gbrainy"
+
+#: C/index.page:28(title)
+msgid "Basic Gameplay &amp; Usage"
+msgstr "Osnovna igra in uporaba"
+
+#: C/index.page:32(title)
+msgid "Multiplayer Game"
+msgstr "Večigralska igra"
+
+#: C/index.page:36(title)
+msgid "Tips &amp; Tricks"
+msgstr "Namigi in triki"
+
+#: C/gameplay.page:7(desc)
+msgid "Introduction to <app>gbrainy</app>."
+msgstr "Uvod v <app>gbrainy</apo>."
+
+#: C/gameplay.page:20(title)
+msgid "Gameplay"
+msgstr "Igranje"
+
+#: C/gameplay.page:22(p)
+msgid "<app>gbrainy</app> is a brain teaser game; the aim of the game is to have fun and keep your brain trained."
+msgstr "<app>gbrainy</app> je igra za razvijanje razmišljanja in bistrenje misli. Njen cilj je zabava in treniranje vaših možganov."
+
+#: C/gameplay.page:26(p)
+msgid "It features different game types like logic puzzles, mental calculation games, memory trainers and verbal analogies, designed to test different cognitive skills."
+msgstr "Vsebuje različne vrste iger kot so logične uganke, igre miselnega računanja, treningi pomnjenja in besedne analogije, zasnovane za preizkus različnih kognitivnih sposobnosti."
+
+#: C/gameplay.page:30(p)
+msgid "You can choose different difficulty levels making <app>gbrainy</app> enjoyable for kids, adults or senior citizens. It also features a game history, personal records, tips and fullscreen mode support. <app>gbrainy</app> can also be <link href=\"http://live.gnome.org/gbrainy/Extending\">extended</link> easily with new games developed by third parties."
+msgstr "Izberete lahko različne težavnost, ki naredijo <app>gbrainy</app> zabaven za otroke, odrasle in starejše. Vsebuje tudi zgodovino iger, osebne rekorde, namige in podporo celozaslonskega načina. <app>gbrainy</app> je mogoče tudi enostavno <link href=\"http://live.gnome.org/gbrainy/Extending\">razširiti</link> z novimi igrami, ki so jih razvile tretje osebe."
+
+#: C/gameplay.page:37(p)
+msgid "<app>gbrainy</app> relies heavily on the work of previous puzzle masters, ranging from classic puzzles from ancient times to more recent works like <link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</link> puzzles or the classic <link href=\"http://en.wikipedia.org/wiki/Dr._Brain\">Dr. Brain</link> game."
+msgstr "<app>gbrainy</app> se močno zanaša na delo prejšnjih mojstrov ugank od klasičnih ugank iz starodavnih časov do bolj nedavnih del kot so uganke <link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</link> ali igra <link href=\"http://en.wikipedia.org/wiki/Dr._Brain\">Dr. Brain</link>."
+
+#: C/gameplay.page:45(p)
+msgid "There have been recent discussions in the scientific community regarding whether brain training software improves cognitive performance. Most of the studies show that there is little or no improvement, but that doesn't mean you can't have a good time playing games like <app>gbrainy</app>!"
+msgstr "V znanstveni skupnosti poteka veliko razprav ali programi za treniranje možganov izboljšajo kognitivno zmogljivost. Večina študij je pokazala da je izboljšava majhna ali pa je sploh ni. Vendar pa to ne pomeni, da se ne morete zabavati z igranjem iger kot je <app>gbainy</app>!"
+
+#: C/score.page:8(desc)
+msgid "How the player scores are calculated."
+msgstr "Kako so rezultati iger izračunani"
+
+#: C/score.page:19(title)
+msgid "Game score and timings"
+msgstr "Rezultati in časi iger"
+
+#: C/score.page:20(p)
+msgid "If you answer a puzzle incorrectly, you will not get any score for it."
+msgstr "Če na uganko odgovorite napačno, zanjo ne boste dobile točk."
+
+#: C/score.page:23(p)
+msgid "If you answer a puzzle correctly, you will get a score which depends on the time taken to resolve the problem and whether you used the tip during the game."
+msgstr "Če na uganko odgovorite pravilno, boste dobili točke, ki so odvisne od časa zahtevanega za rešitev uganke in od tega ali ste med igro uporabili namig."
+
+#: C/score.page:27(p)
+msgid "The following table summarizes the different game durations (in seconds) based on the difficulty level."
+msgstr "Naslednja igra povzame trajanje različnih iger (v sekundah) na osnovi težavnostne ravni."
+
+#: C/score.page:34(p)
+msgid "Easy"
+msgstr "Enostavno"
+
+#: C/score.page:35(p)
+msgid "Medium"
+msgstr "Srednje"
+
+#: C/score.page:36(p)
+msgid "Master"
+msgstr "Mojster"
+
+#: C/score.page:39(p)
+#: C/gametypes.page:26(title)
+msgid "Logic puzzles"
+msgstr "Logične uganke"
+
+#: C/score.page:40(p)
+msgid "156"
+msgstr "156"
+
+#: C/score.page:41(p)
+msgid "120"
+msgstr "120"
+
+#: C/score.page:42(p)
+msgid "110"
+msgstr "110"
+
+#: C/score.page:45(p)
+msgid "Mental calculation"
+msgstr "Miselni računi"
+
+#: C/score.page:46(p)
+msgid "78"
+msgstr "78"
+
+#: C/score.page:47(p)
+msgid "60"
+msgstr "60"
+
+#: C/score.page:48(p)
+msgid "55"
+msgstr "55"
+
+#: C/score.page:51(p)
+#: C/gametypes.page:68(title)
+msgid "Memory trainers"
+msgstr "Treningi pomnjenja"
+
+#: C/score.page:52(p)
+#: C/score.page:58(p)
+msgid "39"
+msgstr "39"
+
+#: C/score.page:53(p)
+#: C/score.page:59(p)
+msgid "30"
+msgstr "30"
+
+#: C/score.page:54(p)
+#: C/score.page:60(p)
+msgid "27"
+msgstr "27"
+
+#: C/score.page:57(p)
+#: C/gametypes.page:89(title)
+msgid "Verbal analogies"
+msgstr "Besedne analogije"
+
+#: C/score.page:63(p)
+msgid "With the expected time for the chosen difficulty level and the time you take to complete the game, the following logic is applied:"
+msgstr "Za točkovanje je glede na pričakovani čas, ki je odvisen od izbrane težavnosti, in čas, ki ga potrebujete za dokončanje igre, uporabljena naslednja logika:"
+
+#: C/score.page:69(p)
+msgid "If you take less than the time expected to complete the game, you score 10 points."
+msgstr "Če potrebujete za dokončanje igre manj od pričakovanega časa, dobite 10 točk."
+
+#: C/score.page:74(p)
+msgid "If you take more than the time expected to complete the game, you score 8 points."
+msgstr "Če potrebujete za dokončanje igre več od pričakovanega časa, dobite 8 točk."
+
+#: C/score.page:79(p)
+msgid "If you take more than 2x the time expected to complete the game, you score 7 points."
+msgstr "Če potrebujete za dokončanje igre več kot 2x več  od pričakovanega časa, dobite 7 točk."
+
+#: C/score.page:85(p)
+msgid "If you take more than 3x the time expected to complete the game, you score 6 points."
+msgstr "Če potrebujete za dokončanje igre več kot 3 x več od pričakovanega časa, dobite 6 točk."
+
+#: C/score.page:91(p)
+msgid "If you use a tip, you score only the 80% of the original score."
+msgstr "Če uporabite namig, lahko dobite samo 80% izvirnega rezultata."
+
+#: C/score.page:98(title)
+msgid "Computing the totals"
+msgstr "Izračunavanje skupne vrednosti"
+
+#: C/score.page:99(p)
+msgid "<app>gbrainy</app> keeps track of the different games types played. To compute the final score of every set of game types it sums all the results of the same game types played and then applies a factor based on: the logarithm of 10 for the easy level; on the logarithm of 20 for the medium level; and on the logarithm of 30 for the master level."
+msgstr "<app>gbrainy</app> sledi različnim vrstam igranih iger. Za izračun končnega rezultata za vsak niz iger gbrainy sešteje vse rezultate iste vrste odigranih iger in nato uveljavi faktor glede na težavnost. Program uporabi logaritem na osnovi 10 za raven enostavno,  logaritem na osnovi 20 za srednjo in logaritem na osnovi 30 za raven mojster."
+
+#: C/score.page:106(p)
+msgid "This means that when playing at medium difficult level, to get a score of 100 points you need to score 10 points on at least 20 games of every game type played."
+msgstr "To pomeni, da morate pri igranju na srednji težavnosti za 100 točk dobiti 10 točk pri vsaj 20 igrah vsake vrste, ki ste jo igrali."
+
+#: C/score.page:110(p)
+msgid "This may sound challenging, but it allows players to compare game scores from different sessions (in the player's game history) and allows better tracking of the progression of the player through all of the games played."
+msgstr "To se morda sliši težavno, vendar igralcu omogoča primerjavo rezultatov iger iz različnih sej (v igralčevi zgodovini iger) in omogoča boljše sledenje igralca skozi vse odigrane igre."
+
+#: C/multiplayer.page:7(desc)
+msgid "How to play with other people."
+msgstr "Kako igrati z drugimi ljudmi."
+
+#: C/multiplayer.page:19(title)
+msgid "Play with other people"
+msgstr "Igrajte z drugimi ljudmi"
+
+#: C/multiplayer.page:21(p)
+msgid "It is not possible to play against other people over the Internet or a local network with <app>gbrainy</app>."
+msgstr "S programom <app>gbrainy</app> ni mogoče igrati proti drugim ljudem preko interneta ali krajevnega omrežja."
+
+#: C/history.page:6(desc)
+msgid "Access your personal game history."
+msgstr "Dostopajte do svoje osebne zgodovine iger."
+
+#: C/history.page:17(title)
+msgid "Personal game history"
+msgstr "Osebna zgodovina iger"
+
+#: C/history.page:19(p)
+msgid "The <gui>Player's Game History</gui> dialog shows your performance in every game type during the last few game sessions."
+msgstr "Pogovorno okno <gui>Igralčeva zgodovina iger</gui> prikaže vaše rezultate v vsaki vrsti iger za zadnjih nekaj sej iger."
+
+#: C/history.page:25(title)
+msgid "View the games history"
+msgstr "Ogled zgodovine iger"
+
+#: C/history.page:26(p)
+msgid "To access your personal game history, choose <guiseq><gui style=\"menu\">View</gui><gui style=\"menuitem\">Player's Game History</gui></guiseq>."
+msgstr "Za dostop do osebne zgodovine iger izberite <guiseq><gui style=\"menu\">Pogled</gui><gui style=\"menuitem\">Igralčeva zgodovina iger</gui></guiseq>."
+
+#: C/history.page:33(title)
+msgid "Select which results to show"
+msgstr "Izberite rezultate za prikaz"
+
+#: C/history.page:34(p)
+msgid "To select the results that will be shown in the graphic, use the different check boxes located under the graph."
+msgstr "Za izbiro prikazanih rezultatov uporabite različna izbirna polja pod grafom."
+
+#: C/history.page:41(title)
+msgid "Change the number of saved games"
+msgstr "Spremenite število shranjenih iger"
+
+#: C/history.page:42(p)
+msgid "<app>gbrainy</app> saves the player's scores so it can track how they evolve."
+msgstr "<app>gbrainy</app> shrani rezultate igralca zato, da lahko sledi njihovim spremembam."
+
+#: C/history.page:45(p)
+msgid "In order to change the number of sessions recorded or how many games will be stored in the history, proceed as follows:"
+msgstr "Za spremembo števila sej iger shranjenih v zgodovini storite naslednje: "
+
+#: C/history.page:51(p)
+msgid "Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\"> Preferences</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Nastavitve</gui><gui style=\"menuitem\"> Možnosti</gui></guiseq>."
+
+#: C/history.page:57(p)
+msgid "In the <gui>Player's Game History</gui> section:"
+msgstr "V odseku <gui>Igralčeva zgodovina iger</gui>:"
+
+#: C/history.page:62(p)
+msgid "Use the first spin box to change how many game sessions need to be recorded before you can start to see the results in the history graphic."
+msgstr "Uporabite prvo vrstilno polje za spremembo števila sej iger, ki morajo biti shranjene, preden lahko svoje rezultate vidite v grafu zgodovine. "
+
+#: C/history.page:68(p)
+msgid "Use the second spin box to change how many game sessions will be shown in the history graphic."
+msgstr "Uporabite drugo vrstilno polje za spremembo števila prikazanih sej iger v grafu zgodovine."
+
+#: C/difficulty.page:6(title)
+msgid "2"
+msgstr "2"
+
+#: C/difficulty.page:8(desc)
+msgid "Change the difficulty level of the games."
+msgstr "Sprememba težavnostne ravni iger."
+
+#: C/difficulty.page:20(title)
+msgid "Difficulty levels"
+msgstr "Težavnostne ravni"
+
+#: C/difficulty.page:21(p)
+msgid "To change the difficulty level of the game, proceed as follows:"
+msgstr "Za spremembo težavnosti igre storite naslednje:"
+
+#: C/difficulty.page:31(p)
+msgid "In the <gui>Difficulty Level</gui> section, select the desired level."
+msgstr "V odseku <gui>Težavnostna raven</gui> izberite želeno raven."
+
+#: C/difficulty.page:34(p)
+msgid "You can choose from three different levels: <gui style=\"radiobutton\">Easy</gui>, <gui style=\"radiobutton\">Medium</gui>, and <gui style=\"radiobutton\">Master</gui>. The default level is <gui style=\"radiobutton\">Medium</gui>."
+msgstr "Izberete lahko med tremi različnimi težavnostmi: <gui style=\"radiobutton\">Enostavno</gui>, <gui style=\"radiobutton\">Srednje</gui> in <gui style=\"radiobutton\">Mojster</gui>. Privzeta težavnostna raven je <gui style=\"radiobutton\">Srednje</gui>."
+
+#: C/tips.page:8(desc)
+msgid "Use the tips to solve a puzzle."
+msgstr "Uporabite namige za rešitev uganke."
+
+#: C/tips.page:20(title)
+msgid "Tips"
+msgstr "Namigi"
+
+#: C/tips.page:21(p)
+msgid "With some of the games you can play, it is possible to get simple tips that can help you to solve the problem."
+msgstr "Pri nekaterih igrah je mogoče dobiti enostavne namige, ki vam pomagajo rešiti problem."
+
+#: C/tips.page:25(p)
+msgid "When playing a game, click on the <gui style=\"button\">Tip</gui> button at the bottom of the window (next to the <gui style=\"input\">Answer</gui> text entry)."
+msgstr "Ob igranju iger kliknite na gumb <gui style=\"button\">Namig</gui> na dnu okna (poleg besedilnega vnosa <gui style=\"input\">Odgovor</gui>)."
+
+#: C/tips.page:29(p)
+msgid "This feature is not available for some of the games."
+msgstr "Ta zmožnost za nekatere od iger ni na voljo."
+
+#: C/pause.page:6(title)
+msgid "4"
+msgstr "4"
+
+#: C/pause.page:9(desc)
+msgid "How to pause or stop a game."
+msgstr "Kako narediti premor ali zaustaviti igro."
+
+#: C/pause.page:20(title)
+msgid "Pause/Stop a game"
+msgstr "Premor/zaustavitev igre"
+
+#: C/pause.page:23(title)
+msgid "Pause and resume a game"
+msgstr "Premor ali nadaljevanje igre"
+
+#: C/pause.page:24(p)
+msgid "To pause a game so that you can resume it at the same point at a later time, perform one of the following:"
+msgstr "Za premor igre tako, da jo lahko nadaljujete kasneje, izvedite eno od naslednjega:"
+
+#: C/pause.page:30(p)
+#: C/pause.page:45(p)
+msgid "Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Pause Game</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Igra</gui><gui style=\"menuitem\">Premor igre</gui></guiseq>."
+
+#: C/pause.page:35(p)
+msgid "Click on the <gui style=\"button\">Pause</gui> button in the toolbar."
+msgstr "Kliknite na gumb <gui style=\"button\">Premor</gui> v orodni vrstici."
+
+#: C/pause.page:40(p)
+msgid "In order to resume the game after you paused it, perform one of the following:"
+msgstr "Za nadaljevanje igre po premoru izvedite eno od naslednjega:"
+
+#: C/pause.page:50(p)
+msgid "Click on the <gui style=\"button\">Resume</gui> button in the toolbar."
+msgstr "Kliknite na gumb <gui style=\"button\">Nadaljuj</gui> v orodni vrstici."
+
+#: C/pause.page:58(title)
+msgid "Stop a game"
+msgstr "Zaustavi igro"
+
+#: C/pause.page:59(p)
+msgid "To stop a game, in order to end it, perform one of the following:"
+msgstr "Za zaustavitev igre izvedite eno od naslednjega:"
+
+#: C/pause.page:64(p)
+msgid "Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">End Game</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Igra</gui><gui style=\"menuitem\">Končaj igro</gui></guiseq>."
+
+#: C/pause.page:69(p)
+msgid "Click on the <gui style=\"button\">Finish</gui> button in the toolbar."
+msgstr "Kliknite na gumb <gui style=\"button\">Končaj</gui> v orodni vrstici."
+
+#: C/license.page:8(desc)
+msgid "Legal information."
+msgstr "Pravne podrobnosti."
+
+#: C/license.page:11(title)
+msgid "License"
+msgstr "Dovoljenje"
+
+#: C/license.page:12(p)
+msgid "This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 Unported license."
+msgstr "To delo je distribuirano pod licenco CreativeCommons Priznanje avtorstva-deljenje pod enakimi pogoji 3.0 neprenesena."
+
+#: C/license.page:18(p)
+msgid "You are free:"
+msgstr "Lahko"
+
+#: C/license.page:23(em)
+msgid "To share"
+msgstr "Delite"
+
+#: C/license.page:24(p)
+msgid "To copy, distribute and transmit the work."
+msgstr "Reproducirate, distribuirate, dajate v najem in priobčujete delo javnosti"
+
+#: C/license.page:27(em)
+msgid "To remix"
+msgstr "Predelate delo"
+
+#: C/license.page:28(p)
+msgid "To adapt the work."
+msgstr "Prilagajate delo"
+
+#: C/license.page:31(p)
+msgid "Under the following conditions:"
+msgstr "Pod naslednjimi pogoji:"
+
+#: C/license.page:36(em)
+msgid "Attribution"
+msgstr "Priznanje avtorstva"
+
+#: C/license.page:37(p)
+msgid "You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)."
+msgstr "Priznati morate avtorja dela na način, kot ga je določil avtor ali dajalec licence (toda ne na način, ki na kakršenkoli način predlaga, da podpirajo vas ali vašo uporabo dela)."
+
+#: C/license.page:44(em)
+msgid "Share Alike"
+msgstr "Deljenje pod enakimi pogoji"
+
+#: C/license.page:45(p)
+msgid "If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license."
+msgstr "Če spremenite, preoblikujete ali gradite na tem delu lahko nastalo delo distribuirate le pod enako, podobno ali združljivo licenco."
+
+#: C/license.page:51(p)
+msgid "For the full text of the license, see the <link href=\"http://creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</link>, or read the full <link href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Commons Deed</link>."
+msgstr "Za polno besedilo licence si oglejte <link href=\"http://creativecommons.org/licenses/by-sa/3.0/legalcode\">spletišče CreativeCommons</link> ali pa preberite <link href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Gesto Commons</link>."
+
+#: C/gametypes.page:5(title)
+msgid "3"
+msgstr "3"
+
+#: C/gametypes.page:6(desc)
+msgid "What types of game you can play."
+msgstr "Katere vrste iger lahko igrate."
+
+#: C/gametypes.page:15(title)
+msgid "Game types"
+msgstr "Vrste iger"
+
+#: C/gametypes.page:17(p)
+msgid "<app>gbrainy</app> provides the following types of games:"
+msgstr "<app>gbrainy</app> zagotavlja naslednje vrste iger:"
+
+#: C/gametypes.page:27(p)
+msgid "Games designed to challenge your reasoning and thinking skills. These games are based on sequences of elements, visual and spatial reasoning or relationships between elements."
+msgstr "Igre zasnovane za izziv vaših zmožnosti razmišljanja in sklepanja. Te igre so osnovane na zaporedju predmetov, vidnim in prostorskim sklepanjem ali razmerju med predmeti."
+
+#: C/gametypes.page:37(p)
+msgid "Logic games logo"
+msgstr "Logotip logičnih iger"
+
+#: C/gametypes.page:47(title)
+msgid "Mental calculations"
+msgstr "Logotip miselnih računov"
+
+#: C/gametypes.page:48(p)
+msgid "Games based on arithmetical operations designed to improve your mental calculation skills. Games that require the player to use multiplication, division, addition and subtraction combined in different ways."
+msgstr "Igre osnovane na aritmetičnih operacijah zasnovane za izboljšanje vaših zmožnosti miselnega računanja. Igre od igralca zahtevajo uporabo množenja, deljenja, seštevanja in odštevanja združenega na različne načine."
+
+#: C/gametypes.page:58(p)
+msgid "Calculation games logo"
+msgstr "Logotip računskih iger"
+
+#: C/gametypes.page:69(p)
+msgid "Games designed to challenge your short-term memory. These games show collections of objects and ask the player to recall them, sometimes establishing relationships between figures, words, numbers or colors."
+msgstr "Igre zasnovane za preizkus vašega kratkoročnega pomnjenja. Te igre pokažejo zbirke predmetov in od igralca zahtevajo naj se jih zapomni ter včasih vzpostavi razmerja med slikami, besedami, številkami in barvami. "
+
+#: C/gametypes.page:79(p)
+msgid "Memory games logo"
+msgstr "Logotip iger pomnjenja"
+
+#: C/gametypes.page:90(p)
+msgid "Games that challenge your verbal aptitude. These games ask the player to identify cause and effect, use synonyms or antonyms, and use their vocabulary."
+msgstr "Igre, ki izzivajo vaše besedno bistrost. Te igre od igralca zahtevajo določitev vzroka in posledice, uporabo sopomenk in protipomenk in besednjaka."
+
+#: C/gametypes.page:99(p)
+msgid "Verbal analogies games logo"
+msgstr "Logotip iger besednih analogij"
+
+#: C/customgame.page:9(desc)
+msgid "Start a custom games selection."
+msgstr "Začnite izbiro iger po meri."
+
+#: C/customgame.page:20(title)
+msgid "Custom games selection"
+msgstr "Izbira iger po meri"
+
+#: C/customgame.page:21(p)
+msgid "It is possible to play a custom selection of all the games in <app>gbrainy</app>."
+msgstr "V programu <app>gbrainy</app> je mogoče igrati izbiro iger po meri."
+
+#: C/customgame.page:24(p)
+msgid "To do so, proceed as follows:"
+msgstr "Če želite igrati igre po meri, storite naslednje:"
+
+#: C/customgame.page:29(p)
+msgid "Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New Game</gui><gui style=\"menuitem\">Custom Game Selection</gui></guiseq>."
+msgstr "Izberite <guiseq><gui style=\"menu\">Igra</gui><gui style=\"menuitem\">Nova igra</gui><gui style=\"menuitem\">Izbira igre po meri</gui></guiseq>."
+
+#: C/customgame.page:35(p)
+msgid "In the <gui>Custom Game</gui> dialog, select the games that you would like to play by clicking on the check box next to the name of the game."
+msgstr "V pogovornem oknu <gui>Igra po meri</gui> s klikom na izbirno polje poleg imena igre izberite igro, ki jo želite igrati."
+
+#: C/customgame.page:41(p)
+msgid "Once you are done, click on <gui style=\"button\">Start</gui> to start playing your custom games selection."
+msgstr "Ko boste končali, kliknite na <gui style=\"button\">Začni</gui> za začetek igranja vaše izbire iger po meri."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: C/index.page:0(None)
+msgid "translator-credits"
+msgstr "Andrej Žnidaršič"
+

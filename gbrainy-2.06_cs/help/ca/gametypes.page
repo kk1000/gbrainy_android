@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="ca">
+  <info>
+    <title type="sort">3</title>
+    <desc>Què tipus de jocs podeu jugar.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Reconeixement-Compartir Igual 3.0</p>
+    </license>
+  </info>
+  <title>Tipus de jocs</title>
+
+  <p>El <app>gbrainy</app> ofereix els tipus de jocs següents:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Trencaclosques lògics</title>
+          <p>Jocs dissenyats per desafiar les vostres habilitats de raonament i pensament. Aquests jocs es basen en seqüències d'elements, el raonament visual i espacial o en relacions entre elements.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logotip dels jocs trencaclosques lògics</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Càlcul mental</title>
+          <p>Jocs basats en operacions aritmètiques dissenyats per provar les vostres habilitats de càlcul mental. Aquests jocs requereixen que el jugador utilitzi la multiplicació, la divisió, la suma i la resta combinades de diferents maneres.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logotip dels jocs de càlcul mental</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Jocs de memòria</title>
+          <p>Jocs dissenyats per desafiar la vostra memòria a curt termini. Aquests jocs mostren col·leccions d'objectes i demanen al jugador recordar-les, a vegades establint relacions entre figures, paraules, números o colors.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logotip dels jocs de memòria</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Analogies verbals</title>
+          <p>Jocs que desafien la vostra aptitud verbal. Aquests jocs demanen al jugador identificar causa i efecte, utilitzar sinònims o antònims, i l'ús del seu vocabulari.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logotip dels jocs d'analogies verbals</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

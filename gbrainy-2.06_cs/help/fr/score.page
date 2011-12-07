@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="fr">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Comment les points du joueur sont calculés.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Score et chronométrage du jeu</title>
+  <p>Si vous répondez de manière incorrecte à une énigme, vous ne marquez aucun point pour celle-ci.</p>
+  <p>Si vous répondez correctement à une énigme, vous obtiendrez des points en fonction du temps mis pour la résoudre et de l'utilisation de l'astuce pour le jeu.</p>
+  <p>Le tableau suivant rassemble les différentes durées de jeu (en secondes) en fonction du niveau de difficulté.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Facile</p></td>
+      <td><p>Intermédiaire</p></td>
+      <td><p>Maître</p></td>
+    </tr>
+    <tr>
+      <td><p>Énigmes de logique</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Calcul mental</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Jeux de mémorisation</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Analogies verbales</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>En utilisant la durée attendue en fonction du niveau de difficulté et le temps mis pour résoudre le jeu, la logique suivante est suivie :</p>
+  <list>
+    <item>
+      <p>Si vous prenez moins que le temps imparti pour résoudre le jeu, vous marquez 10 points.</p>
+    </item>
+    <item>
+      <p>Si vous prenez plus que le temps imparti pour résoudre le jeu, vous marquez 8 points.</p>
+    </item>
+    <item>
+      <p>Si vous prenez plus de deux fois le temps imparti pour résoudre le jeu, vous marquez 7 points.</p>
+    </item>
+    <item>
+      <p>Si vous prenez plus de trois fois le temps imparti pour résoudre le jeu, vous marquez 6 points.</p>
+    </item>
+    <item>
+      <p>Si vous utilisez une astuce, vous ne marquez que 80 % des points originaux.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Calcul des totaux</title>
+    <p><app>gbrainy</app> garde en mémoire les différents types de jeux joués. Pour calculer le score final de chaque ensemble de types de jeu, il additionne tous les résultats des mêmes types de jeu joués puis, applique une pondération basée sur le logarithme de 10 pour le niveau facile, de 20 pour le niveau intermédiaire et de 30 pour le niveau maître.</p>
+	  <p>Cela signifie que lorsque vous jouez au niveau de difficulté intermédiaire, pour obtenir un score de 100 points vous avez besoin de marquer 10 points dans au moins 20 jeux de chaque type de jeu joué.</p>
+	  <p>Cela peut sembler difficile mais cela permet aux joueurs de comparer les scores de différentes parties (dans l'historique des jeux du joueur) et permet de mieux discerner la progression du joueur à travers toutes les parties effectuées.</p>
+  </section>
+</page>

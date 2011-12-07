@@ -1,0 +1,1031 @@
+# Romanian translation for gbrainy.
+# Copyright (C) 2010 gbrainy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gbrainy package.
+# Daniel Șerbănescu <cyber19rider@gmail.com>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy master\n"
+"POT-Creation-Date: 2011-03-14 19:50+0000\n"
+"PO-Revision-Date: 2011-03-15 00:32+0200\n"
+"Last-Translator: Daniel Șerbănescu <cyber19rider@gmail.com>\n"
+"Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.6.1\n"
+
+#: C/export.page:7(desc)
+msgid "Export the games for playing off-line."
+msgstr "Exportă jocurile pentru a le juca off-line."
+
+#: C/export.page:10(name) C/times.page:11(name) C/newgame.page:13(name)
+#: C/index.page:14(name) C/gameplay.page:12(name) C/score.page:11(name)
+#: C/multiplayer.page:11(name) C/history.page:9(name)
+#: C/difficulty.page:12(name) C/tips.page:12(name) C/pause.page:12(name)
+#: C/customgame.page:12(name)
+msgid "Milo Casagrande"
+msgstr "Milo Casagrande"
+
+#: C/export.page:11(email) C/times.page:12(email) C/newgame.page:14(email)
+#: C/index.page:15(email) C/gameplay.page:13(email) C/score.page:12(email)
+#: C/multiplayer.page:12(email) C/history.page:10(email)
+#: C/difficulty.page:13(email) C/tips.page:13(email) C/pause.page:13(email)
+#: C/customgame.page:13(email)
+msgid "milo@ubuntu.com"
+msgstr "milo@ubuntu.com"
+
+#: C/export.page:14(p) C/times.page:15(p) C/newgame.page:17(p)
+#: C/index.page:18(p) C/gameplay.page:16(p) C/score.page:15(p)
+#: C/multiplayer.page:15(p) C/history.page:13(p) C/difficulty.page:16(p)
+#: C/tips.page:16(p) C/pause.page:16(p) C/gametypes.page:12(p)
+#: C/customgame.page:16(p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr "Creative Commons Share Alike 3.0"
+
+#: C/export.page:20(title)
+msgid "Export the games"
+msgstr "Exportă jocurile"
+
+#: C/export.page:21(p)
+msgid ""
+"It is possible to export and then print the games provided by the app for "
+"playing while not at the computer."
+msgstr ""
+"Este posibil să exportați și apoi să tipăriți jocurile oferite de această "
+"aplicație pentru a le juca atunci când nu sunteți la calculator."
+
+#: C/export.page:25(p)
+msgid ""
+"The games will be saved in a <file>PDF</file> file in the selected folder."
+msgstr ""
+"Jocurile vor fi salvate într-un fișier <file>PDF</file> în dosarul selectat."
+
+#: C/export.page:28(p)
+msgid "To export the games:"
+msgstr "Pentru a exporta jocuri:"
+
+#: C/export.page:33(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Export "
+"Games to PDF for Off-Line Playing</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Joc</gui><gui style=\"menuitem"
+"\">Exportă jocuri în PDF pentru a juca fără calculator...</gui></guiseq>."
+
+#: C/export.page:38(p)
+msgid ""
+"Select the type of games, the difficulty level, and how many games to "
+"export. When done click <gui style=\"button\">Save</gui>."
+msgstr ""
+"Selectați tipul jocurilor, nivelul de dificultate, și câte jocuri doriți să "
+"exportați. Când ați încheiat apăsați <gui style=\"button\">Salvează</gui>."
+
+#: C/times.page:7(desc)
+msgid "Change the challenge presentation time in memory games."
+msgstr "Modificați timpul de prezentare provocare în jocuri de memorie."
+
+#: C/times.page:19(title)
+msgid "Change the challenge duration"
+msgstr "Modificați durata provocării"
+
+#: C/times.page:20(p)
+msgid ""
+"To change the number of seconds you are given to memorize the challenge when "
+"playing memory games, proceed as follows:"
+msgstr ""
+"Pentru a schimba numărul de secunde care vi se oferă să memorați provocarea "
+"când jucați jocuri de memorie, procedați după cum urmează:"
+
+#: C/times.page:26(p) C/difficulty.page:26(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem"
+"\">Preferences</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Configurări</gui><gui style=\"menuitem"
+"\">Preferințe</gui></guiseq>."
+
+#: C/times.page:31(p)
+msgid ""
+"In the <gui>Memory Games</gui> section, use the spin box to increase or "
+"decrease the number of seconds that the challenge will be visible for."
+msgstr ""
+"În secțiunea <gui>Jocuri de memorie</gui>, folosiți căsuța derulantă pentru "
+"a mări sau micșora numărul de secunde pentru care va fi vizibilă provocarea."
+
+#: C/times.page:35(p)
+msgid "The default value is 6 seconds."
+msgstr "Valoarea implicită este 6 secunde."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:57(None)
+msgid "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+msgstr "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:76(None) C/gametypes.page:36(None)
+msgid ""
+"@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+msgstr ""
+"@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:95(None) C/gametypes.page:57(None)
+msgid "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+msgstr ""
+"@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:114(None) C/gametypes.page:78(None)
+msgid ""
+"@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+msgstr ""
+"@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:133(None) C/gametypes.page:98(None)
+msgid ""
+"@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+msgstr ""
+"@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+
+#: C/newgame.page:6(title)
+msgid "1"
+msgstr "1"
+
+#: C/newgame.page:9(desc)
+msgid "Start and play a game."
+msgstr "Începe un joc."
+
+#: C/newgame.page:21(title)
+msgid "Game session"
+msgstr "Sesiune de joc"
+
+#: C/newgame.page:24(title)
+msgid "Start a new session"
+msgstr "Începerea unei sesiuni noi"
+
+#: C/newgame.page:25(p)
+msgid "To start a new game, do one of the following:"
+msgstr "Pentru a începe un joc nou, faceți una din următoarele:"
+
+#: C/newgame.page:30(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui></guiseq>, and select the type of game to play."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Joc</gui><gui style=\"menuitem\">Joc "
+"nou</gui></guiseq>, și alegeți tipul de joc pe care doriți să-l jucați."
+
+#: C/newgame.page:36(p)
+msgid "Click on one of the buttons in the toolbar."
+msgstr "Apăsați clic pe unul dintre butoanele din bara de unelte"
+
+#: C/newgame.page:41(p)
+msgid "The toolbar buttons have the following meanings:"
+msgstr "Butoanele de pe bara de unelte au următoarele semnificații:"
+
+#: C/newgame.page:49(title)
+msgid "All"
+msgstr "Toate"
+
+#: C/newgame.page:50(p)
+msgid "Starts a new game playing all the available game types."
+msgstr "Începe un joc nou selectând toate tipurile de jocuri disponibile."
+
+#: C/newgame.page:58(p)
+msgid "All games button"
+msgstr "Butonul pentru toate jocurile"
+
+#: C/newgame.page:68(title)
+msgid "Logic"
+msgstr "Logică"
+
+#: C/newgame.page:69(p)
+msgid "Start a new game playing only logic games."
+msgstr "Începe un joc nou selectând numai jocurile de logică."
+
+#: C/newgame.page:77(p)
+msgid "Logic games button"
+msgstr "Butonul pentru jocuri de logică"
+
+#: C/newgame.page:87(title)
+msgid "Calculation"
+msgstr "Calcule"
+
+#: C/newgame.page:88(p)
+msgid "Starts a new game playing only calculation games."
+msgstr "Începe un joc nou selectând numai jocurile de calcule."
+
+#: C/newgame.page:96(p)
+msgid "Calculation games button"
+msgstr "Butonul pentru jocuri de calcule"
+
+#: C/newgame.page:106(title)
+msgid "Memory"
+msgstr "Memorie"
+
+#: C/newgame.page:107(p)
+msgid "Starts a new game playing only memory games."
+msgstr "Începe un joc nou selectând numai jocurile de memorie."
+
+#: C/newgame.page:115(p)
+msgid "Memory games button"
+msgstr "Butonul pentru jocuri de memorie"
+
+#: C/newgame.page:125(title)
+msgid "Verbal"
+msgstr "Verbale"
+
+#: C/newgame.page:126(p)
+msgid "Starts a new game playing only verbal analogy games."
+msgstr "Începe un joc nou selectând numai jocurile cu analogii verbale."
+
+#: C/newgame.page:134(p)
+msgid "Verbal games button"
+msgstr "Butonul pentru jocuri cu analogii verbale"
+
+#: C/newgame.page:142(p)
+msgid ""
+"These descriptions also apply to the game types that you can select from the "
+"<gui style=\"menu\">Game</gui> menu."
+msgstr ""
+"Aceste descrieri se aplică și la tipurile de jocuri pe care le puteți "
+"selecta din meniul <gui style=\"menu\">Joc</gui>."
+
+#: C/newgame.page:149(title)
+msgid "Play a session"
+msgstr "Cum se joacă o sesiune"
+
+#: C/newgame.page:151(p)
+msgid "When you play a game, always read the instructions carefully!"
+msgstr "Când jucați un joc, citiți întotdeauna instrucțiunile cu atenție!"
+
+#: C/newgame.page:155(p)
+msgid ""
+"The game session begins by showing you the problem and then asking for the "
+"answer. At the bottom of the window is the main set of controls that you can "
+"use to interact with the game."
+msgstr ""
+"Sesiunea jocului începe prin afișarea problemei și apoi urmează întrebarea "
+"pentru răspuns. În partea de jos a ferestrei se află setul principal de "
+"controale pe care le puteți folosi pentru a interacționa cu jocul."
+
+#: C/newgame.page:159(p)
+msgid ""
+"Once you know the answer to the problem, type it in the <gui style=\"input"
+"\">Answer</gui> text entry and press <gui style=\"button\">OK</gui>."
+msgstr ""
+"Când știți răspunsul la problemă, tastați-l în intrarea de text <gui style="
+"\"input\">Răspuns</gui> și apăsați <gui style=\"button\">OK</gui>."
+
+#: C/newgame.page:163(p)
+msgid "To proceed to the next game, click <gui style=\"button\">Next</gui>."
+msgstr ""
+"Pentru a înainta la următorul joc, apăsați <gui style=\"button\">Următorul</"
+"gui>."
+
+#: C/newgame.page:167(p)
+msgid ""
+"If you click <gui style=\"button\">Next</gui> before completing the game, or "
+"without providing an answer, that game will be counted in your results."
+msgstr ""
+"Dacă apăsați <gui style=\"button\">Următorul</gui> înainte să terminați "
+"jocul, sau fără să oferiți un răspuns, acel joc va fi notat la rezultate."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/index.page:23(None)
+msgid "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+msgstr "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+
+#: C/index.page:7(title) C/index.page:8(title) C/index.page:11(title)
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: C/index.page:12(desc)
+msgid "The <app>gbrainy</app> help."
+msgstr "Ajutorul <app>gbrainy</app>."
+
+#: C/index.page:22(title)
+msgid ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logo</media> gbrainy"
+msgstr ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">sigla "
+"gbrainy</media> gbrainy"
+
+#: C/index.page:28(title)
+msgid "Basic Gameplay &amp; Usage"
+msgstr "Modul de joc de bază și utilizarea aplicației"
+
+#: C/index.page:32(title)
+msgid "Multiplayer Game"
+msgstr "Joc pentru mai mulți jucători"
+
+#: C/index.page:36(title)
+msgid "Tips &amp; Tricks"
+msgstr "Sfaturi și trucuri"
+
+#: C/gameplay.page:7(desc)
+msgid "Introduction to <app>gbrainy</app>."
+msgstr "Introducere în <app>gbrainy</app>."
+
+#: C/gameplay.page:20(title)
+msgid "Gameplay"
+msgstr "Desfășurarea jocului"
+
+#: C/gameplay.page:22(p)
+msgid ""
+"<app>gbrainy</app> is a brain teaser game; the aim of the game is to have "
+"fun and keep your brain trained."
+msgstr ""
+"<app>gbrainy</app> este un joc de inteligență distractiv ce vă menține "
+"creierul antrenat."
+
+#: C/gameplay.page:26(p)
+msgid ""
+"It features different game types like logic puzzles, mental calculation "
+"games, memory trainers and verbal analogies, designed to test different "
+"cognitive skills."
+msgstr ""
+"Dispune de diferite tipuri de jocuri cum ar fi puzzle-uri logice, calcule "
+"mentale, jocuri de memorie și analogii verbale, concepute pentru a testa "
+"diferite abilități cognitive."
+
+#: C/gameplay.page:30(p)
+msgid ""
+"You can choose different difficulty levels making <app>gbrainy</app> "
+"enjoyable for kids, adults or senior citizens. It also features a game "
+"history, personal records, tips and fullscreen mode support. <app>gbrainy</"
+"app> can also be <link href=\"http://live.gnome.org/gbrainy/Extending"
+"\">extended</link> easily with new games developed by third parties."
+msgstr ""
+"Puteți alege diferite niveluri de dificultate făcând ca <app>gbrainy</app> "
+"să fie plăcut pentru copii, adulți sau vârstnici. De asemenea, oferă o "
+"istorie a jocurilor, recorduri personale, sfaturi și suport pentru modul pe "
+"întreg ecranul. <app>gbrainy</app> poate fi, de asemenea, <link href="
+"\"http://live.gnome.org/gbrainy/Extending\">extins</link> ușor cu noi jocuri "
+"dezvoltate de terți."
+
+#: C/gameplay.page:37(p)
+msgid ""
+"<app>gbrainy</app> relies heavily on the work of previous puzzle masters, "
+"ranging from classic puzzles from ancient times to more recent works like "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</"
+"link> puzzles or the classic <link href=\"http://en.wikipedia.org/wiki/Dr."
+"_Brain\">Dr. Brain</link> game."
+msgstr ""
+"<app>gbrainy</app> se bazează foarte mult pe activitatea maeștrilor în "
+"jocuri de tip puzzle din trecut, puzzle-urile variind de la clasice la cele "
+"din cele mai vechi timpuri la lucrări mai recente cum ar fi cele ale lui "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels</"
+"link> sau clasicul joc <link href=\"http://en.wikipedia.org/wiki/Dr._Brain"
+"\">Dr. Brain</link>."
+
+#: C/gameplay.page:45(p)
+msgid ""
+"There have been recent discussions in the scientific community regarding "
+"whether brain training software improves cognitive performance. Most of the "
+"studies show that there is little or no improvement, but that doesn't mean "
+"you can't have a good time playing games like <app>gbrainy</app>!"
+msgstr ""
+"Au existat discuții recente în comunitatea științifică cu privire la dacă "
+"software-ul pentru antrenarea creierului îmbunătățește performanța "
+"cognitivă. Cele mai multe studii arată că este o mică sau nici o "
+"îmbunătățire, dar asta nu înseamnă că nu vă puteți distra în timp ce jucați "
+"jocuri ca <app>gbrainy</app>!"
+
+#: C/score.page:8(desc)
+msgid "How the player scores are calculated."
+msgstr "Cum sunt calculate punctajele jucătorului."
+
+#: C/score.page:19(title)
+msgid "Game score and timings"
+msgstr "Punctajul și timpii"
+
+#: C/score.page:20(p)
+msgid "If you answer a puzzle incorrectly, you will not get any score for it."
+msgstr ""
+"Dacă răspundeți incorect la un puzzle, nu veți primi niciun punct pentru el."
+
+#: C/score.page:23(p)
+msgid ""
+"If you answer a puzzle correctly, you will get a score which depends on the "
+"time taken to resolve the problem and whether you used the tip during the "
+"game."
+msgstr ""
+"Dacă răspundeți la un puzzle corect, veți obține un punctaj în funcție de "
+"timpul utilizat în rezolvarea problemei și în funcție de folosirea "
+"indiciului."
+
+#: C/score.page:27(p)
+msgid ""
+"The following table summarizes the different game durations (in seconds) "
+"based on the difficulty level."
+msgstr ""
+"Următorul tabel rezumă duratele diferite de joc (în secunde), bazate pe "
+"nivelul de dificultate."
+
+#: C/score.page:34(p)
+msgid "Easy"
+msgstr "Ușor"
+
+#: C/score.page:35(p)
+msgid "Medium"
+msgstr "Mediu"
+
+#: C/score.page:36(p)
+msgid "Master"
+msgstr "Avansat"
+
+#: C/score.page:39(p) C/gametypes.page:26(title)
+msgid "Logic puzzles"
+msgstr "Puzzle-uri logice"
+
+#: C/score.page:40(p)
+msgid "156"
+msgstr "156"
+
+#: C/score.page:41(p)
+msgid "120"
+msgstr "120"
+
+#: C/score.page:42(p)
+msgid "110"
+msgstr "110"
+
+#: C/score.page:45(p)
+msgid "Mental calculation"
+msgstr "Calcule mentale"
+
+#: C/score.page:46(p)
+msgid "78"
+msgstr "78"
+
+#: C/score.page:47(p)
+msgid "60"
+msgstr "60"
+
+#: C/score.page:48(p)
+msgid "55"
+msgstr "55"
+
+#: C/score.page:51(p) C/gametypes.page:68(title)
+msgid "Memory trainers"
+msgstr "Jocuri de memorie"
+
+#: C/score.page:52(p) C/score.page:58(p)
+msgid "39"
+msgstr "39"
+
+#: C/score.page:53(p) C/score.page:59(p)
+msgid "30"
+msgstr "30"
+
+#: C/score.page:54(p) C/score.page:60(p)
+msgid "27"
+msgstr "27"
+
+#: C/score.page:57(p) C/gametypes.page:89(title)
+msgid "Verbal analogies"
+msgstr "Analogii verbale"
+
+#: C/score.page:63(p)
+msgid ""
+"With the expected time for the chosen difficulty level and the time you take "
+"to complete the game, the following logic is applied:"
+msgstr ""
+"Cu timpul estimat pentru nivelul de dificultate ales și timpul necesar "
+"pentru a termina jocul, logica se aplică următoarele:"
+
+#: C/score.page:69(p)
+msgid ""
+"If you take less than the time expected to complete the game, you score 10 "
+"points."
+msgstr ""
+"Dacă folosiți mai puțin decât timpul așteptat pentru a finaliza jocul, veți "
+"primi 10 puncte."
+
+#: C/score.page:74(p)
+msgid ""
+"If you take more than the time expected to complete the game, you score 8 "
+"points."
+msgstr ""
+"Dacă folosiți mai mult decât timpul așteptat pentru a finaliza jocul, veți "
+"primi 8 puncte."
+
+#: C/score.page:79(p)
+msgid ""
+"If you take more than 2x the time expected to complete the game, you score 7 "
+"points."
+msgstr ""
+"Dacă folosiți mai mult decât dublul timpului așteptat pentru a finaliza "
+"jocul, veți primi 7 puncte."
+
+#: C/score.page:85(p)
+msgid ""
+"If you take more than 3x the time expected to complete the game, you score 6 "
+"points."
+msgstr ""
+"Dacă folosiți mai mult decât triplul timpului așteptat pentru a finaliza "
+"jocul, veți primi 6 puncte."
+
+#: C/score.page:91(p)
+msgid "If you use a tip, you score only the 80% of the original score."
+msgstr "Dacă folosiți indiciul, veți primi doar 80% din punctajul original."
+
+#: C/score.page:98(title)
+msgid "Computing the totals"
+msgstr "Calcularea totalului"
+
+#: C/score.page:99(p)
+msgid ""
+"<app>gbrainy</app> keeps track of the different games types played. To "
+"compute the final score of every set of game types it sums all the results "
+"of the same game types played and then applies a factor based on: the "
+"logarithm of 10 for the easy level; on the logarithm of 20 for the medium "
+"level; and on the logarithm of 30 for the master level."
+msgstr ""
+"<app> gbrainy </app> ține evidența diferitelor tipuri de jocuri jucate. "
+"Pentru a calcula scorul final al fiecărui set de tipuri de joc se adună "
+"toate rezultatele partidelor de același tip joc și apoi se aplică un factor "
+"de bază: logaritm de 10 pentru nivelul ușor; logaritm de 20 pentru nivelul "
+"mediu; și logaritm de 30 pentru nivelul greu."
+
+#: C/score.page:106(p)
+msgid ""
+"This means that when playing at medium difficulty level, to get a score of "
+"100 points you need to score 10 points on at least 20 games of every game "
+"type played."
+msgstr ""
+"Aceasta înseamnă că atunci când jucați la nivelul de dificultate mediu, "
+"pentru a obține un scor de 100 de puncte va trebui să obțineți 10 puncte la "
+"cel puțin 20 de partide din fiecare tip de joc jucat."
+
+#: C/score.page:110(p)
+msgid ""
+"This may sound challenging, but it allows players to compare game scores "
+"from different sessions (in the player's game history) and allows better "
+"tracking of the progression of the player through all of the games played."
+msgstr ""
+"Aceasta poate suna provocator, dar permite jucătorilor să compare punctajele "
+"din diferite sesiuni (în istoricul sesiunilor de joc ale jucătorului)și "
+"permite o mai bună evidență a progresului jucătorului pe parcursul tuturor "
+"jocurilor jucate. "
+
+#: C/multiplayer.page:7(desc)
+msgid "How to play with other people."
+msgstr "Cum să jucați cu alți oameni."
+
+#: C/multiplayer.page:19(title)
+msgid "Play with other people"
+msgstr "Jucați-vă cu alți oameni"
+
+#: C/multiplayer.page:21(p)
+msgid ""
+"It is not possible to play against other people over the Internet or a local "
+"network with <app>gbrainy</app>."
+msgstr ""
+"Nu este posibil să jucați împotriva altor oameni prin intermediul "
+"Internetului sau al rețelei cu <app>gbrainy</app>."
+
+#: C/history.page:6(desc)
+msgid "Access your personal game history."
+msgstr "Accesați-vă istoricul personal al jocurilor."
+
+#: C/history.page:17(title)
+msgid "Personal game history"
+msgstr "Istoricul personal al jocurior"
+
+#: C/history.page:19(p)
+msgid ""
+"The <gui>Player's Game History</gui> dialog shows your performance in every "
+"game type during the last few game sessions."
+msgstr ""
+"Dialogul Istoricul sesiunilor de joc ale jucătorului afișează performanța "
+"dumneavoastră în fiecare tip de joc pe parcursul ultimelor câteva sesiuni de "
+"joc."
+
+#: C/history.page:25(title)
+msgid "View the games history"
+msgstr "Vizualizează istoricul jocurilor"
+
+#: C/history.page:26(p)
+msgid ""
+"To access your personal game history, choose <guiseq><gui style=\"menu"
+"\">View</gui><gui style=\"menuitem\">Player's Game History</gui></guiseq>."
+msgstr ""
+"Pentru a vă accesa istoricul personal al jocurilor, selectați <guiseq><gui "
+"style=\"menu\">Vizualizare</gui><gui style=\"menuitem\">Istoricul sesiunilor "
+"de joc ale jucătorului</gui></guiseq>."
+
+#: C/history.page:33(title)
+msgid "Select which results to show"
+msgstr "Selectați ce rezultate să fie afișate"
+
+#: C/history.page:34(p)
+msgid ""
+"To select the results that will be shown in the graphic, use the different "
+"check boxes located under the graph."
+msgstr ""
+"Pentru a selecta rezultatele ce vor fi afișate în grafic, folosiți căsuțele "
+"de bifat localizate sub grafic."
+
+#: C/history.page:41(title)
+msgid "Change the number of saved games"
+msgstr "Schimbarea numărului de jocuri salvate"
+
+#: C/history.page:42(p)
+msgid ""
+"<app>gbrainy</app> saves the player's scores so it can track how they evolve."
+msgstr ""
+"<app>gbrainy</app> salvează punctajele jucătorului pentru a pute ține "
+"evidența evoluției acestuia."
+
+#: C/history.page:45(p)
+msgid ""
+"In order to change the number of sessions recorded or how many games will be "
+"stored in the history, proceed as follows:"
+msgstr ""
+"Pentru a schimba numărul de sesiuni înregistrate sau câte jocuri vor fi "
+"stocate în istorie, procedați după cum urmează:"
+
+#: C/history.page:51(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\"> "
+"Preferences</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Configurări</gui><gui style=\"menuitem"
+"\"> Preferințe</gui></guiseq>."
+
+#: C/history.page:57(p)
+msgid "In the <gui>Player's Game History</gui> section:"
+msgstr "În secțiunea <gui>Istoricul sesiunilor de joc ale jucătorului</gui>:"
+
+#: C/history.page:62(p)
+msgid ""
+"Use the first spin box to change how many game sessions need to be recorded "
+"before you can start to see the results in the history graphic."
+msgstr ""
+"Utilizați prima căsuță de incrementare pentru a schimba câte sesiuni de joc "
+"trebuiesc înregistrate înainte să puteți vedea rezultatele în graficul "
+"istoricului."
+
+#: C/history.page:68(p)
+msgid ""
+"Use the second spin box to change how many game sessions will be shown in "
+"the history graphic."
+msgstr ""
+"Utilizați a doua căsuță de incrementare pentru a schimba câte sesiuni de joc "
+"vor fi afișate în graficului istoricului."
+
+#: C/difficulty.page:6(title)
+msgid "2"
+msgstr "2"
+
+#: C/difficulty.page:8(desc)
+msgid "Change the difficulty level of the games."
+msgstr "Schimbarea dificultății pentru jocuri."
+
+#: C/difficulty.page:20(title)
+msgid "Difficulty levels"
+msgstr "Nivele de dificultate"
+
+#: C/difficulty.page:21(p)
+msgid "To change the difficulty level of the game, proceed as follows:"
+msgstr ""
+"Pentru a schimba nivelul de dificultate al unui joc, procedați după cum "
+"urmează:"
+
+#: C/difficulty.page:31(p)
+msgid "In the <gui>Difficulty Level</gui> section, select the desired level."
+msgstr "În secțiunea <gui>Nivel de dificultate</gui>, selectați nivelul dorit."
+
+#: C/difficulty.page:34(p)
+msgid ""
+"You can choose from three different levels: <gui style=\"radiobutton\">Easy</"
+"gui>, <gui style=\"radiobutton\">Medium</gui>, and <gui style=\"radiobutton"
+"\">Master</gui>. The default level is <gui style=\"radiobutton\">Medium</"
+"gui>."
+msgstr ""
+"Puteți alege dintre trei nivele diferite: <gui style=\"radiobutton\">Ușor</"
+"gui>, <gui style=\"radiobutton\">Mediu</gui>, și <gui style=\"radiobutton"
+"\">Greu</gui>. Nivelul implicit este <gui style=\"radiobutton\">Mediu</gui>."
+
+#: C/tips.page:8(desc)
+msgid "Use the tips to solve a puzzle."
+msgstr "Folosiți indicii pentru a rezolva puzzle-uri."
+
+#: C/tips.page:20(title)
+msgid "Tips"
+msgstr "Indicii"
+
+#: C/tips.page:21(p)
+msgid ""
+"With some of the games you can play, it is possible to get simple tips that "
+"can help you to solve the problem."
+msgstr ""
+"În unele jocuri, este posibil să primiți indicii simple care vă pot ajuta sa "
+"rezolvați problema."
+
+#: C/tips.page:25(p)
+msgid ""
+"When playing a game, click on the <gui style=\"button\">Tip</gui> button at "
+"the bottom of the window (next to the <gui style=\"input\">Answer</gui> text "
+"entry)."
+msgstr ""
+"Când jucați un joc, apăsați pe butonul <gui style=\"button\">Indiciu</gui> "
+"de la baza ferestrei (lângă intrarea de text <gui style=\"input\">Răspuns</"
+"gui>)."
+
+#: C/tips.page:29(p)
+msgid "This feature is not available for some of the games."
+msgstr "Această funcționalitate nu este disponibilă pentru unele jocuri."
+
+#: C/pause.page:6(title)
+msgid "4"
+msgstr "4"
+
+#: C/pause.page:9(desc)
+msgid "How to pause or stop a game."
+msgstr "Cum să întrerupeți sau să opriți un joc."
+
+#: C/pause.page:20(title)
+msgid "Pause/Stop a game"
+msgstr "Întreruperea/oprirea unui joc"
+
+#: C/pause.page:23(title)
+msgid "Pause and resume a game"
+msgstr "Întreruperea și reluarea unui joc"
+
+#: C/pause.page:24(p)
+msgid ""
+"To pause a game so that you can resume it at the same point at a later time, "
+"perform one of the following:"
+msgstr ""
+"Pentru a întrerupe un joc astfel încât să îl puteți relua mai târziu, "
+"procedați prin una din metodele următoare:"
+
+#: C/pause.page:30(p) C/pause.page:45(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Pause "
+"Game</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Joc</gui><gui style=\"menuitem"
+"\">Întrerupe jocul</gui></guiseq>."
+
+#: C/pause.page:35(p)
+msgid "Click on the <gui style=\"button\">Pause</gui> button in the toolbar."
+msgstr ""
+"Apăsați pe butonul <gui style=\"button\">Pauză</gui> din bara de unelte."
+
+#: C/pause.page:40(p)
+msgid ""
+"In order to resume the game after you paused it, perform one of the "
+"following:"
+msgstr ""
+"Pentru a relua jocul după ce l-ați întrerupt, procedați prin una din "
+"următoarele:"
+
+#: C/pause.page:50(p)
+msgid "Click on the <gui style=\"button\">Resume</gui> button in the toolbar."
+msgstr ""
+"Apăsați pe butonul <gui style=\"button\">Reia</gui> din bara de unelte."
+
+#: C/pause.page:58(title)
+msgid "Stop a game"
+msgstr "Oprirea unei partide"
+
+#: C/pause.page:59(p)
+msgid "To stop a game, in order to end it, perform one of the following:"
+msgstr ""
+"Pentru a opri o partidă, pentru a-l încheia, procedați prin una din "
+"următoarele:"
+
+#: C/pause.page:64(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">End "
+"Game</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Joc</gui><gui style=\"menuitem"
+"\">Termină jocul</gui></guiseq>."
+
+#: C/pause.page:69(p)
+msgid "Click on the <gui style=\"button\">Finish</gui> button in the toolbar."
+msgstr ""
+"Apăsați pe butonul <gui style=\"button\">Finalizează</gui> din bara de "
+"unelte."
+
+#: C/license.page:8(desc)
+msgid "Legal information."
+msgstr "Informații legale."
+
+#: C/license.page:11(title)
+msgid "License"
+msgstr "Licență"
+
+#: C/license.page:12(p)
+msgid ""
+"This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 "
+"Unported license."
+msgstr ""
+"Această lucrare este distribuita sub licența neportată CreativeCommons "
+"Attribution-Share Alike 3.0."
+
+#: C/license.page:18(p)
+msgid "You are free:"
+msgstr "Sunteți liberi să:"
+
+#: C/license.page:23(em)
+msgid "To share"
+msgstr "Pentru a partaja"
+
+#: C/license.page:24(p)
+msgid "To copy, distribute and transmit the work."
+msgstr "Să copiați, distribuiți și transmiteți munca."
+
+#: C/license.page:27(em)
+msgid "To remix"
+msgstr "Să modificați"
+
+#: C/license.page:28(p)
+msgid "To adapt the work."
+msgstr "Adaptați munca."
+
+#: C/license.page:31(p)
+msgid "Under the following conditions:"
+msgstr "În conformitate cu condițiile următoare:"
+
+#: C/license.page:36(em)
+msgid "Attribution"
+msgstr "Atribuire"
+
+#: C/license.page:37(p)
+msgid ""
+"You must attribute the work in the manner specified by the author or "
+"licensor (but not in any way that suggests that they endorse you or your use "
+"of the work)."
+msgstr ""
+"Trebuie să atribuiți lucrare într-o manieră specificată de autor sau "
+"licensor (dar nu într-un fel care sugerează că ei vă aprobă pe dumneavoastră "
+"sau utilizarea dumneavoastră a lucrării)."
+
+#: C/license.page:44(em)
+msgid "Share Alike"
+msgstr "Share Alike"
+
+#: C/license.page:45(p)
+msgid ""
+"If you alter, transform, or build upon this work, you may distribute the "
+"resulting work only under the same, similar or a compatible license."
+msgstr ""
+"Dacă modificați, transformați, sau construiți ceva plecând de la această "
+"lucrare, puteți distribui rezultatul numai sub termenii aceleiași, similare "
+"sau compatibile licență."
+
+#: C/license.page:51(p)
+msgid ""
+"For the full text of the license, see the <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</"
+"link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Commons Deed</link>."
+msgstr ""
+"Pentru întregul conținut al licenței, consultați <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">pagina web "
+"CreativeCommons</link>, sau citiți în întregime <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/\">Commons Deed</link>."
+
+#: C/gametypes.page:5(title)
+msgid "3"
+msgstr "3"
+
+#: C/gametypes.page:6(desc)
+msgid "What types of game you can play."
+msgstr "Ce tipuri de joc puteți juca."
+
+#: C/gametypes.page:15(title)
+msgid "Game types"
+msgstr "Tipuri de joc"
+
+#: C/gametypes.page:17(p)
+msgid "<app>gbrainy</app> provides the following types of games:"
+msgstr "<app>gbrainy</app> vă oferă următoarele tipuri de jocuri:"
+
+#: C/gametypes.page:27(p)
+msgid ""
+"Games designed to challenge your reasoning and thinking skills. These games "
+"are based on sequences of elements, visual and spatial reasoning or "
+"relationships between elements."
+msgstr ""
+"Jocuri concepute să vă provoace abilitățile de logică și gândire. Aceste "
+"jocuri au la bază o succesiune de elemente, logică vizuală și spațială sau "
+"relația dintre elemente."
+
+#: C/gametypes.page:37(p)
+msgid "Logic games logo"
+msgstr "Sigla jocurilor logice"
+
+#: C/gametypes.page:47(title)
+msgid "Mental calculations"
+msgstr "Calcule mentale"
+
+#: C/gametypes.page:48(p)
+msgid ""
+"Games based on arithmetical operations designed to improve your mental "
+"calculation skills. Games that require the player to use multiplication, "
+"division, addition and subtraction combined in different ways."
+msgstr ""
+"Jocuri bazate pe operații aritmetice concepute să vă îmbunătățească "
+"abilitățile de calculare mentală. Jocuri care necesită ca jucătorul să "
+"folosească înmulțirea, împărțirea, adunarea și scăderea combinate în feluri "
+"diferite."
+
+#: C/gametypes.page:58(p)
+msgid "Calculation games logo"
+msgstr "Sigla jocurilor de calcule"
+
+#: C/gametypes.page:69(p)
+msgid ""
+"Games designed to challenge your short-term memory. These games show "
+"collections of objects and ask the player to recall them, sometimes "
+"establishing relationships between figures, words, numbers or colors."
+msgstr ""
+"Jocuri concepute să vă provoace memoria pe termen scurt. Aceste jocuri "
+"ilustrează o colecție de obiecte și cer jucătorului să le amintească, "
+"câteodată stabilind relații între figuri, cuvinte, numere sau culori."
+
+#: C/gametypes.page:79(p)
+msgid "Memory games logo"
+msgstr "Sigla jocurilor de memrie"
+
+#: C/gametypes.page:90(p)
+msgid ""
+"Games that challenge your verbal aptitude. These games ask the player to "
+"identify cause and effect, use synonyms or antonyms, and use their "
+"vocabulary."
+msgstr ""
+"Jocuri care vă provoacă aptitudinile verbale. Aceste jocuri cer jucătorului "
+"cer jucătorului să identifice cauza și efectul, folosind sinonime sau "
+"antonime, și să-și folosească vocabularul."
+
+#: C/gametypes.page:99(p)
+msgid "Verbal analogies games logo"
+msgstr "Sigla jocurilor de analogii verbale"
+
+#: C/customgame.page:9(desc)
+msgid "Start a custom games selection."
+msgstr "Începerea unei colecții de jocuri personalizate."
+
+#: C/customgame.page:20(title)
+msgid "Custom games selection"
+msgstr "Selectarea personalizată a jocului"
+
+#: C/customgame.page:21(p)
+msgid ""
+"It is possible to play a custom selection of all the games in <app>gbrainy</"
+"app>."
+msgstr ""
+"Este posibil să jucați o colecție de jocuri personalizate în <app>gbrainy</"
+"app>."
+
+#: C/customgame.page:24(p)
+msgid "To do so, proceed as follows:"
+msgstr "Pentru a face asta, procedați după cum urmează:"
+
+#: C/customgame.page:29(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui><gui style=\"menuitem\">Custom Game Selection</gui></guiseq>."
+msgstr ""
+"Selectați <guiseq><gui style=\"menu\">Joc</gui><gui style=\"menuitem\">Joc "
+"nou</gui><gui style=\"menuitem\">Selectare personalizată a jocului</gui></"
+"guiseq>."
+
+#: C/customgame.page:35(p)
+msgid ""
+"In the <gui>Custom Game</gui> dialog, select the games that you would like "
+"to play by clicking on the check box next to the name of the game."
+msgstr ""
+"În dialogul <gui>Joc personalizat</gui>, selectați jocurile pe care doriți "
+"să le jucați apăsând pe căsuțele de bifare din dreptul numelui fiecărui joc."
+
+#: C/customgame.page:41(p)
+msgid ""
+"Once you are done, click on <gui style=\"button\">Start</gui> to start "
+"playing your custom games selection."
+msgstr ""
+"Odată ce ați terminat, apăsați pe <gui style=\"button\">Start</gui> pentru a "
+"începe să jucați colecția dumneavoastră de jocuri personalizate."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: C/index.page:0(None)
+msgid "translator-credits"
+msgstr "Daniel Șerbănescu <cyber19rider@gmail.com>, 2010"

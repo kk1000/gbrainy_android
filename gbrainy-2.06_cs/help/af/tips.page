@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="af">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Gebruik die wenke om 'n raaisel op te los.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Wenke</title>
+  <p>Met sommige van die speletjies is dit moontlik om eenvoudige wenke te kry wat kan help om die probleem op te los.</p>
+  <p>Wanneer 'n speletjie gespeel word, klik op die <gui style="button">Wenk</gui>-knoppie aan die onderkant van die venster (langs die <gui style="input">Antwoord</gui>-teksinskrywing).</p>
+  <note>
+    <p>Hierdie funksie is nie beskikbaar vir sommige van die speletjies nie.</p>
+  </note>
+</page>

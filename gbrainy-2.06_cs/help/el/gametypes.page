@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="el">
+  <info>
+    <title type="sort">3</title>
+    <desc>Τύποι παιχνιδιών που μπορείτε να παίξετε.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Τύποι παιχνιδιού</title>
+
+  <p>Το <app>gbrainy</app> περιλαμβάνει τους παρακάτω τύπους παιχνιδιών:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Γρίφοι λογικής</title>
+          <p>Παιχνίδια που δοκιμάζουν τη λογική και τη σκέψη σας. Τα παιχνίδια χρησιμοποιούν ακολουθίες στοιχείων, οπτικό και χωρικό λογισμό, καθώς και σχέσεις μεταξύ στοιχείων.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Λογότυπο παιχνιδιών λογικής</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Παιχνίδια αριθμητικής</title>
+          <p>Παιχνίδια που βασίζονται σε αριθμητικές πράξεις και σας εκπαιδεύουν να κάνετε πράξεις με το μυαλό σας. Παιχνίδια που απαιτούν από τον παίκτη να χρησιμοποιήσει πολλαπλασιασμό, διαίρεση, πρόσθεση και αφαίρεση, συνδυάζοντας τις πράξεις με διαφορετικούς τρόπους.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Λογότυπο παιχνιδιών αριθμητικής</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Εξάσκηση μνήμης</title>
+          <p>Παιχνίδια που δοκιμάζουν τη μνήμη σας. Αυτά τα παιχνίδια δείχνουν συλλογές αντικειμένων και ζητούν από τον παίκτη να τα θυμηθεί, ή και να κάνει συσχετίσεις ανάμεσα σε σχέδια, λέξεις, αριθμούς ή χρώματα.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Λογότυπο παιχνιδιών μνήμης</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Λεκτικές αναλογίες</title>
+          <p>Παιχνίδια που δοκιμάζουν τις λεκτικές ικανότητες σας. Αυτά τα παιχνίδια μπορεί να ζητήσουν από τον παίκτη τον εντοπισμό αιτίας και αποτελέσματος, τη χρήση συνωνύμων ή αντωνύμων, καθώς και τη χρήση του λεξιλογίου του.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Λογότυπο παιχνιδιών λεκτικών αναλογιών</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

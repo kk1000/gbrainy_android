@@ -1,0 +1,4225 @@
+# Finnish translation for gbrainy
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the gbrainy package.
+#
+# Rosetta Contributors:
+# Aapo Rantalainen
+# Antti Kajander
+# Antti Nykänen
+# Birunthan Mohanathas
+# Heikki Mäntysaari
+# Ilari Oras
+# Jammi Vesterinen
+# Jyri-Petteri Paloposki
+# T Kortehisto
+# Timo Jyrinki
+#
+# Ubuntu Finnish Translators team https://launchpad.net/~ubuntu-l10n-fi
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-06 07:27+0000\n"
+"PO-Revision-Date: 2010-09-13 05:42+0000\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@gmail.com>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2010-09-13 15:08+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+"Montako astetta minuuttiviisari kääntyy 2 tunnin ja [num] minuutin aikana?"
+msgstr[1] ""
+"Montako astetta minuuttiviisari kääntyy 2 tunnin ja [num] minuutin aikana?"
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+"Joni on 46 vuotias. Hänen poikansa on [difference] vuoden nuorempi kuin "
+"puolet Jonin iästä. Kuinka vanha Joni on?"
+msgstr[1] ""
+"Joni on 46 vuotias. Hänen poikansa on [difference] vuotta nuorempi kuin "
+"puolet Jonin iästä. Kuinka vanha Joni on?"
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+"Joni on 2 kertaa niin vanha kuin hänen poikansa. [ago] vuosi sitten Joni oli "
+"[proportion] kertaa vanhempi kuin hänen poikansa. Kuinka vanha Jonin poika "
+"on nykyään?"
+msgstr[1] ""
+"Joni on 2 kertaa niin vanha kuin hänen poikansa. [ago] vuotta sitten Joni "
+"oli [proportion] kertaa vanhempi kuin hänen poikansa. Kuinka vanha Jonin "
+"poika on nykyään?"
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+"Jonin ikä [ago] vuotta sitten miinus [ago] oli yhtä paljon kuin [proportion] "
+"kertaa hänen poikansa ikä miinus [ago]."
+msgstr[1] ""
+"Jonin ikä [ago] vuotta sitten miinus [ago] oli yhtä paljon kuin [proportion] "
+"kertaa hänen poikansa ikä miinus [ago]."
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+"Tiedosto on salattu salasanalla, joka koostuu [digits] numerosta väliltä 0-"
+"9. Kuinka monta eri salasanaa voi olla?"
+msgstr[1] ""
+"Tiedosto on salattu salasanalla, joka koostuu [digits] numerosta väliltä 0-"
+"9. Kuinka monta eri salasanaa voi olla?"
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+"Tiedosto on salattu salasanalla, joka koostuu [digits] oktaaliluvusta "
+"väliltä 0-9. Kuinka monta eri salasanaa voi olla?"
+msgstr[1] ""
+"Tiedosto on salattu salasanalla, joka koostuu [digits] oktaaliluvusta "
+"väliltä 0-9. Kuinka monta eri salasanaa voi olla?"
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+"[games] tennisottelua pelataan samanaikaisesti. Montako mahdollista "
+"lopputulosta on?"
+msgstr[1] ""
+"[games] tennisottelua pelataan samanaikaisesti. Montako mahdollista "
+"lopputulosta on?"
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+"Montako ottelua tarvitaan, jotta [players] pelaajan tennisturnauksessa "
+"saadaan selville voittaja?"
+msgstr[1] ""
+"Montako ottelua tarvitaan, jotta [players] pelaajan tennisturnauksessa "
+"saadaan selville voittaja?"
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+"Sinulla on pankissa rahaa [money] yksikkö, ja vuotuinen korko on 10%. "
+"Paljonko sinulla on rahaa kahden vuoden jälkeen?"
+msgstr[1] ""
+"Sinulla on pankissa rahaa [money] yksikköä, ja vuotuinen korko on 10%. "
+"Paljonko sinulla on rahaa kahden vuoden jälkeen?"
+
+#: ../data/games.xml.h:1
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+"Palindromiluku säilyy samana, kun sen numerot kirjoitetaan päinvastaisessa "
+"järjestyksessä (esim. 2112)."
+
+#: ../data/games.xml.h:2
+msgid "Age"
+msgstr "Ikä"
+
+#: ../data/games.xml.h:3
+msgid "Bank interest"
+msgstr "Pankin korko"
+
+#: ../data/games.xml.h:4
+msgid "Box"
+msgstr "Laatikko"
+
+#: ../data/games.xml.h:5
+msgid "Boxes"
+msgstr "Laatikkoja"
+
+#: ../data/games.xml.h:6
+msgid "Brothers and sisters"
+msgstr "Veljet ja siskot"
+
+#: ../data/games.xml.h:7
+msgid "Clock Rotation"
+msgstr "Kellon pyöriminen"
+
+#: ../data/games.xml.h:8
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+"Korko lasketaan alkuperäisestä rahasummasta ja siihen aiemmin kertyneestä "
+"korosta."
+
+#: ../data/games.xml.h:9
+msgid "Container"
+msgstr "Säiliö"
+
+#: ../data/games.xml.h:10
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+"Jokaiselle numerolle on 10 mahdollisuutta. Eri numeroyhdistelmiä on siten 10 "
+"potenssiin [digits]."
+
+#: ../data/games.xml.h:11
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+"Jokaiselle numerolle on 8 mahdollisuutta. Eri numeroyhdistelmiä on siten 8 "
+"potenssiin [digits]."
+
+#: ../data/games.xml.h:12
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+"Jokainen peli on riippumaton tapahtuma, jolla on kaksi mahdollista "
+"lopputulosta. Mahdollisia tuloksia on siten 2 potenssiin [games]."
+
+#: ../data/games.xml.h:13
+msgid "Every hour rotates 360 degrees."
+msgstr "Pyörähtää joka tunti 360 astetta."
+
+#: ../data/games.xml.h:14
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr ""
+"Montako laatikkoa, joiden mitat ovat 1 x 1 x 0,5, voidaan pakata laatikkoon, "
+"jonka mitat ovat 6 x 5 x [z]?"
+
+#: ../data/games.xml.h:15
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+"Jokaisessa pelissä putoaa pois yksi pelaaja, joten tarvitaan pelaajien "
+"lukumäärä miinus 1 peliä voittajan selvittämiseksi."
+
+#: ../data/games.xml.h:16
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "Se on laskutoimituksen [num_a] * [num_b] tulos."
+
+#: ../data/games.xml.h:17
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "Se on laskutoimituksen [num_a] + [num_b] tulos."
+
+#: ../data/games.xml.h:18
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "Se on laskutoimituksen [num_b] - [num_a] tulos."
+
+#: ../data/games.xml.h:19
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "Se on laskutoimituksen [num_b] / [num_a] tulos."
+
+#: ../data/games.xml.h:20
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+"[people] henkilöstä [brothers] on veljiä, [sisters] on siskoja ja [both] on "
+"molempia. Kuinka monella ei ole veljiä eikä siskoja?"
+
+#: ../data/games.xml.h:21
+msgid ""
+"Palindrome years occur usually at 110 year intervals except for the end of "
+"each millennium that occur at a 11 years interval."
+msgstr ""
+"Palindromivuosi on yleensä joka 110 vuosi. Poikkeuksena vuosituhannen loppu, "
+"jolloin palindromivuosi on 11 vuoden välein."
+
+#: ../data/games.xml.h:22
+msgid "Palindromic years"
+msgstr "Palindromiset vuodet"
+
+#: ../data/games.xml.h:23
+msgid "Password"
+msgstr "Salasana"
+
+#: ../data/games.xml.h:24
+msgid "Simple equations"
+msgstr "Yksinkertaisia yhtälöitä"
+
+#: ../data/games.xml.h:25
+msgid "Tennis game"
+msgstr "Tennispeli"
+
+#: ../data/games.xml.h:26
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr "Mikä luku jaettuna luvulla [num_a] on [num_b]?"
+
+#: ../data/games.xml.h:27
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr "Mikä luku miinus [num_a] on [num_b]?"
+
+#: ../data/games.xml.h:28
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr "Mikä luku kerrottuna luvulla [num_a] on [num_b]?"
+
+#: ../data/games.xml.h:29
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr "Mikä luku plus [num_a] on [num_b]"
+
+#: ../data/games.xml.h:30
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr "Voit sijoittaa 6 * 5 * [z] * 2 laatikkoa."
+
+#: ../data/games.xml.h:31
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+"[brothers_only] henkilöllä on vain veljiä, [sisters_only] henkilöllä vain "
+"siskoja ja [both] henkilöllä on molempia."
+
+#: ../data/games.xml.h:32
+msgid "[rslt_a] and [rslt_b]"
+msgstr "[rslt_a] ja [rslt_b]"
+
+#: ../data/games.xml.h:33
+msgid ""
+"[year_start] was a palindromic year as [year_end] was, a gap of 11 years. "
+"What are the next two consecutive palindromic years after [year_end] with "
+"the same gap?"
+msgstr ""
+"[year_start] ja [year_end] olivat palindromivuosia, joiden välissä oli 11 "
+"vuotta. Mitkä ovat vuoden [year_end] jälkeen seuraavat kaksi "
+"palindromivuotta, joiden välissä on yhtä pitkä aikaväli?"
+
+#: ../data/games.xml.h:34
+msgid "x * [num_a] = [num_b]"
+msgstr "x * [num_a] = [num_b]"
+
+#: ../data/games.xml.h:35
+msgid "x + [num_a] = [num_b]"
+msgstr "x + [num_a] = [num_b]"
+
+#: ../data/games.xml.h:36
+msgid "x - [num_a] = [num_b]"
+msgstr "x - [num_a] = [num_b]"
+
+#: ../data/games.xml.h:37
+msgid "x / [num_a] = [num_b]"
+msgstr "x / [num_a] = [num_b]"
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "Peli"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+"Pelaa pelejä, jotka haastavat loogiset, sanalliset, laskennalliset ja "
+"muistamiskykysi"
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid ""
+"A car engine that is poorly designed and lacking of sophistication is?"
+msgstr "Huonosti suunniteltu ja yksinkertainen auton moottori on?"
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr "Kielikuva, joka yhdistää keskenään ristiriidassa olevia termejä."
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr "Kala elää vankeudessa akvaariossa."
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "Henkilö, jolla on suuri päähänpinttymä terveyttään kohtaan, on?"
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A terrier is to a dog like a?"
+msgstr "Terrieri on koira, kuten?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "Abstinence"
+msgstr "pidättyväisyys"
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "Acrophobia"
+msgstr "Akrofobia"
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Agoraphobia"
+msgstr "Agorafobia"
+
+#: ../data/verbal_analogies.xml.h:9
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr ""
+"Miksi kutsutaan taiteilijaa, jonka työt ovat lopulta määritelleet itse "
+"tyylilajin?"
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Anthophobia"
+msgstr "Anthofobia"
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Anthropophobia"
+msgstr "Anthropofobia"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Apple"
+msgstr "Omena"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Attic"
+msgstr "Ullakko"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Bagpipes"
+msgstr "Säkkipillit"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "Basketball"
+msgstr "Koripallo"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Bassoon"
+msgstr "Fagotti"
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Centimeter"
+msgstr "Senttimetri"
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Collectivism"
+msgstr "kollektivismi"
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Column"
+msgstr "pylväs"
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Connoisseur"
+msgstr "Asiantuntija"
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Conspirator"
+msgstr "Salaliittolainen"
+
+#: ../data/verbal_analogies.xml.h:22
+msgid "Contradictory"
+msgstr "Ristiriitainen"
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "Crocodile"
+msgstr "Krokotiili"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Cycling"
+msgstr "Pyöräily"
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "Deer"
+msgstr "Peura"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Fish"
+msgstr "Kala"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Flower"
+msgstr "Kukka"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Fossil"
+msgstr "Fossiili"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Frog"
+msgstr "Sammakko"
+
+#: ../data/verbal_analogies.xml.h:30
+msgid "Gallon"
+msgstr "Gallona"
+
+#: ../data/verbal_analogies.xml.h:31
+msgid "Golf"
+msgstr "Golf"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Grape"
+msgstr "viinirypäle"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Hyena"
+msgstr "Hyeena"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Hypochondria"
+msgstr "Hypokondria"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Ironic"
+msgstr "Ironinen"
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "It is the only one that does not use a ball in the game."
+msgstr "Ainoa, joka ei käytä palloa pelissä."
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "It is the only one that is not a carnivore."
+msgstr "Ainoa, joka ei ole lihansyöjä."
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "It is the only one that is not a fruit."
+msgstr "Ainoa, joka ei ole hedelmä."
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "It is the only one that is not a reptile."
+msgstr "Ainoa, joka ei ole matelija."
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "Ainoa soitin, joka ei ole puupuhallin."
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "It is the only one that is not related to architecture."
+msgstr "Ainoa, joka ei liity arkkitehtuuriin."
+
+#: ../data/verbal_analogies.xml.h:42
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "Ainoa yksikkö, joka ei kuulu metriseen järjestelmään."
+
+#: ../data/verbal_analogies.xml.h:43
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+"Jannen isän siskon käly on myös...? Älä oleta, että Jannella olisi joku "
+"sukulainen, jota ei olisi mainittu."
+
+#: ../data/verbal_analogies.xml.h:44
+msgid "Liter"
+msgstr "Litra"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Loner"
+msgstr "Erakko"
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Meter"
+msgstr "Metri"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Oboe"
+msgstr "Oboe"
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:49
+msgid "Orange"
+msgstr "Appelsiini"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "Pain"
+msgstr "Tuska"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Person expelled from society"
+msgstr "Yhteiskunnan hylkäämä henkilö"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "Pleasure"
+msgstr "Nautinto"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Portico"
+msgstr "Portiikki"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Positivism"
+msgstr "positivismi"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "Potato"
+msgstr "Peruna"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Related"
+msgstr "sukua"
+
+#: ../data/verbal_analogies.xml.h:57
+msgid "Snake"
+msgstr "Käärme"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Specializes in skin diseases"
+msgstr "Erikoistunut ihotauteihin"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Sport"
+msgstr "Urheilu"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Suffers a skin disease"
+msgstr "Kärsii ihosairaudesta"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Synonym"
+msgstr "Synonyymi"
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Tennis"
+msgstr "Tennis"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr ""
+"Eettinen opinkappale, jonka mukaan vain miellyttävät asiat ovat luonnostaan "
+"hyviä."
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "The first word is the instrument and the second what it measures."
+msgstr ""
+"Ensimmäinen sana on väline, ja toinen sana se mitä välineellä mitataan."
+
+#: ../data/verbal_analogies.xml.h:65
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+"Ankaran itsekurin harjoittaminen korkeamman henkisen asteen saavuttamiseksi."
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "Sanaa \"taksidermisti\" käytetään kuvaamaan ihmistä joka?"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Think of the items used in the game."
+msgstr "Ajattele tässä pelissä käytettyjä esineitä."
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "Tiger"
+msgstr "Tiikeri"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Turtle"
+msgstr "Kilpikonna"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Violin"
+msgstr "Viulu"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Weapon"
+msgstr "Ase"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "What is a 'halberd'?"
+msgstr "Mikä on ”hilpari”?"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid ""
+"Which of the following sentences defines better an 'ostracized' person?"
+msgstr "Mikä seuraavista lauseista määrittelee parhaiten ”ostrakismoksen”?"
+
+#. 
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#. 
+#: ../data/verbal_analogies.xml.h:77
+msgid "Which of the following sports is the odd one?"
+msgstr "Mikä seuraavista lajeista ei kuulu joukkoon?"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid ""
+"Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr ""
+"Mikä seuraavista sanoista on merkitykseltään lähimpänä termiä ”asketismi”?"
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr ""
+"Mikä seuraavista sanoista on merkitykseltään lähimpänä termiä ”hedonismi”?"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr ""
+"Mikä seuraavista sanoista on merkitykseltään lähimpänä termiä ”oksymoron”?"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "Mikä seuraavista sanoista on merkitykseltään lähimpänä ”sensuuria”?"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Which of the following words is the odd one?"
+msgstr "Mikä seuraavista sanoista ei kuulu joukkoon?"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Which of the following words means fear of people?"
+msgstr "Mikä seuraavista sanoista tarkoittaa ihmispelkoa?"
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "Wolf"
+msgstr "Susi"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Works with dead animals"
+msgstr "Työskentelee kuolleiden eläinten kanssa"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "Works with leather"
+msgstr "Työskentelee nahan kanssa"
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "airplane | aeroplane | plane"
+msgstr "lentokone"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "ankle"
+msgstr "nilkka"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "ant / vertebrate"
+msgstr "muurahainen / selkärankainen"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "art / gallery | drama"
+msgstr "taide / galleria | draama"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "atlas"
+msgstr "kartasto"
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "bite"
+msgstr "haukata"
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "body | skin"
+msgstr "keho | iho"
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "book"
+msgstr "kirja"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:96
+msgid "box / open | banana"
+msgstr "laatikko / avoin | banaani"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "bridge / over | tunnel"
+msgstr "silta / yli | tunneli"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "broken"
+msgstr "rikki"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "burst | pop"
+msgstr "puhjeta | poksahtaa"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:101
+msgid "button / push | key (used in a lock)"
+msgstr "painike / painaa | avain"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "cage | zoo | zoological garden"
+msgstr "häkki | eläintarha | eläintieteellinen puutarha"
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "camera"
+msgstr "kamera"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "car / road | train"
+msgstr "auto / tie | juna"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "chicken / bird"
+msgstr "kana / lintu"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "chop"
+msgstr "pilkkoa"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "coins"
+msgstr "kolikot"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "composer | songwriter | lyricist"
+msgstr "säveltäjä | lauluntekijä | sanoittaja"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "condemn"
+msgstr "tuomita"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "constellation / stars | archipelago"
+msgstr "tähtikuvio / tähdet | saaristo"
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "cousin"
+msgstr "serkku"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:113
+msgid "dance"
+msgstr "tanssi"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "dish / break | balloon"
+msgstr "astia / särkyä | ilmapallo"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "dog / cat"
+msgstr "koira / kissa"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "dog / tame | wolf"
+msgstr "koira / kesy | susi"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "elbow / knee | wrist"
+msgstr "kyynärpää / polvi | ranne"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "erroneous"
+msgstr "virheellinen"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "error / correct | damage"
+msgstr "virhe / korjaus | vahinko"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "eyebrow / eye | mustache"
+msgstr "kulmakarva / silmä | viikset"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:122
+msgid "feet / two | toes"
+msgstr "jalat / kaksi | varpaat"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "fish / aquarium | monkey"
+msgstr "kala / akvaario | apina"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "fish / submarine | bird"
+msgstr "kala / sukellusvene | lintu"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "fox / den | bird"
+msgstr "kettu / luola | lintu"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "glass / break | paper"
+msgstr "lasi / rikkoa | paperi"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "hands / grab | teeth"
+msgstr "kädet / tarttua | hampaat"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "has no relation"
+msgstr "ei ole yhteyttä"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "herbivorous | herbivore"
+msgstr "kasvinsyöjäeläimet | kasvinsyöjä"
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "hide"
+msgstr "piilota"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "his mother"
+msgstr "hänen äitinsä"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "horse / pony"
+msgstr "hevonen / poni"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "hour / minute | minute"
+msgstr "tunti / minuutti | hetki"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "hungry / eat | tired"
+msgstr "nälkäinen / syödä | väsynyt"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "hunter / rifle | photographer"
+msgstr "metsästäjä / kivääri | valokuvaaja"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "ice / slippery | glue"
+msgstr "jää / liukas | liima"
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "icon"
+msgstr "kuvake"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "ignore"
+msgstr "hylkää"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "in | under | through"
+msgstr "sisässä | alla | läpi"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "innovator"
+msgstr "innovoija"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "islands"
+msgstr "saaret"
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "leopard / spots | tiger"
+msgstr "leopardi / täpliä | tiikeri"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "letter / word | page"
+msgstr "kirje / sana | sivu"
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "lip | mouth"
+msgstr "huuli | suu"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "martyr"
+msgstr "marttyyri"
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "nest"
+msgstr "pesä"
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "nose"
+msgstr "nenä"
+
+#: ../data/verbal_analogies.xml.h:148
+msgid "novel / author | song"
+msgstr "romaani / kirjailija | laulu"
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "obscure"
+msgstr "hämärä"
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "orange / fruit | spinach"
+msgstr "appelsiini / hedelmä | pinaatti"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "pediatrics / children | numismatics"
+msgstr "lastentaudit / lapset | numismatiikka"
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "peel"
+msgstr "kuoria"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "pioneer"
+msgstr "edelläkävijä"
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "poems / anthology | maps"
+msgstr "runot / runokokoelma | kartat"
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "puzzle / solve | game"
+msgstr "pulma / ratkaista | peli"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "repair | fix"
+msgstr "kunnostaa | korjata"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "ring / finger | bracelet"
+msgstr "sormus / sormi | rannerengas"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "seal / flippers | bird"
+msgstr "hylje / räpylät | lintu"
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:160
+msgid "second"
+msgstr "sekunti"
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "shovel / dig | axe"
+msgstr "lapio / kaivaa | kirves"
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "simplistic"
+msgstr "pelkistetty"
+
+#: ../data/verbal_analogies.xml.h:163
+msgid "sink"
+msgstr "upota"
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "sleep | rest"
+msgstr "nukkua | levätä"
+
+#: ../data/verbal_analogies.xml.h:165
+msgid "slurp / tongue | snort"
+msgstr "lipoa / kieli | nuuhkaisu"
+
+#: ../data/verbal_analogies.xml.h:166
+msgid "son-in-law"
+msgstr "Vävy"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "sour"
+msgstr "hapan"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:169
+msgid "stick / float | stone"
+msgstr "keppi / kellua | kivi"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "sticky"
+msgstr "tahmea"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "stripes"
+msgstr "juovat"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "sugar / sweet | vinegar"
+msgstr "sokeri / makea | etikka"
+
+#: ../data/verbal_analogies.xml.h:173
+msgid "tear | rip"
+msgstr "kiskoa | repiä"
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "tears / eyes | sweat"
+msgstr "kyyneleet / silmät | hiki"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:176
+msgid "ten | 10"
+msgstr "kymmenen | 10"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "tennis / sport | ballet"
+msgstr "tennis / urheilu | baletti"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "theatre | theater"
+msgstr "teatteri"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "thermometer / temperature | clock"
+msgstr "lämpömittari / lämpötila | mittari"
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "tiger / carnivore | cow"
+msgstr "tiikeri / kasvinsyöjä | lehmä"
+
+#: ../data/verbal_analogies.xml.h:181
+msgid "time"
+msgstr "aika"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "toy / play | tool"
+msgstr "lelu / leikki | työkalu"
+
+#: ../data/verbal_analogies.xml.h:183
+msgid "track | railway | rails"
+msgstr "rata | rautatie / raiteet"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "turn"
+msgstr "kääntää"
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "unorthodox"
+msgstr "epäortodoksinen"
+
+#: ../data/verbal_analogies.xml.h:186
+msgid "vegetable"
+msgstr "vihannes"
+
+#: ../data/verbal_analogies.xml.h:187
+msgid "whirlpool / water | tornado"
+msgstr "pyörre / vesi | pyörremyrsky"
+
+#: ../data/verbal_analogies.xml.h:188
+msgid "wild | savage"
+msgstr "kesytön | villi"
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "win"
+msgstr "voittaa"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "wind | air"
+msgstr "tuuli | ilma"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "wings"
+msgstr "siivet"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:193
+msgid "work"
+msgstr "työ"
+
+#. Body parts
+#: ../data/verbal_analogies.xml.h:194 ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "ranne"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "Valmistaudu muistamaan seuraavat objektit..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:64
+msgid "Total"
+msgstr "Yhteensä"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:371
+msgid "Logic"
+msgstr "Logiikka"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:376
+msgid "Calculation"
+msgstr "Laskenta"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:382
+msgid "Memory"
+msgstr "Muisti"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:388
+msgid "Verbal"
+msgstr "Sanalliset"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr "Pisteet"
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "Pelejä voitettu: {0} ({1} pelattu)"
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. Pelejä voitettu: {1} ({2} pelattu)"
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "Pelikertoja {0} (keskimääräinen peliaika {1})"
+
+#: ../src/Core/Views/FinishView.cs:165
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr "Lisätietoja gbrainyn pisteytysjärjestelmästä löytyy ohjeista."
+
+#: ../src/Core/Views/FinishView.cs:175
+msgid "Tips for your next games"
+msgstr "Vinkkejä seuraaviin peleihisi"
+
+#: ../src/Core/Views/FinishView.cs:203
+msgid "Congratulations! New personal record"
+msgstr "Onnittelut! Uusi henkilökohtainen ennätys"
+
+#: ../src/Core/Views/FinishView.cs:213
+#, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Saavutit {0} pistettä logiikkapeleissä, mikä on uusi henkilökohtainen "
+"ennätyksesi! Aikaisempi ennätyksesi oli {1}."
+
+#: ../src/Core/Views/FinishView.cs:219
+#, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Saavutit {0} pistettä päässälaskuissa, mikä on uusi henkilökohtainen "
+"ennätyksesi! Aikaisempi ennätyksesi oli {1}."
+
+#: ../src/Core/Views/FinishView.cs:225
+#, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+"Saavutit {0} pistettämuistipeleissä, mikä on uusi henkilökohtainen "
+"ennätyksesi! Aikaisempi ennätyksesi oli {1}."
+
+#: ../src/Core/Views/FinishView.cs:231
+#, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Saavutit {0} pistettä sanapeleissä, mikä on uusi henkilökohtainen "
+"ennätyksesi! Aikaisempi ennätyksesi oli {1}."
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "Logiikkapelejä, jotka koettelevat loogisen ajattelun kykyjäsi."
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr "Päässälaskuja, jotka testaavat laskutaitojasi."
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "Muistipelejä, jotka koettelevat lähimuistiasi."
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "Sanapelejä, jotka haastavat verbaaliset kykysi."
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "Tervetuloa gbrainy {0}:aan"
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr ""
+"gbrainy on aivojumppapeli, jonka kanssa voit pitää hauskaa ja harjoittaa "
+"aivojasi. Se sisältää:"
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "Voit vaihtaa pelin vaikeustasoa pelin asetuksista."
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "punainen"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "vihreä"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "sininen"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "keltainen"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "magenta"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "oranssi"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "musta"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "valkoinen"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "Oikea vastaus on {0}."
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:316
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:318
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:338
+#, csharp-format
+msgid "Figure {0}"
+msgstr "Kuva {0}"
+
+#: ../src/Core/Main/GameManager.cs:319
+msgid "Extensions database:"
+msgstr "Laajennuksien tietokanta:"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+"Rekisteröidyt pelit: {0}: {1} loogista pulmaa, {2} laskuharjoitetta, {3} "
+"muistiharjoitetta, {4} sanallista analogiaa"
+
+#: ../src/Core/Main/GameSession.cs:176
+#, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "Pelejä pelattu: {0} (pisteitä: {1})"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - Aika: {0}"
+
+#: ../src/Core/Main/GameSession.cs:180
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- Peli: {0}"
+
+#: ../src/Core/Main/GameSession.cs:193
+#, csharp-format
+msgid "Outstanding results"
+msgstr "Erinomaiset tulokset"
+
+#: ../src/Core/Main/GameSession.cs:195
+#, csharp-format
+msgid "Excellent results"
+msgstr "Erittäin hyvät tulokset"
+
+#: ../src/Core/Main/GameSession.cs:197
+#, csharp-format
+msgid "Good results"
+msgstr "Hyvät tulokset"
+
+#: ../src/Core/Main/GameSession.cs:199
+#, csharp-format
+msgid "Poor results"
+msgstr "Huonot tulokset"
+
+#: ../src/Core/Main/GameSession.cs:200
+#, csharp-format
+msgid "Disappointing results"
+msgstr "Pettymystä tuottavat tulokset"
+
+#: ../src/Core/Main/GameSession.cs:262
+msgid "Paused"
+msgstr "Keskeytetty"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid ""
+"Read the instructions carefully and identify the data and given clues."
+msgstr "Lue ohjeet huolellisesti sekä tutki annettuja tietoja ja vihjeitä."
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+"Pelaajan suoritus arvioidaan pelin läpäisyyn käytetyn ajan ja tarvittujen "
+"vihjeiden määrän perusteella."
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+"Logiikkapeleissä asiat, jotka vaikuttavat epäolennaisilta, voivat olla hyvin "
+"tärkeitä."
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr "Murtaudu mielen esteiden läpi ja tutki ongelmien rajoja."
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr "Nauti virheiden tekemisestä, ne ovat osa oppimisprosessia."
+
+#: ../src/Core/Main/GameTips.cs:61
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr ""
+"Yritä ratkaista kaikkia ongelmia, myös vaikeimpia. Kehityt harjoittelemalla."
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "Pelaa päivittäin, niin huomaat vaikutuksen pian."
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+"Käytä ”Mukautettu peli”- valintaa valitaksesi juuri ne pelit, joita haluat "
+"pelata."
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr ""
+"Mielleyhtymien muodostaminen kohteista on yleinen tekniikka asioiden "
+"muistamiseen."
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+"Esineiden ja asioiden lajittelu eri luokkiin on yleinen tapa pitää ne "
+"muistissa."
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+"Tee akronyymejä siten, että jokainen kirjain liittyy yhteen muistettavaan "
+"asiaan."
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr ""
+"Mitä enemmän kulutat aikaa jonkin ongelman kanssa, sitä enemmän nautit kun "
+"lopulta keksit ratkaisun."
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr "Yritä jakaa jokainen ongelmia yksinkertaisempiin osiin."
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr "Sanapeleissä kiinnitä huomiota sanojen painoon."
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "Paina alla olevat objektit mieleesi annetussa ajassa"
+
+#: ../src/Core/Main/Memory.cs:217
+msgid "Time left"
+msgstr "Aikaa jäljellä"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "Mahdolliset oikeat vastaukset ovat: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:90
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:63
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, csharp-format
+msgid "Multiple options #{0}"
+msgstr "Useita valitsimia #{0}"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} Vastaa {1}."
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:101
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:137
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:143
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:95
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:150
+#: ../src/Games/Logic/PuzzleSquareDots.cs:206
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "Mahdollisia vastauksia ovat:"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "Sanaparin vertailu #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr ""
+"Vertaa kahta alla olevaa sanaa. Mikä sana sopisi vastaavanlaiseksi pariksi "
+"sanalle ”{0}”?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#, csharp-format
+msgid "Words: {0}"
+msgstr "Sanat: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:39
+#, csharp-format
+msgid "Pair of words #{0}"
+msgstr "Sanapari #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:68
+#, csharp-format
+msgid ""
+"Given the relationship between the words '{0}', which of the possible "
+"answers has the closest in relationship to the given pair? Answer {1}."
+msgstr ""
+"Valitse sana, joka liittyy eniten annettuun sanapariin ”{0}”. Vastaa {1}."
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, csharp-format
+msgid "Question and answer #{0}"
+msgstr "Kysymys ja vastaus #{0}"
+
+#: ../src/Clients/Classical/gbrainy.cs:364
+msgid "Play all the games"
+msgstr "Pelaa kaikkia pelejä"
+
+#: ../src/Clients/Classical/gbrainy.cs:365
+msgid "All"
+msgstr "Kaikki"
+
+#: ../src/Clients/Classical/gbrainy.cs:370
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "Pelaa pelejä, jotka haastavat järkeilysi ja ajattelusi"
+
+#: ../src/Clients/Classical/gbrainy.cs:377
+msgid "Play games that challenge your mental calculation skills"
+msgstr "Pelaa pelejä, jotka haastavat päässälaskutaitosi"
+
+#: ../src/Clients/Classical/gbrainy.cs:383
+msgid "Play games that challenge your short term memory"
+msgstr "Pelaa pelejä, jotka haastavat lyhytaikaisen muistisi"
+
+#: ../src/Clients/Classical/gbrainy.cs:389
+msgid "Play games that challenge your verbal aptitude"
+msgstr "Pelaa pelejä, jotka haastavat sanalliset kykysi"
+
+#: ../src/Clients/Classical/gbrainy.cs:394
+#: ../src/Clients/Classical/gbrainy.cs:628
+msgid "Pause"
+msgstr "Tauko"
+
+#: ../src/Clients/Classical/gbrainy.cs:395
+msgid "Pause or resume the game"
+msgstr "Keskeytä tai jatka peliä"
+
+#: ../src/Clients/Classical/gbrainy.cs:400
+msgid "End the game and show score"
+msgstr "Päätä peli ja näytä pisteet"
+
+#: ../src/Clients/Classical/gbrainy.cs:401
+msgid "Finish"
+msgstr "Lopeta"
+
+#: ../src/Clients/Classical/gbrainy.cs:491
+msgid "Congratulations."
+msgstr "Onnittelut."
+
+#: ../src/Clients/Classical/gbrainy.cs:493
+msgid "Incorrect answer."
+msgstr "Väärä vastaus."
+
+#: ../src/Clients/Classical/gbrainy.cs:551
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr ""
+"Kun sinulla on vastaus, kirjoita se ”Vastaus:”-kenttään ja napsauta ”OK”-"
+"painiketta."
+
+#: ../src/Clients/Classical/gbrainy.cs:632
+msgid "Resume"
+msgstr "Jatka"
+
+#: ../src/Clients/Classical/gbrainy.cs:747
+#, csharp-format
+msgid "Startup time {0}"
+msgstr "Aloitusaika {0}"
+
+#: ../src/Clients/Classical/CommandLine.cs:105
+#, csharp-format
+msgid "(built on {0})"
+msgstr "(rakennettu koneella {0})"
+
+#: ../src/Clients/Classical/CommandLine.cs:117
+msgid "List of available games"
+msgstr "Lista pelattavissa olevista peleistä"
+
+#: ../src/Clients/Classical/CommandLine.cs:180
+msgid "Usage: gbrainy [options]"
+msgstr "Käyttö: gbrainy [asetukset]"
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "  --version\t\t\tPrint version information."
+msgstr "  --version\t\t\tTulosta versiotiedot"
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --help\t\t\tPrint this usage message."
+msgstr "  --help\t\t\tTulosta tämä käyttöohje"
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr "  --gamelist\t\t\tNäytätä listan pelattavissa olevista peleistä"
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+"  --customgame [peli1, peliN]\tMäärittelee oman (\"custom\") pelin aikana "
+"pelattavat pelit"
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+"  --norandom \t\t\tTarjottua omien pelien listaa ei laiteta "
+"satunnaisjärjestykseen."
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid "  --versions \t\t\tShow dependencies."
+msgstr "  --versions \t\t\t Näyttä riippuvuudet"
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:52
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Aapo Rantalainen https://launchpad.net/~aapo-rantalainen\n"
+"  Antti Kajander https://launchpad.net/~antti-kajander\n"
+"  Antti Nykänen https://launchpad.net/~troopperi-81\n"
+"  Birunthan Mohanathas https://launchpad.net/~biru\n"
+"  Heikki Mäntysaari https://launchpad.net/~heikki-mantysaari\n"
+"  Ilari Oras https://launchpad.net/~ilarioras\n"
+"  Jammi Vesterinen https://launchpad.net/~jmov\n"
+"  Jiri Grönroos https://launchpad.net/~jiri-gronroos\n"
+"  Joona Kannisto https://launchpad.net/~joona-kannisto\n"
+"  Jussi Aalto https://launchpad.net/~jtaalto\n"
+"  Jyri-Petteri Paloposki https://launchpad.net/~zeip\n"
+"  Markku Borén https://launchpad.net/~mobemu\n"
+"  Sakari Kurronen https://launchpad.net/~sakari-kurronen\n"
+"  T Kortehisto https://launchpad.net/~temakort\n"
+"  Timo Jyrinki https://launchpad.net/~timo-jyrinki"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:57
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+"Tämä on vapaa ohjelma: tätä ohjelmaa saa levittää edelleen ja muuttaa Free "
+"Software Foundationin julkaiseman GNU General Public Licensen (GPL-lisenssi) "
+"version 2 tai (valinnan mukaan) myöhemmän version ehtojen mukaisesti\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:58
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+"Tätä ohjelmaa levitetään siinä toivossa, että se olisi hyödyllinen mutta "
+"ilman mitään takuuta; edes hiljaista takuuta kaupallisesti hyväksyttävästä "
+"laadusta tai soveltuvuudesta tiettyyn tarkoitukseen. Katso GPL-lisenssistä "
+"lisää yksityiskohtia.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:59
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"Sinun olisi pitänyt saada kopio GNU:n GPL-lisenssistä tämän ohjelman mukana; "
+"jos et sitä saanut, niin lähetä kirje Free Software Foundation, Inc. :lle, "
+"59 Temple Place - Suite 330, Boston, MA 02111-1307, USA."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+msgstr ""
+"Perustuu Terry Stickelsiltä, MENSA-kirjoista ja Jordi Masilta saatuihin "
+"ideoihin."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:70
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr ""
+"Aivojumppapeli, jonka parissa voit pitää hauskaa ja harjoittaa aivojasi."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:72
+msgid "gbrainy web site"
+msgstr "gbrainyn kotisivu"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:67
+msgid "Game Name"
+msgstr "Pelin nimi"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:89
+msgid "Type"
+msgstr "Tyyppi"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:111
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution. "
+msgstr "Alla oleva graafi näyttää pelaajan pisteiden kehityksen. "
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr ""
+"Pelitapahtumia täytyy olla enemmän kuin yksi, jotta voit nähdä pistemääräsi "
+"kehittymisen."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] ""
+"Se on luotu käyttämällä tuloksia yhdestä edellisestä pelikerrasta."
+msgstr[1] "Se on luotu käyttämällä tuloksia {0} edelliseltä pelikerralta."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+msgid "You are about to delete the player's game session history."
+msgstr "Olet poistamassa pelaajan vanhojen pelikertojen tiedot."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+"Jos jatkat, kaikki tiedot vanhoista pelikerroista menetetään. Haluatko "
+"jatkaa?"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr "_Poista"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "Mukautettu peli"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "Valitse kaikki"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "Poista kaikki valinnat"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "Käynni_stä"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Player's Game Session History"
+msgstr "Pelaajan pelihistoria"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "Näytä:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>Vaikeustaso</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>Yleiset asetukset</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>Muistipelit</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>Pelaajan pelihistoria</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Delete Player's Game Session History"
+msgstr "Poista pelaajan pelihistoria"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "Helppo"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "Mestari"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of records in the player's game session history:"
+msgstr "Enimmäismäärä pelikertoja pelitapahtumahistoriassa."
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "Keskitaso"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played games to store the game session:"
+msgstr "Kuinka monta peliä vähintään tallennetaan yhdeltä pelikerralta:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "Näytä lähtölaskentaviesti"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "Ohita värejä käyttävät pelit (värisokeille käyttäjille)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "Haasteen muistiin painamiseen sallittava aika sekunneissa:"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+msgid "3D Cube"
+msgstr "3D-kuutio"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+#, csharp-format
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr ""
+"Montako pientä kuutiota tarvitaan alla olevan suuren kuution rakentamiseen? "
+"Vastaa numeroilla."
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr ""
+"Kuutio on tavallinen sileä kappale, jolla on kuusi neliön muotoista tahkoa "
+"(päätyseinää)."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "Tasapaino"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr ""
+"Montako kolmiota on lisättävä edellisen kuvan oikealle puolelle jotta se "
+"olisi tasapainossa."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr ""
+"Jokainen kolmio lasketaan yhdeksi, jokainen ympyrä kahdeksi ja jokainen "
+"neliö kolmeksi."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+msgid "Every circle counts as two triangles."
+msgstr "Jokainen ympyrä lasketaan kahdeksi kolmioksi."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "Rakenna kolmio"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"Mitkä kolme palaa on laitettava yhteen jotta saadaan aikaiseksi kolmio? "
+"Vastaa kolmella kuvan nimellä, esimerkiksi {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "Lopputuloksena syntyy tasakylkinen kolmio."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "Kolmio on:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+msgid "Circles in a square"
+msgstr "Ympyröitä neliössä"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr "Montako kuvassa olevaa ympyrää mahtuu alla olevan neliön sisään?"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "Ympyröitä mahtuu yli 64 kappaletta."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+"Näytetyssä asettelussa {0} korkeusyksikköä saadaan joka riviltä. Tämä "
+"mahdollistaa lisärivin käytön."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 yksikköä"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "1 yksikkö"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "Kellot"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr ""
+"Mihin numeroon tulisi kellon ”{0}” ison viisarin osoittaa? Vastaa käyttäen "
+"numeroa."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+"Aloittaen ensimmäisestä kellosta laske yhteen {0} viisarien osoittamien "
+"arvojen kanssa."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr "Kellot eivät toimi tavallisen ajan kulun mukaisesti."
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "Laske ympyrät"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "Montako ympyrää löydät?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "Tämä on helppoa, jos systemaattisesti lasket kaikki ympyrät."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "Laskeminen"
+
+#. Translators: {0} and {1} are always numbers greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:65
+#, csharp-format
+msgid ""
+"We have a {0} meters piece of fabric. Machine A takes {1} seconds to cut 1 "
+"meter of this fabric. How many seconds does Machine A take to cut the entire "
+"piece of fabric into 1 meter pieces?"
+msgstr ""
+"Käytössä on {0} metrin pätkä kangasta. Koneelta A kestää {1} sekuntia "
+"leikata metri kangasta. Kuinka kauan (sekunteina) koneelta A kuluu koko "
+"kangaspalan leikkaamiseen metrin mittaisiksi paloiksi."
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:69
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr ""
+"{0} leikkauksella kone A valmistaa kaksi metrin mittaista kangaspalaa."
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:79
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+"Aita rakennetaan neliön muotoisen alueen ympärille. {0} aidantolppaa "
+"käytetään neliön jokaisella sivulla. Kuinka monta aidantolppaa on yhteensä "
+"käytössä?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr ""
+"Aidantolppia on {0}, koska neliön kulmissa olevat tolpat ovat jaettuja."
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:92
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+"Juhlapäivän lahjan paketointi maksaa euron. Lahja maksaa {0} euroa enemmän "
+"kuin paketointi. Kuinka paljon lahjan ostaminen ja sen paketointi maksavat "
+"yhteensä?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:94
+msgid ""
+"Individually, the present costs one euro more to purchase than to wrap."
+msgstr ""
+"Jokaisen yksittäisen lahjan ostaminen maksaa euron enemmän kuin sen "
+"paketointi."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:39
+msgid "Count series"
+msgstr "Laske sarjoja"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:51
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr ""
+"Montako numeroa 9 tarvitaan ilmaisemaan kaikki luvut 10 ja 100 väliltä?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:56
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+"Montako sellaista kaksinumeroista lukua on olemassa, joissa ensimmäinen "
+"numero on toista suurempi (esimerkiksi 20 ja 21)?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+"Montako sellaista kaksinumeroista lukua on olemassa, joissa ensimmäinen "
+"numero on pienempi kuin toinen (esimerkiksi 12 ja 13)?"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr "Peittävyyden prosenttiosuus"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "Kuinka suuri osa kuviosta on väritetty?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "Kuutio"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When folded as a cube, which face on the figure is opposite the face with a "
+"{0} drawn on it? Answer the number written on face."
+msgstr ""
+"Kuvio taitellaan kuutioksi. Mikä numero on vastakkaisella puolella kuutiota "
+"kuin {0}?"
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Mikä todennäköisyys on saada 2 tai 6 yhdellä heitolla kuusisivuisella "
+"nopalla? Vastaa murtoluvulla (esim. 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr "Mahdollisuus on 2/6."
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Mikä todennäköisyys on olla saamatta 5 yhdellä kuusisivuisen nopan heitolla? "
+"Vastaa murtoluvalla (esim. 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr "Mahdollisuus on 5/6."
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Kaksi kuusisivuista noppa heitetään samanaikaisesti. Mikä todennäköisyys on "
+"saada kaksi parillista numeroa? Vastaa käyttämällä murtolukua (esim. 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting an even number."
+msgstr "Mahdollisuus saada tasaluku on 9/36"
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Kaksi kuusisivuista noppaa heitetään yhtä aikaa. Mikä todennäköisyys on "
+"saada kaksi 6:ta? Vastaa käyttäen murtolukua (esim. 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+"Mahdollisuus saada 6 ensimmäisellä nopalla on 1/6, ja sama toiselle nopalle."
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "Nopat"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr "Pilko ympyrät"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr ""
+"Kuinka moneen alueeseen ympyrä on jaettu, kun kaikki pisteet viimeisessä "
+"kuvassa on yhdistetty?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:113
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:128
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:145
+#, csharp-format
+msgid "Has {0} regions"
+msgstr "On {0} aluetta"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "Yhtälö"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "Mikä on alla olevan yhtälön tulos?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+"Laskutoimitusten järjestys on aina seuraava: potenssit ja juuret, kerto- ja "
+"jakolaskut, yhteen- ja vähennyslaskut."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr "Ylimääräinen ympyrä"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Mikä ympyrä ei kuulu ryhmään, eli ei sovi sarjaan? Vastaa {0}, {1}, {2} tai "
+"{3}."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr "Kaikilla ympyröillä yhtä lukuun ottamatta on yhteinen piirre."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+#, csharp-format
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr ""
+"Kaikissa ympyröissä tätä lukuun ottamatta värilliset sektorit seuraavat "
+"samaa järjestystä."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "Kuviot ja tekstit"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+"Kuviot ja tekstit liittyvät yhteen. Mikä teksti tulee viimeisen kuvion alle?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr "Jokainen tekstin merkki kuvaa kuvion ominaisuutta."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"\"A\" tarkoittaa, että kuviot ovat päällekäin, \"B\" tarkoittaa neliöitä ja "
+"\"C\" ympyröitä ja \"D\" sitä, että kuviot ovat erillisiä. \"E\" tarkoittaa "
+"kolmea kuviota ja \"F\" kahta."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr "Kuviojoukko"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "Mikä kuvio sopii kysymysmerkin tilalle? Vastaa {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+"Jokaisen rivin kolmas kuvio selviää yhdistämällä kaksi ensimmäistä kuviota "
+"jollain tavalla."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+"Aseta kaksi ensimmäistä kuviota päällekkäin ja poista niiden yhteiset janat. "
+"Käännä tuloksena saatua kuviota vielä 45 astetta."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "Kuvat"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+"Mitkä ovat loogisesti seuraavat kuviot viimeisessä sarakkeessa? Lue ohje "
+"vastauksen antotavasta vastatessasi."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+"Se on ainoa yhdistelmä, jonka voi koota annetuista osista käyttämättä yhtään "
+"osaa useammin kuin kerran."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr "Vastaustapa on:"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "Esim. {0}{1}{2} (viisikulmio, kolmio, ympryä)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "Nelisivuinen"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr ""
+"Kuinka monta nelisivuista kuviota voit laskea alla olevasta kuviosta?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "Nelisivuinen kuvio voi olla toisen kuvion sisällä."
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid ""
+"The four sided figures are made by connecting the following points: {0}"
+msgstr "Nelisivuiset kuviot muodostetaan yhdistämällä seuraavat pisteet: {0}"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "Kättelyt"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+"Kaikki juhlaan osallistujat esitellään toisilleen. Juhlissa kätellään "
+"yhteensä {0} kertaa. Kuinka monta osallistujaa juhlissa on?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr "Yritä ajatella tilannetta, jossa tapaat pienen joukon ihmisiä."
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr "Laajempi kuvio"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"Minkä laajemman kuvion saat aikaiseksi yhdistämällä kaksi ensimmäistä "
+"kuviota? Vastaa {0}, {1}, {2} tai {3}."
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "Viivat"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+"Kuinka monta viivan osaa on yhteensä alla olevissa kuvioissa? Viivan osaksi "
+"katsotaan kahden pisteen välillä oleva viiva, jota ei ylitä yksikään toinen "
+"viiva."
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr ""
+"Vasemmanpuoleisessa kuviossa on {0} viivaa ja oikeanpuoleisessa {1} viivaa."
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "Harjoitus on helpompi, kun lasket viivat järjestelmällisesti."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr "Taulukkoryhmät"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "Yksi numeroista täytyy ympyröidä. Mikä niistä?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr "Kaikki ympyröidyt luvut sisältävät laskuopillisen ominaisuuden."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "Jokainen ympyröity numero  voidaan jakaa numerolla {0}."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr "Luvut taulukossa"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+"Numerot matriisissa ovat tietyn kuvion mukaisia. Mikä numero tulisi "
+"sijoittaa kysymysmerkin tilalle?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr "Kuvio on aritmeettinen ja toimii pystysuuntaisesti."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "Kuvio on aritmeettinen ja toimii vaakasuuntaisesti."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+"Neljäs rivi lasketaan kertomalla kaksi ensimmäistä riviä keskenään ja "
+"lisäämällä tulokseen kolmas rivi."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:69
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+"Neljäs sarake lasketaan kertomalla kaksi ensimmäistä saraketta keskenään ja "
+"lisäämällä tulokseen kolmas sarake."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:74
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+"Neljäs rivi lasketaan kertomalla kaksi ensimmäistä riviä keskenään ja "
+"vähentämällä tuloksesta kolmas rivi."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:76
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+"Neljäs sarake lasketaan kertomalla kaksi ensimmäistä saraketta keskenään ja "
+"vähentämällä tuloksesta kolmas sarake."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:81
+#, csharp-format
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+"Neljäs rivi lasketaan summaamalla kaksi ensimmäistä riviä ja vähentämällä "
+"tuloksesta kolmas rivi."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:83
+#, csharp-format
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+"Neljäs sarake lasketaan summaamalla kaksi ensimmäistä saraketta ja "
+"vähentämällä tuloksesta kolmas sarake."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "Puuttuva pala"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr ""
+"Mikä neliöistä täydentää alla olevan kuvion? Vastaa {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr "Logiikka pätee riveittäin."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"Joka rivin kolmas neliö muodostetaan kääntämällä ensimmäinen neliö, "
+"asettamalla se toisen neliön päälle ja poistamalla yhteiset janat."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "Puuttuva siivu"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+"Joillain sektoreilla on yhteinen ominaisuus. Mikä sektori puuttuu alla "
+"olevasta ympyrästä? Vastaa {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "Jokainen sektori liittyy vastakkaiseen sektoriin."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr "Vastakkaisten sektorien sisältämien lukujen summa on aina {0}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr "Eniten yhteisiä ominaisuuksia"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Millä vastausvaihtoehdolla on eniten yhteistä neljän annetun kuvion kanssa? "
+"Vastaa {0}, {1}, {2} tai {3}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "Tarkastele yhteisiä osia annettujen kuvioiden sisällä."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr ""
+"Kuvion sisällä on sama määrä elementtejä kuin annettujen kuvioiden lukumäärä."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr ""
+"Vastaus on kuvio, jonka sisällä on eniten elementtejä (verrattuna muihin "
+"kuvioihin)."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "Kuvion siirtäminen"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+"Mikä on pienin siirrettävien ympyröiden lukumäärä, jolla vasemmasta kuvasta "
+"saadaan oikea kuva?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"Siirrä ympyrää ensimmäiseltä riviltä toiselle ja siirrä kahta ympyrää "
+"neljänneltä riviltä toiselle ja viidennelle riville."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+"Siirrä ensimmäinen rivi seitsemännelle, kahta ympyrää toiselta kolmannelle "
+"sekä ensimmäinen ja viimeinen viidennen rivin ympyrä kuudennelle."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "Seuraava kuvio"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "Mikä on seuraava kuvio sarjassa? Vastaus {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+#, csharp-format
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+"Ensimmäisessä kuvassa ylimmäinen ympyrä siirtyy kaksi askelta myötäpäivään "
+"ja vasen ympyrä siirtyy yhden askeleen vastapäivään."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:38
+msgid "Numeric relation"
+msgstr "Lukusuhde"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:42
+msgid "What number should replace the question mark?"
+msgstr "Mikä luku tulisi sijoittaa kysymysmerkin paikalle?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "The numbers are related arithmetically."
+msgstr "Luvut liittyvät toisiinsa aritmeettisesti."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:53
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr "Jokaisen {0} luvun ryhmän summa on tasan {1}."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:55
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+"Jaa sarja kolmen luvun ryhmiin. Joka kolmas luku lasketaan kertomalla kaksi "
+"edellistä keskenään."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+"Jaa sarja kolmen luvun ryhmiin. Joka ryhmän kolmas luku lasketaan "
+"vähentämällä toinen luku ensimmäisestä."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:35
+msgid "Numeric sequence"
+msgstr "Lukusarja"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:39
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr ""
+"Mikä luku tulisi sijoittaa kysymysmerkin kohdalle, jotta sarjan loogisuus "
+"pätee?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:43
+msgid "Every number in the sequence is related to the previous one."
+msgstr "Sarjan jokainen luku liittyy edelliseen lukuun."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+"Jokainen sarjan luku on edellinen vähennettynä yhdellä ja kerrottuna "
+"kahdella."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:52
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+"Jokainen sarjan luku on edellinen lisättynä yhdellä ja kerrottuna kolmella."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+"Jokainen sarjan luku on edellinen vähennettynä kahdella ja kerrottuna "
+"kahdella."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "Ei kuulu joukkoon"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Mikä seuraavista ei kuulu joukkoon? Vastaus ei liity lukujen jaollisuuteen. "
+"Vastausvaihtoehdot: {0}, {1}, {2}, {3} ja {4}."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+"Kriteerit, joiden mukaan päätetään kuuluuko yhtälö joukkoon, eivät ole "
+"aritmeettiset."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr ""
+"Huomioi, että jokaisella ryhmään kuuluvalla luvulla on kaksi toisiinsa "
+"liittyvää osaa."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+"Kaikissa muissa yhtälöissä vasemmalla puolella olevat luvut esiintyvät myös "
+"oikealla puolella."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr ""
+"Kaikkien muiden lukujen kolme viimeistä numeroa ovat ensimmäisten kahden "
+"numeron toinen potenssi."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Jos kaikki maalaajat ovat taiteilijoita ja jotkut Barcelonassa asuvista ovat "
+"taiteilijoita, mikä seuraavista väitteistä on tosi? Vastaa {0}, {1}, {2} tai "
+"{3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "Jotkut barcelonalaiset ovat maalajia"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "Kaikki barcelonalaiset ovat maalaajia"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "Kukaan barcelonalainen ei ole maalaaja"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "Ei mikään muista valinnoista"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Jos yksikään kipeä taiteilija ei ole onnellinen ja jotkut taitelijat ovat "
+"onnellisiä, mikä seuraavista väitteistä on tosi? Vastaa {0}, {1}, {2} tai "
+"{3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "Jotkut taiteilijat eivät ole kipeitä"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "Jotkut maalaajat eivät ole taiteilijoita"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "Kaikki taiteilijat ovat onnellisia"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Matkustavat ihmiset ostavat aina kartan. Sinä et aio matkustaa. Mikä "
+"seuraavista lauseista pitää paikkaansa? Vastaa {0}, {1}, {2} tai {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "Sinulla ei ole karttaa"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "Et osta karttaa"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "All people have a map"
+msgstr "Kaikilla ihmisillä on kartta"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Viheltelet jos olet iloinen ja hymyilet aina kun viheltelet. Mitkä "
+"seuraavista lauseista ovat oikein? Vastausvaihtoehdot: {0}, {1}, {2} ja {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "Hymyilet jos olet onnellinen"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "Olet onnellinen vain kun vihellät"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "Vihellät jos et ole onnellinen"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Predicate Logic"
+msgstr "Väittämien logiikka"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "Kynä"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Mitä seuraavista kuvioista ei voi piirtää ylittämättä aiemmin piirrettyjä "
+"viivoja tai nostamatta kynää? Vastaa {0}, {1}, {2}, {3} tai {4}."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "Ihmiset pöydän ääressä"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"Ryhmä ihmisiä istuu tasaisesti pyöreän pöydän ympärillä Kuinka monta ihmistä "
+"on yhteensä, jos henkilö {0} on vastapäätä henkilöä {1}?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"Vähentämällä toisesta istumapaikasta toisen on mahdollista selvittää, kuinka "
+"monta ihmistä istuu puolikkaassa pöydästä. Tämän lukumäärän "
+"kaksinkertaistaminen kertoo ihmisten kokonaismäärän."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "5."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "19."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "4."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "12."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "9."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "22."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "Kaksi ihmistä istuu pöydän ääressä toisiaan vastapäätä"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "Prosentit"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+"{0} % alennuksessa televisio maksaa {1} rahayksikköä. Mikä on television "
+"alkuperäinen hinta?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:95
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+"Jaakon kaupan myynti oli {0} rahayksikköä, mikä oli {1}% enemmän kuin "
+"edellisessä kuussa. Mikä oli myynti edellisessä kuussa?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:110
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+"Ämpärissä olevan veden määrä vähenee {0} %. Kuinka monella prosentilla "
+"vesimäärän on noustava, jotta se olisi taas yhtä suuri kuin ennen "
+"vähentämistä?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:113
+msgid "The objective is to obtain the same total amount."
+msgstr "Tavoitteena on saada sama kokonaismäärä."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "Nelikulmiot"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr ""
+"Mikä seuraavista kuvioista ei kuulu joukkoon? Vastaa {0}, {1}, {2}, {3}, {4} "
+"tai {5}."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "Se on ainoa kuvio, jonka kaikki viivat ovat yhtä pitkiä."
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:92
+msgid "Square with dots"
+msgstr "Neliö jossa on pisteitä"
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:97
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr "Mikä on sarjan seuraava kuvio? Vastaa {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "Neliöt ja kirjaimet"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"Neliöiden ympärillä olevat kirjaimet ovat tietyn kuvion mukaisia. Mikä "
+"kirjain tulisi sijoittaa viimeisessä neliössä olevan kysymysmerkin paikalle."
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+"Jokainen kirjain on laskettu ottamalla sitä aakkosissa edeltävän kirjaimen "
+"sijainti lukuna ja lisäämällä siihen {0} jolloin tuloksena on uuden "
+"kirjaimen sijainti."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr "Neliöt"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "Kuinka monta minkä tahansa kokoista neliötä löydät kuviosta?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+"Neliö on suorakulmio, jonka kaikki sivut ovat saman pituisia. Neliö voidaan "
+"muodostaa myös muista neliöistä."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"Kuvassa on 16 neliötä, 9 neliötä jotka koostuvat 4 neliöstä, 4 neliötä jotka "
+"muodostuvat 9 neliöstä sekä 1 neliö joka muodostuu 16 neliöstä."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"Kuvassa on 9 neliötä, 4 neliötä jotka koostuvat 4 neliöstä sekä 1 neliö joka "
+"koostuu 9 neliöstä."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr "Neliöarkit"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+"Mikä on pienin neliönmuotoisten, minkä tahansa kokoisten paperiarkkien "
+"lukumäärä, joilla kuva voidaan luoda? Viivat merkitsevät eri arkkien välisiä "
+"reunoja."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr "Paperiarkkien tulee mennä päällekkäin."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr "Luvut kuvassa kuvaavat kunkin paperiarkin päällystämää aluetta."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr "Tetris"
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr "Mikä kuvio täydentää alla olevan sarjan? Vastaa {0}, {1} tai {2}."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+"Se on kuvio, joka täydentää kaikki mahdolliset yhdistelmät neljällä "
+"palikalla ottamatta huomioon kiertämistä."
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr "Aika tällä hetkellä"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#. 
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+"{0} tuntia sitten kello oli yhtä paljon  {1:%H} jälkeen kuin se oli {2:%H} "
+"ennen samana päivänä. Mitä kello on nyt? Vastaa käyttäen tuntia (e.g.: "
+"{3:%H})."
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+"Tunti tulee laskea annetuista kellonajoista, eli mistä tunnista annettuihin "
+"kellonaikoihin on yhtä pitkä aika. Lisää sitten {0} tuntia muuntaaksesi sen "
+"nykyiseksi ajaksi."
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:%H}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr "Esimerkkikello"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+msgid "Trains"
+msgstr "Junat"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr "Etäisyyden lauseke on \"etäisyys = nopeus x aika\"."
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+"Juna lähtee asemalta nopeudella {0} km/h. Tunnin kuluttua lähtee toinen juna "
+"samaan suuntaan nopeudella {2} km/h. Kuinka monen tunnin kuluttua "
+"jälkimmäinen juna ohittaa ensimmäisen junan?"
+msgstr[1] ""
+"Juna lähtee asemalta nopeudella {0} km/h. {1} tunnin kuluttua lähtee toinen "
+"juna samaan suuntaan nopeudella {2} km/h. Kuinka monen tunnin kuluttua "
+"jälkimmäinen juna ohittaa ensimmäisen junan?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+#, csharp-format
+msgid ""
+"You can calculate the answer multiplying the second train speed by the time "
+"and dividing it by the difference of speeds."
+msgstr ""
+"Voit laskea tuloksen kertomalla jälkimmäisen junan nopeuden lähtöaikojen "
+"erolla ja jakamalla näin saadun luvun nopeuksien erotuksella."
+
+#. Translators:
+#. - {0}, {1} and {3} are always greater than 2
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:104
+#, csharp-format
+msgid ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr ""
+"Kaksi junaa ovat {0} kilometrin päässä toisistaan samansuuntaisilla "
+"raiteilla ja lähestyvät toisiaan. Ensimmäisen nopeus on {1} km/h ja toisen "
+"{2} km/h. Kuinka monen tunnin kuluttua junat kohtaavat?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:128
+#, csharp-format
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr "Voit laskea vastauksen jakamalla etäisyyden nopeuksien summalla."
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:125
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr ""
+"Kaksi junaa lähtevät samasta paikasta vastakkaisiin suuntiin nopeuksilla {0} "
+"km/h ja {1} km/h. Kuinka monen tunnin kuluttua junat ovat {2} kilometrin "
+"päässä toisistaan?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "Kolmiot"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "Kuinka monta minkä tahansa kokoista kolmiota löydät kuviosta?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "Kolmio voi sijaita toisen kolmion sisällä."
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr "Kolmiot tehdään yhdistämällä seuraavat pisteet: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr "Kolmiot luvuilla"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "Minkä luvun tulisi korvata alla oleva kysymysmerkki?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr "Kaikki kolmiot jakavat ominaisuuden ja ovat muista riippumattomia."
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid ""
+"The result of multiplying the two numbers inside every triangle is {0}."
+msgstr ""
+"Kaikkien kolmioiden sisällä olevien kahden luvun kertomisen tulos on {0}."
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "Väritetyt kuviot"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Mikä näistä kuvioista näytettiin aiemmin? Vastaa {0}, {1}, {2} tai {3}."
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "Väritetty teksti"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "Mikä oli tekstin väri, jossa luki ”{0}”?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "Pisteiden laskeminen"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr ""
+"Montako värin {0} pistettä oli edellisessä kuvassa? Vastaa käyttäen lukua."
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr "Asioiden mieleen painaminen"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr ""
+"Kiiltävät autot Oy oli jo ilmoittanut {0}-päiväisestä tuotannon "
+"pysäyttämisestä seuraavassa kuussa, mutta ennen sitä se ei ollut leikannut "
+"tuotantoaan sitten vuoden {1}."
+
+#: ../src/Games/Memory/MemoryFacts.cs:110
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "Kuinka moneksi päiväksi Kiiltävät autot Oy keskeytti tuotantonsa?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:111
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr ""
+"Minä vuonna Kiiltävät autot Oy edellisen kerran keskeytti tuotantonsa?"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:119
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+"Kiiltävät autot Oy:n myynti putosi {0}% viime joulukuussa, pahin pudotus "
+"sitten vuoden {1}."
+
+#: ../src/Games/Memory/MemoryFacts.cs:121
+msgid "By how much did company sales fall last December?"
+msgstr "Kuinka paljon yrityksen myynti putosi viime joulukuussa?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:122
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+"Minä vuonna Kiiltävät autot Oy:n kokonaismyynti oli viime joulukuuta "
+"alhaisempi?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:127
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr ""
+"Noin {0}% maailmanlaajuisesti tuotetuista Kiiltävät autot Oy:n autoista "
+"myydään Euroopassa."
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr ""
+"Montako prosenttia kaikista maailmanlaajuisesti tuotetuista Kiiltävät autot "
+"Oy:n autoista myydään Euroopassa?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:135
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+"Noin {0}% Kiiltävät autot Oy:n autoista käyttää dieseliä, {1}% bensiiniä ja "
+"loput sähköä."
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "Montako prosenttia Kiiltävät autot Oy:n autoista käyttää dieseliä?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:138
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "Montako prosenttia Kiiltävät autot Oy:n autoista käyttää bensiiniä?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memory figures"
+msgstr "Kuvioiden mieleen painaminen"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr ""
+"Missä solussa on alla näytetyn kaltainen kuvio? Vastaa solun numerolla."
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "Kolmio"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+msgid "Square"
+msgstr "Neliö"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+msgid "Pentagon"
+msgstr "Viisikulmio"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "Kuvioiden ja tekstin muistiin painaminen"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+"Alla olevassa kuvassa on numeroitu edellisessä kuvassa olleet kohteet yhtä "
+"lukuun ottamatta. Mikä puuttuu? Mahdollisia vastauksia ovat kolmio, neliö, "
+"viisikulmio ja ympryä."
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr "Kuvioita lukujen kanssa"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Mikä näistä neliöistä näytettiin aiemmin? Vastaa {0}, {1}, {2} tai {3}."
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "Aloita pisteestä numero {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "Siirrä oikealle"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "Siirrä vasemmalle"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "Siirrä ylös"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "Siirrä alas"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr "Lopeta pisteeseen {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr "Ohjeiden mieleen painaminen"
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Mikä seuraavista kuvaa aiemmin annettuja ohjeita? Vastaa {0}, {1}, {2} tai "
+"{3}."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid ""
+"How many odd numbers were in the previous image? Answer using numbers."
+msgstr ""
+"Montako paritonta lukua oli edellisessä kuvassa? Vastaa käyttäen numeroita."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid ""
+"How many even numbers were in the previous image? Answer using numbers."
+msgstr ""
+"Montako parillista lukua oli edellisessä kuvassa? Vastaa käyttäen numeroita."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+"Kuinka monta useamman kuin yhden numeron lukua oli edellisessä kuvassa? "
+"Vastaa numeroin."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "Lukujen muistaminen"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "Sanojen muistaminen"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+#, csharp-format
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "Seuraavasta luettelosta puuttuu sana. Mikä sana puuttuu?"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "kyynärpää"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "kainalo"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "käsi"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "rintakehä"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "sardiini"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "taimen"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "merikrotti"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "turska"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "lohi"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "peruna"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "inkivääri"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "pippuri"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "valkosipuli"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "kurpitsa"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "jarru"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "poljin"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "ketju"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "pyörä"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "ohjaustanko"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "rumpali"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "kaiutin"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "sanoitus"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "rytmi"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "kappale"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "pilvi"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "sade"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "myrsky"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "sumu"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "sateenkaari"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "jänis"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "hiiri"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "apina"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "karhu"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "susi"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "Aritmeettinen"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "Mikä on seuraavan aritmeettisen laskuoperaation tulos?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "Keskiarvo"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+"Otetaan luvut {0}. Mikä seuraavista numeroista on lähinnä keskiarvoa? Vastaa "
+"{1}, {2}, {3} tai {4}."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr "Lukujen keskiarvo on lukujen summa jaettuna lukujen lukumäärällä."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "Operaation tulos on {0:##0.###}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "Lähin murtoluku"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr ""
+"Mikä seuraavista luvuista on lähempänä {0:##0.###}? Vastaa {1}, {2}, {3} tai "
+"{4}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "Operaation {0} / {1} tulos on {2:##0.###}"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "Murtoluvut"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+#, csharp-format
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr ""
+"Mikä on annetun operaation tulos? Vastaa käyttäen murtolukua tai lukua."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "Suurin jakaja"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers?"
+msgstr "Mikä mahdollisista jakajista on suurin, joka jakaa kaikki luvut?"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:236
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr "Luvut"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:250
+msgid "Possible divisors"
+msgstr "Mahdolliset jakajat"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+msgid "Operators"
+msgstr "Operaattorit"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "Ensimmäinen operaattori on {0}."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid ""
+"Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr ""
+"Millä operaattoreilla saadaan luvuista {0}, {1} ja {2} muodostettua {3}? "
+"Vastaa käyttäen \"+-/*\"."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} ja {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "Alkuluvut"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr ""
+"Mikä alla olevista luvuista on alkuluku? Alkuluku on positiivinen "
+"kokonaisluku, jolla on tasan kaksi eri positiivista mahdollista jakajaa, 1 "
+"ja luku itse."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+"Jos kaikki luvussa esiintyvät numerot ovat jaollisia kolmella, niin on myös "
+"kyseinen luku. Esimeriksi 15 = 1 + 5 = 6, joka on jaollinen kolmella."
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "Verrannot"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "Kuinka paljon on {0}% luvusta {1}/{2}? Vastaa {3}, {4}, {5} tai {6}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "Suhde"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Kahden luvun summa on {0} ja suhde {1}/{2}. Mitkä ovat mahdollisia "
+"numeroita? Vastaa numeroilla (esim. 1 ja 2)."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+"Toinen luku lasketaan kertomalla ensimmäinen luvulla {0} ja jakamalla se "
+"luvulla {1}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+"Suhde kertoo kahden luvun välisen suuruussuhteen. Suhde a:b tarkoittaa että "
+"jokaista \"a\" osaa kohden on olemassa \"b\" osaa."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr "x + y = {0}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "on suhde {0}:{1}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "Kaksi lukua"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Minkä kahden luvun summa on {0} ja tulo {1}? Vastaa numeroilla (esim. 1 ja "
+"2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Minkä kahden luvun erotus on {0} ja tulo {1}? Vastaa numeroilla (esim. 1 ja "
+"2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, csharp-format
+msgid "x - y = {0}"
+msgstr "x - y = {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr "x * y = {0}"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "Kaikki pelit (logiikka, laskenta, muisti ja sanalliset analogiat)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "Vastaus:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "Mukautettu pelin valinta..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "Laajennukset"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "Kuinka laajentaa gbrainyn toiminnallisuutta"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "Vain loogiset pulmat"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "Vain muistiharjoitteet"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "Vain laskentaharjoitteet"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "Työkalupalkki"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "Vain sanalliset analogiat"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "_Sisältö"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "_Lopeta peli"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "_Peli"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "O_hje"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "_Uusi peli"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "Se_uraava"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "_Tauko"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "A_setukset"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "_Vinkki"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "_Näytä"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr "<b>Valitse asennettavat lisäosat</b>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>Lisäosien hallinta</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "Lisäosa"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "Lisäosan riippuvuudet:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "Lisäosan asennus"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "Lisäosien hallinta"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "Tämän toiminnon suorittaminen vaatii lisäosia."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "Kaikki rekisteröidyt pakettivarastot"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "Tekijä:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "Selaa..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "Tekijänoikeudet:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "Asenna lähteestä:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "Nimi"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "Muu"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "Polku:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "Rekisteröi paikallinen pakettivarasto"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "Rekisteröi pakettivarasto verkosta"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "Pakettivarasto"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "Valitse k_aikki"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "Valitse rekisteröitävän pakettivaraston sijainti:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "Näytä kaikki paketit"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "Näytä vain uudet versiot"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "Näytä vain päivitykset"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "Seuraavat lisäosat ovat asennettuna tällä hetkellä:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "Seuraavat lisäosat tullaan asentamaan:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "Url"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "Url:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "Versio"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "Versio:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "_Asenna lisäosia..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "_Pakettivarastot..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "Poista asenn_us..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "P_oista kaikki valinnat"
+
+#~ msgid "Water polo"
+#~ msgstr "Vesipoolo"
+
+#~ msgid "Multiple options"
+#~ msgstr "Useita vaihtoehtoja"
+
+#~ msgid "Question and answer"
+#~ msgstr "Kysymys ja vastaus"
+
+#~ msgid "Pair of words"
+#~ msgstr "Sanaparit"
+
+#~ msgid "<b>Player's Game History</b>"
+#~ msgstr "<b>Pelaajan pelihistoria</b>"
+
+#~ msgid "Clear Player's Game History"
+#~ msgstr "Tyhjennä pelaajan pelihistoria"
+
+#~ msgid "Player's Game History"
+#~ msgstr "Pelaajan pelihistoria"
+
+#~ msgid "wild"
+#~ msgstr "villi"
+
+#~ msgid "Every diamond counts as two triangles."
+#~ msgstr "Jokainen timantti vastaa kahta kolmiota."
+
+#, csharp-format
+#~ msgid "E.g: {0}{1}{2} (diamond, triangle, circle)"
+#~ msgstr "Esim.: {0}{1}{2} (timantti, kolmio, ympyrä)"
+
+#~ msgid "emblem"
+#~ msgstr "tunnus"
+
+#~ msgid "John's father's sister's sister-in-law is also?"
+#~ msgstr "Matin isän siskon käly on myös?"
+
+#~ msgid "An artist that has became an enduring icon is?"
+#~ msgstr "Artisti, josta on tullut pysyvä ikoni, on?"
+
+#, csharp-format
+#~ msgid ""
+#~ "By scoring {0}% in verbal analogies you have established a new personal "
+#~ "record. Your previous record was {1}%."
+#~ msgstr ""
+#~ "Olet tehnyt uuden henkilökohtaisen ennätyksesi sanapeleihin saavuttamalla "
+#~ "pistemäärän {0}%. Edellinen ennätyksesi oli {1}%."
+
+#, csharp-format
+#~ msgid ""
+#~ "By scoring {0}% in logic puzzle games you have established a new personal "
+#~ "record. Your previous record was {1}%."
+#~ msgstr ""
+#~ "Olet tehnyt uuden henkilökohtaisen ennätyksesi logiikkapeleissä "
+#~ "saavuttamalla pistemäärän {0}%. Edellinen ennätyksesi oli {1}%."
+
+#, csharp-format
+#~ msgid ""
+#~ "By scoring {0}% in memory games you have established a new personal record. "
+#~ "Your previous record was {1}%."
+#~ msgstr ""
+#~ "Olet tehnyt uuden henkilökohtaisen ennätyksesi muistipeleissä saavuttamalla "
+#~ "pistemäärän {0}%. Edellinen ennätyksesi oli {1}%."
+
+#~ msgid "button / push | key"
+#~ msgstr "nappula / painaa | avain"
+
+#~ msgid "_FullScreen"
+#~ msgstr "_Kokoruutu"
+
+#~ msgid "Maximum number of stored games in the player's game history:"
+#~ msgstr "Suurin määrä tallennettuja pelejä pelaajan pelihistoriassa:"
+
+#~ msgid ""
+#~ "Do all the problems, even the difficult ones. Improvement comes from "
+#~ "practising."
+#~ msgstr "Tee kaikki ongelmat, jopa vaikeat. Harjoitus tekee mestarin."
+
+#~ msgid "Pair of words compare"
+#~ msgstr "Sanaparien vertailu"
+
+#, csharp-format
+#~ msgid "You need more than one game recorded to see the score evolution."
+#~ msgid_plural "It is built using the results of {0} last recorded games."
+#~ msgstr[0] ""
+#~ "Pelejä on oltava pelattuna enemmän kuin yksi jotta pistemäärän kehitys "
+#~ "voidaan näyttää."
+#~ msgstr[1] "Se on luotu {0} edellisen pelin perusteella."
+
+#~ msgid "Every triangle counts as 1, each diamond as 2 and each square as 3."
+#~ msgstr "Kolmion massa on 1, timantin 2 ja neliön 3."
+
+#~ msgid "Circles in a rectangle"
+#~ msgstr "Ympyröitä suorakulmiossa."
+
+#~ msgid "Operator"
+#~ msgstr "Operaattori"
+
+#~ msgid "Verbal analogies"
+#~ msgstr "Sanalliset analogiat"
+
+#, csharp-format
+#~ msgid "Read a total of {0} verbal analogies"
+#~ msgstr "Luettiin yhteensä {0} sanallista analogiaa"
+
+#, csharp-format
+#~ msgid "Read {0} verbal analogies of type {1}"
+#~ msgstr "Luettiin {0} sanallista analogiaa, tyyppiä {1}"
+
+#, csharp-format
+#~ msgid "Games played: {0} ({1}% score)"
+#~ msgstr "Pelejä pelattu: {0} (tulos {1}%)"
+
+#~ msgid ""
+#~ "'A' indicates that the figures overlap, 'B' that are rectangles, 'C' that "
+#~ "are circles, 'D' that the figures are separated, 'E' that there are three "
+#~ "figures and 'F' that there are two figures."
+#~ msgstr ""
+#~ "”A” tarkoittaa että kuviot ovat toistensa päällä, ”B” tarkoittaa "
+#~ "suorakulmioita, ”C” ympyröitä, ”D” että kuviot ovat erillään, ”E” kolmea "
+#~ "kuviota ja ”F” kahta kuviota."
+
+#~ msgid "Rectangle"
+#~ msgstr "Suorakulmio"
+
+#~ msgid "Diamond"
+#~ msgstr "Timantti"
+
+#~ msgid "tear | rips"
+#~ msgstr "revetä | repeämät"
+
+#, csharp-format
+#~ msgid ""
+#~ "Which element does not belong to the group? Answer {0}, {1}, {2}, {3} or {4}."
+#~ msgstr "Mikä osa ei kuulu joukkoon? Vastaa {0}, {1}, {2}, {3} tai {4}."
+
+#, csharp-format
+#~ msgid ""
+#~ "How many cubes do you count in the figure below? (not counting the figure) "
+#~ "Answer using a number."
+#~ msgstr ""
+#~ "Montako kuutiota löydät alla olevasta kuvasta (älä laske kuvaa itsessään). "
+#~ "Vastaa käyttäen lukua."
+
+#, csharp-format
+#~ msgid ""
+#~ "Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers?"
+#~ msgstr ""
+#~ "Kahden luvun summa on {0} ja niillä on suhde {1}:{2}. Mitkä nämä luvut ovat?"
+
+#, csharp-format
+#~ msgid "number1 + number2 = {0}"
+#~ msgstr "luku1 + luku2 = {0}"
+
+#, csharp-format
+#~ msgid "Which two numbers when added are {0} and when multiplied are {1}?"
+#~ msgstr "Mitkä kaksi lukua summattuna ovat {0} ja kerrottuna {1}?"
+
+#, csharp-format
+#~ msgid "number1 * number2 = {0}"
+#~ msgstr "luku1 * luku2 = {0}"
+
+#, csharp-format
+#~ msgid ""
+#~ "Which two numbers when subtracted are {0} and when multiplied are {1}?"
+#~ msgstr "Mitkä kaksi lukua vähennettynä ovat {0} ja kerrottuna {1}?"
+
+#, csharp-format
+#~ msgid "number1 - number2 = {0}"
+#~ msgstr "luku1 - luku2 = {0}"
+
+#~ msgid "track | railway"
+#~ msgstr "rata | junarata"
+
+#, csharp-format
+#~ msgid ""
+#~ "If you whistle if you are happy and you only smile when you whistle. Which "
+#~ "of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+#~ msgstr ""
+#~ "Oletetaan, että vihellät ollessasi onnellinen ja hymyilet vain kun vihellät. "
+#~ "Mikä seuraavista väittämistä pitää paikkansa? Vastaa {0}, {1}, {2} vai {3}."
+
+#~ msgid "Minimum number of played puzzles to store the game:"
+#~ msgstr "Pienin pelattujen pulmien määrä pelin tallennukseen:"
+
+#~ msgid "cage | zoo"
+#~ msgstr "häkki | eläintarha"
+
+#~ msgid ""
+#~ "The list below enumerates the figures shown in the previous image except for "
+#~ "one. Which is the missing figure? Possible answers are triangle, rectangle, "
+#~ "diamond and circle."
+#~ msgstr ""
+#~ "Alla oleva luettelo sisältää kaikki edellisen kuvan kuviot, lukuun ottamatta "
+#~ "yhtä. Mikä on puuttuva kuvio? Mahdollisia vastauksia ovat kolmio, "
+#~ "suorakulmio, vinoneliö ja ympyrä."

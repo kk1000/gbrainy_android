@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="multiplayer" xml:lang="hi">
+
+  <info>
+    <link type="guide" xref="index#multi"/>
+  	<desc>अन्य लोगों के साथ कैसे खेलें </desc>
+  	<!-- Taken from GNOME Tetravex -->
+    <revision pkgversion="2.30" version="0.1" date="2009-12-18" status="draft"/> 
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>अन्य लोगों के साथ खेलो</title>
+
+  <p>इंटरनेट या एक स्थानीय नेटवर्क में <app>जी बरैनी </app> खेला नहीं जा सकता</p>
+</page>

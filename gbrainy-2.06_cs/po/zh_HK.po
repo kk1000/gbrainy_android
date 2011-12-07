@@ -1,0 +1,3672 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy 1.51\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-24 19:55+0800\n"
+"PO-Revision-Date: 2010-08-24 19:57+0800\n"
+"Last-Translator: Tryneeds-Chinese <tryneeds@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:33
+#, fuzzy
+#| msgid ""
+#| "John's is 46 years old. His son is [difference] years younger than half "
+#| "of John's age. How old is John's son?"
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] "約翰目前 46 歲，他兒子的年紀比約翰年紀的一半還要小 [difference] 歲。請問，約翰兒子目前幾歲？"
+
+#: ../tools/GameXmlGetString.cs:37
+#, fuzzy
+#| msgid ""
+#| "John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+#| "[proportion] times older than his son. How old is John's son nowadays?"
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] "約翰目前的年紀是他兒子年紀的 2 倍，[ago] 年前，約翰比他兒子老 [proportion] 歲。請問，目前約翰的兒子年紀多大？"
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:45
+#, fuzzy
+#| msgid ""
+#| "A file is protected by a password formed by a [digits] digit number "
+#| "(ranging from 0 to 9). How many different passwords can you have?"
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] "有一個檔案被一組 [digits] 位數的數字密碼所保護(數字範圍從 0 到 9)，請問有多少不同的密碼可能性？"
+
+#: ../tools/GameXmlGetString.cs:49
+#, fuzzy
+#| msgid ""
+#| "A file is protected by a password formed by a [digits] digit octal number "
+#| "(ranging from 0 to 7). How many different passwords can you have?"
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] "有一個檔案被一組 [digits] 位數的八進位的數字所組成的密碼保護（數字範圍從 0 到 7），請問你會有多少密碼的可能性？"
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+
+#: ../data/games.xml.h:1
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+
+#: ../data/games.xml.h:2
+msgid "Age"
+msgstr "年紀"
+
+#: ../data/games.xml.h:3
+msgid "Bank interest"
+msgstr "銀行利息"
+
+#: ../data/games.xml.h:4
+msgid "Box"
+msgstr "盒子"
+
+#: ../data/games.xml.h:5
+msgid "Boxes"
+msgstr "盒子"
+
+#: ../data/games.xml.h:6
+msgid "Brothers and sisters"
+msgstr "兄弟姐妹"
+
+#: ../data/games.xml.h:7
+msgid "Clock Rotation"
+msgstr "時鐘旋轉"
+
+#: ../data/games.xml.h:8
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr "複利的計算是基於本金及過去利息的累計"
+
+#: ../data/games.xml.h:9
+msgid "Container"
+msgstr "箱子"
+
+#: ../data/games.xml.h:10
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr "每一位數都有 10 個可能性。所有的可能性則為 10 的 [digits] 次方。"
+
+#: ../data/games.xml.h:11
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr "每一位數都有 8 個可能性，而所有的可能性則為 8 的 [digits] 次方。"
+
+#: ../data/games.xml.h:12
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+
+#: ../data/games.xml.h:13
+msgid "Every hour rotates 360 degrees."
+msgstr "一小時會旋轉 360 度"
+
+#: ../data/games.xml.h:14
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr "試算有多少個 1 x 1 x 0.5 的盒子可容納到 6 x 5 x [z]的箱子中?"
+
+#: ../data/games.xml.h:15
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+
+#: ../data/games.xml.h:16
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "這是運算式 [num_a] * [num_b]的結果"
+
+#: ../data/games.xml.h:17
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "這是運算式 [num_a] + [num_b]的結果"
+
+#: ../data/games.xml.h:18
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "這是運算式 [num_b] - [num_a]的結果"
+
+#: ../data/games.xml.h:19
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "這是運算式 [num_b] / [num_a]的結果"
+
+#: ../data/games.xml.h:20
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+
+#: ../data/games.xml.h:21
+msgid ""
+"Palindrome years occur usually at 110 year intervals except for the end of "
+"each millennium that occur at a 11 years interval."
+msgstr ""
+
+#: ../data/games.xml.h:22
+msgid "Palindromic years"
+msgstr ""
+
+#: ../data/games.xml.h:23
+msgid "Password"
+msgstr "密碼"
+
+#: ../data/games.xml.h:24
+msgid "Simple equations"
+msgstr "簡易方程式"
+
+#: ../data/games.xml.h:25
+msgid "Tennis game"
+msgstr "網球遊戲"
+
+#: ../data/games.xml.h:26
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:27
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:28
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:29
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:30
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr ""
+
+#: ../data/games.xml.h:31
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+
+#: ../data/games.xml.h:32
+msgid "[rslt_a] and [rslt_b]"
+msgstr ""
+
+#: ../data/games.xml.h:33
+msgid ""
+"[year_start] was a palindromic year as [year_end] was, a gap of 11 years. "
+"What are the next two consecutive palindromic years after [year_end] with "
+"the same gap?"
+msgstr ""
+
+#: ../data/games.xml.h:34
+msgid "x * [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:35
+msgid "x + [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:36
+msgid "x - [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:37
+msgid "x / [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "遊戲"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A person with excessive preoccupation for his health has?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A terrier is to a dog like a?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "Abstinence"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "Acrophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Agoraphobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:9
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Anthophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Anthropophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Apple"
+msgstr "蘋果"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Attic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Bagpipes"
+msgstr "風笛"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "Basketball"
+msgstr "籃球"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Bassoon"
+msgstr "低音簧"
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Centimeter"
+msgstr "厘米"
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Collectivism"
+msgstr "集體主義"
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Column"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Connoisseur"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Conspirator"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:22
+msgid "Contradictory"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "Crocodile"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Cycling"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "Deer"
+msgstr "鹿"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Fish"
+msgstr "魚"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Flower"
+msgstr "花"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Fossil"
+msgstr "化石"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Frog"
+msgstr "青蛙"
+
+#: ../data/verbal_analogies.xml.h:30
+msgid "Gallon"
+msgstr "加侖"
+
+#: ../data/verbal_analogies.xml.h:31
+msgid "Golf"
+msgstr "高爾夫"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Grape"
+msgstr "葡萄"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Hyena"
+msgstr "鬣狗"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Hypochondria"
+msgstr "憂鬱症"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Ironic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "It is the only one that does not use a ball in the game."
+msgstr "在遊戲中，這是唯一一個無需使用到球的運動"
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "It is the only one that is not a carnivore."
+msgstr "這是唯一非肉食性的動物"
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "It is the only one that is not a fruit."
+msgstr "這是唯一非水果類"
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "It is the only one that is not a reptile."
+msgstr "這是唯一一個非爬蟲類"
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "這是唯一一個非木管類樂器"
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "It is the only one that is not related to architecture."
+msgstr "這是唯一一個與建築無關的選項"
+
+#: ../data/verbal_analogies.xml.h:42
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "這是唯一不屬於公制系統的單位"
+
+#: ../data/verbal_analogies.xml.h:43
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:44
+msgid "Liter"
+msgstr "公升"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Loner"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Meter"
+msgstr "米"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Oboe"
+msgstr "雙簧管"
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:49
+msgid "Orange"
+msgstr "柳橙"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "Pain"
+msgstr "痛苦"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Person expelled from society"
+msgstr "一個人被社會驅逐"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "Pleasure"
+msgstr "愉快"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Portico"
+msgstr "門廊"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Positivism"
+msgstr "實證主義"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "Potato"
+msgstr "馬鈴薯"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Related"
+msgstr "相關連的"
+
+#: ../data/verbal_analogies.xml.h:57
+msgid "Snake"
+msgstr "蛇"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Specializes in skin diseases"
+msgstr "專攻皮膚疾病"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Sport"
+msgstr "運動"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Suffers a skin disease"
+msgstr "受皮膚疾病所苦"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Synonym"
+msgstr "同義字"
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Tennis"
+msgstr "網球"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "The first word is the instrument and the second what it measures."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:65
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "'taxidermist' 這個字是用來形容一個怎樣的人？"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Think of the items used in the game."
+msgstr "想想看在這個遊戲中會用到的項目"
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "Tiger"
+msgstr "老虎"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Turtle"
+msgstr "烏龜"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Violin"
+msgstr "小提琴"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Weapon"
+msgstr "武器"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "What is a 'halberd'?"
+msgstr "'戟'是什麼？"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr "下列哪一個句子用來描述 '被放逐的' 人較為恰當？"
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:77
+msgid "Which of the following sports is the odd one?"
+msgstr "哪一項運動項目最為奇特？"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr "下列哪一個字最接近 '苦行主義（asceticism）'的意思?"
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr "下列哪個字的意思較接近 '快樂主義（hedonism）'的意思?"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr "下列哪個字較接近 '矛盾修飾法（oxymoron）'的意思?"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "下列哪個字意思較為接近 '斥責（censure）'?"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Which of the following words is the odd one?"
+msgstr "下列哪個字最奇特？"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Which of the following words means fear of people?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "Wolf"
+msgstr "狼"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Works with dead animals"
+msgstr "和死掉的動物一起工作的人"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "Works with leather"
+msgstr "與皮革一同工作的人"
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "airplane | aeroplane | plane"
+msgstr "airplane（飛機） | aeroplane（飛機） | plane（飛機）"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "ankle"
+msgstr "踝關節"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "ant / vertebrate"
+msgstr "螞蟻 / 脊椎動物"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "art / gallery | drama"
+msgstr "art（藝術） / gallery（美術館） | drama（戲劇）"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "atlas"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "bite"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "body | skin"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "book"
+msgstr "書籍"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:96
+msgid "box / open | banana"
+msgstr "盒子 / 開啓 | 香蕉"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "bridge / over | tunnel"
+msgstr "橋 / 越過 | 隧道"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "broken"
+msgstr "損壞"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "burst | pop"
+msgstr ""
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:101
+msgid "button / push | key (used in a lock)"
+msgstr "按鈕 / 壓 | 密碼匙(用於鎖內)"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "cage | zoo | zoological garden"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "camera"
+msgstr "照相機"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "car / road | train"
+msgstr "汽車 / 道路 | 火車"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "chicken / bird"
+msgstr "雞 / 鳥"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "chop"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "coins"
+msgstr "硬幣"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "composer | songwriter | lyricist"
+msgstr "作曲者（composer） | 流行歌曲作者（songwriter） | 歌曲作詞者（lyricist）"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "condemn"
+msgstr "責備"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "constellation / stars | archipelago"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "cousin"
+msgstr ""
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:113
+msgid "dance"
+msgstr "跳舞"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "dish / break | balloon"
+msgstr "盤子 / 打破 | 氣球"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "dog / cat"
+msgstr "狗 / 貓"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "dog / tame | wolf"
+msgstr "狗 / 馴養 | 狼"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "elbow / knee | wrist"
+msgstr "手肘 / 膝蓋 | 手腕"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "erroneous"
+msgstr "錯誤的"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "error / correct | damage"
+msgstr "錯誤 / 正確 | 損害"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "eyebrow / eye | mustache"
+msgstr "眉毛 / 眼睛 | 小鬍子"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:122
+msgid "feet / two | toes"
+msgstr "腿 / 2 | 腳趾頭"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "fish / aquarium | monkey"
+msgstr "魚 / 水族箱 | 猴子"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "fish / submarine | bird"
+msgstr "魚 / 海底生物 | 鳥"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "fox / den | bird"
+msgstr "狐狸 / 洞穴 | 鳥"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "glass / break | paper"
+msgstr "玻璃杯 / 打破 | 紙"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "hands / grab | teeth"
+msgstr "手 / 抓 | 牙齒"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "has no relation"
+msgstr "無關聯性"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "herbivorous | herbivore"
+msgstr "草食性的 | 草食動物"
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "hide"
+msgstr "躲藏"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "his mother"
+msgstr "他母親"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "horse / pony"
+msgstr "馬 / 小馬"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "hour / minute | minute"
+msgstr "小時 / 分鐘 | 分鐘"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "hungry / eat | tired"
+msgstr "飢餓 / 吃| 疲累"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "hunter / rifle | photographer"
+msgstr "獵人 / 來福槍 | 攝影師"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "ice / slippery | glue"
+msgstr "冰 / 滑 | 膠水"
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "icon"
+msgstr "圖像"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "ignore"
+msgstr "忽略"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "in | under | through"
+msgstr "在裏面（in） | 在...之下（under） | 穿過（through）"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "innovator"
+msgstr "改革者"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "islands"
+msgstr "島"
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "leopard / spots | tiger"
+msgstr "豹 / 斑點 | 老虎"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "letter / word | page"
+msgstr "信 / 字 | 頁"
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "lip | mouth"
+msgstr "嘴唇 | 嘴巴"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "martyr"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "nest"
+msgstr "鳥巢"
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "nose"
+msgstr "鼻子"
+
+#: ../data/verbal_analogies.xml.h:148
+msgid "novel / author | song"
+msgstr "小說 / 作者 | 歌曲"
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "obscure"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "orange / fruit | spinach"
+msgstr "柳橙 / 水果 | 菠菜"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "pediatrics / children | numismatics"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "peel"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "pioneer"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "poems / anthology | maps"
+msgstr "詩詞（poems） / 文選（anthology） | 地圖（maps）"
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "puzzle / solve | game"
+msgstr "謎題 / 解決 | 遊戲"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "repair | fix"
+msgstr "修理（repair） | 修理（fix）"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "ring / finger | bracelet"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "seal / flippers | bird"
+msgstr ""
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:160
+msgid "second"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "shovel / dig | axe"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "simplistic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:163
+msgid "sink"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "sleep | rest"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:165
+msgid "slurp / tongue | snort"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:166
+msgid "son-in-law"
+msgstr "女婿"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "sour"
+msgstr "酸"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:169
+msgid "stick / float | stone"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "sticky"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "stripes"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "sugar / sweet | vinegar"
+msgstr "糖 / 甜 | 醋"
+
+#: ../data/verbal_analogies.xml.h:173
+msgid "tear | rip"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "tears / eyes | sweat"
+msgstr "眼淚 / 眼睛 | 汗"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:176
+msgid "ten | 10"
+msgstr "拾 | 10"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "tennis / sport | ballet"
+msgstr "網球 / 運動 | 芭蕾"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "theatre | theater"
+msgstr "劇院（theatre） | 劇院（theater）"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "thermometer / temperature | clock"
+msgstr "溫度計 / 溫度 | 鐘"
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "tiger / carnivore | cow"
+msgstr "老虎 / 肉食性動物 | 乳牛"
+
+#: ../data/verbal_analogies.xml.h:181
+msgid "time"
+msgstr "時間"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "toy / play | tool"
+msgstr "玩具 / 玩耍 | 工具"
+
+#: ../data/verbal_analogies.xml.h:183
+msgid "track | railway | rails"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "turn"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "unorthodox"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:186
+msgid "vegetable"
+msgstr "蔬菜"
+
+#: ../data/verbal_analogies.xml.h:187
+msgid "whirlpool / water | tornado"
+msgstr "漩渦 / 水 | 龍捲風"
+
+#: ../data/verbal_analogies.xml.h:188
+#, fuzzy
+#| msgid "wind | air"
+msgid "wild | savage"
+msgstr "風 | 空氣"
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "win"
+msgstr "贏"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "wind | air"
+msgstr "風 | 空氣"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "wings"
+msgstr "翅膀"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:193
+msgid "work"
+msgstr "工作"
+
+#. Body parts
+#: ../data/verbal_analogies.xml.h:194 ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "手腕"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "準備好記下待會出現的物品..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:64
+msgid "Total"
+msgstr "所有"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:366
+msgid "Logic"
+msgstr "邏輯"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:371
+msgid "Calculation"
+msgstr "計算"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:377
+msgid "Memory"
+msgstr "記憶"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:383
+msgid "Verbal"
+msgstr "文字"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr "分數"
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "獲勝: {0} (已玩過 {1} 次)"
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. 獲勝: {1} (已玩過 {2} 次)"
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "遊戲時間 {0} (每一遊戲平均花掉 {1})"
+
+#: ../src/Core/Views/FinishView.cs:165
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:175
+msgid "Tips for your next games"
+msgstr "下一個遊戲的小技巧"
+
+#: ../src/Core/Views/FinishView.cs:203
+msgid "Congratulations! New personal record"
+msgstr "恭喜你！再創新的個人記錄"
+
+#: ../src/Core/Views/FinishView.cs:213
+#, fuzzy, csharp-format
+#| msgid ""
+#| "By scoring {0}% in logic puzzle games you have established a new personal "
+#| "record. Your previous record was {1}%."
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr "邏輯謎題遊戲積分數 {0}% ，創造了個人新記錄。你先前的積分為 {1}%."
+
+#: ../src/Core/Views/FinishView.cs:219
+#, fuzzy, csharp-format
+#| msgid ""
+#| "By scoring {0}% in calculation games you have established a new personal "
+#| "record. Your previous record was {1}%."
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr "計算遊戲的積分為 {0}% ，創造個人新記錄。你先前的積分為 {1}%."
+
+#: ../src/Core/Views/FinishView.cs:225
+#, fuzzy, csharp-format
+#| msgid ""
+#| "By scoring {0}% in calculation games you have established a new personal "
+#| "record. Your previous record was {1}%."
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr "計算遊戲的積分為 {0}% ，創造個人新記錄。你先前的積分為 {1}%."
+
+#: ../src/Core/Views/FinishView.cs:231
+#, fuzzy, csharp-format
+#| msgid ""
+#| "By scoring {0}% in calculation games you have established a new personal "
+#| "record. Your previous record was {1}%."
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr "計算遊戲的積分為 {0}% ，創造個人新記錄。你先前的積分為 {1}%."
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "邏輯遊戲，挑戰你的理解能力！"
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr ""
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "記憶遊戲，增進你的短期記憶力！"
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr ""
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "歡迎來到gbrainy {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr "gbrainy 是一個訓練大腦的遊戲，讓你在開心又充滿樂趣的遊戲中訓練大腦，其包含了："
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "利用設定來調整遊戲的難易度。"
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "紅"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "綠"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "藍"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "黃"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "紅紫色"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "橙色"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "黑色"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "白色"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "正確答案是 {0}."
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:316
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:318
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:338
+#, csharp-format
+msgid "Figure {0}"
+msgstr ""
+
+#: ../src/Core/Main/GameManager.cs:319
+#, fuzzy
+#| msgid "Extensions"
+msgid "Extensions database:"
+msgstr "附屬功能"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr "遊戲登錄: {0}: {1} 次邏輯謎題, {2} 次計算訓練, {3} 次記憶訓練, {4} 次文字類推"
+
+#: ../src/Core/Main/GameSession.cs:176
+#, fuzzy, csharp-format
+#| msgid "Games played: {0} ({1}% score)"
+msgid "Games played: {0} (Score: {1})"
+msgstr "已玩過遊戲: {0} ({1}% 分數)"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - 時間: {0}"
+
+#: ../src/Core/Main/GameSession.cs:180
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- 遊戲: {0}"
+
+#: ../src/Core/Main/GameSession.cs:193
+#, csharp-format
+msgid "Outstanding results"
+msgstr "傑出"
+
+#: ../src/Core/Main/GameSession.cs:195
+#, csharp-format
+msgid "Excellent results"
+msgstr "優秀成果"
+
+#: ../src/Core/Main/GameSession.cs:197
+#, csharp-format
+msgid "Good results"
+msgstr "不錯的成果"
+
+#: ../src/Core/Main/GameSession.cs:199
+#, csharp-format
+msgid "Poor results"
+msgstr "再加油"
+
+#: ../src/Core/Main/GameSession.cs:200
+#, csharp-format
+msgid "Disappointing results"
+msgstr "真是太令人失望了..."
+
+#: ../src/Core/Main/GameSession.cs:262
+msgid "Paused"
+msgstr "暫停"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr "請仔細閱讀此份說明並且認明資料及其所給的提示。"
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr "開心的學習錯誤吧！這也是學習的一部份喔！"
+
+#: ../src/Core/Main/GameTips.cs:61
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr "即使非常困難，也要解決所有的題目。進步都是來自於足夠的練習。"
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr ""
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr "利用 '自選遊戲選項' 選擇你所要進行的遊戲。"
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr "相關元素的聯結是一個記憶事物的技巧"
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr "在回答語文類比相關題目時，特別注意動詞的型態。"
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "在限制的時間內，記住下列東西。"
+
+#: ../src/Core/Main/Memory.cs:217
+msgid "Time left"
+msgstr "剩餘時間"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "可能正確的答案有: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:90
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:63
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, csharp-format
+msgid "Multiple options #{0}"
+msgstr "複選 #{0}"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} 答案 {1}."
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:101
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:137
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:143
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:95
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:150
+#: ../src/Games/Logic/PuzzleSquareDots.cs:206
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "可能的答案有:"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "單字組之比較 #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr "給這兩個字一個相關字意的字，哪一個字合適 '{0}'?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#, csharp-format
+msgid "Words: {0}"
+msgstr "單字: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:39
+#, csharp-format
+msgid "Pair of words #{0}"
+msgstr "字組 #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:68
+#, csharp-format
+msgid ""
+"Given the relationship between the words '{0}', which of the possible "
+"answers has the closest in relationship to the given pair? Answer {1}."
+msgstr "給定單字 {0} 間的關聯性。哪個答案是最接近這一對單字間的關聯？回答 {1}。"
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, csharp-format
+msgid "Question and answer #{0}"
+msgstr "問與答 #{0}"
+
+#: ../src/Clients/Classical/gbrainy.cs:359
+msgid "Play all the games"
+msgstr "玩所有的遊戲"
+
+#: ../src/Clients/Classical/gbrainy.cs:360
+msgid "All"
+msgstr "所有"
+
+#: ../src/Clients/Classical/gbrainy.cs:365
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "挑戰你的推理及思考力"
+
+#: ../src/Clients/Classical/gbrainy.cs:372
+msgid "Play games that challenge your mental calculation skills"
+msgstr "挑戰心算能力的遊戲"
+
+#: ../src/Clients/Classical/gbrainy.cs:378
+msgid "Play games that challenge your short term memory"
+msgstr "挑戰短期記憶的遊戲"
+
+#: ../src/Clients/Classical/gbrainy.cs:384
+msgid "Play games that challenge your verbal aptitude"
+msgstr "挑戰文字領悟的遊戲"
+
+#: ../src/Clients/Classical/gbrainy.cs:389
+#: ../src/Clients/Classical/gbrainy.cs:623
+msgid "Pause"
+msgstr "暫停"
+
+#: ../src/Clients/Classical/gbrainy.cs:390
+msgid "Pause or resume the game"
+msgstr "暫停或是繼續遊戲"
+
+#: ../src/Clients/Classical/gbrainy.cs:395
+msgid "End the game and show score"
+msgstr "終止遊戲及顯示成績"
+
+#: ../src/Clients/Classical/gbrainy.cs:396
+msgid "Finish"
+msgstr "完成"
+
+#: ../src/Clients/Classical/gbrainy.cs:486
+msgid "Congratulations."
+msgstr "恭喜！"
+
+#: ../src/Clients/Classical/gbrainy.cs:488
+msgid "Incorrect answer."
+msgstr "錯誤"
+
+#: ../src/Clients/Classical/gbrainy.cs:546
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr "當你有答案時，將其打入 \"答案:\" 欄中，再按下 \"OK\" 即可。"
+
+#: ../src/Clients/Classical/gbrainy.cs:627
+msgid "Resume"
+msgstr "繼續"
+
+#: ../src/Clients/Classical/gbrainy.cs:742
+#, fuzzy, csharp-format
+#| msgid "Start at point number {0}"
+msgid "Startup time {0}"
+msgstr "從遊戲 {0}開始"
+
+#: ../src/Clients/Classical/CommandLine.cs:105
+#, fuzzy, csharp-format
+#| msgid "(build on {0})"
+msgid "(built on {0})"
+msgstr "(建立 {0})"
+
+#: ../src/Clients/Classical/CommandLine.cs:117
+msgid "List of available games"
+msgstr "可進行遊戲之列表"
+
+#: ../src/Clients/Classical/CommandLine.cs:180
+msgid "Usage: gbrainy [options]"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "  --version\t\t\tPrint version information."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --help\t\t\tPrint this usage message."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+#, fuzzy
+#| msgid "List of available games"
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr "可進行遊戲之列表"
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid "  --versions \t\t\tShow dependencies."
+msgstr ""
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:52
+msgid "translator-credits"
+msgstr "翻譯者 - 榮譽榜"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:57
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+"此程式為自由軟件; 你可以作再次散發之行為及/或如同在自由軟件基金會所公佈的 GNU General Public License 的條款下進行修改; 其無論是第 2 版授權, 或是 (根據你的選擇) 較新版本皆可行.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:58
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:59
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr "你應該會隨着本程式收到由自由軟件基金會所發之 GNU General Public License 複本; 若無，煩請來信至, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+msgstr "此點子來自於 Terry Stickels, MENSA books 及 Jordi Mas."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:70
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "一款充滿趣味及讓腦袋保持活絡的遊戲。"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:72
+msgid "gbrainy web site"
+msgstr "gbrainy 網站"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:67
+msgid "Game Name"
+msgstr "遊戲名稱"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:89
+msgid "Type"
+msgstr "打字"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:111
+msgid "Enabled"
+msgstr "啓動"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution. "
+msgstr "下方圖表顯示玩家之遊戲成果進度"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr "你需要紀錄多於一回合的遊戲才能得到成果進度"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+msgid "You are about to delete the player's game session history."
+msgstr "即將刪除玩家之遊戲歷史記錄"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr "若繼續進行，將會失去之前遊戲的所有歷史記錄。還要繼續嗎？"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr "刪除(_D)"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "自選遊戲"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "選擇全部"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "取消選擇全部"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "開始(_S)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Player's Game Session History"
+msgstr "遊戲回合歷史"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "顯示:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>困難關卡</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>一般設定</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>記憶遊戲</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>遊戲回合歷史</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Delete Player's Game Session History"
+msgstr "刪除歷史記錄"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "容易"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "好手"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of records in the player's game session history:"
+msgstr "玩家遊戲歷史中最大的紀錄數："
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "中等"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played games to store the game session:"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "偏好設定"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "顯示倒數訊息"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "跳過需要判斷顏色的遊戲（以免色盲的朋友無法玩）"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr ""
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+msgid "3D Cube"
+msgstr "3D 方塊"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+#, csharp-format
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr "下方的大方塊是需要多少的小方塊才能組成？以數字回答本題"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr "方塊是一種正立方的物體，其為六面相同的方形所組成"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "平衡"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+msgid "Every circle counts as two triangles."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "建出一個三角形"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr "哪三片的組合可以拼出一個三角形？利用三個圖表的方式回答，例如: {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "此三角形為:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+msgid "Circles in a square"
+msgstr "正方形中的圓形"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr "下面的正方形中，最多可放進多少個圓形？"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "至少可以容納 64 個圓形"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 個單位"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "1 個單位"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "鐘"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr "此鐘無遵循時間邏輯"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "數了多少的圓？"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "這是一個非常容易的練習，只要有系統的數出圓形的數量即可。"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "算數"
+
+#. Translators: {0} and {1} are always numbers greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:65
+#, csharp-format
+msgid ""
+"We have a {0} meters piece of fabric. Machine A takes {1} seconds to cut 1 "
+"meter of this fabric. How many seconds does Machine A take to cut the entire "
+"piece of fabric into 1 meter pieces?"
+msgstr ""
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:69
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr ""
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:79
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr ""
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:92
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:94
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:39
+msgid "Count series"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:51
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:56
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When folded as a cube, which face on the figure is opposite the face with a "
+"{0} drawn on it? Answer the number written on face."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting an even number."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "骰子"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:113
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:128
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:145
+#, csharp-format
+msgid "Has {0} regions"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+#, csharp-format
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "例如: {0}{1}{2} (五角形, 三角形, 圓形)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "握手"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr "所有到宴會的人都會彼此介紹，共完成 {0} 次的握手，請問有多少人參加這一次的宴會？"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr "嘗試想像與一小羣人聚會的情形。"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "此部份非常簡單，你只要有系統的數出多少線即可"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "可被 {0}相除的每一個被圈起來的數字"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+msgid "The pattern is arithmetical and works horizontally."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:69
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:74
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:76
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:81
+#, csharp-format
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:83
+#, csharp-format
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "失落的一角"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "哪一個正方形適合拼在下方圖表上？答案為 {0}, {1} 或 {2}"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "失落的一片"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "每一片都與其相對面有關"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "在此序列下，下列哪一個圖表是合邏輯的？ 答案為 {0}, {1} 或 {2}"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+#, csharp-format
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:38
+msgid "Numeric relation"
+msgstr "數字關聯性"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:42
+msgid "What number should replace the question mark?"
+msgstr "問號的部份，該是哪個數字？"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "The numbers are related arithmetically."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:53
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:55
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:35
+msgid "Numeric sequence"
+msgstr "數字序列"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:39
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr "接着是邏輯性的順序，問號中該填入哪一個數字？"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:43
+msgid "Every number in the sequence is related to the previous one."
+msgstr "序列中的每一個數字都與前一個數字有關"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:52
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "放逐"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr "若所有的畫家都是藝術家，而一部份巴塞隆納的市民是藝術家．下列哪一個句子的描述是正確的？ 答案為 {0}, {1}, {2} 或是 {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "巴塞隆納一部份的市民是畫家．"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "巴塞隆納所有的市民是畫家．"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "巴塞隆納沒有市民是畫家．"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "以上皆非"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "有一些藝術家沒生病"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "有一些畫家不是藝術家"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "所有的藝術家都很開心"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr "通常要旅行的人都會買地圖，但現在你沒有要去旅行。下面哪一個句子是對的？回答：{0}, {1}, {2} 或 {3}。"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "你沒有任何的地圖"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "你不會去買地圖"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "All people have a map"
+msgstr "所有的人都有地圖"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr "若你在快樂時會吹口哨，而當你吹口哨時，總是微笑。下列哪一個句子是正確的？回答：{0}, {1}, {2} 或 {3}。"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "若你開心時會帶着笑容"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "只有你感到開心時才會吹口哨"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "若是你不開心時，會吹口哨"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Predicate Logic"
+msgstr "謂詞邏輯（Predicate Logic）"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "鉛筆"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "第五"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "第十九"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "第四"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "第十二"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "第九"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "第二十二"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "兩個人相對桌子而坐"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "百分比"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:95
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:110
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:113
+msgid "The objective is to obtain the same total amount."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "四邊形"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr "下列哪個圖不屬於這個羣組？回答：{0}, {1}, {2}, {3}, {4} 或 {5}。"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:92
+msgid "Square with dots"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:97
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr "在正方形週邊的字母是按照一種型式去排列的。在最後一個正方形中，哪個字母可以取代問號？"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr ""
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:h tt}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+msgid "Trains"
+msgstr "火車"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr "距離的公式為 '距離 = 速度 x 時間'"
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+#, csharp-format
+msgid ""
+"You can calculate the answer multiplying the second train speed by the time "
+"and dividing it by the difference of speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {3} are always greater than 2
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:104
+#, csharp-format
+msgid ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:128
+#, csharp-format
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:125
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "哪個數字可替換下面的問號？"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "已上色的圖"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "哪些圖在先前有顯示過？回答：{0}, {1}, {2} 或 {3}"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "有色的文字"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "剛所提及的 '{0}'，文字的顏色為何?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "計算圓點"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr "在剛剛的圖上有多少的 {0} 色的點？請以數字作答"
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr ""
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr "陽光轎車宣布在下個月會停產 {0} 天，但在這之前，他們自 {1} 起從未縮產。"
+
+#: ../src/Games/Memory/MemoryFacts.cs:110
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "陽光轎車會停產幾天？"
+
+#: ../src/Games/Memory/MemoryFacts.cs:111
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr ""
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:119
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:121
+msgid "By how much did company sales fall last December?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:122
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:127
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr "全球生產的的陽光轎車，有多少百分比銷往歐洲？"
+
+#: ../src/Games/Memory/MemoryFacts.cs:135
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "有多少百分比的陽光轎車使用柴油？"
+
+#: ../src/Games/Memory/MemoryFacts.cs:138
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "多少百分比的陽光轎車使用汽油？"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memory figures"
+msgstr "圖形記憶"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr "哪個格子中所顯示的圖像和下方圖像相同？請回答格子的編號。"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "三角形"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+msgid "Square"
+msgstr "正方形"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+msgid "Pentagon"
+msgstr "五邊形"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "圓形"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "圖像及文字記憶"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr "下方列表所列出的是剛剛顯示過的圖像，哪一個圖像不見了？可能的答案為三角形、正方形、五邊形及圓形。"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "從遊戲 {0}開始"
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "向右搬"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "向左搬"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "向上搬"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "向下搬"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr "記下指示"
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr "下列哪個圖像所表示的是先前指示所給的？回答：{0}, {1}, {2} 或 {3}。"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr "剛剛的圖中，有多少個奇數？請以數字回答"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr "先前所顯示的圖中，有多少個偶數？請以數字回答"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr "剛剛所顯示的圖中，有幾個數字不只一位數？請以數字回答"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "數字記憶"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "單字記憶"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+#, csharp-format
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "從先前的列表中，有一個單字不見了！不見的是哪個字？"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "手肘"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "腋窩"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "手"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "胸"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "沙丁魚"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "鱒魚"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "鮟鱇魚"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "鱈魚"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "鮭魚"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "馬鈴薯"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "薑"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "胡椒"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "蒜頭"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "南瓜"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "煞車"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "踏板"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "鏈"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "輪子"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "手把"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "鼓手"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "喇叭"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "歌詞"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "敲擊"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "歌"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "雲"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "雨"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "暴風雨"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "霧"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "彩虹"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "兔子"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "老鼠"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "猴子"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "熊"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "狼"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "算術的"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "算數運算的結果為何？"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "平均"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr "所給的數字: {0}. 下列哪一個數字最接近平均數? 回答：{1}, {2}, {3} 或 {4}"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "此運算的結果為 {0:##0.###}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "較接近的分數"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr "下列哪個數字較接近 {0:##0.###}? 回答：{1}, {2}, {3} 或 {4}"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "運算式 {0} / {1} 的結果為 {2:##0.###}"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "分數"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+#, csharp-format
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr "所給運算式的結果為何？請用分數或是數字回答"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "最大因數"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers?"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:236
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr "數字"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:250
+msgid "Possible divisors"
+msgstr "可能的因數"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+msgid "Operators"
+msgstr "運算元"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "第一個運算元為 {0}"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr "哪些運算元會讓 {0}, {1}, 及 {2} 等於 {3}? 請用 '+-/*'回答。"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} 及 {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "質數"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr "下列這組數字中，哪一個數字是質數？質數為一個自然數，僅有兩個正因數，1及它自己。"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr "若是將一個數字裏的每一位數字加起來除以三能夠整除，則此數字也能被 3 整除。例如 15 = 1 + 5 = 6，6 可被 3 整除，所以 15 也能被 3 整除。"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "比例"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "{1}/{2}的  {0}% 為何? 回答：{3}, {4}, {5} 或 {6}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "比率"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr "x + y = {0}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, csharp-format
+msgid "x - y = {0}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr ""
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "所有的遊戲 (邏輯、心算、記憶及語言類比)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "答案:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "自選遊戲選項..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "附屬功能"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "如何擴充 gbrainy 的功能"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "僅邏輯推理"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "僅記憶訓練"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "僅心算訓練"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "工具列"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "僅語言類比"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "內容(_C)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "終止遊戲(_E)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "遊戲(_G)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "說明(_H)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "新遊戲(_N)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "下一步(_N)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "遊戲暫停(_P)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "設定(_S)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "小提示(_T)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "檢視(_V)"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr "<b>選擇要安裝的增益集，並點擊「下一步」"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>增益集管理</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "增益集"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "增益集相根據性:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "增益集安裝"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "增益集管理"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "此程式操作需要額外擴充套件"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "所有已註冊的遊戲庫"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "作者:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "瀏覽..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "版權所有:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "關閉"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "啓動"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "安裝來源:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "名稱"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "其他"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "路徑:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "全部選擇(_A)"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "選擇一個你要登錄的遊戲庫位置："
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "顯示所有的套件"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "僅顯示新版本"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "僅顯示更新"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "已安裝下列的增益集:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "將會安裝下列的增益集:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "網址"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "網址："
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "版本"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "版本:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "安裝增益集(_I)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "收藏庫(_R)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "解除安裝(_U)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "取消選擇全部(_U)"
+
+#~ msgid "wild"
+#~ msgstr "野生的"
+
+#~ msgid "Read a total of {0} verbal analogies"
+#~ msgstr "閱讀所有的 {0} 語言類比"
+
+#~ msgid ""
+#~ "Usage: gbrainy [options]\n"
+#~ "  --version\t\t\tPrint version information.\n"
+#~ "  --help\t\t\tPrint this usage message.\n"
+#~ "  --gamelist\t\t\tShows the list of available games.\n"
+#~ "  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+#~ "custom game.\n"
+#~ "  --norandom \t\t\tThe custom game list provided will not be randomized.\n"
+#~ "  --versions \t\t\tShow dependencies.\n"
+#~ msgstr ""
+#~ "用途: gbrainy [選項]\n"
+#~ "  --version\t\t\t列印版本資訊.\n"
+#~ "  --help\t\t\t列印此訊息.\n"
+#~ "  --gamelist\t\t\t顯示目前可進行的遊戲.\n"
+#~ "  --customgame [遊戲1, 遊戲N]\t自訂遊戲中指定要玩的遊戲列表.\n"
+#~ "  --norandom \t\t\t所提供之自訂遊戲列表不會任意排列.\n"
+#~ "  --versions \t\t\t顯示相依性\n"

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="ca">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Com es calcula la puntuació del jugador.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Reconeixement-Compartir Igual 3.0</p>
+    </license>
+  </info>
+
+  <title>Puntuació i temps dels jocs</title>
+  <p>Si contesteu un joc incorrectament, no obtindreu cap puntuació.</p>
+  <p>Si contesteu un joc correctament, la puntuació que obtindreu dependrà del temps que heu trigat en resoldre el problema i si heu utilitzat la pista durant el joc.</p>
+  <p>La taula següent resumeix les durades dels jocs (en segons) basant-se en el nivell de dificultat.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Fàcil</p></td>
+      <td><p>Mestre</p></td>
+      <td><p>Mestre</p></td>
+    </tr>
+    <tr>
+      <td><p>Trencaclosques lògics</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Càlcul mental</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Jocs de memòria</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Analogies verbals</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Amb el temps esperat per al nivell de dificultat escollit i el temps emprat pel jugador en completar el joc, s'aplica la lògica següent:</p>
+  <list>
+    <item>
+      <p>Si us cal menys del temps esperat per a completar el joc, la puntuació és de 10 punts.</p>
+    </item>
+    <item>
+      <p>Si us cal més del temps esperat, la puntuació és de 8 punts.</p>
+    </item>
+    <item>
+      <p>Si us cal més del doble del temps esperat, la puntuació és de 7 punts.</p>
+    </item>
+    <item>
+      <p>Si us cal més de tres vegades el temps esperat, la puntuació és de 6 punts.</p>
+    </item>
+    <item>
+      <p>Si utilitzeu una pista, la puntuació serà del 80% dels totals anteriors.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Càlcul dels totals</title>
+    <p>El <app>gbrainy</app> fa un seguiment dels diferents tipus de jocs jugats. Per calcular la puntuació final de cada conjunt de tipus de jocs suma tots els resultats dels mateixos tipus de jocs i després aplica un factor basat en: el logaritme de 10 per al nivell de dificultat fàcil; 20 per al nivell mitjà; i 30 per al nivell de dificultat mestre.</p>
+	  <p>Això vol dir que quan es juga en el nivell de dificultat mitjà, per aconseguir una puntuació del 100 punts necessiteu obtenir 10 punts en almenys 20 de tots els tipus de jocs que heu jugat.</p>
+	  <p>Això pot semblar difícil, però permet als jugadors comparar les puntuacions de diferents partides (en l'històric del jugador) i permet fer un millor seguiment de la progressió del jugador durant totes partides que ha jugat.</p>
+  </section>
+</page>

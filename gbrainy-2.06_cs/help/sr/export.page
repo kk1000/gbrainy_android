@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="sr">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Извезите игре за играње ван мреже.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Мило Казагранде</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Извезите игре</title>
+  <p>Могуће је да извезете а затим да одштампате игре које обезбеђује програм да бисте их играли и када нисте за рачунаром.</p>
+  <p>Игре ће бити сачуване у <file>ПДФ</file> датотеци у изабраној фасцикли.</p>
+  <p>Да извезете игре:</p>
+  <steps>
+    <item>
+      <p>Изаберите „<guiseq><gui style="menu">Игра</gui><gui style="menuitem">Извези игру у ПДФ за играње ван мреже</gui></guiseq>“.</p>
+    </item>
+    <item>
+      <p>Изаберите врсту игре, ниво тежине и број игара за извожење. Када то урадите кликните <gui style="button">Сачувај</gui>.</p>
+    </item>
+  </steps>
+
+</page>

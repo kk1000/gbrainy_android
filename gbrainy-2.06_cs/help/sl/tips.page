@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="sl">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Uporabite namige za rešitev uganke.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+    </license>
+  </info>
+
+  <title>Namigi</title>
+  <p>Pri nekaterih igrah je mogoče dobiti enostavne namige, ki vam pomagajo rešiti problem.</p>
+  <p>Ob igranju iger kliknite na gumb <gui style="button">Namig</gui> na dnu okna (poleg besedilnega vnosa <gui style="input">Odgovor</gui>).</p>
+  <note>
+    <p>Ta zmožnost za nekatere od iger ni na voljo.</p>
+  </note>
+</page>

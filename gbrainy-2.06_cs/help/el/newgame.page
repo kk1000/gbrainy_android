@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="el">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Ξεκινήστε και παίξτε ένα παιχνίδι.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Παιχνίδι</title>
+  
+  <section id="game-start">
+    <title>Έναρξη νέου παιχνιδιού</title>
+    <p>Για να ξεκινήσετε ένα νέο παιχνίδι, κάντε ένα από τα παρακάτω:</p>
+    <list>
+      <item>
+        <p>Πηγαίνετε<guiseq><gui style="menu">Παιχνίδι</gui><gui style="menuitem">Νέο Παιχνίδι</gui></guiseq> και επιλέξτε τον τύπο του παιχνιδιού που θέλετε να παίξετε.</p>
+      </item>
+      <item>
+        <p>Κάντε κλικ σε ένα από τα πλήκτρα στην εργαλειοθήκη.</p>
+      </item>
+    </list>
+    <p>Τα πλήκτρα της εργαλειοθήκης έχουν τις παρακάτω σημασίες:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Όλα</title>
+            <p>Ξεκινήστε ένα νέο παιχνίδι με όλους τους διαθέσιμους τύπους παιχνιδιών.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Πλήκτρο όλων των παιχνιδιών</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Λογική</title>
+            <p>Ξεκινήστε ένα νέο παιχνίδι παίζοντας μόνο παιχνίδια λογικής</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Πλήκτρο παιχνιδιών λογικής</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Αριθμητική</title>
+            <p>Ξεκινήστε ένα νέο παιχνίδι παίζοντας μόνο παιχνίδια αριθμητικής.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Πλήκτρο παιχνιδιών αριθμητικής</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Μνήμη</title>
+            <p>Ξεκινήστε ένα νέο παιχνίδι παίζοντας μόνο παιχνίδια μνήμης</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Πλήκτρο παιχνιδιών μνήμης</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Λεξιλόγιο</title>
+            <p>Ξεκινήστε ένα νέο παιχνίδι παίζοντας μόνο παιχνίδια λεκτικών αναλογιών.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Πλήκτρο παιχνιδιών λεξιλογίου</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Αυτές οι περιγραφές ισχύουν επίσης και για τους τύπους παιχνιδιών που μπορείτε να επιλέξετε από το μενού <gui style="menu">Παιχνίδι</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Παίζοντας ένα παιχνίδι</title>
+    <note style="tip">
+      <p>Όταν παίζετε κάποιο παιχνίδι, πάντα διαβάστε τις οδηγίες προσεκτικά!</p>
+    </note>
+    <p>Το παιχνίδι ξεκινά με την εμφάνιση ενός προβλήματος και, στη συνέχεια, σας ζητάει την απάντηση. Στο κάτω μέρος του παραθύρου βλέπετε τα κουμπιά και τους άλλους τρόπους που μπορείτε να χρησιμοποιήσετε για να αλληλεπιδράσετε με το παιχνίδι.</p>
+    <p>Μόλις βρείτε την απάντηση στο πρόβλημα, γράψτε την στο πλαίσιο <gui style="input">Απάντηση</gui> και πατήστε <gui style="button">Εντάξει</gui>.</p>
+    <p>Για να προχωρήσετε στο επόμενο παιχνίδι, κάντε κλικ στο <gui style="button">Επόμενο</gui>.</p>
+    <note>
+      <p>Αν κάνετε κλικ στο <gui style="button">Επόμενο</gui> προτού ολοκληρώσετε το παιχνίδι ή χωρίς να δώσετε μια απάντηση, αυτό το παιχνίδι θα συμπεριληφθεί στη βαθμολογία σας.</p>
+    </note>
+  </section>
+</page>

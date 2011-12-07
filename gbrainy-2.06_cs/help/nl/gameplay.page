@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="nl">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc><app>gbrainy</app>-inleiding.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spel</title>
+  
+  <p><app>gbrainy</app> is een hersenkrakerspel; het doel van het spel is vermaak en hersentraining.</p>
+  <p>Het bestaat uit verschillende soorten spellen zoals logische puzzels, hoofdrekenspellen, geheugentrainers en woordspellen, ontworpen om verschillende cognitieve vaardigheden te testen.</p>
+  <p>U kunt kiezen tussen verschillende moeilijkheidsgraden waardoor <app>gbrainy</app> geschikt is voor kinderen, volwassenen en senioren. Het bevat ook een spelgeschiedenis, persoonlijke records, tips en volledig scherm-ondersteuning. <app>gbrainy</app> kan ook eenvoudig worden <link href="http://live.gnome.org/gbrainy/Extending">uitgebreid</link> met nieuwe spellen ontwikkeld door derden.</p>
+  <p><app>gbrainy</app> maakt veel gebruik van het werk van vorige puzzelmakers, van klassieke puzzels van vroeger tot recenter werk zoals <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels'</link> puzzles of het klassieke <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>-spel.</p>
+  <note>
+    <p>Onlangs is er in wetenschappelijke kringen discussie geweest over de vraag of software voor hersentraining de cognitieve prestatie verbetert. De meeste studies tonen aan dat er weinig tot geen verbetering is, maar dat betekent niet dat u zich niet kunt vermaken met het spelen van spellen zoals <app>gbrainy</app>!</p>
+  </note>
+</page>

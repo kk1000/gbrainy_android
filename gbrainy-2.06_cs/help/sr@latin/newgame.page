@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="sr@latin">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Pokrenite i igrajte igru.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Kazagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>„Creative Commons Share Alike 3.0“</p>
+   </license>
+  </info>
+
+  <title>Sesija igre</title>
+  
+  <section id="game-start">
+    <title>Početi novu sesiju</title>
+    <p>Da započnete novu igru, uradite nešto od sledećeg:</p>
+    <list>
+      <item>
+        <p>Izaberite „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Nova igra</gui></guiseq>“, i izaberite vrstu igre koji želite da igrate.</p>
+      </item>
+      <item>
+        <p>Kliknite na neko od dugmadi na liniji alata.</p>
+      </item>
+    </list>
+    <p>Dugmad na liniji alata imaju sledeća značenja:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Sve</title>
+            <p>Započnite novu igru igrajući sve dostupne vrste igara.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Dugme svih igara</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logika</title>
+            <p>Započnite novu igru igrajući samo logičke igre.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Dugme logičkih igara</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Račun</title>
+            <p>Započnite novu igru igrajući samo igre mentalnog računa.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Dugme računskih igara</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Memorija</title>
+            <p>Započnite novu igru igrajući samo igre memorijskih vežbi.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Dugme igara memorijskih vežbi</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Verbal</title>
+            <p>Započnite novu igru igrajući samo igre verbalnih analogija.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Dugme igara verbalnih analogija</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Ovi opisi se takođe odnose na vrste igara koje možete da izaberete iz izbornika „<gui style="menu">Igra</gui>“.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Pokrenuti sesiju</title>
+    <note style="tip">
+      <p>Kada igrate igru, uvek pažljivo pročitajte uputstva!</p>
+    </note>
+    <p>Sesija igre započinje prikazivanjem problema i traženjem odgovora. Na dnu prozora je osnovni skup kontrola koje možete koristiti za interakciju sa igrom.</p>
+    <p>Kada znate odgovor na problem, upišite ga u polje „<gui style="input">Odgovor</gui>“ i pritisnite „<gui style="button">U redu</gui>“.</p>
+    <p>Da nastavite sa sledećom igrom, kliknite na dugme „<gui style="button">Dalje</gui>“.</p>
+    <note>
+      <p>Ako kliknete „<gui style="button">Dalje</gui>“ pre nego što završite igru ili ako ne date odgovor, ta igra će se računati kao igra sa netačnim odgovorom u vašem rezultatu.</p>
+    </note>
+  </section>
+</page>

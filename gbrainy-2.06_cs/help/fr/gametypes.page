@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="fr">
+  <info>
+    <title type="sort">3</title>
+    <desc>À quel type de jeu vous pouvez jouer.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Types de jeu</title>
+
+  <p><app>gbrainy</app> propose les types de jeu suivants :</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Énigmes de logique</title>
+          <p>Jeux conçus pour tester votre raisonnement et vos compétences en réflexion. Ces jeux sont basés sur des séquences d'éléments, des raisonnements visuels et dans l'espace ou des relations entre éléments.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logo jeux de logique</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Calcul mental</title>
+          <p>Jeux basés sur des opérations arithmétiques conçus pour améliorer vos compétences en calcul mental. Pour ces jeux, l'utilisateur doit faire des multiplications, divisions, additions et soustractions combinées de différentes façons.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logo jeux de calcul</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Jeux de mémorisation</title>
+          <p>Jeux conçus pour tester votre mémoire à court-terme. Ces jeux affichent un ensemble d'objets et demande au joueur de s'en souvenir, parfois en établissant des relations entre les figures, les mots, le nombre de couleurs.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logo jeux de mémoire</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Analogies verbales</title>
+          <p>Jeux qui testent votre aptitude verbale. Ces jeux demandent au joueur d'identifier les causes et les effets, d'employer des synonymes ou des antonymes et d'utiliser son vocabulaire.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logo jeux d'analogies verbales</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

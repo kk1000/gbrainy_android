@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="da">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Introduktion til <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spil</title>
+  
+  <p><app>gbrainy</app> er et grublespil, der kan holde din hjerne i tip-top stand.</p>
+  <p>Det har forskellige spiltyper som logiske puslespil, hovedregning, hukommelsestræning og sproglige analogier designet til at teste forskellige kognitative evner.</p>
+  <p>Du kan vælge forskellige sværhedsgrader, hvilket gør, at <app>gbrainy</app> kan nydes af børn, voksne og ældre. Det har også en spilhistorik, spillerens personlige rekord, tip til spilleren og understøttelse af fuldskærm. <app>gbrainy</app> kan også nemt <link href="http://live.gnome.org/gbrainy/Extending">udvides</link> med spil udviklet af andre.</p>
+  <p><app>gbrainy</app> afhænger i høj grad af tidligere puslemestres talenter, lige fra klassiske historiske spil til nyere ideer som <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> puslespil eller <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brains</link> klassiske spil.</p>
+  <note>
+    <p>Der har været diskussioner i det videnskabelige samfund om hvorvidt det at spille denne slags spil kan forbedre ens kognitive præstationsevne. De fleste studier viser ingen eller en meget lille forbedring. Du kan dog stadig have det sjovt ved at spille <app>gbrainy.</app>.</p>
+  </note>
+</page>

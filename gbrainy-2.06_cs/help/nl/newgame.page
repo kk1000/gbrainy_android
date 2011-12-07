@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="nl">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Start en speel een spel.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spelsessie</title>
+  
+  <section id="game-start">
+    <title>Start een nieuwe sessie</title>
+    <p>Doe, om een nieuw spel te starten, het volgende:</p>
+    <list>
+      <item>
+        <p>Kies <guiseq><gui style="menu">Spel</gui><gui style="menuitem">Nieuw spel</gui></guiseq>, en selecteer het soort spel dat u wilt spelen.</p>
+      </item>
+      <item>
+        <p>Klik op één van de knoppen in de werkbalk.</p>
+      </item>
+    </list>
+    <p>De werkbalkknoppen hebben de volgende betekenis:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Alle</title>
+            <p>Start een nieuw spel met alle beschikbare spelsoorten.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Alle spellen-knop</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logica</title>
+            <p>Start een nieuw spel met alleen logica-spellen.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Logica-spellen-knop</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Rekenen</title>
+            <p>Start een nieuw spel met alleen rekenspellen.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Rekenspellen-knop</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Memory</title>
+            <p>Start een nieuw spel met alleen geheugenspellen.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Geheugenspellen-knop</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Woorden</title>
+            <p>Start een nieuw spel met alleen woordspellen.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Woordspellen-knop</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Deze beschrijvingen gelden ook voor de spelsoorten die u kunt selecteren in het menu <gui style="menu">Spel</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Speel een sessie</title>
+    <note style="tip">
+      <p>Lees, voordat u een spel speelt, zorgvuldig de instructies!</p>
+    </note>
+    <p>De spelsessie begint met het tonen van het vraagstuk; daarna wordt naar het antwoord gevraagd. Onderaan het venster vindt u de belangrijkste knoppen waarmee u met het spel kunt bedienen.</p>
+    <p>Zodra u het antwoord weet, typt u het in in het tekstveld <gui style="input">Antwoord</gui> en drukt u op <gui style="button">OK</gui>.</p>
+    <p>Om naar het volgende spel te gaan klikt u op <gui style="button">Volgende</gui>.</p>
+    <note>
+      <p>Als u op <gui style="button">Volgende</gui> klikt voordat het spel voltooid is of zonder een antwoord in te voeren zal dat spel meetellen voor het resultaat.</p>
+    </note>
+  </section>
+</page>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="af">
+  <info>
+    <title type="sort">3</title>
+    <desc>Watter tipes speletjies gespeel kan word.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Speltipes</title>
+
+  <p><app>gbrainy</app> voorsien die volgende tipes speletjies:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logikaraaisels</title>
+          <p>Speletjies ontwerp om u redenering- en denkvaardighede uit te daag. Hierdie speletjies is gebaseer op opeenvolging van elemente, visuele en ruimtelike redenering of verhoudings tussen elemente.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logikaspeletjies-embleem</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Hoofrekene</title>
+          <p>Speletjies wat gebaseer is op wiskundige berekeninge wat ontwerp is om hoofrekene te verbeter. Speletjies wat vereis dat die speler maal, deel, optel en aftrek gekombineer op verskillende maniere.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Berekeningspeletjies-embleem</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Geheuebreiers</title>
+          <p>Speletjies wat ontwerp is om korttermyngeheue uit te daag. Hierdie speletjies wys versamelings van voorwerpe en vra die speler om dit te herroep - soms deur verhoudings tussen figure, woorde, getalle of kleure vas te stel.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Geheuespeletjies-embleem</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Verbale analogieë</title>
+          <p>Speletjies wat verbale vermoëns uitdaag. Hierdie speletjies vra van die speler om oorsaak en gevolg te identifiseer, sinonieme en antonieme asook woordeskat te gebruik.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Verbale-analogieë-spelembleem</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="nl">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>Juridische informatie.</desc>
+  </info>
+
+  <title>Licentie</title>
+  <p>Dit werk wordt verspreid onder een CreativeCommons Attribution-Share Alike 3.0 Unported licentie.</p>
+  <p>Het is toegestaan:</p>
+  <terms>
+    <item>
+      <title><em>Te delen</em></title>
+      <p>Het werk te kopiëren, verspreiden en doorsturen.</p>
+    </item>
+    <item>
+      <title><em>Opnieuw te mixen</em></title>
+      <p>Het werk aan te passen.</p> 
+    </item>
+  </terms>
+  <p>Onder de volgende voorwaarden:</p>
+  <terms>
+    <item>
+      <title><em>Toeschrijving</em></title>
+      <p>U dient het werk toe te schrijven op de manier zoals gespecificeerd door de auteur of licentiehouder (zonder de suggestie te wekken dat zij u of uw gebruikmaking van het werk steunen).</p>
+    </item>
+    <item>
+      <title><em>Share Alike</em></title>
+      <p>Wanneer u dit werk verandert, omvormt, of uitbreidt mag u het resultaat alleen onder dezelfde, een gelijke of compatibele licentie verspreiden.</p>
+    </item>
+  </terms>
+  <p>Zie voor de volledige tekst van de licentie de <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">CreativeCommons website</link>, of lees de complete <link href="http://creativecommons.org/licenses/by-sa/3.0/">Commons Deed</link>.</p>
+</page>

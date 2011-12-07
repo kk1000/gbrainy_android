@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="sr@latin">
+  <info>
+    <title type="sort">3</title>
+    <desc>Koje vrste igara možete igrati.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+  <title>Vrste igara</title>
+
+  <p><app>g-kefalo</app> obezbeđuje sledeće vrste igara:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logičke zagonetke</title>
+          <p>Igre osmišljene da izazovu vaše veštine rasuđivanja i razmišljanja. Ove igre se zasnivaju na sekvencijama elemenata, vizuelnom i prostornom rasuđivanju ili zajedničkom odnosu između elemenata.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logotip logičkih igara</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Mentalni računi</title>
+          <p>Igre zasnovane na aritmetičkim operacijama osmišljene da poboljšaju vaše sposobnosti mentalnog računa. Igre koje zahtevaju od igrača da koristi operacije množenja, deljenja, sabiranja i oduzimanja kombinovane na različite načine.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logotip računskih igara</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Memorijske vežbe</title>
+          <p>Igre osmišljene kao izazov za vašu kratkoročnu memoriju. Ove igre pokazuju skup objekata i traže od igrača da ih upamti, ponekad uspostavljajući odnos između figura, reči, brojeva ili boja.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logotip igara memorijskih vežbi</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Verbalne analogije</title>
+          <p>Igre koje proveravaju vaše verbalne sposobnosti. Ove igre traže od igrača da odredi uzroke i posledice, koristi sinonime ili antonime i da koristi svoj rečnik.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logotip igara verbalnih analogija</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

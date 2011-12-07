@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="pause" xml:lang="fr">
+      
+  <info>
+    <title type="sort">4</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Comment suspendre ou arrêter une partie.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Pause/arrêt d'une partie</title>
+
+  <section id="pause-pause">
+    <title>Mise en pause et reprise d'une partie</title>
+    <p>Pour suspendre une partie afin de pouvoir la reprendre au même endroit plus tard, réalisez une des actions suivantes :</p>
+    <list>
+      <item>
+        <p>Choisissez <guiseq><gui style="menu">Jeu</gui><gui style="menuitem">Suspendre la partie</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Cliquez sur le bouton <gui style="button">Pause</gui> dans la barre d'outils.</p>
+      </item>
+    </list>
+    <p>Afin de reprendre la partie après l'avoir mis en pause, réalisez une des actions suivantes :</p>
+    <list>
+      <item>
+        <p>Choisissez <guiseq><gui style="menu">Jeu</gui><gui style="menuitem">Suspendre la partie</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Cliquez sur le bouton <gui style="button">Reprendre</gui> dans la barre d'outils.</p>
+      </item>
+    </list>
+  </section>
+  
+  <section id="pause-stop">
+    <title>Arrêt d'un jeu</title>
+    <p>Pour terminer une nouvelle partie, réalisez une des actions suivantes :</p>
+    <list>
+      <item>
+        <p>Choisissez <guiseq><gui style="menu">Jeu</gui><gui style="menuitem">Finir la partie</gui></guiseq> ou</p>
+      </item>
+      <item>
+        <p>Cliquez sur le bouton <gui style="button">Terminer</gui> dans la barre d'outils.</p>
+      </item>
+    </list>
+  </section>
+</page>

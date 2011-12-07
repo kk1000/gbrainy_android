@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="cs">
+  <info>
+    <title type="sort">3</title>
+    <desc>Jaké typy her můžete hrát.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Typy her</title>
+
+  <p>Aplikace <app>gbrainy</app> nabízí následující typy her:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logické hlavolamy</title>
+          <p>Hry navržené jako výzva vašemu logickému myšlení a rozumovým schopnostem. Tyto hry jsou založené na řadách prvků, obrazovém a prostorovém myšlení nebo vztazích mezi prvky.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logo logických her</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Výpočty z hlavy</title>
+          <p>Hry založené na aritmetických početních operacích, navržené ke zdokonalení vašich početních schopností. Hry, které po hráči vyžadují používat násobení, dělení, sčítání a odečítání a to vše kombinované různými způsoby.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logo početních her</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Trénování paměti</title>
+          <p>Hry navržené jako výzva pro vaši krátkodobou paměť. Tyto hry zobrazí sadu objektů a po hráči chtějí, aby si vzpomněl jaké, někdy včetně určení vztahu mezi obrazci, slovy, čísly nebo barvami.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logo paměťových her</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Slovní analogie</title>
+          <p>Hry, které jsou výzvou pro vaši slovní zásobu. Hry, které po hráči chtějí určit věci a jevy pomocí synonym nebo antonym a se zapojením jeho slovníku.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logo her se slovními analogiemi</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custompage" xml:lang="fr">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Démarrer une sélection de jeux personnalisée.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-20" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>  
+  </info>
+
+  <title>Choix personnalisé de jeux </title>
+  <p>Il est possible de faire une partie avec une sélection personnalisée parmi tous les jeux disponible dans <app>gbrainy</app>.</p>
+  <p>Pour cela, suivez les instructions suivantes :</p>
+  <steps>
+    <item>
+      <p>Choisissez <guiseq><gui style="menu">Jeu</gui><gui style="menuitem">Nouvelle partie</gui><gui style="menuitem">Partie personnalisée</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Dans la boîte de dialogue <gui>Partie personnalisée</gui>, choisissez les jeux auxquels vous voulez jouer en cliquant sur la case à cocher en face du nom du jeu.</p>
+    </item>
+    <item>
+      <p>Une fois que vous avez terminé, cliquez sur <gui style="button">Démarrer</gui> pour commencer à jouer avec votre sélection de jeux personnalisée.</p>
+    </item>
+  </steps>
+</page>

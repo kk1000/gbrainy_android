@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="multiplayer" xml:lang="sr">
+
+  <info>
+    <link type="guide" xref="index#multi"/>
+  	<desc>Како играти са другима.</desc>
+  	<!-- Taken from GNOME Tetravex -->
+    <revision pkgversion="2.30" version="0.1" date="2009-12-18" status="draft"/> 
+    <credit type="author">
+      <name>Мило Казагранде</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Играти са другима</title>
+
+  <p>Није могуће играти против других људи на Интернету или на локалној мрежи са <app>г-кефалом</app>.</p>
+</page>

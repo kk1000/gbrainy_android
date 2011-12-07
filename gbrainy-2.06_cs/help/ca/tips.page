@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="ca">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Utilitzeu la pista per a ajudar-vos a resoldre un trencaclosques.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Reconeixement-Compartir Igual 3.0</p>
+    </license>
+  </info>
+
+  <title>Pistes</title>
+  <p>En alguns jocs és possible disposar de pistes que us poden ajudar a resoldre el problema.</p>
+  <p>Quan esteu jugant, feu clic al botó <gui style="button">Pista</gui> a la part inferior de la finestra (al costat de l'entrada de text <gui style="input">Resposta</gui>).</p>
+  <note>
+    <p>Aquesta característica no està disponible per tots els jocs.</p>
+  </note>
+</page>

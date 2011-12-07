@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="ro">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Începe un joc.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Sesiune de joc</title>
+  
+  <section id="game-start">
+    <title>Începerea unei sesiuni noi</title>
+    <p>Pentru a începe un joc nou, faceți una din următoarele:</p>
+    <list>
+      <item>
+        <p>Selectați <guiseq><gui style="menu">Joc</gui><gui style="menuitem">Joc nou</gui></guiseq>, și alegeți tipul de joc pe care doriți să-l jucați.</p>
+      </item>
+      <item>
+        <p>Apăsați clic pe unul dintre butoanele din bara de unelte</p>
+      </item>
+    </list>
+    <p>Butoanele de pe bara de unelte au următoarele semnificații:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Toate</title>
+            <p>Începe un joc nou selectând toate tipurile de jocuri disponibile.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Butonul pentru toate jocurile</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logică</title>
+            <p>Începe un joc nou selectând numai jocurile de logică.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Butonul pentru jocuri de logică</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Calcule</title>
+            <p>Începe un joc nou selectând numai jocurile de calcule.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Butonul pentru jocuri de calcule</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Memorie</title>
+            <p>Începe un joc nou selectând numai jocurile de memorie.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Butonul pentru jocuri de memorie</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Verbale</title>
+            <p>Începe un joc nou selectând numai jocurile cu analogii verbale.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Butonul pentru jocuri cu analogii verbale</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Aceste descrieri se aplică și la tipurile de jocuri pe care le puteți selecta din meniul <gui style="menu">Joc</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Cum se joacă o sesiune</title>
+    <note style="tip">
+      <p>Când jucați un joc, citiți întotdeauna instrucțiunile cu atenție!</p>
+    </note>
+    <p>Sesiunea jocului începe prin afișarea problemei și apoi urmează întrebarea pentru răspuns. În partea de jos a ferestrei se află setul principal de controale pe care le puteți folosi pentru a interacționa cu jocul.</p>
+    <p>Când știți răspunsul la problemă, tastați-l în intrarea de text <gui style="input">Răspuns</gui> și apăsați <gui style="button">OK</gui>.</p>
+    <p>Pentru a înainta la următorul joc, apăsați <gui style="button">Următorul</gui>.</p>
+    <note>
+      <p>Dacă apăsați <gui style="button">Următorul</gui> înainte să terminați jocul, sau fără să oferiți un răspuns, acel joc va fi notat la rezultate.</p>
+    </note>
+  </section>
+</page>

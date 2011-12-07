@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="cs">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Úvod do aplikace <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Hraní her</title>
+  
+  <p>Aplikace <app>gbrainy</app> je trenér vašeho mozku. Cílem hry je poskytnout vám zábavu a přitom udržovat váš mozek v kondici.</p>
+  <p>Obsahuje různé typy her, jako jsou logické hlavolamy, počítání z hlavy, trénování paměti a slovní analogie, navržené tak, aby se otestovaly různé znalostní schopnosti.</p>
+  <p>Můžete si vybrat různou náročnost, což dělá aplikaci <app>gbrainy</app> zábavnou pro děti, dospělé i seniory. Obsahuje také historii her, osobní záznamy hráče, pomůcky pro hráče a podporu režimu celé obrazovky. Aplikaci <app>gbrainy</app> lze také jednoduše <link href="http://live.gnome.org/gbrainy/Extending">rozšiřovat</link> o nové hry vyvinuté třetími stranami.</p>
+  <p>Aplikace <app>gbrainy</app> se hodně spoléhá na dřívější přední logické hlavolamy, od klasických hlavolamů z historických dob až po nedávné práce jako hlavolamy <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terryho Stickela</link> nebo klasická hra <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>.</p>
+  <note>
+    <p>Nedávno proběhla mezi vědci diskuze na téma, zda hraní programů pro trénování paměti opravdu zdokonaluje kognitivní výkonnost. Řada studií ukazuje, že přínos není žádný nebo jen malý. Navzdory tomu můžete s hrami jako je <app>gbrany</app> strávit příjemně čas.</p>
+  </note>
+</page>

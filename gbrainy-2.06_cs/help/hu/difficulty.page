@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="hu">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Játékok nehézségi szintjének módosítása.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Nehézségi szintek</title>
+  <p>A játék nehézségi szintjének módosításához tegye a következőt:</p>
+  <steps>
+    <item>
+      <p>Válassza a <guiseq><gui style="menu">Beállítások</gui><gui style="menuitem">Beállítások</gui></guiseq> menüpontot.</p>
+    </item>
+    <item>
+      <p>A <gui>Nehézségi szint</gui> szakaszban válassza ki a kívánt szintet.</p>
+      <p>Három különböző szint közül választhat: <gui style="radiobutton">Könnyű</gui>, <gui style="radiobutton">Közepes</gui> és <gui style="radiobutton">Mester</gui>. Az alapértelmezett szint a <gui style="radiobutton">Közepes</gui>.</p>
+    </item>
+  </steps>
+</page>

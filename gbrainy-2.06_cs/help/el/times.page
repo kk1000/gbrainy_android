@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="el">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Αλλαγή της διάρκειας εμφάνισης των δοκιμασιών στα παιχνίδια μνήμης.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Αλλαγή διάρκειας δοκιμασιών</title>
+  <p>Για να αλλάξετε τον αριθμό των δευτερολέπτων που σας δίνονται για να απομνημονεύσετε την δοκιμασία όταν παίζετε παιχνίδια μνήμης, κάντε τα εξής:</p>
+  <steps>
+    <item>
+      <p>Πηγαίνετε <guiseq><gui style="menu">Ρυθμίσεις</gui><gui style="menuitem">Προτιμήσεις</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Στην περιοχή των <gui>Παιχνιδιών μνήμης</gui>, χρησιμοποιήστε το πλαίσιο για να αυξήσετε ή να μειώσετε τον αριθμό των δευτερολέπτων για τα οποία θα είναι ορατή η δοκιμασία.</p>
+      <p>
+        The default value is 6 seconds.
+      </p>
+    </item>
+  </steps>
+</page>

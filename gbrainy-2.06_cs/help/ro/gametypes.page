@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="ro">
+  <info>
+    <title type="sort">3</title>
+    <desc>Ce tipuri de joc puteți juca.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Tipuri de joc</title>
+
+  <p><app>gbrainy</app> vă oferă următoarele tipuri de jocuri:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Puzzle-uri logice</title>
+          <p>Jocuri concepute să vă provoace abilitățile de logică și gândire. Aceste jocuri au la bază o succesiune de elemente, logică vizuală și spațială sau relația dintre elemente.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Sigla jocurilor logice</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Calcule mentale</title>
+          <p>Jocuri bazate pe operații aritmetice concepute să vă îmbunătățească abilitățile de calculare mentală. Jocuri care necesită ca jucătorul să folosească înmulțirea, împărțirea, adunarea și scăderea combinate în feluri diferite.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Sigla jocurilor de calcule</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Jocuri de memorie</title>
+          <p>Jocuri concepute să vă provoace memoria pe termen scurt. Aceste jocuri ilustrează o colecție de obiecte și cer jucătorului să le amintească, câteodată stabilind relații între figuri, cuvinte, numere sau culori.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Sigla jocurilor de memrie</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Analogii verbale</title>
+          <p>Jocuri care vă provoacă aptitudinile verbale. Aceste jocuri cer jucătorului cer jucătorului să identifice cauza și efectul, folosind sinonime sau antonime, și să-și folosească vocabularul.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Sigla jocurilor de analogii verbale</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

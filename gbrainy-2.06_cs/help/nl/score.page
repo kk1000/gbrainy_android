@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="nl">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Hoe de scores van de speler berekend worden.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Spelscore en tijd</title>
+  <p>Als u een fout antwoord geeft, dan krijgt u er geen punten voor.</p>
+  <p>Als u een juist antwoord geeft, dan krijgt u een score die afhangt van de tijd die nodig was om het vraagstuk op te lossen en of u tijdens het spel de tip gebruikt heeft.</p>
+  <p>In de volgende tabel ziet u een overzicht van de spelduur (in seconden) voor verschillende spellen, gebaseerd op de moeilijkheidsgraad.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Makkelijk</p></td>
+      <td><p>Gemiddeld</p></td>
+      <td><p>Moeilijk</p></td>
+    </tr>
+    <tr>
+      <td><p>Logica-puzzels</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Hoofdrekenen</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Geheugentrainers</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Verbale analogieën</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Met de verwachte tijd voor de gekozen moeilijkheidsgraad en de tijd die u nodig heeft om het spel te voltooien wordt de volgende logica gehanteerd:</p>
+  <list>
+    <item>
+      <p>Als u het spel voltooit in minder dan de verwachte tijd, dan krijgt u 10 punten.</p>
+    </item>
+    <item>
+      <p>Als u meer dan de verwachte tijd nodig heeft om het spel te voltooien, dan krijgt u 8 punten.</p>
+    </item>
+    <item>
+      <p>Als u meer dan 2x de verwachte tijd nodig heeft om het spel te voltooien, dan krijgt u 7 punten.</p>
+    </item>
+    <item>
+      <p>Als u meer dan 3x de verwachte tijd nodig heeft om het spel te voltooien, dan krijgt u 6 punten.</p>
+    </item>
+    <item>
+      <p>Als u een tip gebruikt, dan krijgt u slechts 80% van de oorspronkelijke score.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Het totaal berekenen</title>
+    <p><app>gbrainy</app> houdt de verschillende soorten spellen die u speelt bij. Om de eindscore van elke set spelsoorten te berekenen telt het alle resultaten op van dezelfde gespeelde spelsoorten waarna een factor wordt toegepast gebaseerd op: het logaritme van 10 voor het makkelijke niveau, het logaritme van 20 voor het gemiddelde niveau en het logaritme van 30 voor het moeilijke niveau.</p>
+	  <p>
+	    This means that when playing at medium difficulty level, to get a score of 
+	    100 points you need to score 10 points on at least 20 games of every game type played.
+	  </p>
+	  <p>Dit klinkt ingewikkeld, maar het stelt spelers in staat spelscores te vergelijken van verschillende sessies (in de spelgeschiedenis van de speler) en laat beter de progressie van de speler over alle gespeelde spellen zien.</p>
+  </section>
+</page>

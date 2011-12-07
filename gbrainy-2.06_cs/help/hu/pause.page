@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="pause" xml:lang="hu">
+      
+  <info>
+    <title type="sort">4</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Játék szüneteltetésének vagy befejezésének módja.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Játék szüneteltetése/befejezése</title>
+
+  <section id="pause-pause">
+    <title>Játék szüneteltetése és leállítása</title>
+    <p>Tegye a következők egyikét a játék szüneteltetéséhez, hogy később folytathassa azt:</p>
+    <list>
+      <item>
+        <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Játék szüneteltetése</gui></guiseq> menüpontot.</p>
+      </item>
+      <item>
+        <p>Kattintson az eszköztár <gui style="button">Szünet</gui> gombjára.</p>
+      </item>
+    </list>
+    <p>A szüneteltetett játék folytatásához tegye a következők egyikét:</p>
+    <list>
+      <item>
+        <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Játék szüneteltetése</gui></guiseq> menüpontot.</p>
+      </item>
+      <item>
+        <p>Kattintson az eszköztár <gui style="button">Folytatás</gui> gombjára.</p>
+      </item>
+    </list>
+  </section>
+  
+  <section id="pause-stop">
+    <title>Játék befejezése</title>
+    <p>A játék befejezéséhez tegye a következők egyikét:</p>
+    <list>
+      <item>
+        <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Játék befejezése</gui></guiseq> menüpontot.</p>
+      </item>
+      <item>
+        <p>Kattintson az eszköztár <gui style="button">Befejezés</gui> gombjára.</p>
+      </item>
+    </list>
+  </section>
+</page>

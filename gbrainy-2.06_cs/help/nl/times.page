@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="nl">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Wijzig de voorgestelde tijd voor geheugenspellen.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Wijzig de speelduur</title>
+  <p>Het aantal toegewezen seconden om bij het spelen van geheugenspellen de uitdaging te onthouden kunt u als volgt wijzigen:</p>
+  <steps>
+    <item>
+      <p>Kies <guiseq><gui style="menu">Instellingen</gui><gui style="menuitem">Voorkeuren</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Gebruik in de sectie <gui>Geheugenspellen</gui> het spinveld om het aantal seconden waarin de uitdaging zichtbaar is te verhogen of te verlagen.</p>
+      <p>
+        The default value is 6 seconds.
+      </p>
+    </item>
+  </steps>
+</page>

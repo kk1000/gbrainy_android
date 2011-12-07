@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="da">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Begynd at spille.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spilsession</title>
+  
+  <section id="game-start">
+    <title>Begynd en ny session</title>
+    <p>For at begynde på et nyt spil, vælges en af følgende muligheder:</p>
+    <list>
+      <item>
+        <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Nyt spil</gui></guiseq>, og vælg spiltype.</p>
+      </item>
+      <item>
+        <p>Klik på en af knapperne i værktøjsbjælken.</p>
+      </item>
+    </list>
+    <p>Knapperne på værktøjsbjælken har de følgende betydninger:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Alle</title>
+            <p>Starter et nyt spil med alle de tilgængelige spiltyper.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Alle spilknapper</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logik</title>
+            <p>Starter et nyt spil udelukkende med logiske spil.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Logik - spilknapper</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Beregning</title>
+            <p>Starter et nyt spil udelukkende med beregningsspil.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Hovedregning - spilknap</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Hukommelse</title>
+            <p>Starter et nyt spil udelukkende med hukommelsesspil.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Knapper til hukommelsesspil</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Sproglig</title>
+            <p>Starter et nyt spil udelukkende med sproglige analogier.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Knapper til sproglige spil</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Disse beskrivelser gælder også for spiltyper, som du kan vælge fra menuen <gui style="menu">Spil</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Spil en session</title>
+    <note style="tip">
+      <p>Når du spiller så husk altid omhyggeligt at læse instruktionerne!</p>
+    </note>
+    <p>Spilsessionen begynder med at vise dig problemet og så spørge efter svaret. Nederst i vinduet er de væsentligste styringsværktøjer som du kan bruge til at styre spillet med.</p>
+    <p>Når du kender svaret, skal du indtaste det indtastningsfeltet <gui style="input">Svar</gui> og tryk på <gui style="button">O.k.</gui>.</p>
+    <p>For at fortsætte til det næste spil, så klik på <gui style="button">Næste</gui>.</p>
+    <note>
+      <p>Hvis du klikker på <gui style="button">Næste</gui> før du har færdiggjort spillet, eller uden at angive et svar, vil spillet blive medtaget i dine resultater.</p>
+    </note>
+  </section>
+</page>

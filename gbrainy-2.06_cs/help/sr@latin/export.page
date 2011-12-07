@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="sr@latin">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Izvezite igre za igranje van mreže.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Izvezite igre</title>
+  <p>Moguće je da izvezete a zatim da odštampate igre koje obezbeđuje program da biste ih igrali i kada niste za računarom.</p>
+  <p>Igre će biti sačuvane u <file>PDF</file> datoteci u izabranoj fascikli.</p>
+  <p>Da izvezete igre:</p>
+  <steps>
+    <item>
+      <p>Izaberite „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Izvezi igru u PDF za igranje van mreže</gui></guiseq>“.</p>
+    </item>
+    <item>
+      <p>Izaberite vrstu igre, nivo težine i broj igara za izvoženje. Kada to uradite kliknite <gui style="button">Sačuvaj</gui>.</p>
+    </item>
+  </steps>
+
+</page>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="da">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Ændr sværhedsgrad på spillet.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Sværhedsgrader</title>
+  <p>For at ændre sværhedsgraden på et spil, udfør følgende:</p>
+  <steps>
+    <item>
+      <p>Vælg <guiseq><gui style="menu">Opsætning</gui><gui style="menuitem">Indstillinger</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>I afsnittet <gui>Sværhedsgrad</gui> vælges det ønskede niveau.</p>
+      <p>Du kan vælge fra tre forskellige niveauer: <gui style="radiobutton">Let</gui>, <gui style="radiobutton">Mellem</gui>, and <gui style="radiobutton">Øvet</gui>. Standardniveauet er <gui style="radiobutton">Mellem</gui>.</p>
+    </item>
+  </steps>
+</page>

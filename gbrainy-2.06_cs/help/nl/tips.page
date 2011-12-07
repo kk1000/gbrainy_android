@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="nl">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Tips gebruiken om een puzzel op te lossen.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Tips</title>
+  <p>Bij sommige van de te spelen spellen kunt u eenvoudige tips krijgen die u helpen het vraagstuk op te lossen.</p>
+  <p>Klik tijdens het spelen van een spel op de knop <gui style="button">Tip</gui> onderaan het venster (naast het tekstveld <gui style="input">Antwoord</gui>).</p>
+  <note>
+    <p>Voor sommige spellen is deze optie niet beschikbaar.</p>
+  </note>
+</page>

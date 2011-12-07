@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="ca">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Exporta els jocs per a jugar fora de línia.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Reconeixement-Compartir Igual 3.0</p>
+    </license>
+  </info>
+
+  <title>Exportació dels jocs</title>
+  <p>És possible exportar i llavors imprimir els jocs proveïts per l'aplicació per poder jugar-hi quan no sou davant de l'ordinador.</p>
+  <p>Els jocs es desaran en un fitxer <file>PDF</file> a la carpeta seleccionada.</p>
+  <p>Per a exportar els jocs:</p>
+  <steps>
+    <item>
+      <p>Seleccioneu <guiseq><gui style="menu">Partida</gui><gui style="menuitem">Exporta jocs a PDF per a jugar fora de línia</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Seleccioneu el tipus de jocs, el nivell de dificultat, i quants jocs voleu exportar. Quan finalitzeu feu clic a <gui style="button">Desa</gui>.</p>
+    </item>
+  </steps>
+
+</page>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="history" xml:lang="af">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Verkry toegang tot u persoonlike spelgeskiedenis.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Persoonlike spelgeskiedenis</title>
+  
+  <p>Die <gui>Speler se spelgeskiedenis</gui>-dialoog wys die prestasies van elke speltipe gedurende die laaste paar spelsessies.</p>
+  
+  <section id="history-personal">
+    <title>Bekyk die spelgeskiedenis</title>
+    <p>Om toegang tot u persoonlike spelgeskiedenis te verkry, kies <guiseq><gui style="menu">Bekyk</gui><gui style="menuitem">Speler se spelgeskiedenis</gui></guiseq>.</p>
+  </section>
+  
+  <section id="history-change-graphic">
+    <title>Kies watter resultate moet gewys word</title>
+    <p>Om die resultate wat in die grafiek gewys moet word te kies, gebruik die verskillende merkblokkies onder die grafiek.</p>
+  </section>
+  
+  <section id="history-save-prefs">
+    <title>Wysig die aantal gestoorde speletjies</title>
+    <p><app>gbrainy</app> stoor die speler se tellings sodat die vordering dopgehou kan word.</p>
+    <p>Om te verander aan die aantal sessies wat gerekordeer word of hoeveel speletjies in die geskiedenis gestoor moet word, maak soos volg:</p>
+    <steps>
+      <item>
+        <p>Kies <guiseq><gui style="menu">Instellings</gui><gui style="menuitem"> Voorkeure</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>In die <gui>Speler se spelgeskiedenis</gui>-afdeling:</p>
+        <list>
+          <item>
+            <p>Gebruik die eerste spinknoppie om te verander aan die aantal spelsessies wat gerekordeer moet word voordat die resultate in die geskiedenisgrafiek gesien kan word.</p>
+          </item>
+          <item>
+            <p>Gebruik die tweede spinknoppie om die aantal spelsessies wat in die geskiedenisgrafiek gewys gaan word te verander.</p>
+          </item>
+        </list>
+      </item>
+    </steps>
+  </section>
+</page>

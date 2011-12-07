@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="af">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Begin en speel 'n speletjie.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spelsessie</title>
+  
+  <section id="game-start">
+    <title>Begin 'n nuwe sessie</title>
+    <p>Om 'n nuwe speletjie te begin, doen een van die volgende:</p>
+    <list>
+      <item>
+        <p>Kies <guiseq><gui style="menu">Spel</gui><gui style="menuitem">Nuwe spel</gui></guiseq>, en kies die tipe speletjie om te speel.</p>
+      </item>
+      <item>
+        <p>Klik op een van die knoppies in die nutsbalk.</p>
+      </item>
+    </list>
+    <p>Die nutsbalkknoppies het die volgende betekenisse:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Alle</title>
+            <p>Begin 'n nuwe speletjie wat al die beskikbare speltipes bevat.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Al die spelknoppies</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logika</title>
+            <p>Begin 'n nuwe speletjie wat slegs die logikaspeletjies bevat.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Logikaspelknoppie</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Berekening</title>
+            <p>Begin 'n nuwe speletjie wat slegs die berekeningspeletjies bevat.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Berekeningspelknoppie</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Geheue</title>
+            <p>Begin 'n nuwe speletjie wat slegs die geheuespeletjies bevat.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Geheuespelknoppie</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Verbaal</title>
+            <p>Begin 'n nuwe speletjie wat slegs die verbale analogieë bevat.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Verbalespelknoppie</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Hierdie beskrywings is ook van toepassing op die speltipes wat gekies kan word van die <gui style="menu">Spel</gui>-kieslys.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Speel 'n sessie</title>
+    <note style="tip">
+      <p>Wanneer u 'n speletjie speel, lees altyd die instruksies sorgvuldig!</p>
+    </note>
+    <p>Die spelsessie begin deur 'n probleem te wys en dan vir 'n antwoord te vra. Aan die onderkant van die venster is die hoofstel kontroles wat gebruik kan word vir interaksie met die speletjie.</p>
+    <p>Sodra u die antwoord op die probleem het, tik dit in die <gui style="input">Antwoord</gui> teksinskrywing en druk <gui style="button">OK</gui>.</p>
+    <p>Om voort te gaan na die volgende speletjie, klik <gui style="button">Volgende</gui>.</p>
+    <note>
+      <p>Wanneer <gui style="button">Volgende</gui> geklik word voor die speletjie voltooi is, of sonder om 'n antwoord te verskaf, sal daardie spel getel word as deel van die resultate.</p>
+    </note>
+  </section>
+</page>

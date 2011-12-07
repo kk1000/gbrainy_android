@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="da">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Ændre den tid som du har til at løse en opgave i hukommelsesspil.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Ændre den tid du har til at løse en opgave</title>
+  <p>For at ændre det antal sekunder du har til at indlære en udfordring, når du spiller hukommelsesspil, skal du gøre det følgende:</p>
+  <steps>
+    <item>
+      <p>Vælg <guiseq><gui style="menu">Opsætning</gui><gui style="menuitem">Indstillinger</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>I afsnittet <gui>Hukommelsesspil</gui>, brug rulleboksen til at øge eller nedsætte antallet af sekunder som udfordringen vil være synlig.</p>
+      <p>Standardværdien er 6 sekunder.</p>
+    </item>
+  </steps>
+</page>

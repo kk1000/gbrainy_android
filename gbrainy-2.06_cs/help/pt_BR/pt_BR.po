@@ -1,0 +1,884 @@
+# Brazilian Portuguese translation for gbrainy.
+# Copyright (C) 2011 gbrainy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gbrainy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Flamarion Jorge <jorge.flamarion@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy master\n"
+"POT-Creation-Date: 2011-03-12 22:32+0000\n"
+"PO-Revision-Date: 2011-03-12 19:51-0300\n"
+"Last-Translator: Flamarion Jorge <jorge.flamarion@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: C/export.page:7(desc)
+msgid "Export the games for playing off-line."
+msgstr "Exportar os jogos para jogar desconectado."
+
+#: C/export.page:10(name) C/times.page:11(name) C/newgame.page:13(name)
+#: C/index.page:14(name) C/gameplay.page:12(name) C/score.page:11(name)
+#: C/multiplayer.page:11(name) C/history.page:9(name)
+#: C/difficulty.page:12(name) C/tips.page:12(name) C/pause.page:12(name)
+#: C/customgame.page:12(name)
+msgid "Milo Casagrande"
+msgstr "Milo Casagrande"
+
+#: C/export.page:11(email) C/times.page:12(email) C/newgame.page:14(email)
+#: C/index.page:15(email) C/gameplay.page:13(email) C/score.page:12(email)
+#: C/multiplayer.page:12(email) C/history.page:10(email)
+#: C/difficulty.page:13(email) C/tips.page:13(email) C/pause.page:13(email)
+#: C/customgame.page:13(email)
+msgid "milo@ubuntu.com"
+msgstr "milo@ubuntu.com"
+
+#: C/export.page:14(p) C/times.page:15(p) C/newgame.page:17(p)
+#: C/index.page:18(p) C/gameplay.page:16(p) C/score.page:15(p)
+#: C/multiplayer.page:15(p) C/history.page:13(p) C/difficulty.page:16(p)
+#: C/tips.page:16(p) C/pause.page:16(p) C/gametypes.page:12(p)
+#: C/customgame.page:16(p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr "Creative Commons Share Alike 3.0"
+
+#: C/export.page:20(title)
+msgid "Export the games"
+msgstr "Exportar os jogos"
+
+#: C/export.page:21(p)
+msgid ""
+"It is possible to export and then print the games provided by the app for "
+"playing while not at the computer."
+msgstr ""
+"É possível exportar e imprimir os jogos providos pela app para jogar "
+"enquanto não estiver no computador."
+
+#: C/export.page:25(p)
+msgid ""
+"The games will be saved in a <file>PDF</file> file in the selected folder."
+msgstr ""
+"Os jogos serão salvos em um arquivo <file>PDF</file> no seletor de pastas."
+
+#: C/export.page:28(p)
+msgid "To export the games:"
+msgstr "Para exportar os jogos:"
+
+#: C/export.page:33(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Export "
+"Games to PDF for Off-Line Playing</gui></guiseq>."
+msgstr ""
+"Escolha  <guiseq><gui style=\"menu\">Jogo</gui><gui style=\"menuitem"
+"\">Exportar jogo para PDF para jogar desconectado</gui></guiseq>."
+
+#: C/export.page:38(p)
+msgid ""
+"Select the type of games, the difficulty level, and how many games to "
+"export. When done click <gui style=\"button\">Save</gui>."
+msgstr ""
+"Selecione o tipo de jogo, o nível de dificuldade, e quantos jogos para "
+"exportar. Quando feito, clique em  <gui style=\"button\">Salvar</gui>."
+
+#: C/times.page:7(desc)
+msgid "Change the challenge presentation time in memory games."
+msgstr "Modifique o tempo de apresentação na memória de jogos."
+
+#: C/times.page:19(title)
+msgid "Change the challenge duration"
+msgstr "Modifique a duração do desafio"
+
+#: C/times.page:20(p)
+msgid ""
+"To change the number of seconds you are given to memorize the challenge when "
+"playing memory games, proceed as follows:"
+msgstr ""
+
+#: C/times.page:26(p) C/difficulty.page:26(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem"
+"\">Preferences</gui></guiseq>."
+msgstr ""
+
+#: C/times.page:31(p)
+msgid ""
+"In the <gui>Memory Games</gui> section, use the spin box to increase or "
+"decrease the number of seconds that the challenge will be visible for."
+msgstr ""
+
+#: C/times.page:35(p)
+msgid "The default value is 6 seconds."
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:57(None)
+msgid "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+msgstr "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:76(None) C/gametypes.page:36(None)
+msgid ""
+"@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+msgstr ""
+"@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:95(None) C/gametypes.page:57(None)
+msgid "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+msgstr ""
+"@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:114(None) C/gametypes.page:78(None)
+msgid ""
+"@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+msgstr ""
+"@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:133(None) C/gametypes.page:98(None)
+msgid ""
+"@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+msgstr ""
+"@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+
+#: C/newgame.page:6(title)
+msgid "1"
+msgstr "1"
+
+#: C/newgame.page:9(desc)
+msgid "Start and play a game."
+msgstr "Iniciar e jogar um jogo"
+
+#: C/newgame.page:21(title)
+msgid "Game session"
+msgstr "Sessão de jogos"
+
+#: C/newgame.page:24(title)
+msgid "Start a new session"
+msgstr "Iniciar uma nova sessão"
+
+#: C/newgame.page:25(p)
+msgid "To start a new game, do one of the following:"
+msgstr "Para iniciar um novo jogo, faça um dos seguintes:"
+
+#: C/newgame.page:30(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui></guiseq>, and select the type of game to play."
+msgstr ""
+
+#: C/newgame.page:36(p)
+msgid "Click on one of the buttons in the toolbar."
+msgstr ""
+
+#: C/newgame.page:41(p)
+msgid "The toolbar buttons have the following meanings:"
+msgstr ""
+
+#: C/newgame.page:49(title)
+msgid "All"
+msgstr "Todos"
+
+#: C/newgame.page:50(p)
+msgid "Starts a new game playing all the available game types."
+msgstr "Iniciar um novo jogo jogando todos os tipos de jogos disponíveis."
+
+#: C/newgame.page:58(p)
+msgid "All games button"
+msgstr "Todos os botões dos jogos"
+
+#: C/newgame.page:68(title)
+msgid "Logic"
+msgstr "Lógica"
+
+#: C/newgame.page:69(p)
+msgid "Start a new game playing only logic games."
+msgstr "Iniciar um novo jogo jogando somente jogos de lógica."
+
+#: C/newgame.page:77(p)
+msgid "Logic games button"
+msgstr "Botões dos jogos de lógica"
+
+#: C/newgame.page:87(title)
+msgid "Calculation"
+msgstr "Cálculo"
+
+#: C/newgame.page:88(p)
+msgid "Starts a new game playing only calculation games."
+msgstr "Iniciar um novo jogo jogando somente jogos de cálculo."
+
+#: C/newgame.page:96(p)
+msgid "Calculation games button"
+msgstr ""
+
+#: C/newgame.page:106(title)
+msgid "Memory"
+msgstr "Memória"
+
+#: C/newgame.page:107(p)
+msgid "Starts a new game playing only memory games."
+msgstr ""
+
+#: C/newgame.page:115(p)
+msgid "Memory games button"
+msgstr ""
+
+#: C/newgame.page:125(title)
+msgid "Verbal"
+msgstr "Verbal"
+
+#: C/newgame.page:126(p)
+msgid "Starts a new game playing only verbal analogy games."
+msgstr ""
+
+#: C/newgame.page:134(p)
+msgid "Verbal games button"
+msgstr ""
+
+#: C/newgame.page:142(p)
+msgid ""
+"These descriptions also apply to the game types that you can select from the "
+"<gui style=\"menu\">Game</gui> menu."
+msgstr ""
+
+#: C/newgame.page:149(title)
+msgid "Play a session"
+msgstr "Jogar uma sessão"
+
+#: C/newgame.page:151(p)
+msgid "When you play a game, always read the instructions carefully!"
+msgstr ""
+
+#: C/newgame.page:155(p)
+msgid ""
+"The game session begins by showing you the problem and then asking for the "
+"answer. At the bottom of the window is the main set of controls that you can "
+"use to interact with the game."
+msgstr ""
+
+#: C/newgame.page:159(p)
+msgid ""
+"Once you know the answer to the problem, type it in the <gui style=\"input"
+"\">Answer</gui> text entry and press <gui style=\"button\">OK</gui>."
+msgstr ""
+
+#: C/newgame.page:163(p)
+msgid "To proceed to the next game, click <gui style=\"button\">Next</gui>."
+msgstr ""
+
+#: C/newgame.page:167(p)
+msgid ""
+"If you click <gui style=\"button\">Next</gui> before completing the game, or "
+"without providing an answer, that game will be counted in your results."
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/index.page:23(None)
+msgid "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+msgstr "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+
+#: C/index.page:7(title) C/index.page:8(title) C/index.page:11(title)
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: C/index.page:12(desc)
+msgid "The <app>gbrainy</app> help."
+msgstr "A ajuda do <app>gbrainy</app>."
+
+#: C/index.page:22(title)
+msgid ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logo</media> gbrainy"
+msgstr ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logo</media> gbrainy"
+
+#: C/index.page:28(title)
+msgid "Basic Gameplay &amp; Usage"
+msgstr ""
+
+#: C/index.page:32(title)
+msgid "Multiplayer Game"
+msgstr "Multijogadores"
+
+#: C/index.page:36(title)
+msgid "Tips &amp; Tricks"
+msgstr "Dicas &amp; Truques"
+
+#: C/gameplay.page:7(desc)
+msgid "Introduction to <app>gbrainy</app>."
+msgstr "Introdução ao <app>gbrainy</app>"
+
+#: C/gameplay.page:20(title)
+msgid "Gameplay"
+msgstr "Jogabilidade"
+
+#: C/gameplay.page:22(p)
+msgid ""
+"<app>gbrainy</app> is a brain teaser game; the aim of the game is to have "
+"fun and keep your brain trained."
+msgstr ""
+
+#: C/gameplay.page:26(p)
+msgid ""
+"It features different game types like logic puzzles, mental calculation "
+"games, memory trainers and verbal analogies, designed to test different "
+"cognitive skills."
+msgstr ""
+
+#: C/gameplay.page:30(p)
+msgid ""
+"You can choose different difficulty levels making <app>gbrainy</app> "
+"enjoyable for kids, adults or senior citizens. It also features a game "
+"history, personal records, tips and fullscreen mode support. <app>gbrainy</"
+"app> can also be <link href=\"http://live.gnome.org/gbrainy/Extending"
+"\">extended</link> easily with new games developed by third parties."
+msgstr ""
+
+#: C/gameplay.page:37(p)
+msgid ""
+"<app>gbrainy</app> relies heavily on the work of previous puzzle masters, "
+"ranging from classic puzzles from ancient times to more recent works like "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</"
+"link> puzzles or the classic <link href=\"http://en.wikipedia.org/wiki/Dr."
+"_Brain\">Dr. Brain</link> game."
+msgstr ""
+
+#: C/gameplay.page:45(p)
+msgid ""
+"There have been recent discussions in the scientific community regarding "
+"whether brain training software improves cognitive performance. Most of the "
+"studies show that there is little or no improvement, but that doesn't mean "
+"you can't have a good time playing games like <app>gbrainy</app>!"
+msgstr ""
+
+#: C/score.page:8(desc)
+msgid "How the player scores are calculated."
+msgstr "Como os pontos dos jogadores são calculados."
+
+#: C/score.page:19(title)
+msgid "Game score and timings"
+msgstr "Pontos e tempos de jogos"
+
+#: C/score.page:20(p)
+msgid "If you answer a puzzle incorrectly, you will not get any score for it."
+msgstr ""
+
+#: C/score.page:23(p)
+msgid ""
+"If you answer a puzzle correctly, you will get a score which depends on the "
+"time taken to resolve the problem and whether you used the tip during the "
+"game."
+msgstr ""
+
+#: C/score.page:27(p)
+msgid ""
+"The following table summarizes the different game durations (in seconds) "
+"based on the difficulty level."
+msgstr ""
+
+#: C/score.page:34(p)
+msgid "Easy"
+msgstr "Fácil"
+
+#: C/score.page:35(p)
+msgid "Medium"
+msgstr "Médio"
+
+#: C/score.page:36(p)
+msgid "Master"
+msgstr "Mestre"
+
+#: C/score.page:39(p) C/gametypes.page:26(title)
+msgid "Logic puzzles"
+msgstr "Quebra cabeças lógicos"
+
+#: C/score.page:40(p)
+msgid "156"
+msgstr "156"
+
+#: C/score.page:41(p)
+msgid "120"
+msgstr "120"
+
+#: C/score.page:42(p)
+msgid "110"
+msgstr "110"
+
+#: C/score.page:45(p)
+msgid "Mental calculation"
+msgstr "Calculo mental"
+
+#: C/score.page:46(p)
+msgid "78"
+msgstr "78"
+
+#: C/score.page:47(p)
+msgid "60"
+msgstr "60"
+
+#: C/score.page:48(p)
+msgid "55"
+msgstr "55"
+
+#: C/score.page:51(p) C/gametypes.page:68(title)
+msgid "Memory trainers"
+msgstr "Treino de memória"
+
+#: C/score.page:52(p) C/score.page:58(p)
+msgid "39"
+msgstr "39"
+
+#: C/score.page:53(p) C/score.page:59(p)
+msgid "30"
+msgstr "30"
+
+#: C/score.page:54(p) C/score.page:60(p)
+msgid "27"
+msgstr "27"
+
+#: C/score.page:57(p) C/gametypes.page:89(title)
+msgid "Verbal analogies"
+msgstr "Analogias verbais"
+
+#: C/score.page:63(p)
+msgid ""
+"With the expected time for the chosen difficulty level and the time you take "
+"to complete the game, the following logic is applied:"
+msgstr ""
+
+#: C/score.page:69(p)
+msgid ""
+"If you take less than the time expected to complete the game, you score 10 "
+"points."
+msgstr ""
+
+#: C/score.page:74(p)
+msgid ""
+"If you take more than the time expected to complete the game, you score 8 "
+"points."
+msgstr ""
+
+#: C/score.page:79(p)
+msgid ""
+"If you take more than 2x the time expected to complete the game, you score 7 "
+"points."
+msgstr ""
+
+#: C/score.page:85(p)
+msgid ""
+"If you take more than 3x the time expected to complete the game, you score 6 "
+"points."
+msgstr ""
+
+#: C/score.page:91(p)
+msgid "If you use a tip, you score only the 80% of the original score."
+msgstr ""
+
+#: C/score.page:98(title)
+msgid "Computing the totals"
+msgstr "Computando os totais"
+
+#: C/score.page:99(p)
+msgid ""
+"<app>gbrainy</app> keeps track of the different games types played. To "
+"compute the final score of every set of game types it sums all the results "
+"of the same game types played and then applies a factor based on: the "
+"logarithm of 10 for the easy level; on the logarithm of 20 for the medium "
+"level; and on the logarithm of 30 for the master level."
+msgstr ""
+
+#: C/score.page:106(p)
+msgid ""
+"This means that when playing at medium difficulty level, to get a score of "
+"100 points you need to score 10 points on at least 20 games of every game "
+"type played."
+msgstr ""
+
+#: C/score.page:110(p)
+msgid ""
+"This may sound challenging, but it allows players to compare game scores "
+"from different sessions (in the player's game history) and allows better "
+"tracking of the progression of the player through all of the games played."
+msgstr ""
+
+#: C/multiplayer.page:7(desc)
+msgid "How to play with other people."
+msgstr "Como jogar com outras pessoas."
+
+#: C/multiplayer.page:19(title)
+msgid "Play with other people"
+msgstr "Jogar com outras pessoas"
+
+#: C/multiplayer.page:21(p)
+msgid ""
+"It is not possible to play against other people over the Internet or a local "
+"network with <app>gbrainy</app>."
+msgstr ""
+
+#: C/history.page:6(desc)
+msgid "Access your personal game history."
+msgstr "Acessar seu histórico pessoal de jogos"
+
+#: C/history.page:17(title)
+msgid "Personal game history"
+msgstr "Histórico pessoal de jogos"
+
+#: C/history.page:19(p)
+msgid ""
+"The <gui>Player's Game History</gui> dialog shows your performance in every "
+"game type during the last few game sessions."
+msgstr ""
+
+#: C/history.page:25(title)
+msgid "View the games history"
+msgstr "Visualizar o histórico de jogos"
+
+#: C/history.page:26(p)
+msgid ""
+"To access your personal game history, choose <guiseq><gui style=\"menu"
+"\">View</gui><gui style=\"menuitem\">Player's Game History</gui></guiseq>."
+msgstr ""
+
+#: C/history.page:33(title)
+msgid "Select which results to show"
+msgstr "Selecionar quais resultados para mostrar"
+
+#: C/history.page:34(p)
+msgid ""
+"To select the results that will be shown in the graphic, use the different "
+"check boxes located under the graph."
+msgstr ""
+
+#: C/history.page:41(title)
+msgid "Change the number of saved games"
+msgstr "Mudar o número de jogos salvos"
+
+#: C/history.page:42(p)
+msgid ""
+"<app>gbrainy</app> saves the player's scores so it can track how they evolve."
+msgstr ""
+
+#: C/history.page:45(p)
+msgid ""
+"In order to change the number of sessions recorded or how many games will be "
+"stored in the history, proceed as follows:"
+msgstr ""
+
+#: C/history.page:51(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\"> "
+"Preferences</gui></guiseq>."
+msgstr ""
+
+#: C/history.page:57(p)
+msgid "In the <gui>Player's Game History</gui> section:"
+msgstr ""
+
+#: C/history.page:62(p)
+msgid ""
+"Use the first spin box to change how many game sessions need to be recorded "
+"before you can start to see the results in the history graphic."
+msgstr ""
+
+#: C/history.page:68(p)
+msgid ""
+"Use the second spin box to change how many game sessions will be shown in "
+"the history graphic."
+msgstr ""
+
+#: C/difficulty.page:6(title)
+msgid "2"
+msgstr "2"
+
+#: C/difficulty.page:8(desc)
+msgid "Change the difficulty level of the games."
+msgstr ""
+
+#: C/difficulty.page:20(title)
+msgid "Difficulty levels"
+msgstr "Níveis de dificuldade"
+
+#: C/difficulty.page:21(p)
+msgid "To change the difficulty level of the game, proceed as follows:"
+msgstr ""
+
+#: C/difficulty.page:31(p)
+msgid "In the <gui>Difficulty Level</gui> section, select the desired level."
+msgstr ""
+
+#: C/difficulty.page:34(p)
+msgid ""
+"You can choose from three different levels: <gui style=\"radiobutton\">Easy</"
+"gui>, <gui style=\"radiobutton\">Medium</gui>, and <gui style=\"radiobutton"
+"\">Master</gui>. The default level is <gui style=\"radiobutton\">Medium</"
+"gui>."
+msgstr ""
+
+#: C/tips.page:8(desc)
+msgid "Use the tips to solve a puzzle."
+msgstr ""
+
+#: C/tips.page:20(title)
+msgid "Tips"
+msgstr "Dicas"
+
+#: C/tips.page:21(p)
+msgid ""
+"With some of the games you can play, it is possible to get simple tips that "
+"can help you to solve the problem."
+msgstr ""
+
+#: C/tips.page:25(p)
+msgid ""
+"When playing a game, click on the <gui style=\"button\">Tip</gui> button at "
+"the bottom of the window (next to the <gui style=\"input\">Answer</gui> text "
+"entry)."
+msgstr ""
+
+#: C/tips.page:29(p)
+msgid "This feature is not available for some of the games."
+msgstr ""
+
+#: C/pause.page:6(title)
+msgid "4"
+msgstr "4"
+
+#: C/pause.page:9(desc)
+msgid "How to pause or stop a game."
+msgstr "Como pausar ou parar um jogo"
+
+#: C/pause.page:20(title)
+msgid "Pause/Stop a game"
+msgstr "Pausar/Parar um jogo"
+
+#: C/pause.page:23(title)
+msgid "Pause and resume a game"
+msgstr "Pausar e resumir um jogo"
+
+#: C/pause.page:24(p)
+msgid ""
+"To pause a game so that you can resume it at the same point at a later time, "
+"perform one of the following:"
+msgstr ""
+
+#: C/pause.page:30(p) C/pause.page:45(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Pause "
+"Game</gui></guiseq>."
+msgstr ""
+
+#: C/pause.page:35(p)
+msgid "Click on the <gui style=\"button\">Pause</gui> button in the toolbar."
+msgstr ""
+
+#: C/pause.page:40(p)
+msgid ""
+"In order to resume the game after you paused it, perform one of the "
+"following:"
+msgstr ""
+
+#: C/pause.page:50(p)
+msgid "Click on the <gui style=\"button\">Resume</gui> button in the toolbar."
+msgstr ""
+
+#: C/pause.page:58(title)
+msgid "Stop a game"
+msgstr "Parar um jogo"
+
+#: C/pause.page:59(p)
+msgid "To stop a game, in order to end it, perform one of the following:"
+msgstr ""
+
+#: C/pause.page:64(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">End "
+"Game</gui></guiseq>."
+msgstr ""
+
+#: C/pause.page:69(p)
+msgid "Click on the <gui style=\"button\">Finish</gui> button in the toolbar."
+msgstr ""
+
+#: C/license.page:8(desc)
+msgid "Legal information."
+msgstr "Informação legal."
+
+#: C/license.page:11(title)
+msgid "License"
+msgstr "Licença"
+
+#: C/license.page:12(p)
+msgid ""
+"This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 "
+"Unported license."
+msgstr ""
+"Este trabalho é distribuído sob a licença  CreativeCommons Attribution-Share "
+"Alike 3.0 Unported."
+
+#: C/license.page:18(p)
+msgid "You are free:"
+msgstr "Você é livre:"
+
+#: C/license.page:23(em)
+msgid "To share"
+msgstr "Para compartilhar"
+
+#: C/license.page:24(p)
+msgid "To copy, distribute and transmit the work."
+msgstr "Para copiar, distribuir e transmitir o trabalho."
+
+#: C/license.page:27(em)
+msgid "To remix"
+msgstr "Para remixar"
+
+#: C/license.page:28(p)
+msgid "To adapt the work."
+msgstr "Para adaptar o trabalho."
+
+#: C/license.page:31(p)
+msgid "Under the following conditions:"
+msgstr "Sobre as seguintes condições:"
+
+#: C/license.page:36(em)
+msgid "Attribution"
+msgstr "Atribuição"
+
+#: C/license.page:37(p)
+msgid ""
+"You must attribute the work in the manner specified by the author or "
+"licensor (but not in any way that suggests that they endorse you or your use "
+"of the work)."
+msgstr ""
+
+#: C/license.page:44(em)
+msgid "Share Alike"
+msgstr "Compartilhamento pela mesma Licença"
+
+#: C/license.page:45(p)
+msgid ""
+"If you alter, transform, or build upon this work, you may distribute the "
+"resulting work only under the same, similar or a compatible license."
+msgstr ""
+
+#: C/license.page:51(p)
+msgid ""
+"For the full text of the license, see the <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</"
+"link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Commons Deed</link>."
+msgstr ""
+
+#: C/gametypes.page:5(title)
+msgid "3"
+msgstr "3"
+
+#: C/gametypes.page:6(desc)
+msgid "What types of game you can play."
+msgstr "Quais tipos de jogos você pode jogar"
+
+#: C/gametypes.page:15(title)
+msgid "Game types"
+msgstr "Tipos de jogos"
+
+#: C/gametypes.page:17(p)
+msgid "<app>gbrainy</app> provides the following types of games:"
+msgstr ""
+
+#: C/gametypes.page:27(p)
+msgid ""
+"Games designed to challenge your reasoning and thinking skills. These games "
+"are based on sequences of elements, visual and spatial reasoning or "
+"relationships between elements."
+msgstr ""
+
+#: C/gametypes.page:37(p)
+msgid "Logic games logo"
+msgstr ""
+
+#: C/gametypes.page:47(title)
+msgid "Mental calculations"
+msgstr ""
+
+#: C/gametypes.page:48(p)
+msgid ""
+"Games based on arithmetical operations designed to improve your mental "
+"calculation skills. Games that require the player to use multiplication, "
+"division, addition and subtraction combined in different ways."
+msgstr ""
+
+#: C/gametypes.page:58(p)
+msgid "Calculation games logo"
+msgstr ""
+
+#: C/gametypes.page:69(p)
+msgid ""
+"Games designed to challenge your short-term memory. These games show "
+"collections of objects and ask the player to recall them, sometimes "
+"establishing relationships between figures, words, numbers or colors."
+msgstr ""
+
+#: C/gametypes.page:79(p)
+msgid "Memory games logo"
+msgstr ""
+
+#: C/gametypes.page:90(p)
+msgid ""
+"Games that challenge your verbal aptitude. These games ask the player to "
+"identify cause and effect, use synonyms or antonyms, and use their "
+"vocabulary."
+msgstr ""
+
+#: C/gametypes.page:99(p)
+msgid "Verbal analogies games logo"
+msgstr ""
+
+#: C/customgame.page:9(desc)
+msgid "Start a custom games selection."
+msgstr ""
+
+#: C/customgame.page:20(title)
+msgid "Custom games selection"
+msgstr ""
+
+#: C/customgame.page:21(p)
+msgid ""
+"It is possible to play a custom selection of all the games in <app>gbrainy</"
+"app>."
+msgstr ""
+
+#: C/customgame.page:24(p)
+msgid "To do so, proceed as follows:"
+msgstr ""
+
+#: C/customgame.page:29(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui><gui style=\"menuitem\">Custom Game Selection</gui></guiseq>."
+msgstr ""
+
+#: C/customgame.page:35(p)
+msgid ""
+"In the <gui>Custom Game</gui> dialog, select the games that you would like "
+"to play by clicking on the check box next to the name of the game."
+msgstr ""
+
+#: C/customgame.page:41(p)
+msgid ""
+"Once you are done, click on <gui style=\"button\">Start</gui> to start "
+"playing your custom games selection."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: C/index.page:0(None)
+msgid "translator-credits"
+msgstr "Flamarion Jorge <jorge.flamarion@gmail.com>, 2011"

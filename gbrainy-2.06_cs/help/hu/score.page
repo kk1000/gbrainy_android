@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>A pontszámok kiszámításának módja.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Pontszám és időzítések</title>
+  <p>Ha rosszul válaszol egy fejtörőre, akkor nem kap érte pontot.</p>
+  <p>Ha helyesen válaszol egy fejtörőre, akkor pontokat kap érte, amely a megoldáshoz felhasznált időtől, és attól függ, hogy használta-e a tippet a játék során.</p>
+  <p>A következő táblázat összefoglalja a különböző játékhosszakat (másodpercben) a nehézségi szinttől függően.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Könnyű</p></td>
+      <td><p>Közepes</p></td>
+      <td><p>Mester</p></td>
+    </tr>
+    <tr>
+      <td><p>Logikai fejtörők</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Fejszámolás</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Memóriaedzők</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Verbális analógiák</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>A kiválasztott nehézségi szinthez elvárt idő és az Ön által felhasznált idő alapján a következőképpen kerülnek a pontok kiszámításra:</p>
+  <list>
+    <item>
+      <p>Ha az elvártnál kevesebb idő alatt fejezi be a játékot, akkor 10 pontot kap.</p>
+    </item>
+    <item>
+      <p>Ha az elvártnál több idő alatt fejezi be a játékot, akkor 8 pontot kap.</p>
+    </item>
+    <item>
+      <p>Ha az elvártnál kétszer több idő alatt fejezi be a játékot, akkor 7 pontot kap.</p>
+    </item>
+    <item>
+      <p>Ha az elvártnál háromszor több idő alatt fejezi be a játékot, akkor 6 pontot kap.</p>
+    </item>
+    <item>
+      <p>Ha használja a tippet, akkor csak az eredeti pontszám 80%-át kapja.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Az összesítés kiszámítása</title>
+    <p>A <app>gbrainy</app> nyilvántartja a lejátszott játéktípusokat. Az egyes játéktípusok végső pontszámának kiszámításához összeadja az azonos játéktípusok eredményeit, és ezt szorozza egy tényezővel: könnyű szinten 10 logaritmusával, közepes szinten 20 logaritmusával, és mester szinten 30 logaritmusával.</p>
+	  <p>Ez azt jelenti, hogy közepes nehézségi szinten 100 pont eléréséhez 10 pontot kell elérnie legalább 20 játékban minden játéktípusban.</p>
+	  <p>Ez bonyolultnak hangozhat, de lehetővé teszi, hogy a játékosok összehasonlíthassák a különböző játékokban (adott felhasználó játékelőzményein belül) elért pontszámaikat, és jobban követhetővé teszi a játékos fejlődését a végigjátszott játékok során.</p>
+  </section>
+</page>

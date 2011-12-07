@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="fr">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Exporter des jeux pour y jouer hors-ligne.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Exportation des jeux</title>
+  <p>Il est possible d'exporter, puis d'imprimer les jeux fournis par l'application pour y jouer sans ordinateur.</p>
+  <p>Les jeux sont enregistrés dans un fichier <file>PDF</file> dans le dossier sélectionné.</p>
+  <p>Pour exporter les jeux :</p>
+  <steps>
+    <item>
+      <p>Choisissez <guiseq><gui style="menu">Jeu</gui><gui style="menuitem">Exporter les jeux en PDF pour jouer hors-ligne</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Choisissez le type de jeux, le niveau de difficulté et le nombre de jeux à exporter. Lorsque c'est fait, cliquez sur <gui style="button">Enregistrer</gui>.</p>
+    </item>
+  </steps>
+
+</page>

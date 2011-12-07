@@ -1,0 +1,15 @@
+This directory contains from gbrainy's tools
+
+Tools currently used to build gbrainy:
+
+* GameXmlToGetString.cs - Use to extract plural strings from games.xml into GetString calls to make possible to localize them
+
+Experimental tools:
+
+* GamesStatistics.cs - Gets statistics on the built-in games
+* GameXmlGetString.cs - Experimental conversor from Xml described games into C# (to statically compile them) 
+* TranslationsChecker.cs - Checks for errors in translation files
+
+'Make binary' (e.g: Make GameXmlToAssembly.exe) builds a specific tool
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="af">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Verander die moeilikheidsgraad van die speletjies.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Moeilikheidsgrade</title>
+  <p>Om die moeilikheidsgraad van die speletjie te verander, maak as volg:</p>
+  <steps>
+    <item>
+      <p>Kies <guiseq><gui style="menu">Instellings</gui><gui style="menuitem">Voorkeure</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>In die <gui>Moeilikheidsgraad</gui>-afdeling, kies die verlangde vlak.</p>
+      <p>Daar kan gekies word van drie verskillende vlakke: <gui style="radiobutton">Maklik</gui>, <gui style="radiobutton">Medium</gui>, en <gui style="radiobutton">Meester</gui>. Die verstekvlak is <gui style="radiobutton">Medium</gui>.</p>
+    </item>
+  </steps>
+</page>

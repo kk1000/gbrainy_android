@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="pause" xml:lang="da">
+      
+  <info>
+    <title type="sort">4</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Hvordan du afslutter og sætter et spil på pause.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Pause/afslut et spil</title>
+
+  <section id="pause-pause">
+    <title>Pause og genoptag et spil</title>
+    <p>For at sætte et spil på pause, så du kan genoptage det samme sted på et senere tidspunkt, udføres en af følgende muligheder:</p>
+    <list>
+      <item>
+        <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Pause</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klik på knappen <gui style="button">Pause</gui> i værktøjsbjælken.</p>
+      </item>
+    </list>
+    <p>For at genoptage spillet efter en pause, udføres en af følgende muligheder:</p>
+    <list>
+      <item>
+        <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Pause</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klik på knappen <gui style="button">Genoptag</gui> i værktøjsbjælken.</p>
+      </item>
+    </list>
+  </section>
+  
+  <section id="pause-stop">
+    <title>Afslut et spil</title>
+    <p>For at afslutte et spil, vælges en af følgende muligheder:</p>
+    <list>
+      <item>
+        <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Afslut spil</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klik på knappen <gui style="button">Afslut</gui> i værktøjsbjælken.</p>
+      </item>
+    </list>
+  </section>
+</page>

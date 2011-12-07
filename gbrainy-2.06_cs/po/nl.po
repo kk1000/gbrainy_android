@@ -1,0 +1,5145 @@
+# Dutch translation of gbrainy.
+#
+# This file is distributed under the same license as the gbrainy package.
+#
+# Reinout van Schouwen <reinouts@gnome.org>, 2007-2009.
+# Benno Schulenberg <benno@vertaalt.nl>, 2008.
+# Erwin Poeze <erwin.poeze@gmail.com>, 2009.
+# Redmar van den Berg <redmar@ubuntu-nl.org>, 2010.
+# Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2010, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-16 23:42+0100\n"
+"PO-Revision-Date: 2011-02-16 17:13+0100\n"
+"Last-Translator: Hannie Dumoleyn <hannie@ubuntu-nl.org>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2010-08-10 18:40+0000\n"
+"X-Generator: Lokalize 1.1\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+"Hoeveel graden draait de minutenwijzer van een klok in 2 uur en [num] minuut?"
+msgstr[1] ""
+"Hoeveel graden draait de minutenwijzer van een klok in 2 uur en [num] "
+"minuten?"
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+"John is 46 jaar oud. Zijn zoon is [difference] jaar jonger dan de helft van "
+"de leeftijd van John. Hoe oud is de zoon van John?"
+msgstr[1] ""
+"John is 46 jaar oud. Zijn zoon is [difference] jaar jonger dan de helft van "
+"de leeftijd van John. Hoe oud is de zoon van John?"
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+"Johns leeftijd is nu twee keer die van zijn zoon. [ago] jaar geleden was "
+"John [proportion] keer zo oud als zijn zoon. Hoe oud is de zoon van John nu?"
+msgstr[1] ""
+"Johns leeftijd is tegenwoordig twee keer die van zijn zoon. [ago] jaar "
+"geleden was John [proportion] keer zo oud als zijn zoon. Hoe oud is de zoon "
+"van John nu?"
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+"[ago] jaar geleden was Johns leeftijd min [ago] gelijk aan [proportion] keer "
+"de leeftijd van zijn zoon min [ago]."
+msgstr[1] ""
+"[ago] jaar geleden was Johns leeftijd min [ago] gelijk aan [proportion] keer "
+"de leeftijd van zijn zoon min [ago]."
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+"Een bestand is beschermd met een [digits]-cijferig wachtwoord (van 0 tot en "
+"met 9). Hoeveel verschillende wachtwoorden zijn er mogelijk?"
+msgstr[1] ""
+"Een bestand is beschermd met een [digits]-cijferig wachtwoord (van 0 tot en "
+"met 9). Hoeveel verschillende wachtwoorden zijn er mogelijk?"
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+"Een bestand is beschermd met een [digits]-cijferig octaal wachtwoord (van 0 "
+"tot en met 7). Hoeveel verschillende wachtwoorden zijn er mogelijk?"
+msgstr[1] ""
+"Een bestand is beschermd met een [digits]-cijferig octaal wachtwoord (van 0 "
+"tot en met 7). Hoeveel verschillende wachtwoorden zijn er mogelijk?"
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+"Er wordt [games] potje tennis tegelijk gespeeld. Hoeveel verschillende "
+"voorspellingen zijn mogelijk?"
+msgstr[1] ""
+"Er worden [games] potjes tennis tegelijk gespeeld. Hoeveel verschillende "
+"voorspellingen zijn mogelijk?"
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+"Hoeveel rondes zijn er nodig om de winnaar te bepalen van een tennistoernooi "
+"dat met [players] speler begint?"
+msgstr[1] ""
+"Hoeveel rondes zijn er nodig om de winnaar van een tennis toernooi te "
+"bepalen dat met [players] spelers begint?"
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+"U heeft [money] monetaire eenheid op uw bankrekening tegen een rente van "
+"10%. Hoeveel geld heeft u aan het einde van 2 jaar?"
+msgstr[1] ""
+"U heeft [money] monetaire eenheden op uw bankrekening tegen een rente van "
+"10%. Hoeveel geld heeft u aan het einde van 2 jaar?"
+
+#: ../tools/GameXmlGetString.cs:65 ../data/games.xml.h:27
+msgid ""
+"In a horse race there are people and horses. You can count [eyes] eye and "
+"[legs] leg. How many horses are present?"
+msgid_plural ""
+"In a horse race there are people and horses. You can count [eyes] eyes and "
+"[legs] legs. How many horses are present?"
+msgstr[0] ""
+"Bij een paardenrace zijn er mensen en paarden. U kunt [eyes] oog en [legs] "
+"been tellen. Hoeveel paarden zijn er?"
+msgstr[1] ""
+"Bij een paardenrace zijn er mensen en paarden. U kunt [eyes] ogen en [legs] "
+"benen tellen. Hoeveel paarden zijn er?"
+
+#: ../tools/GameXmlGetString.cs:69 ../data/games.xml.h:50
+msgid "There is [men] person and [horses] horse."
+msgid_plural "There are [men] people and [horses] horses."
+msgstr[0] "Er is [men] persoon en [horses] paard."
+msgstr[1] "Er zijn [men] personen en [horses] paarden."
+
+#: ../data/games.xml.h:1
+msgid ""
+"A lever is in equilibrium at distances reciprocally proportional to their "
+"weights."
+msgstr ""
+"Een hefboom is in evenwicht wanneer lastarm maal last gelijk is aan machtarm "
+"maal macht."
+
+#: ../data/games.xml.h:2
+msgid ""
+"A multiple is a number that may be divided by another number with no "
+"remainder. For example, 10, 15 and 25 are multiples of 5."
+msgstr ""
+"Een veelvoud is een getal dat kan worden gedeeld door een ander getal zonder "
+"rest. Zo zijn 10, 15 en 25 veelvouden van 5."
+
+#: ../data/games.xml.h:3
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+"Een palindroomgetal is een getal dat gelijk blijft wanneer de cijfers "
+"omgedraaid worden (bijv: 2112)."
+
+#: ../data/games.xml.h:4
+msgid "Age"
+msgstr "Leeftijd"
+
+#: ../data/games.xml.h:5
+msgid "Bank interest"
+msgstr "Rente"
+
+#: ../data/games.xml.h:6
+msgid "Box"
+msgstr "Doos"
+
+#: ../data/games.xml.h:7
+msgid "Boxes"
+msgstr "Dozen"
+
+#: ../data/games.xml.h:8
+msgid "Brothers and sisters"
+msgstr "Broers en zussen"
+
+#: ../data/games.xml.h:9
+msgid "Cars in town"
+msgstr "Auto's in de stad"
+
+#: ../data/games.xml.h:10
+msgid "Clock Rotation"
+msgstr "Klokrotatie"
+
+#: ../data/games.xml.h:11
+msgid "Compare variables"
+msgstr "Variabelen vergelijken"
+
+#: ../data/games.xml.h:12
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+"Rente wordt uitbetaald over het oorspronkelijke bedrag en de in het verleden "
+"opgebouwde rente."
+
+#: ../data/games.xml.h:13
+msgid ""
+"Consider the sentence attributed to Archimedes: give me a lever long enough "
+"and a place to stand, and I can move the Earth."
+msgstr ""
+"Denk aan de uitspraak die toegeschreven wordt aan Archimedes: geef mij een "
+"plaats om te staan en ik beweeg de aarde."
+
+#: ../data/games.xml.h:14
+msgid "Container"
+msgstr "Container"
+
+#: ../data/games.xml.h:15
+msgid "Dartboard"
+msgstr "Dartbord"
+
+#: ../data/games.xml.h:16
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+"Elke positie heeft 10 mogelijkheden. Het totale aantal mogelijkheden is 10 "
+"tot de [digits]e macht."
+
+#: ../data/games.xml.h:17
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+"Elke positie heeft 8 mogelijkheden. Het totale aantal mogelijkheden is 8 tot "
+"de [digits]e macht."
+
+#: ../data/games.xml.h:18
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+"Elk spel is een onafhankelijke gebeurtenis met 2 mogelijke uitkomsten. Het "
+"totale aantal uitkomsten is 2 tot de [games]e macht."
+
+#: ../data/games.xml.h:19
+msgid "Every hour rotates 360 degrees."
+msgstr "Elk uur draait de wijzer 360 graden."
+
+#: ../data/games.xml.h:20
+msgid ""
+"From year 1000 to year 10000, palindrome years occur at 110 year intervals "
+"except for the end of each millennium that occur at a 11 years interval."
+msgstr ""
+"Van het jaar 1000 tot het jaar 10000 komen palindroomjaren om de 110 jaar "
+"voor, behalve aan het eind van elk millennium dat in een 11-jarig interval "
+"valt."
+
+#: ../data/games.xml.h:21
+msgid ""
+"Given two integer numbers x and y, if x is even and y odd, which of the "
+"following expressions gives always an odd result? [option_answers]"
+msgstr ""
+"Gegeven zijn twee hele getallen, x en y. Als x een even getal is en y een "
+"oneven getal, bij welke van de volgende expressies is het resultaat dan "
+"altijd een oneven getal? [option_answers]"
+
+#: ../data/games.xml.h:22
+msgid "Horse race"
+msgstr "Paardenrace"
+
+#: ../data/games.xml.h:23
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr "Hoeveel dozen van 1 x 1 x 0,5 passen in een container van 6 x 5 x [z]?"
+
+#: ../data/games.xml.h:24
+msgid ""
+"How much weight is needed at the point indicated by the question mark to "
+"balance the lever?"
+msgstr ""
+"Welk gewicht is er nodig op de plaats van het vraagteken om de hefboom in "
+"evenwicht te brengen?"
+
+#: ../data/games.xml.h:25
+msgid ""
+"If p &lt; x &lt; q and r &lt; y &lt; s. Which of the following options makes "
+"x &gt; y true? [option_answers]"
+msgstr ""
+"Als p &lt; x &lt; q en r &lt; y &lt; s. Welke van de volgende keuzes maakt "
+"dat x &gt; y waar is? [option_answers]"
+
+#: ../data/games.xml.h:26
+msgid ""
+"If p &lt; x &lt; q and r &lt; y &lt; s. Which of the following options makes "
+"x &lt; y true? [option_answers]"
+msgstr ""
+"Als p &lt; x &lt; q en r &lt; y &lt; s. Welke van de volgende keuzes maakt "
+"dat x &lt; y waar is? [option_answers]"
+
+#: ../data/games.xml.h:29
+#, no-c-format
+msgid ""
+"In a small town, [all_cars]% of the inhabitants have a car and [males_cars]% "
+"have a car and are males. What percentage of the population are females and "
+"have a car? [option_answers]"
+msgstr ""
+"In een kleine stad heeft [all_cars]% van de inwoners een auto en "
+"[males_cars]% heeft een auto en is man. Hoeveel procent van het totaal "
+"aantal inwoners bestaat uit vrouwen en bezit een auto? [option_answers]"
+
+#: ../data/games.xml.h:30
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+"In elk potje wordt een speler geëlimineerd, dus er zijn het totale aantal "
+"spellen min 1 nodig om de winnaar te vinden."
+
+#: ../data/games.xml.h:31
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "Is het resultaat van de berekening [num_a] * [num_b]."
+
+#: ../data/games.xml.h:32
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "Is het resultaat van de berekening [num_a] + [num_b]."
+
+#: ../data/games.xml.h:33
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "Is het resultaat van de berekening [num_b] - [num_a]."
+
+#: ../data/games.xml.h:34
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "Is het resultaat van de bewerking [num_b] - [num_a]."
+
+#: ../data/games.xml.h:35
+msgid "Lever"
+msgstr "Hefboom"
+
+#: ../data/games.xml.h:36
+msgid "Multiple number"
+msgstr "Veelvoud"
+
+#: ../data/games.xml.h:37
+msgid "Odd number"
+msgstr "Oneven getallen"
+
+#: ../data/games.xml.h:38
+msgid ""
+"On the dartboard below, where you have to hit the darts to add 120 points in "
+"5 throws? Answer using a list of numbers (e.g.: 4, 5, 6, 3, 2)"
+msgstr ""
+"Waar moet u op onderstaand dartbord de pijltjes gooien om in 5 beurten aan "
+"120 punten te komen? Geef het antwoord door de getallen op te sommen (bijv. "
+"4, 5, 6, 3, 2)"
+
+#: ../data/games.xml.h:39
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+"Van de [people] mensen hebben [brothers] broers, [sisters] zussen en [both] "
+"hebben beide. Hoeveel mensen hebben broers noch zussen?"
+
+#: ../data/games.xml.h:40
+msgid "Palindromic years"
+msgstr "Palindroomjaren"
+
+#: ../data/games.xml.h:41
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../data/games.xml.h:42
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:129
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:189
+#: ../src/Games/Logic/PuzzleSquareDots.cs:320
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "Mogelijke antwoorden zijn:"
+
+#: ../data/games.xml.h:43
+msgid "Simple equations"
+msgstr "Eenvoudige vergelijkingen"
+
+#: ../data/games.xml.h:44
+msgid ""
+"Since x is always an even number, multiplying it by 2 always produces an "
+"even number. Adding an even number to an odd number (y) always produces an "
+"odd number."
+msgstr ""
+"Aangezien x altijd een even getal is, zal het, als het met 2 vermenigvuldigd "
+"wordt, altijd een even getal opleveren. Het optellen van een even getal bij "
+"een oneven getal (y) levert altijd een oneven getal op."
+
+#: ../data/games.xml.h:45
+msgid "Tennis game"
+msgstr "Tennis"
+
+#: ../data/games.xml.h:46
+msgid ""
+"The number X is multiple of [num_x] and the number Y of [num_y]. The product "
+"of both numbers (X * Y) is then multiple of? [option_answers]"
+msgstr ""
+"Het getal X is een veelvoud van [num_x] en het getal Y van [num_y]. Het "
+"product van beide getallen (X * Y) is dan een veelvoud van ? "
+"[option_answers]"
+
+#: ../data/games.xml.h:47
+msgid ""
+"The variable q is bigger than x and s is bigger than y, if q is bigger than "
+"s then the condition x &gt; y is true."
+msgstr ""
+"De variabele q is groter dan x en s is groter dan y, als q groter is dan s, "
+"dan is de bepaling x &gt; y waar."
+
+#: ../data/games.xml.h:48
+msgid ""
+"The variable q is bigger than x and y bigger than r, if q is bigger than r "
+"then the condition x &lt; y is true."
+msgstr ""
+"De variabele q is groter dan x en y is groter dan r, als q groter is dan r, "
+"dan is de bepaling x &gt; y waar."
+
+#: ../data/games.xml.h:49
+msgid "There are [men] people and [horses] horses."
+msgstr "Er zijn [men] mensen en [horses] paarden."
+
+#: ../data/games.xml.h:51
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr "Welk getal gedeeld door [num_a] geeft [num_b]?"
+
+#: ../data/games.xml.h:52
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr "Welk getal min [num_a] geeft [num_b]?"
+
+#: ../data/games.xml.h:53
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr "Welk getal vermenigvuldigd met [num_a] geeft [num_b]?"
+
+#: ../data/games.xml.h:54
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr "Welk getal plus [num_a] geeft [num_b]?"
+
+#: ../data/games.xml.h:55
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr "Er passen 6 * 5 * [z] * 2 dozen in."
+
+#: ../data/games.xml.h:56
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+"[brothers_only] mensen hebben alleen broers, [sisters_only] mensen hebben "
+"alleen zussen en [both] hebben zowel broers als zussen."
+
+#: ../data/games.xml.h:58
+#, no-c-format
+msgid ""
+"[females_cars]% ([all_cars] - [males_cars]) of the inhabitants are women and "
+"have a car."
+msgstr ""
+"[females_cars]% ([all_cars] - [males_cars]) van de inwoners is vrouw en bezit "
+"een auto."
+
+#: ../data/games.xml.h:59
+msgid "[option_a] and [option_b] are both multiples of [product]."
+msgstr "[option_a] en [option_b] zijn beide veelvouden van [product]."
+
+#: ../data/games.xml.h:60
+msgid "[option_prefix] (x - y) * 2"
+msgstr "[option_prefix] (x - y) * 2"
+
+#: ../data/games.xml.h:61
+msgid "[option_prefix] 2x + y"
+msgstr "[option_prefix] 2x + y"
+
+#: ../data/games.xml.h:62
+msgid "[option_prefix] [option_a] and [option_b]"
+msgstr "[option_prefix] [option_a] en [option_b]"
+
+#: ../data/games.xml.h:63
+msgid "[option_prefix] [option_a] and [option_c]"
+msgstr "[option_prefix] [option_a] en [option_c]"
+
+#: ../data/games.xml.h:65
+#, no-c-format
+msgid "[option_prefix] [option_a]%"
+msgstr "[option_prefix] [option_a]%"
+
+#: ../data/games.xml.h:66
+msgid "[option_prefix] [option_b] and [option_c]"
+msgstr "[option_prefix] [option_b] en [option_c]"
+
+#: ../data/games.xml.h:68
+#, no-c-format
+msgid "[option_prefix] [option_b]%"
+msgstr "[option_prefix] [option_b]%"
+
+#: ../data/games.xml.h:69
+msgid "[option_prefix] [option_c] and [option_d]"
+msgstr "[option_prefix] [option_c] en [option_d]"
+
+#: ../data/games.xml.h:71
+#, no-c-format
+msgid "[option_prefix] [option_c]%"
+msgstr "[option_prefix] [option_c]%"
+
+#: ../data/games.xml.h:73
+#, no-c-format
+msgid "[option_prefix] [option_d]%"
+msgstr "[option_prefix] [option_d]%"
+
+#: ../data/games.xml.h:74
+msgid "[option_prefix] p < r"
+msgstr "[option_prefix] p < r"
+
+#: ../data/games.xml.h:75
+msgid "[option_prefix] p > r"
+msgstr "[option_prefix] p > r"
+
+#: ../data/games.xml.h:76
+msgid "[option_prefix] q < r"
+msgstr "[option_prefix] q < r"
+
+#: ../data/games.xml.h:77
+msgid "[option_prefix] q = s"
+msgstr "[option_prefix] q = s"
+
+#: ../data/games.xml.h:78
+msgid "[option_prefix] q > s"
+msgstr "[option_prefix] q > s"
+
+#: ../data/games.xml.h:79
+msgid "[option_prefix] x * y"
+msgstr "[option_prefix] x * y"
+
+#: ../data/games.xml.h:80
+msgid "[option_prefix] x * y * 2"
+msgstr "[option_prefix] x * y * 2"
+
+#: ../data/games.xml.h:81
+msgid "[rslt_a] and [rslt_b]"
+msgstr "[rslt_a] en [rslt_b]"
+
+#: ../data/games.xml.h:82
+msgid ""
+"[year_start] is a palindromic year as [year_end] is, a gap of 11 years. What "
+"are the next two consecutive palindromic years after [year_end] with the "
+"same gap?"
+msgstr ""
+"[year_start] is een palindroomjaar, net als [year_end], met een verschil van "
+"11 jaar. Wat zijn de volgende twee opeenvolgende palindroomjaren na "
+"[year_end] met hetzelfde verschil er tussen?"
+
+#: ../data/games.xml.h:83
+msgid "x * [num_a] = [num_b]"
+msgstr "x * [num_a] = [num_b]"
+
+#: ../data/games.xml.h:84
+msgid "x + [num_a] = [num_b]"
+msgstr "x + [num_a] = [num_b]"
+
+#: ../data/games.xml.h:85
+msgid "x - [num_a] = [num_b]"
+msgstr "x - [num_a] = [num_b]"
+
+#: ../data/games.xml.h:86
+msgid "x / [num_a] = [num_b]"
+msgstr "x / [num_a] = [num_b]"
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "Spel"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+"Speel spelletjes die uw vaardigheden op het vlak van logisch denken, verbale "
+"vaardigheden, rekenen en geheugen op de proef stellen"
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:28
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/themes/themes.xml.h:1
+msgid "Blackboard"
+msgstr "Schoolbord"
+
+#: ../data/themes/themes.xml.h:2
+msgid "Classic"
+msgstr "Klassiek"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr "Een slecht ontworpen en van verfijning gespeende automotor is?"
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr "Een spreekwoord dat tegengestelde termen gebruikt."
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr "Een vis in een aquarium leeft in gevangenschap."
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A pen is used to write and a fork is used to eat."
+msgstr "Een pen is om mee te schrijven en een vork om mee te eten."
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "Iemand die zich te veel bezighoudt met zijn gezondheid heeft?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "A terrier is to a dog like a?"
+msgstr "Een terrier staat tot een hond als een?"
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "A turtle is inside a shell and a letter is inside an envelope."
+msgstr "Een schildpad zit in en schild en een brief zit in een envelop."
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Abstinence"
+msgstr "Onthouding"
+
+#. Translators: Acrophobia of having a panic attack
+#: ../data/verbal_analogies.xml.h:10
+msgid "Acrophobia"
+msgstr "Acrofobie"
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Agoraphobia"
+msgstr "Agorafobie"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Aircraft"
+msgstr "Vliegtuig"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Airline"
+msgstr "Luchtvaartmaatschappij"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Amphibians"
+msgstr "Amfibieën"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr ""
+"Een kunstenaar wiens werk de bepalende stijl van een genre is geworden is?"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid ""
+"An oasis is an isolated area of vegetation in a desert and an island is a "
+"piece of isolated land that is surrounded by water."
+msgstr ""
+"Een oase is een geïsoleerd begroeid gebied in een woestijn en een eiland is "
+"een stuk geïsoleerd land dat omringd wordt door water."
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Angle"
+msgstr "Hoek"
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Ant / Vertebrate"
+msgstr "mier / gewervelde"
+
+#. Translators: Anthophobia is fear of flowers that poses little or no danger
+#: ../data/verbal_analogies.xml.h:20
+msgid "Anthophobia"
+msgstr "Anthofobie"
+
+#. Translators: Anthropophobia is fear of people
+#: ../data/verbal_analogies.xml.h:22
+msgid "Anthropophobia"
+msgstr "Anthropofobie"
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "Apple"
+msgstr "Appel"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Attic"
+msgstr "Zolder"
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "Authority"
+msgstr "Autoriteit"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Basketball"
+msgstr "Basketbal"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Bassoon"
+msgstr "Fagot"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Beach"
+msgstr "Strand"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Birds"
+msgstr "Vogels"
+
+#. Translators: referred to the life style
+#: ../data/verbal_analogies.xml.h:31
+msgid "Bohemian"
+msgstr "Bohemien"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Broken"
+msgstr "Gebroken"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Bunker"
+msgstr "Bunker"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Carbon"
+msgstr "Koolstof"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Cardiology"
+msgstr "Cardiologie"
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "Cellulose"
+msgstr "Cellulose"
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "Chicken / Parrot"
+msgstr "Kip / parkiet"
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "Chord"
+msgstr "Akkoord"
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "Coast"
+msgstr "Kust"
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "Collectivism"
+msgstr "Collectivisme"
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "Column"
+msgstr "Kolom"
+
+#: ../data/verbal_analogies.xml.h:42
+msgid "Condemn"
+msgstr "Veroordelen"
+
+#: ../data/verbal_analogies.xml.h:43
+msgid "Connoisseur"
+msgstr "Kenner"
+
+#: ../data/verbal_analogies.xml.h:44
+msgid "Conspirator"
+msgstr "Samenzweerder"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Contradictory"
+msgstr "Tegenstrijdig"
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Corn"
+msgstr "Maïs"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Cousin"
+msgstr "Neef"
+
+#: ../data/verbal_analogies.xml.h:48
+msgid "Crocodile"
+msgstr "Krokodil"
+
+#: ../data/verbal_analogies.xml.h:49
+msgid "Cycling"
+msgstr "Fietsen"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "Decagon"
+msgstr "Tienhoek"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Decimal"
+msgstr "Decimaal"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "Deer"
+msgstr "Hert"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Democracy"
+msgstr "Democratie"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Dog / Cat"
+msgstr "Hond / kat"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "Dog and horse are species and terrier and pony are breeds."
+msgstr "Hond en paard zijn diersoorten en terrier en pony zijn rassen."
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Enneagram"
+msgstr "Enneagram"
+
+#: ../data/verbal_analogies.xml.h:57
+msgid "Envelope"
+msgstr "Envelop"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Erroneous"
+msgstr "Onjuist"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Fish"
+msgstr "Vis"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Fishes"
+msgstr "Vissen"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Flower"
+msgstr "Bloem"
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Flute"
+msgstr "Fluit"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid "Fork"
+msgstr "Vork"
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "Fossil"
+msgstr "Fossiel"
+
+#: ../data/verbal_analogies.xml.h:65
+msgid "Frog"
+msgstr "Kikker"
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "Gallon"
+msgstr "Gallon"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Golf"
+msgstr "Golf"
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "Grain"
+msgstr "Graan"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Grape"
+msgstr "Druif"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Hangar"
+msgstr "Hangar"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Has no relation"
+msgstr "Is geen familie"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "Hectogram"
+msgstr "Hectogram"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "Hematology"
+msgstr "Hematologie"
+
+#: ../data/verbal_analogies.xml.h:74
+msgid "Hide"
+msgstr "Verbergen"
+
+#: ../data/verbal_analogies.xml.h:75
+msgid "His father"
+msgstr "Zijn vader"
+
+#: ../data/verbal_analogies.xml.h:76
+msgid "His mother"
+msgstr "Zijn moeder"
+
+#: ../data/verbal_analogies.xml.h:77
+msgid "Homeless"
+msgstr "Dakloos"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid "Hyena"
+msgstr "Hyena"
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "Hypochondria"
+msgstr "Hypochondrie"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "Icosagon"
+msgstr "Icosagon"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Ignore"
+msgstr "Negeren"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Ink"
+msgstr "Inkt"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Insects"
+msgstr "Insecten"
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "Ironic"
+msgstr "Ironisch"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Island"
+msgstr "Eiland"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "It is the only one that does not use a ball in the game."
+msgstr "Het is de enige die geen bal gebruikt in het spel."
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "It is the only one that is not a carnivore."
+msgstr "Het is de enige die geen carnivoor is."
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "It is the only one that is not a cereal."
+msgstr "Het is de enige die geen graansoort is."
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "It is the only one that is not a fruit."
+msgstr "Het is de enige die geen fruit is."
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "It is the only one that is not a medical specialty."
+msgstr "Het is de enige die geen medisch specialisme is."
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "It is the only one that is not a metal."
+msgstr "Het is de enige die geen metaal is."
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "It is the only one that is not a reptile."
+msgstr "Het is de enige die geen reptiel is."
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "Het is de enige die geen houten blaasinstrument is."
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "It is the only one that is not related to architecture."
+msgstr "Het is de enige die geen relatie heeft met architectuur."
+
+#: ../data/verbal_analogies.xml.h:95
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "Het is de enige die niet tot het metrieke stelsel behoort."
+
+#: ../data/verbal_analogies.xml.h:96
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+"De schoonzus van de zus van Johns vader is ook? Neem aan dat alle familie "
+"van John genoemd is."
+
+#: ../data/verbal_analogies.xml.h:97
+msgid ""
+"John's mother's brother's brother-in-law is also? Do not assume that John "
+"has any relative that has not been mentioned."
+msgstr ""
+"De schoonzus van de zus van Johns vader is ook? Neem aan dat alle familie "
+"van John genoemd is."
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "Kilometer"
+msgstr "Kilometer"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "Lentils"
+msgstr "Linzen"
+
+#: ../data/verbal_analogies.xml.h:100
+msgid "Liter"
+msgstr "Liter"
+
+#: ../data/verbal_analogies.xml.h:101
+msgid "Loner"
+msgstr "Eenling"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "Lychee"
+msgstr "Lychee"
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "Mango"
+msgstr "Mango"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "Martyr"
+msgstr "Martelaar"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "Misunderstood"
+msgstr "Verkeerd begrepen"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "Money"
+msgstr "Geld"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "Oboe"
+msgstr "Hobo"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "Obscure"
+msgstr "Duister"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "Offensive"
+msgstr "Offensief"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "Oligarchy"
+msgstr "Oligarchie"
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "Olive"
+msgstr "Olijf"
+
+#: ../data/verbal_analogies.xml.h:112
+msgid "Onion"
+msgstr "Ui"
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:114
+msgid "Orange"
+msgstr "Sinaasappel"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "Ostentation"
+msgstr "Praalzucht"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "Pain"
+msgstr "Pijn"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "Paleontology"
+msgstr "Paleontologie"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "Person expelled from society"
+msgstr "Persoon verbannen uit de samenleving"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "Pioneer"
+msgstr "Pionier"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "Pleasure"
+msgstr "Plezier"
+
+#: ../data/verbal_analogies.xml.h:121
+msgid "Pony / Horse"
+msgstr "Pony / Paard"
+
+#: ../data/verbal_analogies.xml.h:122
+msgid "Portico"
+msgstr "Portiek"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "Positivism"
+msgstr "Positivisme"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "Potato"
+msgstr "Aardappel"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "Printer"
+msgstr "Printer"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "Property"
+msgstr "Eigendom"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "Psychiatry"
+msgstr "Psychiatrie"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "Radius"
+msgstr "Radius"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "Related"
+msgstr "Vergelijkbaar"
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "Repugnance"
+msgstr "Weerzin"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "Rice"
+msgstr "Rijst"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "River"
+msgstr "Rivier"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "Shame"
+msgstr "Schande"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "Simplistic"
+msgstr "Simplistisch"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "Snake"
+msgstr "Slang"
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "Sodium"
+msgstr "Sodium"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "Son-in-law"
+msgstr "Schoonzoon"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "Specializes in skin diseases"
+msgstr "Gespecialiseerd in huidziekten"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "Sport"
+msgstr "Sport"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "Suffers a skin disease"
+msgstr "Lijdt aan een huidziekte"
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "Sugarcane"
+msgstr "Suikerriet"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "Sweet corn"
+msgstr "Mais"
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "Synonym"
+msgstr "Synoniem"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "Table"
+msgstr "Tafel"
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "Tangent"
+msgstr "Tangent"
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "Tennis"
+msgstr "Tennis"
+
+#: ../data/verbal_analogies.xml.h:148
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr ""
+"De ethische leer die stelt dat alleen dat wat prettig is daadwerkelijk goed "
+"is."
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "The first word is the instrument and the second what it measures."
+msgstr "Het eerste woord is het instrument en het tweede wat gemeten wordt."
+
+#: ../data/verbal_analogies.xml.h:150
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+"Door soberheid en zelfdiscipline proberen een hoger spiritueel bewustzijn te "
+"bereiken."
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "The radius of a circle is half the diameter."
+msgstr "De radius van een cirkel is de helft van de diameter."
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "Het woord 'taxidermist' duidt een persoon aan die?"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "Think of the items used in the game."
+msgstr "Denk aan de onderdelen die gebruikt worden in het spel."
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "Tiger"
+msgstr "Tijger"
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "Titanium"
+msgstr "Titanium"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "Totalitarianism"
+msgstr "Totalitarisme"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "Turtle"
+msgstr "Schildpad"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "Unorthodox"
+msgstr "Onorthodox"
+
+#: ../data/verbal_analogies.xml.h:159
+msgid "Violin"
+msgstr "Viool"
+
+#: ../data/verbal_analogies.xml.h:160
+msgid "Wealthy"
+msgstr "Rijk"
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "Weapon"
+msgstr "Wapen"
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "What is a 'halberd'?"
+msgstr "Wat is een 'hellebaard'?"
+
+#: ../data/verbal_analogies.xml.h:163
+msgid "Wheat"
+msgstr "Tarwe"
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr "Welke van de volgende zinnen omschrijft een 'verstoten' persoon beter?"
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:168
+msgid "Which of the following sports is the odd one?"
+msgstr "Welke van de volgende sporten hoort niet in het rijtje thuis?"
+
+#: ../data/verbal_analogies.xml.h:169
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr ""
+"Welk van de volgende woorden komt het dichtst in de buurt van de betekenis "
+"van 'ascetisme'?"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr ""
+"Welk van de volgende woorden komt het dichtst in de buurt van de betekenis "
+"van 'hedonisme'?"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr ""
+"Welk van de volgende woorden komt het dichtst in de buurt van de betekenis "
+"van 'oxymoron'?"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr ""
+"Welk van de volgende woorden komt het dichtst in de buurt van de betekenis "
+"van 'censureren'?"
+
+#: ../data/verbal_analogies.xml.h:173
+msgid "Which of the following words is the odd one?"
+msgstr "Welk van de volgende woorden hoort niet in het rijtje thuis?"
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "Which of the following words means fear of people?"
+msgstr "Welk van de volgende woorden betekent angst voor mensen?"
+
+#: ../data/verbal_analogies.xml.h:175
+msgid "Winery"
+msgstr "Wijnmakerij"
+
+#: ../data/verbal_analogies.xml.h:176
+msgid "Wolf"
+msgstr "Wolf"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "Works with dead animals"
+msgstr "Werkt met dode dieren"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "Works with leather"
+msgstr "Werkt met leer"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "Zinc"
+msgstr "Zink"
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "airplane | aeroplane | plane"
+msgstr "vliegtuig"
+
+#: ../data/verbal_analogies.xml.h:181
+msgid "ankle"
+msgstr "enkel"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "art / gallery | drama"
+msgstr "kunst / gallerij | drama"
+
+#: ../data/verbal_analogies.xml.h:183
+msgid "atlas"
+msgstr "atlas"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "bite"
+msgstr "bijten"
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "body | skin"
+msgstr "lichaam | huid"
+
+#: ../data/verbal_analogies.xml.h:186
+msgid "book | magazine | document"
+msgstr "boek | tijdschrift | document"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:188
+msgid "box / open | banana"
+msgstr "doos / openen | banaan"
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "bridge / over | tunnel"
+msgstr "brug / over | tunnel"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "burst | pop"
+msgstr "knallen | knappen"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:192
+msgid "button / push | key (used in a lock)"
+msgstr "knop / indrukken | sleutel (van een slot)"
+
+#: ../data/verbal_analogies.xml.h:193
+msgid "cage | zoo | zoological garden"
+msgstr "kooi | dierentuin"
+
+#: ../data/verbal_analogies.xml.h:194
+msgid "camera"
+msgstr "camera"
+
+#: ../data/verbal_analogies.xml.h:195
+msgid "car / garage | plane"
+msgstr "auto / garage | vliegtuig"
+
+#: ../data/verbal_analogies.xml.h:196
+msgid "car / road | train"
+msgstr "auto / weg | trein"
+
+#: ../data/verbal_analogies.xml.h:197
+msgid "chop"
+msgstr "hakken"
+
+#: ../data/verbal_analogies.xml.h:198
+msgid "circle / semicircle | diameter"
+msgstr "cirkel / halve cirkel | diameter"
+
+#: ../data/verbal_analogies.xml.h:199
+msgid "coins"
+msgstr "munten"
+
+#: ../data/verbal_analogies.xml.h:200
+msgid "composer | songwriter | lyricist"
+msgstr "componist | songwriter | liedjesschrijver"
+
+#: ../data/verbal_analogies.xml.h:201
+msgid "constellation / stars | archipelago"
+msgstr "sterrenbeeld / sterren | archipel"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:203
+msgid "dance"
+msgstr "dans"
+
+#: ../data/verbal_analogies.xml.h:204
+msgid "desert / oasis | sea"
+msgstr "woestijn / oase | zee"
+
+#: ../data/verbal_analogies.xml.h:205
+msgid "dish / break | balloon"
+msgstr "bord / breken | ballon"
+
+#: ../data/verbal_analogies.xml.h:206
+msgid "dog / tame | wolf"
+msgstr "hond / tam | wolf"
+
+#: ../data/verbal_analogies.xml.h:207
+msgid "elbow / knee | wrist"
+msgstr "elleboog / knie | pols"
+
+#: ../data/verbal_analogies.xml.h:208
+msgid "error / correct | damage"
+msgstr "fout / verbeteren | schade"
+
+#: ../data/verbal_analogies.xml.h:209
+msgid "eyebrow / eye | mustache"
+msgstr "wenkbrauw / oog | snor"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:211
+msgid "feet / two | toes"
+msgstr "voet / twee | tenen"
+
+#: ../data/verbal_analogies.xml.h:212
+msgid "fish / aquarium | monkey"
+msgstr "vis / aquarium | aap"
+
+#: ../data/verbal_analogies.xml.h:213
+msgid "fish / submarine | bird"
+msgstr "vis / onderzeeër | vogel"
+
+#: ../data/verbal_analogies.xml.h:214
+msgid "five / pentagon | ten"
+msgstr "vijf / pentagon | tien"
+
+#: ../data/verbal_analogies.xml.h:215
+msgid "fox / den | bird"
+msgstr "vos / hol | vogel"
+
+#: ../data/verbal_analogies.xml.h:216
+msgid "glass / break | paper"
+msgstr "glas / breken | papier"
+
+#: ../data/verbal_analogies.xml.h:217
+msgid "hands / grab | teeth"
+msgstr "handen / grijpen | tanden"
+
+#: ../data/verbal_analogies.xml.h:218
+msgid "herbivorous | herbivore"
+msgstr "plantenetend | herbivoor"
+
+#: ../data/verbal_analogies.xml.h:219
+msgid "horticulture / plants | ornithology"
+msgstr "horticultuur / planten | ornitologie"
+
+#: ../data/verbal_analogies.xml.h:220
+msgid "hour / minute | minute"
+msgstr "uur / minuut | minuut"
+
+#: ../data/verbal_analogies.xml.h:221
+msgid "hungry / eat | tired"
+msgstr "honger / eten | moe"
+
+#: ../data/verbal_analogies.xml.h:222
+msgid "hunter / rifle | photographer"
+msgstr "jager / geweer | fotograaf"
+
+#: ../data/verbal_analogies.xml.h:223
+msgid "ice / slippery | glue"
+msgstr "ijs / glad | lijm"
+
+#: ../data/verbal_analogies.xml.h:224
+msgid "in | under | through"
+msgstr "in / onder | door"
+
+#: ../data/verbal_analogies.xml.h:225
+msgid "islands"
+msgstr "eilanden"
+
+#: ../data/verbal_analogies.xml.h:226
+msgid "leopard / spots | tiger"
+msgstr "luipaard / stippen | tijger"
+
+#: ../data/verbal_analogies.xml.h:227
+msgid "letter / word | page"
+msgstr "letter / woord | pagina"
+
+#: ../data/verbal_analogies.xml.h:228
+msgid "lip | upper lip | mouth"
+msgstr "lip | bovenlip | mond"
+
+#: ../data/verbal_analogies.xml.h:229
+msgid "nest"
+msgstr "nest"
+
+#: ../data/verbal_analogies.xml.h:230
+msgid "nose"
+msgstr "neus"
+
+#: ../data/verbal_analogies.xml.h:231
+msgid "novel / author | song"
+msgstr "roman / auteur | lied"
+
+#: ../data/verbal_analogies.xml.h:232
+msgid "orange / fruit | spinach"
+msgstr "sinasappel / fruit | spinazie"
+
+#: ../data/verbal_analogies.xml.h:233
+msgid "pediatrics / children | numismatics"
+msgstr "pediatrie / kinderen | numismatiek"
+
+#: ../data/verbal_analogies.xml.h:234
+msgid "peel"
+msgstr "pellen"
+
+#: ../data/verbal_analogies.xml.h:235
+msgid "pessimist / optimist | poor"
+msgstr "pessimist / optimist | arm"
+
+#: ../data/verbal_analogies.xml.h:236
+msgid "poems / anthology | maps"
+msgstr "gedichten / bloemlezing | kaarten"
+
+#: ../data/verbal_analogies.xml.h:237
+msgid "puzzle / solve | game"
+msgstr "puzzel / oplossen | spel"
+
+#: ../data/verbal_analogies.xml.h:238
+msgid "repair | fix"
+msgstr "repareren | maken"
+
+#: ../data/verbal_analogies.xml.h:239
+msgid "ring / finger | bracelet"
+msgstr "ring / vinger | armband"
+
+#: ../data/verbal_analogies.xml.h:240
+msgid "seal / flippers | bird"
+msgstr "zeehond / flippers | vogel"
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:242
+msgid "second"
+msgstr "seconde"
+
+#: ../data/verbal_analogies.xml.h:243
+msgid "shovel / dig | axe"
+msgstr "schop / graven | bijl"
+
+#: ../data/verbal_analogies.xml.h:244
+msgid "sink"
+msgstr "zinken"
+
+#: ../data/verbal_analogies.xml.h:245
+msgid "sleep | rest"
+msgstr "slapen | rusten | uitrusten"
+
+#: ../data/verbal_analogies.xml.h:246
+msgid "slurp / tongue | snort"
+msgstr "slurpen / tong | snuiven"
+
+#: ../data/verbal_analogies.xml.h:247
+msgid "sour"
+msgstr "zuur"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:249
+msgid "stick / float | stone"
+msgstr "tak / drijven | steen"
+
+#: ../data/verbal_analogies.xml.h:250
+msgid "sticky"
+msgstr "plakkerig"
+
+#: ../data/verbal_analogies.xml.h:251
+msgid "stripes"
+msgstr "strepen"
+
+#: ../data/verbal_analogies.xml.h:252
+msgid "sugar / sweet | vinegar"
+msgstr "suiker / zoet | azijn"
+
+#: ../data/verbal_analogies.xml.h:253
+msgid "talk / yell | dislike"
+msgstr "praten / schreeuwen | niet mogen"
+
+#: ../data/verbal_analogies.xml.h:254
+msgid "tear | rip"
+msgstr "scheuren | verscheuren"
+
+#: ../data/verbal_analogies.xml.h:255
+msgid "tears / eyes | sweat"
+msgstr "tranen / ogen | zweet"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:257
+msgid "ten | 10"
+msgstr "tien | 10"
+
+#: ../data/verbal_analogies.xml.h:258
+msgid "tennis / sport | ballet"
+msgstr "tennis / sport | ballet"
+
+#: ../data/verbal_analogies.xml.h:259
+msgid "thankful / ingratitude | despotism"
+msgstr "dankbaar / ondank | despotisme"
+
+#: ../data/verbal_analogies.xml.h:260
+msgid "theatre | theater"
+msgstr "toneel | theater"
+
+#: ../data/verbal_analogies.xml.h:261
+msgid "thermometer / temperature | clock"
+msgstr "thermometer / temperatuur | klok"
+
+#: ../data/verbal_analogies.xml.h:262
+msgid "tiger / carnivore | cow"
+msgstr "tijger / carnivoor | koe"
+
+#. Translators: time as duration of an event. What a clock measures
+#: ../data/verbal_analogies.xml.h:264
+msgid "time"
+msgstr "tijd"
+
+#: ../data/verbal_analogies.xml.h:265
+msgid "toy / play | tool"
+msgstr "speelgoed / spelen | gereedschap"
+
+#: ../data/verbal_analogies.xml.h:266
+msgid "track | railway | rails"
+msgstr "spoor | spoorweg | rails"
+
+#: ../data/verbal_analogies.xml.h:267
+msgid "turn"
+msgstr "draaien"
+
+#. Translators: letter refers to letter (in paper form)
+#: ../data/verbal_analogies.xml.h:269
+msgid "turtle / shell | letter"
+msgstr "schildpad / schild | brief"
+
+#: ../data/verbal_analogies.xml.h:270
+msgid "vegetable"
+msgstr "groente"
+
+#: ../data/verbal_analogies.xml.h:271
+msgid "whirlpool / water | tornado"
+msgstr "draaikolk / water | tornado"
+
+#: ../data/verbal_analogies.xml.h:272
+msgid "wild | savage"
+msgstr "wild | woest"
+
+#: ../data/verbal_analogies.xml.h:273
+msgid "win | play"
+msgstr "winnen | spelen"
+
+#: ../data/verbal_analogies.xml.h:274
+msgid "wind | air"
+msgstr "wind | lucht"
+
+#: ../data/verbal_analogies.xml.h:275
+msgid "wine / grape | rum"
+msgstr "wijn / druif | rum"
+
+#: ../data/verbal_analogies.xml.h:276
+msgid "wings"
+msgstr "vleugels"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:278
+msgid "work"
+msgstr "werken"
+
+#: ../data/verbal_analogies.xml.h:279
+msgid "wrist | arm"
+msgstr "pols | arm"
+
+#: ../data/verbal_analogies.xml.h:280
+msgid "write / pen | eat"
+msgstr "schrijven / pen | eten"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "Maak u klaar om de volgende objecten te onthouden…"
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:83
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:66
+msgid "Total"
+msgstr "Totaal"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:45
+#: ../src/Clients/Classical/gbrainy.cs:403
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:8
+msgid "Logic"
+msgstr "Logica"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:49
+#: ../src/Clients/Classical/gbrainy.cs:408
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:6
+msgid "Calculation"
+msgstr "Berekening"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:47
+#: ../src/Clients/Classical/gbrainy.cs:414
+msgid "Memory"
+msgstr "Geheugen"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:51
+#: ../src/Clients/Classical/gbrainy.cs:420
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:18
+msgid "Verbal"
+msgstr "Verbaal"
+
+#: ../src/Core/Views/FinishView.cs:140
+#: ../src/Core/Views/PlayerHistoryView.cs:275
+msgid "Score"
+msgstr "Score"
+
+#: ../src/Core/Views/FinishView.cs:150
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "Spellen gewonnen: {0} ({1} gespeeld)"
+
+#: ../src/Core/Views/FinishView.cs:152
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. Spellen gewonnen: {1} ({2} gespeeld)"
+
+#: ../src/Core/Views/FinishView.cs:156
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "Gespeelde tijd is {0} (gemiddeld {1} per spel)"
+
+#. Translators: translated string should not be longer that the English original (space restriction on the UI)
+#: ../src/Core/Views/FinishView.cs:165
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+"Raadpleeg Help voor details over hoe de puntentelling van gbrainy werkt."
+
+#: ../src/Core/Views/FinishView.cs:175
+msgid "Tips for your next games"
+msgstr "Hints voor uw volgende spellen"
+
+#: ../src/Core/Views/FinishView.cs:203
+msgid "Congratulations! New personal record"
+msgstr "Gefeliciteerd! Een nieuw persoonlijk record"
+
+#: ../src/Core/Views/FinishView.cs:213
+#, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Door {0} op het onderdeel logica te scoren heeft u een nieuw persoonlijk "
+"record behaald. Uw vorig record was {1}."
+
+#: ../src/Core/Views/FinishView.cs:219
+#, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Door {0} op het onderdeel rekenen te scoren heeft u een nieuw persoonlijk "
+"record behaald. Uw vorig record was {1}."
+
+#: ../src/Core/Views/FinishView.cs:225
+#, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+"Door {0} op het onderdeel geheugen te scoren heeft u een nieuw persoonlijk "
+"record behaald. Uw vorig record was {1}."
+
+#: ../src/Core/Views/FinishView.cs:231
+#, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Door {0} op het onderdeel verbale analogieën te scoren heeft u een nieuw "
+"persoonlijk record behaald. Uw vorig record was {1}."
+
+#: ../src/Core/Views/PlayerHistoryView.cs:274
+msgid "Time"
+msgstr "Tijd"
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "Logica-puzzels. Test uw denk- en redeneervaardigheden."
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr "Hoofdrekenen. Sommen waarmee u uw rekenvaardigheid kunt testen."
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "Geheugentraining. Laat zien wat uw kortetermijngeheugen waard is."
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "Verbale analogieën. Toon uw kennis van woordbetekenissen."
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:140
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "Welkom bij gbrainy {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:144
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr ""
+"gbrainy is een hersenkraker- en trainingsspel, voor uw vermaak en om uw "
+"brein fit te houden.  Het bevat:"
+
+#: ../src/Core/Views/WelcomeView.cs:148 ../src/Core/Main/GameTips.cs:68
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr ""
+"Gebruik 'Instellingen' om de moeilijkheidsgraad van het spel aan te passen."
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "rood"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "groen"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "blauw"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "geel"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "magenta"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "oranje"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "zwart"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "wit"
+
+#: ../src/Core/Main/Game.cs:152
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "Het juiste antwoord is {0}."
+
+#. Translators: answer + rationale of the answer
+#. Translators: "The graph below" +  "It is built using" sentences
+#. Translators: Concadenating two strings (rationale of answer + extra information).
+#: ../src/Core/Main/Game.cs:158 ../src/Core/Main/Verbal/Analogies.cs:62
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:60
+#: ../src/Games/Logic/PuzzleCountSeries.cs:93
+#, csharp-format
+msgid "{0} {1}"
+msgstr "{0}) {1}"
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:318
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:332
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:340
+#, csharp-format
+msgid "Figure {0}"
+msgstr "Figuur {0}"
+
+#: ../src/Core/Main/GameManager.cs:319
+msgid "Extensions database:"
+msgstr "Gegevensbron uitbreidingen:"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+"Geregistreerde spellen: {0}: {1} logica-puzzels, {2} hoofdrekensommen, {3} "
+"geheugen-spellen, {4} verbale analogieën"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "Gespeelde spellen: {0} (score is {1})"
+
+#: ../src/Core/Main/GameSession.cs:178
+#, csharp-format
+msgid "Time: {0}"
+msgstr "Tijd: {0}"
+
+#. Translators: {0} is the name of the game
+#: ../src/Core/Main/GameSession.cs:182
+#, csharp-format
+msgid "Game: {0}"
+msgstr "Spel: {0}"
+
+#. Translators: text in the status bar: games played - time - game name
+#: ../src/Core/Main/GameSession.cs:184
+#, csharp-format
+msgid "{0} - {1} - {2}"
+msgstr "{0} - {1} - {2}"
+
+#. Translators: text in the status bar: games played - time
+#: ../src/Core/Main/GameSession.cs:187
+#, csharp-format
+msgid "{0} - {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/GameSession.cs:200
+msgid "Outstanding results"
+msgstr "Uitmuntend resultaat"
+
+#: ../src/Core/Main/GameSession.cs:202
+msgid "Excellent results"
+msgstr "Zeer goed resultaat"
+
+#: ../src/Core/Main/GameSession.cs:204
+msgid "Good results"
+msgstr "Goed resultaat"
+
+#: ../src/Core/Main/GameSession.cs:206
+msgid "Poor results"
+msgstr "Matig resultaat"
+
+#: ../src/Core/Main/GameSession.cs:207
+msgid "Disappointing results"
+msgstr "Teleurstellend resultaat"
+
+#: ../src/Core/Main/GameSession.cs:276
+#: ../src/Clients/Classical/Widgets/GameDrawingArea.cs:119
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+#: ../src/Core/Main/GameTips.cs:52
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr ""
+"Lees de instructies aandachtig en bepaal wat de gegevens en de aanwijzingen "
+"zijn."
+
+#: ../src/Core/Main/GameTips.cs:54
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+"Om de speler te beoordelen kijkt gbrainy naar de benodigde tijd en de "
+"gebruikte tips."
+
+#: ../src/Core/Main/GameTips.cs:56
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+"In logica-spellen kunnen elementen die onbelangrijk lijken erg belangrijk "
+"zijn."
+
+#: ../src/Core/Main/GameTips.cs:58
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr "Doorbreek mentale blokkades en verken de grenzen van de problemen."
+
+#: ../src/Core/Main/GameTips.cs:60
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr ""
+"Heb er plezier in om fouten te maken, dit is een onderdeel van het "
+"leerproces."
+
+#: ../src/Core/Main/GameTips.cs:62
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr "Probeer alle vraagstukken, zelfs de lastige. Oefening baart kunst."
+
+#: ../src/Core/Main/GameTips.cs:64
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "Als u dagelijks speelt, zult u snel voortgang boeken."
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:66
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+"Gebruik de ‘Handmatige spelselectie’ om te bepalen welke spellen u wilt "
+"spelen."
+
+#: ../src/Core/Main/GameTips.cs:70
+msgid "Association of elements is a common technique for remembering things."
+msgstr "Associatie is een bekende techniek om dingen te onthouden."
+
+#: ../src/Core/Main/GameTips.cs:72
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+"Elementen in categorieën onderbrengen is een bekende techniek om dingen te "
+"onthouden."
+
+#: ../src/Core/Main/GameTips.cs:74
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+"Maak een acroniem van de eerste letter van alle feiten die u moet onthouden."
+
+#: ../src/Core/Main/GameTips.cs:76
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr ""
+"Het plezier dat u aan een puzzel beleefd is evenredig aan de tijd die u er "
+"aan besteedt."
+
+#: ../src/Core/Main/GameTips.cs:78
+msgid "Think of breaking down every problem into simpler components."
+msgstr "Probeer elk vraagstuk in eenvoudigere onderdelen op te delen."
+
+#: ../src/Core/Main/GameTips.cs:80
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr "Let op de werkwoordsvorm bij het oplossen van verbale analogieën."
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "Onthoud de onderstaande objecten in de gegeven tijd"
+
+#: ../src/Core/Main/Memory.cs:216
+msgid "Time left"
+msgstr "Tijd over"
+
+#. Translators: {0} is the game number and {1} the game question or answer
+#. The number is used as reference when looking for the game solution in the PDF
+#: ../src/Core/Main/PdfExporter.cs:104 ../src/Core/Main/PdfExporter.cs:165
+#, csharp-format
+msgid "Game {0}. {1}"
+msgstr "Spel: {0}. {1}"
+
+#: ../src/Core/Main/PdfExporter.cs:121
+#, csharp-format
+msgid "Created by gbrainy {0}"
+msgstr "Gemaakt door gbrainy {0}"
+
+#: ../src/Core/Main/PdfExporter.cs:157
+msgid "Solutions"
+msgstr "Oplossingen"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "Mogelijk juiste antwoorden zijn: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:91
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:64
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, csharp-format
+msgid "Multiple options #{0}"
+msgstr "Meerdere opties #{0}"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} Antwoord {1}."
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:112
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:176
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:152
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:41
+#, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "Vergelijk woordparen #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:57
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:69
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr ""
+"De relatie tussen twee woorden is gegeven. Welk woord deelt deze relatie met "
+"'{0}'?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:93
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:133
+#, csharp-format
+msgid "Words: {0}"
+msgstr "Woorden: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:40
+#, csharp-format
+msgid "Pair of words #{0}"
+msgstr "Woordpaar #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, csharp-format
+msgid "Question and answer #{0}"
+msgstr "Vraag en antwoord #{0}"
+
+#: ../src/Core/Main/Xml/GameXml.cs:218
+#, csharp-format
+msgid "{0}, "
+msgstr "{0}, "
+
+#: ../src/Core/Main/Xml/GameXml.cs:220
+#, csharp-format
+msgid "{0}."
+msgstr "{0}."
+
+#. Translators {0}: list of options (A, B, C)
+#: ../src/Core/Main/Xml/GameXml.cs:223
+#, csharp-format
+msgid "Answer {0}"
+msgstr "Antwoord {0}"
+
+#: ../src/Core/Main/Xml/GameXml.cs:466
+#, csharp-format
+msgid "{0}) "
+msgstr "{0}) "
+
+#: ../src/Clients/Classical/gbrainy.cs:396
+msgid "Play all the games"
+msgstr "Alle spellen spelen"
+
+#: ../src/Clients/Classical/gbrainy.cs:397
+msgid "All"
+msgstr "Alles"
+
+#: ../src/Clients/Classical/gbrainy.cs:402
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "Speel spellen die uw redeneer- en denkvermogen op de proef stellen"
+
+#: ../src/Clients/Classical/gbrainy.cs:409
+msgid "Play games that challenge your mental calculation skills"
+msgstr "Speel spellen die uw hoofdrekenvaardigheden op de proef stellen"
+
+#: ../src/Clients/Classical/gbrainy.cs:415
+msgid "Play games that challenge your short term memory"
+msgstr "Speel spellen die uw kortetermijngeheugen op de proef stellen"
+
+#: ../src/Clients/Classical/gbrainy.cs:421
+msgid "Play games that challenge your verbal aptitude"
+msgstr "Speel spellen die uw verbale vaardigheden op de proef stellen"
+
+#: ../src/Clients/Classical/gbrainy.cs:426
+#: ../src/Clients/Classical/gbrainy.cs:675
+msgid "Pause"
+msgstr "Pauze"
+
+#: ../src/Clients/Classical/gbrainy.cs:427
+msgid "Pause or resume the game"
+msgstr "Het spel pauzeren of hervatten"
+
+#: ../src/Clients/Classical/gbrainy.cs:432
+msgid "End the game and show score"
+msgstr "Het spel beëindigen en de score tonen"
+
+#: ../src/Clients/Classical/gbrainy.cs:433
+msgid "Finish"
+msgstr "Voltooien"
+
+#: ../src/Clients/Classical/gbrainy.cs:525
+msgid "Congratulations."
+msgstr "Gefeliciteerd."
+
+#: ../src/Clients/Classical/gbrainy.cs:527
+msgid "Incorrect answer."
+msgstr "Onjuist antwoord."
+
+#: ../src/Clients/Classical/gbrainy.cs:587
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr ""
+"Zodra u een antwoord weet typt u het in het ‘Antwoord:’-invoerveld en drukt "
+"u op de \"OK\"-knop."
+
+#: ../src/Clients/Classical/gbrainy.cs:680
+msgid "Resume"
+msgstr "Hervatten"
+
+#: ../src/Clients/Classical/gbrainy.cs:830
+#, csharp-format
+msgid "Startup time {0}"
+msgstr "Opstarttijd {0}"
+
+#. Translators: {0} is a date
+#: ../src/Clients/Classical/CommandLine.cs:106
+#, csharp-format
+msgid "(built on {0})"
+msgstr "(gemaakt op {0})"
+
+#: ../src/Clients/Classical/CommandLine.cs:118
+msgid "List of available games"
+msgstr "Lijst van beschikbare spellen"
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "Usage: gbrainy [options]"
+msgstr "Gebruik: gbrainy [opties]"
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --version\t\t\tPrint version information."
+msgstr "  --versie\t\t\tDruk versie-informatie af."
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --help\t\t\tPrint this usage message."
+msgstr "  --help\t\t\tDruk deze uitleg af."
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr "  --gamelist\t\t\ttoont de lijst met beschikbare spellen."
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+"  --customgame [game1, gameN]\tSpecificeert een lijst met te spelen spellen "
+"in een aangepast spel."
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+"  --norandom \t\t\tDe aangepaste spellenlijst zal niet willekeurig worden "
+"gemaakt."
+
+#: ../src/Clients/Classical/CommandLine.cs:187
+msgid "  --versions \t\t\tShow dependencies."
+msgstr "  --versions \t\t\tToon afhankelijkheden."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:34
+msgid "Software"
+msgstr "Software"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:37
+msgid "Based on ideas by"
+msgstr "Gebaseerd op ideeën van"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:41
+msgid "MENSA works"
+msgstr "MENSA works"
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:61
+msgid "translator-credits"
+msgstr ""
+"Erwin Poeze\n"
+"Reinout van Schouwen\n"
+"Benno Schulenberg\n"
+"Hannie Dumoleyn\n"
+"Redmar van den Berg\n"
+"\n"
+"Kijk voor meer info op http://nl.gnome.org/\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Erwin Poeze https://launchpad.net/~donnut\n"
+"  Hannie Dumoleyn https://launchpad.net/~lafeber-dumoleyn\n"
+"  Redmar https://launchpad.net/~redmar\n"
+"  Ruud Menken https://launchpad.net/~rmenken\n"
+"  SolidState2008 https://launchpad.net/~solidstate2008\n"
+"  Ubuntu4life https://launchpad.net/~jeroen-chil\n"
+"  dms https://launchpad.net/~dms-ict\n"
+"  edesmedt https://launchpad.net/~erikdesmedt\n"
+"  timdew https://launchpad.net/~timdewin\n"
+"  wensveen https://launchpad.net/~wensveen"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:66
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+"Dit programma is vrije software; u kan het verspreiden en/of wijzigen onder "
+"de bepalingen van de GNU Algemene Publieke Licentie, zoals uitgegeven door "
+"de Free Software Foundation; ofwel versie 2 van de Licentie, of (naar vrije "
+"keuze) een latere versie.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:67
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+"Dit programma is verspreid in de hoop dat het nuttig zal zijn maar ZONDER "
+"ENIGE GARANTIE; zelfs zonder de impliciete garantie van VERKOOPBAARHEID of "
+"GESCHIKTHEID VOOR EEN BEPAALD DOEL. Zie de GNU Algemene Publieke Licentie "
+"voor meer details.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"U zou een exemplaar van de GNU Algemene Publieke Licentie moeten hebben "
+"ontvangen bij dit programma; zoniet, schrijf dan naar de Free Software "
+"Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:78
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "Een hersenkrakerspel voor vermaak en om uw brein fit te houden."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:80
+msgid "gbrainy project web site:http://live.gnome.org/gbrainy"
+msgstr "Website van het gbrainy-project: http://live.gnome.org/gbrainy"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:82
+#, csharp-format
+msgid "You can also play on-line at {0}"
+msgstr "U kunt ook online spelen op {0}"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:61
+msgid "Game Name"
+msgstr "Naam van het spel"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:83
+msgid "Type"
+msgstr "Type"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:105
+msgid "Selected"
+msgstr "Geselecteerd"
+
+#. Translators: default file name used when exporting PDF files (keep the pdf extension please)
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:69
+msgid "games.pdf"
+msgstr "games.pdf"
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:76
+msgid "PDF files"
+msgstr "pdf-bestanden"
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:80
+msgid "All files"
+msgstr "Alle bestanden"
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:167
+msgid "The PDF file has been exported correctly."
+msgstr "Het pdf-bestand is correct geëxporteerd."
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:170
+msgid ""
+"There was a problem generating the PDF file. The file has not been created."
+msgstr ""
+"Er deed zich een probleem voor bij het genereren van het pdf-bestand. Het "
+"bestand is niet aangemaakt."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution."
+msgstr "De grafiek hieronder toont het scoreverloop van de speler. "
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr ""
+"Er moet meer dan een spelsessie opgenomen zijn voordat u het scoreverloop "
+"kunt zien."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] "Het is opgebouwd met de resultaten van {0} spelsessie."
+msgstr[1] "Het is opgebouwd met de resultaten van {0} spelsessies."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:107
+msgid "You are about to delete the player's game session history."
+msgstr ""
+"U staat op het punt om de spelgeschiedenis van deze speler te verwijderen."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:108
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+"Als u verder gaat zult u de geschiedenis van de afgelopen spelsessies "
+"verliezen. Wilt u doorgaan?"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:109
+msgid "_Delete"
+msgstr "_Verwijderen"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "Aangepast spel"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "Alles selecteren"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "Alles deselecteren"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "_Start"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:1
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>Moeilijkheidsgraad</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:2
+msgid "<b>Game Types</b>"
+msgstr "<b>Spelsoorten</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:3
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>Algemene instellingen</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:4
+msgid "<b>Number of games</b>"
+msgstr "<b>Aantal spelletjes</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:5
+msgid "<b>Output File</b>"
+msgstr "<b>Uitvoerbestand</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:7
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "Makkelijk"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:9
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "Moeilijk"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:10
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:11
+msgid "PDF export"
+msgstr "pdf-uitvoer"
+
+#. Translators: this the number of pages that are included by side when exporting a PDF"
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:13
+msgid "Pages per side:"
+msgstr "Pagina's per kant:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:14
+msgid ""
+"Skip games that use colors\n"
+" (friendly to colorblind users)"
+msgstr ""
+"Sla spellen die kleuren gebruiken over\n"
+" (voor gebruikers die kleurenblind zijn)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:16
+msgid ""
+"This option allows to export a set of games in a PDF file. You can complete "
+"the puzzles without a computer."
+msgstr ""
+"Met deze optie kunt u een serie spelletjes exporteren naar een pdf-bestand. "
+"U kunt de puzzels voltooien zonder computer."
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:17
+msgid "Total number of games:"
+msgstr "Totaal aantal spelletjes:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:19
+msgid "_Save"
+msgstr "_Opslaan"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Player's Game Session History"
+msgstr "Spelgeschiedenis van de speler"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "Toon:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>Geheugenspelletjes</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>Spelgeschiedenis van de speler</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Delete Player's Game Session History"
+msgstr "Spelgeschiedenis van speler verwijderen"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of records in the player's game session history:"
+msgstr "Maximaal aantal spellen in de spelgeschiedenis van de speler:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played games to store the game session:"
+msgstr ""
+"Minimaal aantal spellen dat gespeeld moet worden voordat de spelsessie wordt "
+"opgeslagen:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "Toon aftellen"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "Sla spellen die kleuren gebruiken over (voor kleurenblinde gebruikers)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Theme:"
+msgstr "Thema:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:15
+msgid "Time in seconds to memorize the challenge:"
+msgstr "Tijd in seconden om objecten uit het hoofd te leren:"
+
+#: ../src/Clients/Classical/Widgets/BrowseFile.cs:43
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "Bladeren…"
+
+#: ../src/Clients/Classical/Widgets/BrowseFile.cs:84
+msgid "Open Location"
+msgstr "Lokatie openen"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+msgid "3D Cube"
+msgstr "3D-kubus"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr ""
+"Hoeveel kleine kubussen zijn nodig om de grote onderstaande kubus te maken? "
+"Antwoord met een getal."
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr ""
+"Een kubus is een regelmatig veelvlak dat bestaat uit zes vlakken die allen "
+"vierkanten zijn."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "Balans"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"Using triangles only, how many triangles are needed in the right part of the "
+"last figure to keep it balanced?"
+msgstr ""
+"Hoeveel driehoeken zijn er nodig in het rechterdeel van de laatste figuur om "
+"deze in balans te houden?"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+msgid ""
+"Every circle is equivalent to two triangles and every square to three "
+"triangles."
+msgstr "Elk rondje is twee driehoeken waard en elk vierkant drie driehoeken."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+msgid "Every circle is equivalent two triangles."
+msgstr "Elk rondje is twee driehoeken waard."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "Bouw een driehoek"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"Met welke drie stukken kunt u een driehoek maken? Antwoord met de drie "
+"figuurnamen, bijv.: {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "De resulterende driehoek is gelijkbenig."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "De driehoek is:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+msgid "Circles in a square"
+msgstr "Rondjes in een vierkant"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr ""
+"Hoeveel van de getoonde cirkels passen er maximaal in het vierkant hieronder?"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "U kunt er meer dan 64 cirkels inpassen."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+"In de getoonde indeling komen er {0} hoogte-eenheden bij per rij. Dit laat "
+"het gebruik van een extra rij toe."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 eenheden"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "1 eenheid"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "Klokken"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr ""
+"Op welk getal moet de grote wijzer van de '{0}' klok staan? Antwoord met "
+"getallen."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+"Begin bij de eerste klok en tel {0} op bij de waarde aangegeven door de "
+"wijzers."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr ""
+"De informatie die elke klok geeft hangt niet samen met uren of minuten."
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "Cirkels tellen"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "Hoeveel cirkels telt u?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "Het is een makkelijke oefening als u de cirkels systematisch telt."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "Tellen"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:64
+#, csharp-format
+msgid "We have a {0} meter piece of fabric."
+msgid_plural "We have a {0} meters piece of fabric."
+msgstr[0] "We hebben een lap stof van {0} meter."
+msgstr[1] "We hebben een lap stof van {0} meter."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:68
+#, csharp-format
+msgid ""
+"Machine A takes {0} second to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgid_plural ""
+"Machine A takes {0} seconds to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgstr[0] ""
+"Machine A doet er {0} seconden over om 1 meter van deze stof te snijden. "
+"Hoeveel seconden heeft machine A nodig om de volledige lap stof in stukken "
+"van 1 meter te snijden?"
+msgstr[1] ""
+"Machine A doet er {0} seconden over om 1 meter van deze stof te snijden. "
+"Hoeveel seconden heeft machine A nodig om de volledige lap stof in stukken "
+"van 1 meter te snijden?"
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:73
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr "Met snede {0} maakt machine A twee stukken van 1 meter."
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+"Er is een hek gebouwd rond een vierkant gebied. {0} hekpalen worden aan "
+"iedere zijde van het vierkant gebruikt. Hoeveel hekpalen worden er in totaal "
+"gebruikt?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:87
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr ""
+"Er zijn {0} hekpalen omdat de palen op de hoeken van het vierkant gedeeld "
+"worden."
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:96
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+"Het inpakken van een verjaardagscadeau kost één euro. Het verjaardagscadeau "
+"kost {0} euro's meer dan de inpakkosten. Hoeveel kost het om het cadeau aan "
+"te schaffen en in te pakken?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:98
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr "Het cadeau kost één euro meer om aan te schaffen dan om in te pakken."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:40
+msgid "Count series"
+msgstr "Telserie"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:62
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr "Hoe vaak heb je het cijfer '9' nodig als je van 10 naar 100 telt?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:68
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+"Hoeveel tweecijferige getallen zijn er waarvan het eerste getal groter is "
+"dan het tweede (bijv.: 20 en 21)?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:74
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+"Hoeveel tweecijferige getallen zijn er waarvan het eerste getal kleiner is "
+"dan het tweede (bijv.: 12 en 13)?"
+
+#. Translators: A sequence of numbers 1, 2, 3, etc.
+#: ../src/Games/Logic/PuzzleCountSeries.cs:86
+#, csharp-format
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:89
+#, csharp-format
+msgid "The numbers are: {0}."
+msgstr "De getallen zijn: {0}."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:94
+msgid "Notice that 99 contains two numbers '9'."
+msgstr "Merk op dat 99 tweemaal een '9' bevat."
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr "Bedekkingspercentage"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "Welk percentage van de figuur is gekleurd?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "Kubus"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When you fold the figure below as a cube, which face on the figure is "
+"opposite the face with a {0} drawn on it? Answer the number written on face."
+msgstr ""
+"Welk vlak zit tegenover het vlak met een {0} erop als de figuur hieronder "
+"tot een kubus gevouwen wordt? Antwoord met het getal op het vlak."
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Hoe groot is de kans om een '2' of een '6' te gooien in een enkele worp met "
+"een zeszijdige dobbelsteen? Antwoord met een breuk (bv: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr "Er zijn 2 van de 6 mogelijkheden."
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Hoe groot is de kans om geen '5' te gooien in een enkele worp met een "
+"zeszijdige dobbelsteen? Antwoord met een breuk (bv 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr "Er zijn 5 van de 6 mogelijkheden."
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Twee zeszijdige dobbelstenen worden tegelijk gegooid. Wat is de kans op twee "
+"even getallen? Antwoord met een breuk (bv: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting two even numbers."
+msgstr "Er zijn 9 van de 36 mogelijkheden om twee even cijfers te gooien."
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Twee zeszijdige dobbelstenen worden tegelijk gegooid. Wat is de kans op twee "
+"keer '6'? Antwoord met een breuk (bv: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+"Er is een kans van 1 op 6 om met de eerste steen een '6' te gooien, en "
+"dezelfde kans voor de tweede steen."
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "Dobbelsteen"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr "Cirkels opdelen"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr ""
+"In hoeveel gebieden is de cirkel in de laatste figuur onderverdeeld wanneer "
+"alle punten met elkaar verbonden zijn?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:179
+#, csharp-format
+msgid "Has {0} region"
+msgid_plural "Has {0} regions"
+msgstr[0] "Heeft {0} gebied"
+msgstr[1] "Heeft {0} gebieden"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "Vergelijking"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "Wat is het resultaat van de vergelijking hieronder?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+"De volgorde van de rekenkundige bewerkingen is altijd als volgt: "
+"machtsverheffen en worteltrekken, vermenigvuldigen en delen, optellen en "
+"aftrekken."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:53
+msgid "Extra circle"
+msgstr "Extra cirkel"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:62
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welke cirkel hoort niet bij de groep? Het is geen reeks van elementen. "
+"Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:67
+msgid "All circles share a common property except for one."
+msgstr "Alle cirkels delen een bepaalde eigenschap, behalve één."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:72
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr ""
+"In alle cirkels volgen de gekleurde taartpunten dezelfde volgorde, behalve "
+"in deze."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "Figuren en tekst"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+"De figuren en de tekst zijn gerelateerd. Welke tekst hoort onder de laatste "
+"figuur te staan?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr ""
+"Elke letter van de tekst vertegenwoordigt een eigenschap van de figuur."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"'A' duidt aan dat de figuren elkaar overlappen, 'B' dat het vierkanten zijn, "
+"'C' dat het cirkels zijn, 'D' dat het gescheiden figuren zijn, 'E' dat er "
+"drie figuren zijn en 'F' dat er twee figuren zijn."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr "Figuurpatroon"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr ""
+"Welke figuur dient in de plaats van het vraagteken te komen? Antwoord {0}, "
+"{1} of {2}."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+"De derde figuur van elke rij wordt verkregen door de eerste twee figuren op "
+"de een of andere manier te combineren."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+"Leg de eerste en tweede figuur over elkaar heen en haal de lijnen die ze "
+"gemeen hebben weg. Draai vervolgens de resulterende figuur 45 graden."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "Figuren"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+"Wat is de volgende logische volgorde van objecten in de laatste kolom? Zie "
+"hieronder voor de juiste wijze van antwoorden."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+"Het is de enige combinatie die u kunt bouwen met de gegeven elementen zonder "
+"ze te herhalen."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr "Conventie bij het geven van het antwoord is:"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "Bijv: {0}{1}{2} (vijfhoek, driehoek, cirkel)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "Vierzijdig"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr "Hoeveel vierzijdige figuren telt u in de afbeelding hieronder?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "Een vierzijdig figuur kan ingebed zijn in een ander figuur."
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr ""
+"De vierzijdige figuren kunnen gemaakt worden door de volgende punten te "
+"verbinden: {0}"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "Handenschudden"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+"Alle feestgangers worden aan elkaar voorgesteld. In totaal worden {0} paar "
+"handen geschud. Hoeveel mensen waren bij het feest aanwezig?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr "Stel u een situatie voor waarin u een klein aantal mensen ontmoet."
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr "Grotere vorm"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"Welke grotere vorm kunt u maken door de eerste twee figuren te combineren? "
+"Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "Lijnen"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+"Hoeveel lijnsegmenten zijn er in de onderstaande afbeelding? Een lijnsegment "
+"is een lijn tussen twee punten die door geen andere lijn gekruist wordt."
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr ""
+"Er zijn {0} lijnen in de figuur aan de linkerkant en {1} in de figuur aan de "
+"rechterkant."
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "Het is een makkelijke oefening als u de lijnen systematisch telt."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr "Matrixgroepen"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of the numbers in the matrix must be circled. Which one?"
+msgstr "Eén van de getallen in de matrix hoort omcirkeld te zijn. Welke?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr "Alle omcirkelde getallen hebben een rekenkundige eigenschap gemeen."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "Elk omcirkeld getal is deelbaar door {0}."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr "Matrixgetallen"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+"De getallen in de matrix volgen een patroon. Welk getal hoort op de plaats "
+"van het vraagteken?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr "Het patroon is wiskundig en werkt verticaal."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:167
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "Het patroon is wiskundig en werkt horizontaal."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:65
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+"De vierde rij wordt berekend door de eerste twee rijen te vermenigvuldigen "
+"en de derde erbij op te tellen."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+"De vierde kolom wordt berekend door de eerste twee kolommen te "
+"vermenigvuldigen en de derde erbij op te tellen."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:71
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+"De vierde rij wordt berekend door de eerste twee rijen te vermenigvuldigen "
+"en de derde ervan af te trekken."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:73
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+"De vierde kolom wordt berekend door de eerste twee kolommen te "
+"vermenigvuldigen en de derde ervan af te trekken."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:77
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+"De vierde rij wordt berekend door de eerste twee rijen op te tellen en de "
+"derde ervan af te trekken."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:79
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+"De vierde kolom wordt berekend door de eerste twee kolommen op te tellen en "
+"de derde ervan af te trekken."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "Ontbrekend stuk"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "Welk vierkant maakt de figuur beneden af? Antwoord {0}, {1} of {2}."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr "De logica werkt op rijniveau."
+
+#
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"In elke rij wordt het derde vierkant verkregen door het eerste om te draaien "
+"en over het tweede te leggen, gevolgd door het verwijderen van de "
+"samenvallende lijnen."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "Ontbrekende taartpunt"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"The slices below have some kind of relation. Which is the missing slice in "
+"the circle below? Answer {0}, {1} or {2}."
+msgstr ""
+"Sommige taartpunten hebben een eigenschap gemeen. Wat is de ontbrekende "
+"taartpunt in de cirkel hieronder? Antwoord {0}, {1} of {2}."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "Elke taartpunt is gerelateerd aan de tegenoverliggende."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+"De getallen van elke taartpunt, opgeteld bij de getallen van de "
+"tegenoverliggende taartpunt, vormen samen {0}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr "Meest gemeen"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welk van de mogelijke antwoorden heeft het meest gemeen met de vier gegeven "
+"figuren? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "Denk aan de elementen die de figuren in zich hebben."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr ""
+"Het heeft hetzelfde aantal elementen in de figuur als de gegeven figuren."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr ""
+"Het is de figuur die de meeste elementen gemeen heeft met de gegeven figuren."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "Figuur verplaatsen"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+"Wat is het minimum aantal cirkels dat u dient te verplaatsen om de "
+"linkerfiguur om te zetten naar de rechterfiguur?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"Verplaats de cirkel van de eerste regel naar de tweede, en twee cirkels van "
+"de vierde regel naar de tweede en de vijfde."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+"Verplaats de eerste regel naar de zevende,verplaats twee cirkels van de "
+"tweede regel naar de derde en verplaats de eerste en laatste cirkel van de "
+"vijfde regel naar de zesde."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "Volgende figuur"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#: ../src/Games/Logic/PuzzleSquareDots.cs:209
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+"Wat is logischerwijs de volgende figuur in de reeks? Antwoord {0}, {1} of "
+"{2}."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+"Vanuit de eerste figuur draait de bovenste cirkel twee posities met de klok "
+"mee en de linkercirkel draait één positie terug."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "Numeric relation"
+msgstr "Numerieke relatie"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:50
+msgid "What number should replace the question mark?"
+msgstr "Welk getal dient in de plaats te komen van het vraagteken?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:54
+msgid "The numbers are related arithmetically."
+msgstr "De getallen zijn rekenkundig gerelateerd."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:61
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr "Elke groep van {0} getallen is opgeteld precies {1}."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:63
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+"Verdeel de reeks in groepen van drie getallen. Elk derde getal wordt "
+"berekend door de twee vorige te vermenigvuldigen."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:65
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+"Verdeel de reeks in groepen van drie getallen. Elk derde getal wordt "
+"berekend door het tweede getal van het eerste af te trekken."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:42
+msgid "Numeric sequence"
+msgstr "Numerieke reeks"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:46
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr ""
+"De volgende reeks volgt een bepaalde logica. Welk getal dient in de plaats "
+"van het vraagteken te komen?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid "Every number in the sequence is related to the previous one."
+msgstr "Elk getal in de reeks is gerelateerd aan de vorige."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:57
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+"Elk getal in de reeks wordt verkregen door van het vorige getal 1 af te "
+"trekken en het met 2 te vermenigvuldigen."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:59
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+"Elk getal in de reeks wordt verkregen door bij het vorige getal 1 op te "
+"tellen en het met 3 te vermenigvuldigen."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:61
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+"Elk getal in de reeks wordt verkregen door van het vorige getal 2 af te "
+"trekken en het met -2 te vermenigvuldigen."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "Ostracisme"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Welk element hoor niet in de groep thuis? Het heeft niet met de deelbaarheid "
+"van de getallen te maken. Antwoord {0}, {1}, {2}, {3} of {4}."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+"De criteria om te beslissen of een vergelijking bij de groep hoort zijn niet "
+"rekenkundig."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr ""
+"Denk er aan dat elk getal dat tot de groep behoort bestaat uit twee delen "
+"die met elkaar te maken hebben."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+"In alle andere vergelijkingen komen de cijfers aan de linkerkant ook aan de "
+"rechterkant voor."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr ""
+"In alle andere getallen zijn de laatste drie cijfers het kwadraat van de "
+"eerste twee cijfers."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Alle schilders zijn kunstenaars en sommige inwoners van Barcelona zijn "
+"kunstenaar. Welke van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of "
+"{3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "Sommige inwoners van Barcelona zijn schilder"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "Alle inwoners van Barcelona zijn schilder"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "Geen van de inwoners van Barcelona is schilder"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "Geen van de andere opties"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Kunstenaars zijn niet blij als ze ziek zijn en sommige kunstenaars zijn "
+"blij. Welke van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "Sommige kunstenaars zijn niet ziek"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "Sommige schilders zijn geen kunstenaar"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "Alle kunstenaars zijn gelukkig"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Mensen die op reis gaan kopen altijd een kaart. U gaat niet op reis. Welke "
+"van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "U heeft geen kaart"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "U koopt geen kaart"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "All people have a map"
+msgstr "Iedereen heeft een kaart"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"U fluit als u blij bent en lacht altijd als u fluit. Welke van de volgende "
+"zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "U lacht als u blij bent"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "U bent alleen blij als u lacht"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "U fluit als u niet blij bent"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:88
+#, csharp-format
+msgid ""
+"If your course is always honest and your course is always the best policy, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Uw gedrag is altijd eerlijk en uw gedrag is altijd de beste houding. Welke "
+"van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Honesty is sometimes the best policy"
+msgstr "Eerlijkheid is soms de beste houding"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:91
+msgid "Honesty is always the best policy"
+msgstr "Eerlijkheid is altijd de beste houding"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:92
+msgid "Honesty is not always the best policy"
+msgstr "Eerlijkheid is niet altijd de beste houding"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:93
+msgid "Some of the best policies are dishonest"
+msgstr "Sommige van de beste houdingen zijn oneerlijk"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:96
+#, csharp-format
+msgid ""
+"If no old misers are cheerful and some old misers are thin, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Geen enkele oude vrek is vrolijk en sommige oude vrekken zijn mager. Welke "
+"van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:98
+msgid "Some thin people are not cheerful"
+msgstr "Sommige magere mensen zijn niet vrolijk"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:99
+msgid "Thin people are not cheerful"
+msgstr "Magere mensen zijn niet vrolijk"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:100
+msgid "Cheerful people are not thin"
+msgstr "Vrolijke mensen zijn niet mager"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:101
+msgid "Some cheerful people are not thin"
+msgstr "Sommige vrolijke mensen zijn niet mager"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:104
+#, csharp-format
+msgid ""
+"If all pigs are fat and nothing that is fed on barley-water is fat, which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Alle varkens zijn vet en geen enkel dier dat gevoerd wordt met gerstewater "
+"is vet. Welke van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:106
+msgid "All animals fed on barley-water are non pigs"
+msgstr "Dieren die gevoerd worden met gerstewater zijn geen varkens"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:107
+msgid "No pigs are fed on barley-water"
+msgstr "Geen enkel varken wordt gevoerd met gerstewater"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:108
+msgid "Pigs are not fed on barley-water"
+msgstr "Varkens worden niet gevoerd met gerstewater"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:109
+msgid "All the other options"
+msgstr "Alle andere opties"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:112
+#, csharp-format
+msgid ""
+"If some pictures are first attempts and no first attempts are really good, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Sommige foto's zijn een eerste poging en geen enkele eerste poging is echt "
+"goed. Welke van de volgende zinnen is juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:114
+msgid "Some bad pictures are not first attempts"
+msgstr "Sommige slechte foto's zijn geen eerste poging"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:115
+msgid "Some pictures are not really good"
+msgstr "Sommige foto's zijn niet echt goed"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:116
+msgid "All bad pictures are first attempts"
+msgstr "Alle slechte foto's zijn een eerste poging"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:117
+msgid "All the others"
+msgstr "Alle andere"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:120
+#, csharp-format
+msgid ""
+"If you have been out for a walk and you are feeling better, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"U bent gaan wandelen en u voelt zich beter. Welke van de volgende zinnen is "
+"juist? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:122
+msgid "To feel better, you must go out for a walk"
+msgstr "Om u beter te voelen moet u gaan wandelen"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:123
+msgid "If you go out for a walk, you will feel better"
+msgstr "Als u gaat wandelen, dan zult u zich beter voelen"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:124
+msgid "Some who go out for a walk feel better"
+msgstr "Sommige mensen die gaan wandelen voelen zich beter"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:125
+msgid "No one feels better who does not go out for a walk"
+msgstr "Niemand die niet uit wandelen gaat voelt zich beter"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:130
+msgid "Predicate Logic"
+msgstr "Predikatenlogica"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "Potlood"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Welke van de volgende figuren kan niet worden getekend zonder bestaande "
+"lijnen te kruisen of het potlood op te tillen? Antwoord {0}, {1}, {2}, {3} "
+"of {4}."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "Mensen rond een tafel"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"Een groep mensen zit gelijkmatig verdeeld aan een ronde tafel. Hoeveel "
+"mensen zijn er als de {0} persoon tegenover de {1} zit?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"Door de twee posities van elkaar af te trekken verkrijgt u het aantal mensen "
+"dat aan de helft van de tafel zit. Het dubbele daarvan is het totale aantal "
+"mensen."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "5e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "19e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "4e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "12e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "9e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "22e"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "Twee mensen zitten tegenover elkaar aan een tafel"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "Percentage"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+"Na {0}% korting gekregen te hebben betaalt u {1} monetaire eenheden voor een "
+"tv. Wat was de originele prijs van de tv?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:96
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+"John heeft in zijn winkel {0} monetaire eenheden verdiend. Dit is een "
+"toename van {1}% ten opzichte van vorige maand. Hoeveel heeft hij vorige "
+"maand verdiend?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:112
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+"De hoeveelheid water in een emmer neemt met {0}% af. Hoeveel procent moet de "
+"hoeveelheid water toenemen om weer op het oorspronkelijke niveau te komen?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:115
+msgid "The objective is to obtain the same total amount."
+msgstr "Het doel is dezelfde totale hoeveelheid te verkrijgen."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "Vierzijdige vormen"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr ""
+"Welke van de volgende figuren hoort niet in de groep thuis? Antwoord {0}, "
+"{1}, {2}, {3}, {4} of {5}."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "Het is de enige figuur waarbij alle lijnen even lang zijn."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:159
+msgid "Related numbers"
+msgstr "Gerelateerde getallen"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:163
+msgid "In the matrix below, which number should replace the question mark?"
+msgstr ""
+"Welk getal hoort, in de matrix hieronder, op de plaats van het vraagteken?"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:174
+msgid ""
+"The number on the middle in every row is equal to half of the sum of the "
+"other numbers of the row."
+msgstr ""
+"Het getal in het midden van elke rij is gelijk aan de helft van de som van "
+"de andere getallen in de rij."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:176
+msgid ""
+"The number on the middle in every row is equal the sum of the other numbers "
+"of the row."
+msgstr ""
+"Het getal in het midden van elke rij is gelijk aan de som van de andere "
+"getallen in de rij."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:178
+msgid ""
+"The number on the middle in every row is equal to the double of the sum of "
+"the other numbers of the row."
+msgstr ""
+"Het getal in het midden van elke rij is gelijk aan het dubbele van de som "
+"van de andere getallen in de rij."
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:204
+msgid "Square with dots"
+msgstr "Vierkant met puntjes"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "Vierkanten en letters"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"De letters rond de vierkanten volgen een patroon. Welke letter hoort op de "
+"plaats van het vraagteken in het laatste vierkant?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+"Elke letter wordt berekend door de positie in het alfabet van de vorige "
+"letter te nemen en er {0} bij op te tellen om de positie van de nieuwe "
+"letter te verkrijgen."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:31
+msgid "Squares"
+msgstr "Vierkanten"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:35
+msgid "How many squares of any size do you count in the figure below?"
+msgstr ""
+"Hoeveel vierkanten van welke grootte dan ook telt u in de figuur hieronder?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:39
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+"Een vierkant is een rechthoek met zijden van gelijke lengte. Een vierkant "
+"kan opgebouwd zijn uit andere vierkanten."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:46
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"Er zijn 16 enkelvoudige vierkanten, 9 vierkanten die bestaan uit 4 "
+"enkelvoudige vierkanten, 4 vierkanten die bestaan uit 9 enkelvoudige "
+"vierkanten, en 1 vierkant dat bestaat uit 16 enkelvoudige vierkanten."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:48
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"Er zijn 9 enkelvoudige vierkanten, 4 vierkanten die bestaan uit 4 "
+"enkelvoudige vierkanten, en 1 vierkant dat bestaat uit 9 enkelvoudige "
+"vierkanten."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:28
+msgid "Square sheets"
+msgstr "Vierkante vellen"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:32
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+"Wat is het minimum aantal vierkante vellen papier, van welke grootte dan "
+"ook, dat nodig is om de figuur te maken? Lijnen geven grenzen tussen "
+"verschillende vellen aan."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:36
+msgid "The sheets should overlap."
+msgstr "De vellen horen te overlappen."
+
+#. Translators: the translated version should not take more characters that the English original
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"A full sized square of paper, a 3/4 of the whole size square of paper in the "
+"bottom right corner, another 3/4 square of paper in the top left corner and "
+"a 1/4 square of paper in the top left corner."
+msgstr ""
+"Een vierkant vel van volledige grootte, 3/4 vel in de rechter benedenhoek, "
+"nog een 3/4 vel in de linker bovenhoek en 1/4 vel in de linker bovenhoek."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr "Tetris"
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the set below? Answer {0}, {1} or {2}."
+msgstr ""
+"Welke figuur maakt de reeks hieronder compleet? Antwoord {0}, {1} of {2}."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+"Het is de figuur die alle mogelijke combinaties met vier blokken aanvult, "
+"rotaties buiten beschouwing gelaten."
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr "Hoe laat is het"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+"{0} uur geleden was het net zo lang na {1:h tt} als het voor {2:h tt} op "
+"dezelfde dag was. Hoe laat is het nu? Antwoord met het uur (bijv.:{3:h tt})"
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+"U moet het uur bepalen waarvoor de afstand tot de twee gegeven tijden gelijk "
+"is, en daar {0} uur bij optellen om de huidige tijd te verkrijgen."
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:%H tt}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr "Voorbeeldklok"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+msgid "Trains"
+msgstr "Treinen"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr "De afstandsformule is 'afstand = snelheid x tijd'."
+
+#. Translators:
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#. / - The translated string should not use more characters than the original sentence
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+"Een trein verlaat het station met {0} km/h. {1} uur later verlaat een tweede "
+"trein het station in dezelfde richting met {2} km/h. Hoeveel uur duurt het "
+"totdat de tweede trein de eerste trein inhaalt?"
+msgstr[1] ""
+"Een trein verlaat het station met {0} km/h. {1} uur later verlaat een tweede "
+"trein het station in dezelfde richting met {2} km/h. Hoeveel uur duurt het "
+"totdat de tweede trein de eerste trein inhaalt?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+msgid ""
+"You can calculate the answer multiplying the speed of the first train by the "
+"time and dividing it by the difference of speeds."
+msgstr ""
+"U kunt het antwoord berekenen door de snelheid van de eerste trein maal de "
+"tijd te doen en dit door het snelheidsverschil te delen."
+
+#. Translators:
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:102
+#, csharp-format
+msgid ""
+"Two trains separated by {0} mile are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgid_plural ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr[0] ""
+"Twee treinen zijn {0} kilometer van elkaar verwijderd en rijden elkaar op "
+"twee parallelle sporen tegemoet. Een trein gaat {1} km/u en de andere {2} km/"
+"u. Na hoeveel uur komen ze elkaar tegen?"
+msgstr[1] ""
+"Twee treinen zijn {0} kilometer van elkaar verwijderd en rijden elkaar op "
+"twee parallelle sporen tegemoet. Een trein gaat {1} km/u en de andere {2} km/"
+"u. Na hoeveel uur komen ze elkaar tegen?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:129
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr ""
+"U kunt het antwoord berekenen door de afstand door de som van de twee "
+"snelheden te delen."
+
+#. Translators:
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:124
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} mile apart?"
+msgid_plural ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr[0] ""
+"Twee treinen vertrekken vanaf hetzelfde punt op twee parallelle rechte "
+"sporen in tegenovergestelde richting. Een trein gaat {0} km/u, de andere "
+"gaat {1} km/u. Na hoeveel uur zijn de treinen {2} kilometer van elkaar "
+"verwijderd?"
+msgstr[1] ""
+"Twee treinen vertrekken vanaf hetzelfde punt op twee parallelle rechte "
+"sporen in tegenovergestelde richting. Een trein gaat {0} km/u, de andere "
+"gaat {1} km/u. Na hoeveel uur zijn de treinen {2} kilometer van elkaar "
+"verwijderd?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "Driehoeken"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr ""
+"Hoeveel driehoeken (van welke grootte dan ook) telt u in de figuur hieronder?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "Een driehoek kan ingebed zijn in een andere driehoek."
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr ""
+"De driehoeken kunnen gemaakt worden door de volgende punten te verbinden: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr "Driehoeken met getallen"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "Welk getal dient in de plaats te komen van het vraagteken hieronder?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+"Alle driehoeken delen een eigenschap en zijn onafhankelijk van de rest."
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr ""
+"Het resultaat van het vermenigvuldigen van de twee getallen in elke driehoek "
+"is {0}."
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "Gekleurde figuren"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welk van deze figuren werd even hiervoor getoond? Antwoord {0}, {1}, {2} of "
+"{3}."
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "Gekleurde tekst"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "Wat was de kleur van de tekst '{0}'?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "Puntjes tellen"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr ""
+"Hoeveel puntjes die {0} waren heeft u in het vorige plaatje gezien? Antwoord "
+"met getallen."
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr "Feiten onthouden"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} day production halt next month, but "
+"before that it had not cut production since {1}."
+msgid_plural ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr[0] ""
+"Blinkende Auto's had voor de volgende maand al een productiestop van {0} dag "
+"aangekondigd, maar daarvóór hadden ze sinds {1} de productie niet verminderd."
+msgstr[1] ""
+"Blinkende Auto's had voor de volgende maand al een productiestop van {0} "
+"dagen aangekondigd, maar daarvóór hadden ze sinds {1} de productie niet "
+"verminderd."
+
+#: ../src/Games/Memory/MemoryFacts.cs:112
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "Hoeveel dagen heeft Blinkende Auto's de productie stilgelegd?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:113
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr ""
+"In welk jaar heeft Blinkende Auto's de productie voor het laatst stilgelegd?"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:121
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+"De verkoop van Blinkende Auto's daalde afgelopen december met {0}%, de "
+"grootste daling sinds {1}."
+
+#: ../src/Games/Memory/MemoryFacts.cs:123
+msgid "By how much did company sales fall last December?"
+msgstr "Met hoeveel daalde de bedrijfsomzet afgelopen december?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:124
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+"In welke jaar haalde Blinkende Auto's een totale omzet lager dan die van "
+"afgelopen december?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr ""
+"Ongeveer {0}% van de auto's die Blinkende Auto's produceert worden in Europa "
+"verkocht."
+
+#: ../src/Games/Memory/MemoryFacts.cs:131
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr ""
+"Hoeveel procent van alle Blinkende Auto's die wereldwijd worden geproduceerd "
+"zijn verkocht in Europa?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+"Circa {0}% van Blinkende Auto's rijdt op diesel, {1}% op benzine en de rest "
+"gebruikt elektriciteit."
+
+#: ../src/Games/Memory/MemoryFacts.cs:139
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "Welk percentage van Blinkende Auto's rijdt op diesel?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:140
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "Welk percentage van Blinkende Auto's rijdt op benzine?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memorize figures"
+msgstr "Figuur-memory"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr ""
+"In welk vak bevindt zich de andere figuur zoals die hieronder afgebeeld? "
+"Antwoord met het vaknummer."
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "Driehoek"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+msgid "Square"
+msgstr "Vierkant"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+msgid "Pentagon"
+msgstr "Vijfhoek"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "Cirkel"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "Onthoud de figuren en tekst"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+"De lijst hieronder bevat alle afbeeldingen die in het vorige plaatje "
+"voorkwamen, op één na. Welke figuur ontbreekt? Mogelijke antwoorden zijn "
+"driehoek, vierkant, vijfhoek en cirkel."
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr "Figuren met getallen"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welk van deze vierkanten werd even hiervoor getoond? Antwoord {0}, {1}, {2} "
+"of {3}."
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "Begin in punt nummer {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "Naar rechts"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "Naar links"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "Naar boven"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "Naar onder"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr "Eindig in punt {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr "Aanwijzingen onthouden"
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welke van de volgende afbeeldingen komt overeen met de eerder gegeven "
+"aanwijzingen? Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr ""
+"Hoeveel oneven getallen stonden er in de vorige afbeelding? Antwoord met "
+"cijfers."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr ""
+"Hoeveel even getallen stonden er in de vorige afbeelding? Antwoord met "
+"cijfers."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+"Hoeveel getallen met meer dan één cijfer stonden er in de vorige afbeelding? "
+"Antwoord met cijfers."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "Getallen onthouden"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "Woorden onthouden"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr ""
+"Er ontbreekt een woord uit de voorgaande lijst. Welk woord ontbreekt er?"
+
+#. Body parts
+#: ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "pols"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "elleboog"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "oksel"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "hand"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "borst"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "sardine"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "forel"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "zeeduivel"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "kabeljauw"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "zalm"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "aardappel"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "gember"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "peper"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "knoflook"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "pompoen"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "rem"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "pedaal"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "ketting"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "wiel"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "stuur"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "drummer"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "luidspreker"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "tekst"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "ritme"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "lied"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "wolk"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "regen"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "onweer"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "mist"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "regenboog"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "konijn"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "muis"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "aap"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "beer"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "wolf"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:41
+msgid "Arithmetical"
+msgstr "Rekenkundig"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:49
+msgid "What is the result of the arithmetical operation?"
+msgstr "Wat is het resultaat van de rekenkundige bewerking?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "Gemiddeld"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+"Gegeven zijn deze getallen: {0}. Welke van de volgende getallen liggen het "
+"dichtst bij het gemiddelde van de gegeven getallen? Antwoord {1}, {2}, {3} "
+"of {4}."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+"Het gemiddelde van een reeks getallen is de som van al die getallen gedeeld "
+"door het aantal getallen in de reeks."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "Het resultaat van de berekening is {0:##0.###}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "Dichtstbijzijnde breuk"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr ""
+"Welk van de volgende getallen is dichter bij {0:##0.###}? Antwoord {1}, {2}, "
+"{3} of {4}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "Het resultaat van de berekening {0} ÷ {1} is {2:##0.###}"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "Breuken"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr ""
+"Wat is het resultaat van de gegeven bewerking? Antwoord met behulp van een "
+"breuk of een getal."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "Grootste gemene deler"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:46
+#, csharp-format
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welk van de mogelijke delers is de grootste die alle getallen deelt? "
+"Antwoord {0}, {1}, {2} of {3}."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:243
+#: ../src/Games/Calculation/CalculationPrimes.cs:151
+msgid "Numbers"
+msgstr "Getallen"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:257
+msgid "Possible divisors"
+msgstr "Mogelijke delers"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+msgid "Operators"
+msgstr "Operatoren"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "De eerste operator is {0}."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr ""
+"Welke operatoren maken {0}, {1} en {2} gelijk aan {3}? Antwoord met de "
+"tekens ‘+-/*’."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} en {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:68
+msgid "Primes"
+msgstr "Priemgetallen"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:77
+#, csharp-format
+msgid ""
+"Which of the following numbers is a prime? A prime number is a positive "
+"integer that has exactly two different positive divisors, 1 and itself. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Welk van de onderstaande getallen is een priemgetal? Een priemgetal is een "
+"positief natuurlijk getal dat exact 2 delers heeft, namelijk 1 en zichzelf. "
+"Antwoord {0}, {1}, {2} or {3}."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:82
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+"Als de som van alle cijfers in een getal deelbaar is door 3, dan is het "
+"getal zelf dat ook. Bijvoorbeeld, voor 15: 1 + 5 = 6, en 6 is deelbaar door "
+"3."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:87
+#, csharp-format
+msgid "The number {0} is a primer number."
+msgstr "Het getal {0} is een priemgetal."
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "Verhoudingen"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "Wat is {0}% van {1}/{2}? Antwoord {3}, {4}, {5} of {6}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "Verhouding"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Twee getallen geven opgeteld {0} en hebben de verhouding {1} staat tot {2}. "
+"Welke twee getallen zijn dit? Antwoord met twee getallen (bijv. 1 en 2)."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+"Het tweede getal wordt berekend door het eerste getal met {0} te "
+"vermenigvuldigen en door {1} te delen."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+"De verhouding 'a' staat tot 'b' betekent dat je voor elke 'a' delen 'b' "
+"andere delen hebt."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr "x + y = {0}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "hebben een verhouding van {0} staat tot {1}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "Twee getallen"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Welke twee getallen zijn opgeteld {0} en vermenigvuldigd {1}? Antwoord met "
+"twee getallen (bijv. 1 en 2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Welke twee getallen zijn {0} als ze van elkaar afgetrokken worden en {1} als "
+"ze vermenigvuldigd worden. Antwoord met twee getallen (bijv. 1 en 2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, csharp-format
+msgid "x - y = {0}"
+msgstr "x - y = {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr "x * y = {0}"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "Alle spellen (Logica, hoofdrekenen, geheugen en verbale analogieën)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "Antwoord:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "Handmatige spelselectie…"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Export Games to PDF for Off-line Playing..."
+msgstr "Spelletjes naar pdf exporteren om offline te spelen..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "Extensions"
+msgstr "Uitbreidingen"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "How to Extend gbrainy's Functionality"
+msgstr "Hoe u de functionaliteit van gbrainy uit kunt breiden"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Logic Puzzles Only"
+msgstr "Alleen logicapuzzels"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Memory Trainers Only"
+msgstr "Alleen geheugentrainingen"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Mental Calculation Trainers Only"
+msgstr "Alleen hoofdrekentrainingen"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Orientation"
+msgstr "Oriëntatie"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "Show"
+msgstr "Toon"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "Toolbar"
+msgstr "Werkbalk"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "Verbal Analogies Only"
+msgstr "Alleen verbale analogieën"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Contents"
+msgstr "_Inhoud"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_End Game"
+msgstr "Spel b_eëindigen"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Game"
+msgstr "_Spel"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Help"
+msgstr "_Hulp"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_New Game"
+msgstr "_Nieuw spel"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "_Next"
+msgstr "V_olgende"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:24
+msgid "_Pause Game"
+msgstr "Spel _pauzeren"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:25
+msgid "_Settings"
+msgstr "_Instellingen"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:26
+msgid "_Tip"
+msgstr "_Tip"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:27
+msgid "_View"
+msgstr "_Weergave"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr ""
+"<b>Selecteer de te installeren invoegtoepassingen en klik op Volgende</b>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>Beheer invoegtoepassingen</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "Invoegtoepassingen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "Afhankelijkheden invoegtoepassingen:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "Installatie invoegtoepassingen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "Beheer invoegtoepassingen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "Voor deze operatie zijn extra uitbreidingen noodzakelijk."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "Alle geregistreerde softwarebronnen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "Auteur:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "Installeren vanaf:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "Naam"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "Andere"
+
+# Of "Locatie:"?
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "Pad:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "Een lokale softwarebron registreren"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "Een online-softwarebron registreren"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "Softwarebron"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "_Alles selecteren"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "Selecteer de locatie van de softwarebron die u wilt registeren:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "Alle pakketten tonen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "Alleen nieuwe versies tonen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "Alleen updates tonen"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "De volgende invoegtoepassingen zijn geïnstalleerd:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "De volgende invoegtoepassingen worden geïnstalleerd:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "URL"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "URL:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "Versie"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "Versie:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "_Invoegtoepassingen installeren…"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "_Softwarebronnen…"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "_Deïnstalleren…"
+
+# Of is de D al een accelerator voor iets anders?
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "Alles _deselecteren"
+
+#~ msgid "Enabled"
+#~ msgstr "Ingeschakeld"
+
+#~ msgid "Bagpipes"
+#~ msgstr "Doedelzak"
+
+#~ msgid "Meter"
+#~ msgstr "Meter"
+
+#~ msgid "book"
+#~ msgstr "boek"
+
+#~ msgid "horse / pony"
+#~ msgstr "paard / pony"
+
+#~ msgid "innovator"
+#~ msgstr "mentor"
+
+#~ msgid "win"
+#~ msgstr "winnen"
+
+#~ msgid ""
+#~ "Given the relationship between the words '{0}', which of the possible "
+#~ "answers has the closest in relationship to the given pair? Answer {1}."
+#~ msgstr ""
+#~ "Gegeven is de relatie tussen de woorden '{0}'. Welke van de mogelijke "
+#~ "antwoorden is het meest verwant met het gegeven paar? Antwoord {1}."
+
+#~ msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+#~ msgstr "Gebaseerd op ideeën van Terry Stickels, MENSA-boeken en Jordi Mas."
+
+#~ msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+#~ msgstr "Elke driehoek telt als 1, elk rondje als 2 en elk vierkant als 3."
+
+#~ msgid ""
+#~ "What is the letter of the figure that represents the next logical figure "
+#~ "in the sequence? Answer {0}, {1} or {2}."
+#~ msgstr ""
+#~ "Wat is de letter van de volgende logische figuur in de reeks? Antwoord "
+#~ "{0}, {1} of {2}."
+
+#~ msgid ""
+#~ "The numbers in the figure reflect the different areas covered by each one "
+#~ "of the sheets."
+#~ msgstr ""
+#~ "De getallen in de figuur duiden op de verschillende gebieden die bedekt "
+#~ "worden door elk van de vellen."
+
+#~ msgid "wild"
+#~ msgstr "wild"
+
+#~ msgid ""
+#~ "Usage: gbrainy [options]\n"
+#~ "  --version\t\t\tPrint version information.\n"
+#~ "  --help\t\t\tPrint this usage message.\n"
+#~ "  --gamelist\t\t\tShows the list of available games.\n"
+#~ "  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+#~ "custom game.\n"
+#~ "  --norandom \t\t\tThe custom game list provided will not be randomized.\n"
+#~ "  --versions \t\t\tShow dependencies.\n"
+#~ msgstr ""
+#~ "Gebuik: gbrainy [opties]\n"
+#~ "  --version\t\t\tDruk versie-informatie af.\n"
+#~ "  --help\t\t\tDruk deze uitleg af.\n"
+#~ "  --gamelist\t\t\tToon de lijst met beschikbare spellen.\n"
+#~ "  --customgame [spel1, spelN]\tGeef een lijst van spellen op voor een "
+#~ "aangepast spel.\n"
+#~ "  --norandom \t\t\tDe aangepaste spellijst zal niet geschud worden.\n"
+#~ "  --versions \t\t\tToon afhankelijkheden.\n"
+
+#~ msgid "Operator"
+#~ msgstr "Operator"
+
+#~ msgid "Which two numbers when added are {0} and when multiplied are {1}?"
+#~ msgstr ""
+#~ "Welke twee getallen zijn {0} als je ze optelt en {1} als je ze "
+#~ "vermenigvuldigt?"
+
+#~ msgid "number1 + number2 = {0}"
+#~ msgstr "getal1 + getal2 = {0}"
+
+#~ msgid "number1 * number2 = {0}"
+#~ msgstr "getal1 × getal2 = {0}"
+
+#~ msgid ""
+#~ "Do all the problems, even the difficult ones. Improvement comes from "
+#~ "practising."
+#~ msgstr "Doe alle opdrachten, ook de moeilijkere.  Oefening baart kunst."
+
+#~ msgid "Player's Game History"
+#~ msgstr "Spelgeschiedenis van de speler"
+
+#~ msgid "_FullScreen"
+#~ msgstr "_Volledig scherm"
+
+#~ msgid "Every triangle counts as 1, each diamond as 2 and each square as 3."
+#~ msgstr "Iedere driehoek telt als 1, elke ruit als 2, en elk vierkant als 3."
+
+#~ msgid "Every diamond counts as two triangles."
+#~ msgstr "Elke diamant telt als twee driehoeken."
+
+#~ msgid "Circles in a rectangle"
+#~ msgstr "Cirkels in een rechthoek"
+
+#~ msgid ""
+#~ "'A' indicates that the figures overlap, 'B' that are rectangles, 'C' that "
+#~ "are circles, 'D' that the figures are separated, 'E' that there are three "
+#~ "figures and 'F' that there are two figures."
+#~ msgstr ""
+#~ "‘A’ geeft aan dat de figuren overlappen, ‘B’ dat het rechthoeken zijn, "
+#~ "‘C’ dat het cirkels zijn, ‘D’ dat de figuren gescheiden zijn, ‘E’ dat er "
+#~ "drie figuren zijn, en ‘F’ dat er twee figuren zijn."
+
+#~ msgid "E.g: {0}{1}{2} (diamond, triangle, circle)"
+#~ msgstr "Bijv. {0}{1}{2} (diamant, driehoek, cirkel)"

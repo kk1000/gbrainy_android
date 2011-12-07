@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>A <app>gbrainy</app> bemutatása.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Játékmenet</title>
+  
+  <p>A <app>gbrainy</app> egy agytorna játék, a játék célja a szórakoztatás és az agytornásztatás.</p>
+  <p>A különböző játéktípusokat (mint a logikai fejtörők, fejszámolásos játékok, memóriaedzők és verbális analógiák) különböző kognitív képességek tesztelésére tervezték.</p>
+  <p>Több nehézségi szint közül választhat, így a <app>gbrainy</app> egyaránt élvezhető gyerekek, felnőttek vagy idősek számára is. Tartalmaz játékelőzményeket, egyéni rekordokat, tippeket és a teljes képernyős mód is támogatott. A <app>gbrainy</app> egyszerűen <link href="http://live.gnome.org/gbrainy/Extending">kibővíthető</link> harmadik felek által készített új játékokkal.</p>
+  <p>A <app>gbrainy</app> erősen épít a korábbi fejtörőmesterek munkájára, az ősi klasszikus fejtörőktől az újabb munkákig, mint <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> fejtörői, vagy a klasszikus <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link> játék.</p>
+  <note>
+    <p>A tudományos közösségben nemrégiben vita bontakozott ki arról, hogy az agytornáztató szoftverek fejlesztik-e a kognitív teljesítményt. A legtöbb tanulmány szerint nincs vagy kicsi a fejlődés, de ez nem jelenti azt, hogy ne szórakozhatna jól a <app>gbrainy</app>-hez hasonló játékokkal!</p>
+  </note>
+</page>

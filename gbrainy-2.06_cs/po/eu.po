@@ -1,0 +1,4801 @@
+# translation of eu.po to Basque
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Asier Zabaleta <aza@openbravo.com>, 2008.
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: eu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-23 12:07+0100\n"
+"PO-Revision-Date: 2010-11-25 16:19+0100\n"
+"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
+"Language-Team: Basque <itzulpena@euskalgnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid "How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural "How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+"Zenbat gradu biratuko da ordulari bateko minutuen orratza 2 ordu eta minutu "
+"[num]ean?"
+msgstr[1] ""
+"Zenbat gradu biratuko da ordulari bateko minutuen orratza 2 ordu eta [num] "
+"minututan?"
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+"Mikelek 46 urte ditu. Bere semea Mikelek dituen urteen erdia baino urte "
+"[difference] gazteagoa da. Zenbat urte ditu mikelen semeak?"
+msgstr[1] ""
+"Anderrek 46 urte ditu. Bere semea Anderrek dituen urteen erdia baino "
+"[difference] urte gazteagoa da. Zenbat urte ditu mikelen semeak?"
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+"Gaur egun, Anderrek bere semea baino 2 aldiz zaharragoa da. Duela urte "
+"[ago], Ander bere semea baino [proportion] aldiz zaharragoa zen. Zenbat urte "
+"ditu Anderren semeak orain?"
+msgstr[1] ""
+"Gaur egun, Anderrek bere semea baino 2 aldiz zaharragoa da. Duela [ago] "
+"urte, Ander bere semea baino [proportion] aldiz zaharragoa zen. Zenbat urte "
+"ditu Anderren semeak orain?"
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+"Duela urte [ago], Anderren urteei [ago] kentzea [proportion] aldiz bere "
+"semearenari [ago] kentzearen berdina zen."
+msgstr[1] ""
+"Duela [ago] urte, Anderren urteei [ago] kentzea [proportion] aldiz bere "
+"semearenari [ago] kentzearen berdina zen."
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+"Fitxategi bat pasahitz batekin osatuta dago. Pasahitza digitu [digits]-eko "
+"zenbakiarekin (0 eta 9 arteko barrutian) osatuta dago. Zenbat pasahitz "
+"desberdin eduki ditzakezu?"
+msgstr[1] ""
+"Fitxategi bat pasahitz batekin osatuta dago. Pasahitza [digits] digituko "
+"zenbakiarekin (0 eta 9 arteko barrutian) osatuta dago. Zenbat pasahitz "
+"desberdin eduki ditzakezu?"
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+"Fitxategi bat pasahitz batekin osatuta dago. Pasahitza digitu [digits]-eko "
+"zenbaki zortzitarrarekin (0 eta 7 arteko barrutian) osatuta dago. Zenbat "
+"pasahitz desberdin eduki ditzakezu?"
+msgstr[1] ""
+"Fitxategi bat pasahitz batekin osatuta dago. Pasahitza [digits] digituko "
+"zenbaki zortzitarrarekin (0 eta 7 arteko barrutian) osatuta dago. Zenbat "
+"pasahitz desberdin eduki ditzakezu?"
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+"Teniseko joko [games] dago aldi berean jokatzen. Zenbat emaitz desberdin "
+"dira posible?"
+msgstr[1] ""
+"Teniseko [games] joko daude aldi berean jokatzen. Zenbat emaitz desberdin "
+"dira posible?"
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+"Zenbat partidu behar dira jokalari [players]ekin hasten den tenis lehiaketa "
+"bateko irabazlea zehazteko?"
+msgstr[1] ""
+"Zenbat partidu behar dira [players] jokalariekin hasten den tenis leihaketa "
+"bateko irabazlea zehazteko?"
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+"Dibisa unitate [money] duzu bankuko zure kontuan, urteko %10eko interes "
+"konposatuarekin. Zenbat diru edukiko duzu 2 urte ondoren?"
+msgstr[1] ""
+"[money] dibisa unitate dituzu bankuko zure kontuan, urteko %10eko interes "
+"konposatuarekin. Zenbat diru edukiko duzu 2 urte ondoren?"
+
+#: ../tools/GameXmlGetString.cs:65 ../data/games.xml.h:26
+msgid ""
+"In a horse race there are people and horses. You can count [eyes] eye and "
+"[legs] leg. How many horses are present?"
+msgid_plural ""
+"In a horse race there are people and horses. You can count [eyes] eyes and "
+"[legs] legs. How many horses are present?"
+msgstr[0] ""
+"Zaldi lasterketa batean pertsonak eta zaldiak daude. Begi [eyes] eta hanka "
+"[legs] zenbatu ditzakezu. Zenbat zaldi daude guztira?"
+msgstr[1] ""
+"Zaldi lasterketa batean pertsonak eta zaldiak daude. [eyes] begi eta [legs] "
+"hanka zenbatu ditzakezu. Zenbat zaldi daude guztira?"
+
+#: ../tools/GameXmlGetString.cs:69 ../data/games.xml.h:46
+msgid "There are [men] people and [horses] horses."
+msgid_plural "There are [men] people and [horses] horses."
+msgstr[0] "[men] pertsona eta [horses] zaldi daude."
+msgstr[1] "[men] pertsona eta [horses] zaldi daude."
+
+#: ../data/games.xml.h:1
+msgid ""
+"A lever is in equilibrium at distances reciprocally proportional to their "
+"weights."
+msgstr ""
+"Palanka bat orekan dago elkarren artean beraien pisuen arabera "
+"proportzionalki dauden distantzian."
+
+#: ../data/games.xml.h:2
+msgid ""
+"A multiple is a number that may be divided by another number with no "
+"remainder. For example, 10, 15 and 25 are multiples of 5."
+msgstr ""
+"Anizkoitz bat beste zenbaki batengatik zatitu daiteke hondarrik gabe. "
+"Adibidez, 10, 15 eta 15 5en anizkoitzak dira."
+
+#: ../data/games.xml.h:3
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+"Zenbaki palindromo batek bere balioa mantentzen du digituak alderantziz "
+"jartzean (adib. 2112)."
+
+#: ../data/games.xml.h:4
+msgid "Age"
+msgstr "Adina"
+
+#: ../data/games.xml.h:5
+msgid "Bank interest"
+msgstr "Bankuaren interesa"
+
+#: ../data/games.xml.h:6
+msgid "Box"
+msgstr "Kutxa"
+
+#: ../data/games.xml.h:7
+msgid "Boxes"
+msgstr "Kutxak"
+
+#: ../data/games.xml.h:8
+msgid "Brothers and sisters"
+msgstr "Anaiak eta arrebak"
+
+#: ../data/games.xml.h:9
+msgid "Cars in town"
+msgstr "Kotxeak hirian"
+
+#: ../data/games.xml.h:10
+msgid "Clock Rotation"
+msgstr "Erlojuaren biraketa"
+
+#: ../data/games.xml.h:11
+msgid "Compare variables"
+msgstr "Konparatu aldagaiak"
+
+#: ../data/games.xml.h:12
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+"Interes konposatua jatorriko kopuruan eta bildutako iraganeko interesen gain "
+"ordaintzen da."
+
+#: ../data/games.xml.h:13
+msgid ""
+"Consider the sentence attributed to Archimedes: give me a lever long enough "
+"and a place to stand, and I can move the Earth."
+msgstr ""
+"Eduki ezazu gogoan Arkimedes-ek esandakoa: eman palanka luze bat eta mundua "
+"mugituko dut."
+
+#: ../data/games.xml.h:14
+msgid "Container"
+msgstr "Edukiontzia"
+
+#: ../data/games.xml.h:15
+msgid "Dartboard"
+msgstr "Itua"
+
+#: ../data/games.xml.h:16
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+"Digitu bakoitzak 10 aukera ditu. Posibilitateen guztirako kopurua 10 ber "
+"[digits] da."
+
+#: ../data/games.xml.h:17
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+"Digitu bakoitzak 8 aukera ditu. Posibilitateen guztirako kopurua 8 ber "
+"[digits] da."
+
+#: ../data/games.xml.h:18
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+"Joko bakoitzak gertaera aske bat dauka 2 emaitz posiblerekin. Posibilitateen "
+"guztirako kopurua 2 ber [games] da."
+
+#: ../data/games.xml.h:19
+msgid "Every hour rotates 360 degrees."
+msgstr "Orduro 360 gradu biratzen da."
+
+#: ../data/games.xml.h:20
+msgid ""
+"From year 1000 to year 10000, palindrome years occur at 110 year intervals "
+"except for the end of each millennium that occur at a 11 years interval."
+msgstr ""
+"1000 urtetik 10000 urterarte urte palindromoak 110 urteko bitartearekin "
+"gertatzen dira, milenio bakoitzaren amaieran izan ezik, 11 urteko bitartean "
+"gertatzen direlarik."
+
+#: ../data/games.xml.h:21
+msgid "Horse race"
+msgstr "Zaldi lasterketa"
+
+#: ../data/games.xml.h:22
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr ""
+"1 x 1 x 0,5 neurriko zenbat kutxa sartzen dira 6 x 5 x [z] neurriko "
+"edukiontzi batean?"
+
+#: ../data/games.xml.h:23
+msgid ""
+"How much weight is need at the point indicated by the question mark to "
+"balance the lever?"
+msgstr ""
+"Zenbatekoa izan behar du pisuak galdera ikurrak zehaztutako puntuan "
+"palankaren balantza orekatua izateko?"
+
+#: ../data/games.xml.h:24
+msgid ""
+"If p &lt; x &lt; q and r &lt; y &lt; s. Which of the following options makes "
+"x &gt; y true? [option_answers]"
+msgstr ""
+"Baldin p &lt; x &lt; q eta r &lt; y &lt; s. Zer aukerak egiten du x &gt; y "
+"egia? [option_answers]"
+
+#: ../data/games.xml.h:25
+msgid ""
+"If p &lt; x &lt; q and r &lt; y &lt; s. Which of the following options makes "
+"x &lt; y true? [option_answers]"
+msgstr ""
+"Baldin p &lt; x &lt; q eta r &lt; y &lt; s. Zer aukerak egiten du x &lt; y "
+"egia? [option_answers]"
+
+#: ../data/games.xml.h:28
+#, no-c-format
+msgid ""
+"In a small town, [all_cars]% of the inhabitants have a car and [males_cars]% "
+"have a car and are males. What percentage of the total population are "
+"females and have a car? [option_answers]"
+msgstr ""
+"Herri txiki batean, biztanlegoaren %[all_cars] kotxe bat dauka, eta %"
+"[males_cars] kotxea dauka eta gizonezkoa da. Populazio osoaren ehuneko "
+"zenbat da emakumea eta kotxe bat daukana? [option_answers]"
+
+#: ../data/games.xml.h:29
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+"Partidu bakoitzean jokalari bat kanporatzen baduzu, jokoen kopuru guztia ken "
+"1 behar duzu irabazlea aurkitzeko."
+
+#: ../data/games.xml.h:30
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "[num_a] * [num_b] eragiketaren emaitza da."
+
+#: ../data/games.xml.h:31
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "[num_a] + [num_b] eragiketaren emaitza da."
+
+#: ../data/games.xml.h:32
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "[num_b] - [num_a] eragiketaren emaitza da."
+
+#: ../data/games.xml.h:33
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "[num_b] / [num_a] eragiketaren emaitza da."
+
+#: ../data/games.xml.h:34
+msgid "Lever"
+msgstr "Palanka"
+
+#: ../data/games.xml.h:35
+msgid "Multiple number"
+msgstr "Zenbaki anizkoitza"
+
+#: ../data/games.xml.h:36
+msgid ""
+"On the dartboard below, where you have to hit the darts to add 120 points in "
+"5 throws? Answer using a list of numbers (e.g.: 4, 5, 6, 3, 2)"
+msgstr ""
+"Azpiko ituan, non jo behar dute geziek 120 puntu lortzeko 5 jaurtiketetan? "
+"Erantzun zenbakien zerrenda bat erabiliz (adib: 4, 5, 6, 3, 2)"
+
+#: ../data/games.xml.h:37
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+"[people] pertsonetatik [brothers](e)k anaiak dituzte, [sisters](e)k arrebak "
+"edo aizpak, eta [both](e)k bai anaiak bai arrebak/aizpak. Zenbat jendek ez "
+"dauka ez anairik ez arrebarik/aizparik?"
+
+#: ../data/games.xml.h:38
+msgid "Palindromic years"
+msgstr "Urte palindromoak"
+
+#: ../data/games.xml.h:39
+msgid "Password"
+msgstr "Pasahitza"
+
+#: ../data/games.xml.h:40
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:129
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:190
+#: ../src/Games/Logic/PuzzleSquareDots.cs:320
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "Erantzun posibleak:"
+
+#: ../data/games.xml.h:41
+msgid "Simple equations"
+msgstr "Ekuazio bakunak"
+
+#: ../data/games.xml.h:42
+msgid "Tennis game"
+msgstr "Tenis jokoa"
+
+#: ../data/games.xml.h:43
+msgid ""
+"The number X is multiple of [num_x] and the number Y of [num_y]. The product "
+"of both numbers (X * Y) is then multiple of? [option_answers]"
+msgstr ""
+"X zenbakia [num_x] zenbakiaren anizkoitza da, eta Y zenbakia [num_y] "
+"zenbakiarena. Bi zenbakien biderketa (X * Y) zerren anizkoitza da? "
+"[option_answers]"
+
+#: ../data/games.xml.h:44
+msgid ""
+"The variable q is bigger than x and s is bigger than y, if q is bigger than "
+"s then the condition x &gt; y is true."
+msgstr ""
+"q aldagaia x baino handiagoa da, eta s aldagaia y baino handiagoa. q s baino "
+"handiagoa bada, orduan x &gt; y baldintza egia da."
+
+#: ../data/games.xml.h:45
+msgid ""
+"The variable q is bigger than x and y bigger than r, if q is bigger than r "
+"then the condition x &lt; y is true."
+msgstr ""
+"q aldagaia x baino handiagoa da, eta y aldagaia r baino handiagoa. q r baino "
+"handiagoa bada, orduan x &lt; y baldintza egia da."
+
+#: ../data/games.xml.h:47
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr "Zer zenbaki [num_a](r)ekin zatituz da [num_b](r)en berdina?"
+
+#: ../data/games.xml.h:48
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr "Zer zenbaki ken [num_a] da [num_b](r)en berdina?"
+
+#: ../data/games.xml.h:49
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr "Zer zenbaki [num_a](r)ekin bidertuz da [num_b](r)en berdina?"
+
+#: ../data/games.xml.h:50
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr "Zer zenbaki gehi [num_a] da [num_b](r)en berdina?"
+
+#: ../data/games.xml.h:51
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr "6 * 5 * [z] * 2 kutxa doi ditzakezu."
+
+#: ../data/games.xml.h:52
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+"[brothers_only] pertsonek daukate anaiak soilik, [sisters_only] arreba edo "
+"aizpak soilik eta [both] pertsonek daukate bai anaia bai arrebak/aizpak."
+
+#: ../data/games.xml.h:54
+#, no-c-format
+msgid ""
+"[females_cars]% ([all_cars] - [males_cars]) of the inhabitants are women and "
+"have a car, that is, [option_a]% of the total."
+msgstr ""
+"Biztanlegoaren %[females_cars] ([all_cars] - [males_cars]) emakumeak dira, "
+"eta kotxe bat dute, hau da guztiaren %[option_a]."
+
+#: ../data/games.xml.h:55
+msgid "[option_a] and [option_b] are both multiples of [product]."
+msgstr "bai [option_a] bai [option_b] biak dira [product](r)en anizkoitzak."
+
+#: ../data/games.xml.h:56
+msgid "[option_prefix] [option_a] and [option_b]"
+msgstr "[option_prefix] [option_a] eta [option_b]"
+
+#: ../data/games.xml.h:57
+msgid "[option_prefix] [option_a] and [option_c]"
+msgstr "[option_prefix] [option_a] eta [option_c]"
+
+#: ../data/games.xml.h:59
+#, no-c-format
+msgid "[option_prefix] [option_a]%"
+msgstr "[option_prefix] %[option_a]"
+
+#: ../data/games.xml.h:60
+msgid "[option_prefix] [option_b] and [option_c]"
+msgstr "[option_prefix] [option_b] eta [option_c]"
+
+#: ../data/games.xml.h:62
+#, no-c-format
+msgid "[option_prefix] [option_b]%"
+msgstr "[option_prefix] %[option_b]"
+
+#: ../data/games.xml.h:63
+msgid "[option_prefix] [option_c] and [option_d]"
+msgstr "[option_prefix] [option_c] eta [option_d]"
+
+#: ../data/games.xml.h:65
+#, no-c-format
+msgid "[option_prefix] [option_c]%"
+msgstr "[option_prefix] %[option_c]"
+
+#: ../data/games.xml.h:67
+#, no-c-format
+msgid "[option_prefix] [option_d]%"
+msgstr "[option_prefix] %[option_d]"
+
+#: ../data/games.xml.h:68
+msgid "[option_prefix] p < r"
+msgstr "[option_prefix] p < r"
+
+#: ../data/games.xml.h:69
+msgid "[option_prefix] p > r"
+msgstr "[option_prefix] p > r"
+
+#: ../data/games.xml.h:70
+msgid "[option_prefix] q < r"
+msgstr "[option_prefix] q < r"
+
+#: ../data/games.xml.h:71
+msgid "[option_prefix] q = s"
+msgstr "[option_prefix] q = s"
+
+#: ../data/games.xml.h:72
+msgid "[option_prefix] q > s"
+msgstr "[option_prefix] q > s"
+
+#: ../data/games.xml.h:73
+msgid "[rslt_a] and [rslt_b]"
+msgstr "[rslt_a] eta [rslt_b]"
+
+#: ../data/games.xml.h:74
+msgid ""
+"[year_start] is a palindromic year as [year_end] is, a gap of 11 years. What "
+"are the next two consecutive palindromic years after [year_end] with the "
+"same gap?"
+msgstr ""
+"[year_start] urte palindromo bat da [year_end] den bezala, 11 urteko "
+"bitartea. Zein dira [year_end] urtearen ondoren jarraian dauden hurrengo "
+"urte palindromoak bitarte berdinarekin?"
+
+#: ../data/games.xml.h:75
+msgid "x * [num_a] = [num_b]"
+msgstr "x * [num_a] = [num_b]"
+
+#: ../data/games.xml.h:76
+msgid "x + [num_a] = [num_b]"
+msgstr "x + [num_a] = [num_b]"
+
+#: ../data/games.xml.h:77
+msgid "x - [num_a] = [num_b]"
+msgstr "x - [num_a] = [num_b]"
+
+#: ../data/games.xml.h:78
+msgid "x / [num_a] = [num_b]"
+msgstr "x / [num_a] = [num_b]"
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "Jokoa"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+"Zure logika, hitzak, kalkuluak eta memoriaren ahalmenak erronkan jartzen "
+"dituen jokora jokatu."
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:24
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr "Diseinu txiroa eta sofistikaziorik gabeko kotxe baten motorra zer da?"
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr "Termino kontraesankorrak biltzen dituen hitzegiteko modu bat."
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr "Akuarioko arrain bat gatibutasunean bizi da."
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A pen is used to write and a fork is used to eat."
+msgstr "Luma bat idazteko erabiltzen da, eta sardexka bat berriz jateko."
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "Osasunarekiko gehiegizko kezka duen pertsona bat zer dauka?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "A terrier is to a dog like a?"
+msgstr "Terrier bat zakurrari badagokio?"
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "A turtle is inside a shell and a letter is inside an envelop."
+msgstr ""
+"Dortoka bat oskol baten barruan dago, gutun bat berriz gutun-azalaren "
+"barruan."
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Abstinence"
+msgstr "Abstinentzia"
+
+#. Translators: Acrophobia of having a panic attack
+#: ../data/verbal_analogies.xml.h:10
+msgid "Acrophobia"
+msgstr "Akrofobia"
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Agoraphobia"
+msgstr "Agorafobia"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Aircraft"
+msgstr "Hegazkina"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Airline"
+msgstr "Hegazkina"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Amphibians"
+msgstr "Urlehortarrak"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr "Bere lana genero horren estiloa definitzen badu, zer da artista hori?"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid ""
+"An oasis is an isolated area of vegetation in a desert and an island is a "
+"piece of isolated land that is surrounded by water."
+msgstr ""
+"Oasi bat basamortu batean isolatutako landaredi-area bat da, eta uharte bat "
+"berriz urez inguratutako isolatutako lur zati bat da."
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Angle"
+msgstr "Angelua"
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Ant / Vertebrate"
+msgstr "Inurria / Ornoduna"
+
+#. Translators: Anthophobia is fear of flowers that poses little or no danger
+#: ../data/verbal_analogies.xml.h:20
+msgid "Anthophobia"
+msgstr "Antofobia"
+
+#. Translators: Anthropophobia is fear of people
+#: ../data/verbal_analogies.xml.h:22
+msgid "Anthropophobia"
+msgstr "Antropofobia"
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "Apple"
+msgstr "Sagarra"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Attic"
+msgstr "Ganbera"
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "Authority"
+msgstr "Agintaria"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Bagpipes"
+msgstr "Gaitak"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Basketball"
+msgstr "Saskibaloia"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Bassoon"
+msgstr "Fagota"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Beach"
+msgstr "Hondartza"
+
+#: ../data/verbal_analogies.xml.h:30
+msgid "Birds"
+msgstr "Txoriak"
+
+#: ../data/verbal_analogies.xml.h:31
+msgid "Broken"
+msgstr "Hautsitakoa"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Bunker"
+msgstr "Bunkerra"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Carbon"
+msgstr "Ikatza"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Cardiology"
+msgstr "Kardiologia"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Cellulose"
+msgstr "Zelulosa"
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "Chicken / Bird"
+msgstr "Oiloa / Txoria"
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "Chord"
+msgstr "Akordea"
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "Coast"
+msgstr "Kostaldea"
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "Collectivism"
+msgstr "Kolektibismoa"
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "Column"
+msgstr "Zutabea"
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "Condemn"
+msgstr "Gaitzetsi"
+
+#: ../data/verbal_analogies.xml.h:42
+msgid "Connoisseur"
+msgstr "Aditua"
+
+#: ../data/verbal_analogies.xml.h:43
+msgid "Conspirator"
+msgstr "Azpikaria"
+
+#: ../data/verbal_analogies.xml.h:44
+msgid "Contradictory"
+msgstr "Kontraesanezkoa"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Corn"
+msgstr "Artoa"
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Cousin"
+msgstr "Lehengusina"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Crocodile"
+msgstr "Krokodiloa"
+
+#: ../data/verbal_analogies.xml.h:48
+msgid "Cycling"
+msgstr "Txirrindularitza"
+
+#: ../data/verbal_analogies.xml.h:49
+msgid "Decagon"
+msgstr "Dekagonoa"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "Decimal"
+msgstr "Dezimala"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Deer"
+msgstr "Oreina"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "Democracy"
+msgstr "Demokrazia"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Dog / Cat"
+msgstr "Zakurra / Katua"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Enneagram"
+msgstr "Eneagrama"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "Envelop"
+msgstr "Gutun-azala"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Erroneous"
+msgstr "Okerrekoa"
+
+#: ../data/verbal_analogies.xml.h:57
+msgid "Fish"
+msgstr "Arraina"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Fishes"
+msgstr "Arrainak"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Flower"
+msgstr "Lorea"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Fork"
+msgstr "Sardexka"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Fossil"
+msgstr "Fosila"
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Frog"
+msgstr "Apoa"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid "Gallon"
+msgstr "Galoia"
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "Golf"
+msgstr "Golf"
+
+#: ../data/verbal_analogies.xml.h:65
+msgid "Grain"
+msgstr "Garia"
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "Grape"
+msgstr "Mahatsa"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Hangar"
+msgstr "Hangarra"
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "Has no relation"
+msgstr "Ez du erlaziorik"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Hectogram"
+msgstr "Hektogramo"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Hematology"
+msgstr "Hematologia"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Hide"
+msgstr "Ezkutatu"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "His father"
+msgstr "Bere aita"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "His mother"
+msgstr "Bere ama"
+
+#: ../data/verbal_analogies.xml.h:74
+msgid "Homeless"
+msgstr "Etxegabeak"
+
+#: ../data/verbal_analogies.xml.h:75
+msgid "Horse / Pony"
+msgstr "Zaldia / Pottoka"
+
+#: ../data/verbal_analogies.xml.h:76
+msgid "Hyena"
+msgstr "Hiena"
+
+#: ../data/verbal_analogies.xml.h:77
+msgid "Hypochondria"
+msgstr "Hipokondria"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid "Icon"
+msgstr "Ikonoa"
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "Icosagon"
+msgstr "Ikosagonoa"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "Ignore"
+msgstr "Ezikusi egin"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Ink"
+msgstr "Tinta"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Innovator"
+msgstr "Berritzailea"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Insects"
+msgstr "Intsektuak"
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "Ironic"
+msgstr "Ironiko"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Island"
+msgstr "Uhartea"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "It is the only one that does not use a ball in the game."
+msgstr "Jokoan baloi bat erabiltzen ez duen bakarra da."
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "It is the only one that is not a carnivore."
+msgstr "Haragijale bat ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "It is the only one that is not a cereal."
+msgstr "Zereala ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "It is the only one that is not a fruit."
+msgstr "Fruitua ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "It is the only one that is not a medical specialty."
+msgstr "Mediku espezialitate bat ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "It is the only one that is not a metal."
+msgstr "Metal bat ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "It is the only one that is not a reptile."
+msgstr "Narrasti bat ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "Haize-instrumentua ez den bakarra da."
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "It is the only one that is not related to architecture."
+msgstr "Arkitekturarekin zerikusia ez duen bakarra da."
+
+#: ../data/verbal_analogies.xml.h:95
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "Sistema metrikokoa ez den unitate bakarra da."
+
+#: ../data/verbal_analogies.xml.h:96
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+"Arkaitzen aitaren arrebaren ezkonarreba zer da baita ere? Ez suposatu "
+"Arkaitz aipatu ez den gauza izaterik."
+
+#: ../data/verbal_analogies.xml.h:97
+msgid ""
+"John's mother's brother's brother-in-law is also is also? Do not assume that "
+"John has any relative that has not been mentioned."
+msgstr ""
+"Arkaitzen amaren anaiaren ezkonanaia zer da baita ere? Ez suposatu Arkaitz "
+"aipatu ez den gauza izaterik."
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "Kilometer"
+msgstr "Kilometroa"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "Lentils"
+msgstr "Dilistak"
+
+#: ../data/verbal_analogies.xml.h:100
+msgid "Liter"
+msgstr "Litroa"
+
+#: ../data/verbal_analogies.xml.h:101
+msgid "Loner"
+msgstr "Bakartia"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "Lychee"
+msgstr "Litchia"
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "Mango"
+msgstr "Mango"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "Martyr"
+msgstr "Martiria"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "Money"
+msgstr "Dirua"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "Oboe"
+msgstr "Oboe"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "Obscure"
+msgstr "Iluna"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "Offensive"
+msgstr "Erasotzailea"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "Oligarchy"
+msgstr "Oligarkia"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "Olive"
+msgstr "Oliba"
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "Onion"
+msgstr "Tipula"
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:113
+msgid "Orange"
+msgstr "Laranja"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "Ostentation"
+msgstr "Handikeria"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "Pain"
+msgstr "Mina"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "Paleontology"
+msgstr "Paleontologia"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "Person expelled from society"
+msgstr "Gizartetik erbesteratutako pertsona"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "Pioneer"
+msgstr "Aitzindaria"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "Pleasure"
+msgstr "Atsegina"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "Portico"
+msgstr "Arkupea"
+
+#: ../data/verbal_analogies.xml.h:121
+msgid "Positivism"
+msgstr "Positibismoa"
+
+#: ../data/verbal_analogies.xml.h:122
+msgid "Potato"
+msgstr "Patata"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "Printer"
+msgstr "Inprimagailua"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "Property"
+msgstr "Propietatea"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "Psychiatry"
+msgstr "Psikiatria"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "Radius"
+msgstr "Erradioa"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "Related"
+msgstr "Antzekoa"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "Repugnance"
+msgstr "Nazka"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "Restaurant"
+msgstr "Jatetxea"
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "Rice"
+msgstr "Arroza"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "River"
+msgstr "Ibaia"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "Shame"
+msgstr "Lotsa"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "Simplistic"
+msgstr "Sinplista"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "Snake"
+msgstr "Sugea"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "Sodium"
+msgstr "Sodioa"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "Son-in-law"
+msgstr "Suhia"
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "Specializes in skin diseases"
+msgstr "Azaleko gaixotasunen espezializatuta dago"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "Sport"
+msgstr "Kirola"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "Suffers a skin disease"
+msgstr "Azaleko gaixotasuna du"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "Sugarcane"
+msgstr "Azukre-kanabera"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "Sweet corn"
+msgstr "Arto gozoa"
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "Synonym"
+msgstr "Sinonimoa"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "Table"
+msgstr "Taula"
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "Tangent"
+msgstr "Tangentea"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "Tennis"
+msgstr "Tenis"
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr "Atsegina norbere baitako ona dela soilik eusten dion doktrina etikoa."
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "The first word is the instrument and the second what it measures."
+msgstr "Aurreneko hitza instrumentua da eta bigarrena honek neurtzen duena."
+
+#: ../data/verbal_analogies.xml.h:148
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+"Zorroztasunaren autodisziplina ideia edo egoera espiritual handiago bat "
+"lortzeko lantzen da."
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "The radius of a circle is half the diameter."
+msgstr "Zirkulu baten erradioa bere diametroaren erdia da."
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "Taxidermista hitzak zein pertsona mota definitzen du?"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "Think of the items used in the game."
+msgstr "Jokoan erabilitako elementuei buruz pentsatu."
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "Tiger"
+msgstr "Tigrea"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "Titanium"
+msgstr "Titanioa"
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "Totalitarianism"
+msgstr "Totalitarismoa"
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "Turtle"
+msgstr "Dortoka"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "Unorthodox"
+msgstr "Bat ere ez ortodoxoa"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "Violin"
+msgstr "Biolina"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "Wealthy"
+msgstr "Aberatsa"
+
+#: ../data/verbal_analogies.xml.h:159
+msgid "Weapon"
+msgstr "Arma"
+
+#: ../data/verbal_analogies.xml.h:160
+msgid "What is a 'halberd'?"
+msgstr "Zer da 'alabarda' bat?"
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "Wheat"
+msgstr "Garia"
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr "Honako zein sententziak definitzen du hobeto pertsona 'baztertua'?"
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:166
+msgid "Which of the following sports is the odd one?"
+msgstr "Kirol hauetatik zein da bitxia?"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr "Hitz hauetatik zein da 'aszetismo' esanahiaren gertuena?"
+
+#: ../data/verbal_analogies.xml.h:168
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr "Hitz hauetatik zein da 'hedonismoa' esanahiaren gertuena?"
+
+#: ../data/verbal_analogies.xml.h:169
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr "Hitz hauetatik zein da 'oximorona' esanahiaren gertuena?"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "Zein hitz da 'zentsuratu' esanahiaren gertuena?"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "Which of the following words is the odd one?"
+msgstr "Hitz hauetatik zein da bitxia?"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "Which of the following words means fear of people?"
+msgstr "Hauetariko zein hitzek adierazten du pertsonekiko beldurra?"
+
+#: ../data/verbal_analogies.xml.h:173
+msgid "Winery"
+msgstr "Upeltegia"
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "Wolf"
+msgstr "Otsoa"
+
+#: ../data/verbal_analogies.xml.h:175
+msgid "Works with dead animals"
+msgstr "Hildako animaliekin lan egiten du"
+
+#: ../data/verbal_analogies.xml.h:176
+msgid "Works with leather"
+msgstr "Larruarekin lan egiten du"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "Zinc"
+msgstr "Zink"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "airplane | aeroplane | plane"
+msgstr "hegazkina"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "ankle"
+msgstr "orkatila"
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "art / gallery | drama"
+msgstr "artea / galeria | drama"
+
+#: ../data/verbal_analogies.xml.h:181
+msgid "atlas"
+msgstr "atlasa"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "bite"
+msgstr "koska | hortzaka"
+
+#: ../data/verbal_analogies.xml.h:183
+msgid "body | skin"
+msgstr "gorputza | azala"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "book | magazine | document"
+msgstr "liburua | astekaria | dokumentua"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:186
+msgid "box / open | banana"
+msgstr "kutxa / ireki | banana"
+
+#: ../data/verbal_analogies.xml.h:187
+msgid "bridge / over | tunnel"
+msgstr "zubia / gainetik | tunela"
+
+#: ../data/verbal_analogies.xml.h:188
+msgid "burst | pop"
+msgstr "leherketa | eztanda"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:190
+msgid "button / push | key (used in a lock)"
+msgstr "botoia / sakatu | giltza"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "cage | zoo | zoological garden"
+msgstr "kaiola | zoologikoa | parke zoologikoa"
+
+#: ../data/verbal_analogies.xml.h:192
+msgid "camera"
+msgstr "kamera"
+
+#: ../data/verbal_analogies.xml.h:193
+msgid "car / garage | plane"
+msgstr "kotxea / garajea | hegazkina"
+
+#: ../data/verbal_analogies.xml.h:194
+msgid "car / road | train"
+msgstr "autoa / errepidea | trena"
+
+#: ../data/verbal_analogies.xml.h:195
+msgid "chop"
+msgstr "moztu"
+
+#: ../data/verbal_analogies.xml.h:196
+msgid "circle / semicircle | diameter"
+msgstr "zirkulua / zirkuluerdia | diametroa"
+
+#: ../data/verbal_analogies.xml.h:197
+msgid "coins"
+msgstr "txanponak"
+
+#: ../data/verbal_analogies.xml.h:198
+msgid "composer | songwriter | lyricist"
+msgstr "konpositorea | kantagilea | kanta-idazlea"
+
+#: ../data/verbal_analogies.xml.h:199
+msgid "constellation / stars | archipelago"
+msgstr "konstelazioa / izarrak | artxipelagoa"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:201
+msgid "dance"
+msgstr "dantza"
+
+#: ../data/verbal_analogies.xml.h:202
+msgid "desert / oasis | sea"
+msgstr "basamortua / oasia | itsasoa"
+
+#: ../data/verbal_analogies.xml.h:203
+msgid "dish / break | balloon"
+msgstr "platerra / puskatu | baloia"
+
+#: ../data/verbal_analogies.xml.h:204
+msgid "dog / tame | wolf"
+msgstr "zakurra / otzana | otsoa"
+
+#: ../data/verbal_analogies.xml.h:205
+msgid "elbow / knee | wrist"
+msgstr "ukondoa / belauna | eskumuturra"
+
+#: ../data/verbal_analogies.xml.h:206
+msgid "error / correct | damage"
+msgstr "errorea / zuzendu | matxura"
+
+#: ../data/verbal_analogies.xml.h:207
+msgid "eyebrow / eye | mustache"
+msgstr "bekaina / begia | bibotea"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:209
+msgid "feet / two | toes"
+msgstr "oinak / bi | behatzak"
+
+#: ../data/verbal_analogies.xml.h:210
+msgid "fish / aquarium | monkey"
+msgstr "arraina / akuarioa | tximua"
+
+#: ../data/verbal_analogies.xml.h:211
+msgid "fish / submarine | bird"
+msgstr "arraina / urpekontzia | txoria"
+
+#: ../data/verbal_analogies.xml.h:212
+msgid "five / pentagon | ten"
+msgstr "bost / pentagonoa | hamar"
+
+#: ../data/verbal_analogies.xml.h:213
+msgid "fox / den | bird"
+msgstr "azeria / etzalekua | txoria"
+
+#: ../data/verbal_analogies.xml.h:214
+msgid "glass / break | paper"
+msgstr "edalontzia / hautsi | papera"
+
+#: ../data/verbal_analogies.xml.h:215
+msgid "hands / grab | teeth"
+msgstr "eskuak | hartu / hortzak"
+
+#: ../data/verbal_analogies.xml.h:216
+msgid "herbivorous | herbivore"
+msgstr "herbiboroa"
+
+#: ../data/verbal_analogies.xml.h:217
+msgid "horticulture / plants | ornithology"
+msgstr "baratzezaintza / landareak | ornitologia"
+
+#: ../data/verbal_analogies.xml.h:218
+msgid "hour / minute | minute"
+msgstr "ordua / minutua | minutua"
+
+#: ../data/verbal_analogies.xml.h:219
+msgid "hungry / eat | tired"
+msgstr "gosea / jan | nekatuta"
+
+#: ../data/verbal_analogies.xml.h:220
+msgid "hunter / rifle | photographer"
+msgstr "ehiztaria / erriflea | argazkilaria"
+
+#: ../data/verbal_analogies.xml.h:221
+msgid "ice / slippery | glue"
+msgstr "izotza / irristakorra | kola"
+
+#: ../data/verbal_analogies.xml.h:222
+msgid "in | under | through"
+msgstr "barruan | azpian | zehar"
+
+#: ../data/verbal_analogies.xml.h:223
+msgid "islands"
+msgstr "uharteak"
+
+#: ../data/verbal_analogies.xml.h:224
+msgid "leopard / spots | tiger"
+msgstr "lehoinabarra / puntuak | tigrea"
+
+#: ../data/verbal_analogies.xml.h:225
+msgid "letter / word | page"
+msgstr "hizkia / hitza | orrialdea"
+
+#: ../data/verbal_analogies.xml.h:226
+msgid "lip | mouth"
+msgstr "ezpaina | ahoa"
+
+#: ../data/verbal_analogies.xml.h:227
+msgid "nest"
+msgstr "habia"
+
+#: ../data/verbal_analogies.xml.h:228
+msgid "nose"
+msgstr "sudurra"
+
+#: ../data/verbal_analogies.xml.h:229
+msgid "novel / author | song"
+msgstr "eleberria / egilea | abestia"
+
+#: ../data/verbal_analogies.xml.h:230
+msgid "orange / fruit | spinach"
+msgstr "laranja / fruitua | espinaka"
+
+#: ../data/verbal_analogies.xml.h:231
+msgid "pediatrics / children | numismatics"
+msgstr "pediatria / umeak | numismatika"
+
+#: ../data/verbal_analogies.xml.h:232
+msgid "peel"
+msgstr "azala kendu"
+
+#: ../data/verbal_analogies.xml.h:233
+msgid "pessimist / optimist | poor"
+msgstr "ezkorra / baikorra | behartsua"
+
+#: ../data/verbal_analogies.xml.h:234
+msgid "poems / anthology | maps"
+msgstr "olerkiak / antologia | mapak"
+
+#: ../data/verbal_analogies.xml.h:235
+msgid "puzzle / solve | game"
+msgstr "puzzlea / ebatzi | jokoa"
+
+#: ../data/verbal_analogies.xml.h:236
+msgid "repair | fix"
+msgstr "konpondu"
+
+#: ../data/verbal_analogies.xml.h:237
+msgid "ring / finger | bracelet"
+msgstr "eraztuna / hatza | eskumuturrekoa"
+
+#: ../data/verbal_analogies.xml.h:238
+msgid "seal / flippers | bird"
+msgstr "itsas txakurra / hegalak | txoria"
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:240
+msgid "second"
+msgstr "segundo"
+
+#: ../data/verbal_analogies.xml.h:241
+msgid "shovel / dig | axe"
+msgstr "pala / zuloa egin | aizkora"
+
+#: ../data/verbal_analogies.xml.h:242
+msgid "sink"
+msgstr "urperatu"
+
+#: ../data/verbal_analogies.xml.h:243
+msgid "sleep | rest"
+msgstr "lo egin | atsedena"
+
+#: ../data/verbal_analogies.xml.h:244
+msgid "slurp / tongue | snort"
+msgstr "zurrupada / mingaina | arnasotsa"
+
+#: ../data/verbal_analogies.xml.h:245
+msgid "sour"
+msgstr "garratza"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:247
+msgid "stick / float | stone"
+msgstr "zotza / flotatu | harria"
+
+#: ../data/verbal_analogies.xml.h:248
+msgid "sticky"
+msgstr "itsaskorra"
+
+#: ../data/verbal_analogies.xml.h:249
+msgid "stripes"
+msgstr "marrak"
+
+#: ../data/verbal_analogies.xml.h:250
+msgid "sugar / sweet | vinegar"
+msgstr "azukrea / gozoa | ozpina"
+
+#: ../data/verbal_analogies.xml.h:251
+msgid "talk / yell | dislike"
+msgstr "hitzegin / garrasi | higuina"
+
+#: ../data/verbal_analogies.xml.h:252
+msgid "tear | rip"
+msgstr "urradura| haustura"
+
+#: ../data/verbal_analogies.xml.h:253
+msgid "tears / eyes | sweat"
+msgstr "malkoak / begiak | izerdia"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:255
+msgid "ten | 10"
+msgstr "hamar | 10"
+
+#: ../data/verbal_analogies.xml.h:256
+msgid "tennis / sport | ballet"
+msgstr "tenis / kirola | baleta"
+
+#: ../data/verbal_analogies.xml.h:257
+msgid "thankful / ingratitude | despotism"
+msgstr "esker onekoa / esker txarrekoa | despotismoa"
+
+#: ../data/verbal_analogies.xml.h:258
+msgid "theatre | theater"
+msgstr "antzokia"
+
+#: ../data/verbal_analogies.xml.h:259
+msgid "thermometer / temperature | clock"
+msgstr "termometro / tenperatura | erlojua"
+
+#: ../data/verbal_analogies.xml.h:260
+msgid "tiger / carnivore | cow"
+msgstr "tigrea / haragijale | behia"
+
+#: ../data/verbal_analogies.xml.h:261
+msgid "time"
+msgstr "ordua"
+
+#: ../data/verbal_analogies.xml.h:262
+msgid "toy / play | tool"
+msgstr "jostailua / jolasa | tresna"
+
+#: ../data/verbal_analogies.xml.h:263
+msgid "track | railway | rails"
+msgstr "pista | trenbidea | bidea"
+
+#: ../data/verbal_analogies.xml.h:264
+msgid "turn"
+msgstr "biratu"
+
+#. Translators: letter refers to letter (in paper form)
+#: ../data/verbal_analogies.xml.h:266
+msgid "turtle / shell | letter"
+msgstr "dortoka / oskola | gutuna"
+
+#: ../data/verbal_analogies.xml.h:267
+msgid "vegetable"
+msgstr "barazkia"
+
+#: ../data/verbal_analogies.xml.h:268
+msgid "whirlpool / water | tornado"
+msgstr "zurrunbilo / ura | tornadoa"
+
+#: ../data/verbal_analogies.xml.h:269
+msgid "wild | savage"
+msgstr "basatia"
+
+#: ../data/verbal_analogies.xml.h:270
+msgid "win | play"
+msgstr "irabazi | jokatu"
+
+#: ../data/verbal_analogies.xml.h:271
+msgid "wind | air"
+msgstr "haizea | airea"
+
+#: ../data/verbal_analogies.xml.h:272
+msgid "wine / grape | rum"
+msgstr "ardoa / mahatsa | rona"
+
+#: ../data/verbal_analogies.xml.h:273
+msgid "wings"
+msgstr "hegoak"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:275
+msgid "work"
+msgstr "lana"
+
+#: ../data/verbal_analogies.xml.h:276
+msgid "wrist | arm"
+msgstr "eskumuturra | besoa"
+
+#: ../data/verbal_analogies.xml.h:277
+msgid "write / pen | eat"
+msgstr "idatzi / luma | jan"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "Egon prest hurrengo objektuak memorizatzeko..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:66
+msgid "Total"
+msgstr "Guztira"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:368
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:8
+msgid "Logic"
+msgstr "Logika"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:373
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:6
+msgid "Calculation"
+msgstr "Kalkulua"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:379
+msgid "Memory"
+msgstr "Memoria"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:385
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:16
+msgid "Verbal"
+msgstr "Hitzezkoa"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr "Puntuazioa"
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "Irabazitako jokoak: {0} ({1} jokatuta)"
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. Irabazitako jokoak: {1} ({2} jokatuta)"
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "Erabilitako denbora: {0} (batez bestekoa: {1})"
+
+#. Translators: translated string should not be longer that the English original (space restriction on the UI)
+#: ../src/Core/Views/FinishView.cs:166
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+"Irakurri ezazu laguntza gbrainy-k puntuazioak nola banatzen dituen buruz "
+"gehiago jakiteko."
+
+#: ../src/Core/Views/FinishView.cs:176
+msgid "Tips for your next games"
+msgstr "Hurrengo jokoetarako aholkuak"
+
+#: ../src/Core/Views/FinishView.cs:204
+msgid "Congratulations! New personal record"
+msgstr "Zorionak! Zure marka pertsonala hautsi duzu"
+
+#: ../src/Core/Views/FinishView.cs:214
+#, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Logikako puzzleen jokoetan lortutako %{0} puntuazioak zure marka pertsonal "
+"berria ezarri du. Aurreko marka %{1} zen."
+
+#: ../src/Core/Views/FinishView.cs:220
+#, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Kalkuloetako jokoetan lortutako %{0} puntuazioak zure marka pertsonal berria "
+"ezarri du. Aurreko marka %{1} zen."
+
+#: ../src/Core/Views/FinishView.cs:226
+#, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+"Memoria jokoetan lortutako %{0} puntuazioak zure marka pertsonal berria "
+"ezarri du. Aurreko marka %{1} zen."
+
+#: ../src/Core/Views/FinishView.cs:232
+#, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Hizketako analogien jokoetan lortutako %{0} puntuazioak zure marka pertsonal "
+"berria ezarri du. Aurreko marka %{1} zen."
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr ""
+"Logika puzzleak. Zure logika eta arrazonamenduaren trebetasunak erronkan "
+"jartzeko diseinatua."
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr ""
+"Buruzko kalkulua. Eragiketa aritmetikoen bidez zure gaitasun mentala "
+"probatzeko."
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "Memoria hezitzaileak. Epe laburrean zure memoria neurtu eta hobetzeko."
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "Hizketako analogiak. Zure hizketako gaitasunarentzako erronka."
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "Ondo etorri Gbrainy-ra {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr ""
+"gbrainy zure garuna gazte eta sasoiko mantenduko duen programa da. Honakoak "
+"ditu:"
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "Erabili 'Ezarpenak' jokoaren zailtasun maila doitzeko."
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "gorria"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "berdea"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "urdina"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "horia"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "magenta"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "laranja"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "beltza"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "zuria"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "Erantzun zuzena {0} da."
+
+#. Translators: answer + rationale of the answer
+#. Translators: "The graph below" +  "It is built using" sentences
+#. Translators: Concadenating two strings (rationale of answer + extra information).
+#: ../src/Core/Main/Game.cs:157 ../src/Core/Main/Verbal/Analogies.cs:62
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:60
+#: ../src/Games/Logic/PuzzleCountSeries.cs:93
+#, csharp-format
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:317
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:319
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:321
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:323
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:325
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:327
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:329
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:331
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:339
+#, csharp-format
+msgid "Figure {0}"
+msgstr "{0} irudia"
+
+#: ../src/Core/Main/GameManager.cs:313
+msgid "Extensions database:"
+msgstr "Hedapenen datu-basea:"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:319
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+"Erregistratutako jokoak:  {0}: {1} logika puzzleak, {2} matematikako "
+"hezitzaileak, {3} memoria hezitzaileak, {4} hizketako analogiak"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "Jolastutako jokoak: {0} (puntuazioa: {1})"
+
+#: ../src/Core/Main/GameSession.cs:178
+#, csharp-format
+msgid "Time: {0}"
+msgstr "Denbora: {0}"
+
+#. Translators: {0} is the name of the game
+#: ../src/Core/Main/GameSession.cs:182
+#, csharp-format
+msgid "Game: {0}"
+msgstr "Jokoa: {0}"
+
+#. Translators: text in the status bar: games played - time - game name
+#: ../src/Core/Main/GameSession.cs:184
+#, csharp-format
+msgid "{0} - {1} - {2}"
+msgstr "{0} - {1} - {2}"
+
+#. Translators: text in the status bar: games played - time
+#: ../src/Core/Main/GameSession.cs:187
+#, csharp-format
+msgid "{0} - {1}"
+msgstr "{0} - {1}"
+
+#: ../src/Core/Main/GameSession.cs:200
+msgid "Outstanding results"
+msgstr "Emaitza zoragarriak"
+
+#: ../src/Core/Main/GameSession.cs:202
+msgid "Excellent results"
+msgstr "Emaitza oso onak"
+
+#: ../src/Core/Main/GameSession.cs:204
+msgid "Good results"
+msgstr "Emaitza onak"
+
+#: ../src/Core/Main/GameSession.cs:206
+msgid "Poor results"
+msgstr "Emaitza pobreak"
+
+#: ../src/Core/Main/GameSession.cs:207
+msgid "Disappointing results"
+msgstr "Emaitza txarrak"
+
+#: ../src/Core/Main/GameSession.cs:269
+msgid "Paused"
+msgstr "Pausarazita"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr "Arretaz irakurri argibideak eta identifikatu datuak eta emandako aztarnak."
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+"Jokalariaren puntuazioa ezartzeko gbrainy-k joko bakoitza burutzeko behar "
+"den denbora eta aholkuak hartzen ditu kontutan."
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid "In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+"Joko logikoetan, garrantzi gutxikoak diruditen elementuak oso garrantzitsuak "
+"izan daitezke."
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr "Hautsi blokeo mentalak eta begiratu buruketen mugetan."
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr "Gozatu akatsekin ere, ikasketaren prozesuaren zati direlako."
+
+#: ../src/Core/Main/GameTips.cs:61
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr ""
+"Landu buruketa guztiak, baita zailak direnak ere. Hobekuntza praktikaren "
+"bidez baitator."
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "Jokatu egunero, eta azkar nabarituko duzu aurrerakuntzak."
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+"Erabili 'Joko pertsonalizatuaren hautapena' jokatzea nahi duzun jokoa "
+"hautatzeko."
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr "Elementuak elkartzea teknika oso arrunta da gauzak gogoratzeko."
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+"Elementuak kategorietan taldekatzea teknika oso arrunta da gauzak "
+"gogoratzeko."
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+"Eraiki akronimoak gogoratutako egitate bakoitzaren aurreneko hizkia erabiliz "
+"gogoratzeko."
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid "The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr ""
+"Puzzle batengandik lortutako gozamena bertan igarotako denborarekiko "
+"proportzionala da."
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr "Arazo bakoitza osagai txiki bakunagoetan zatitzea pentsatu."
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr "Hizketako analogiei erantzutean aditz-denborari arreta jartzen zaio."
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "Memorizatu azpiko objektuak emandako denboran"
+
+#: ../src/Core/Main/Memory.cs:217
+msgid "Time left"
+msgstr "Falta den denbora"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "Erantzun posibleak: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:91
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:64
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, csharp-format
+msgid "Multiple options #{0}"
+msgstr "Hainbat aukera {0}."
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} erantzuna: {1}"
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:112
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:177
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:149
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "Konparatu hitz bikoteak {0}."
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:69
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr ""
+"Azpiko bi hitzen arteko erlazioa emanda, zein hitzek du '{0}'(r)ekiko "
+"erlazioa?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:133
+#, csharp-format
+msgid "Words: {0}"
+msgstr "Hitzak: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:40
+#, csharp-format
+msgid "Pair of words #{0}"
+msgstr "Hitz bikoteak {0}."
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, csharp-format
+msgid "Question and answer #{0}"
+msgstr "Galderak eta erantzunak {0}."
+
+#: ../src/Core/Main/Xml/GameXml.cs:219
+#, csharp-format
+msgid "{0}, "
+msgstr "{0}, "
+
+#: ../src/Core/Main/Xml/GameXml.cs:221
+#, csharp-format
+msgid "{0}."
+msgstr "{0}."
+
+#. Translators {0}: list of options (A, B, C)
+#: ../src/Core/Main/Xml/GameXml.cs:224
+#, csharp-format
+msgid "Answer {0}"
+msgstr "Erantzuna: {0}"
+
+#: ../src/Core/Main/Xml/GameXml.cs:467
+#, csharp-format
+msgid "{0}) "
+msgstr "{0}) "
+
+#: ../src/Clients/Classical/gbrainy.cs:361
+msgid "Play all the games"
+msgstr "Jokatu joko guztiak"
+
+#: ../src/Clients/Classical/gbrainy.cs:362
+msgid "All"
+msgstr "Denak"
+
+#: ../src/Clients/Classical/gbrainy.cs:367
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "Jokatu arrazoibidea eta pentsakeraren erronka dituzten jokoak."
+
+#: ../src/Clients/Classical/gbrainy.cs:374
+msgid "Play games that challenge your mental calculation skills"
+msgstr "Jokatu buruzko kalkuluen trebezia eskatzen dituzten jokoak."
+
+#: ../src/Clients/Classical/gbrainy.cs:380
+msgid "Play games that challenge your short term memory"
+msgstr "Jokatu epe laburreko memoria eskatzen dituzten jokoak."
+
+#: ../src/Clients/Classical/gbrainy.cs:386
+msgid "Play games that challenge your verbal aptitude"
+msgstr "Jokatu zure hizketaren gaitasuna erronkan jartzen dituzten jokoak."
+
+#: ../src/Clients/Classical/gbrainy.cs:391
+#: ../src/Clients/Classical/gbrainy.cs:634
+msgid "Pause"
+msgstr "Pausarazi"
+
+#: ../src/Clients/Classical/gbrainy.cs:392
+msgid "Pause or resume the game"
+msgstr "Pausatu edo jarraitu jokoa"
+
+#: ../src/Clients/Classical/gbrainy.cs:397
+msgid "End the game and show score"
+msgstr "Amaitu jokoa eta erakutsi puntuazioa"
+
+#: ../src/Clients/Classical/gbrainy.cs:398
+msgid "Finish"
+msgstr "Amaitu"
+
+#: ../src/Clients/Classical/gbrainy.cs:488
+msgid "Congratulations."
+msgstr "Zorionak."
+
+#: ../src/Clients/Classical/gbrainy.cs:490
+msgid "Incorrect answer."
+msgstr "Erantzun okerra."
+
+#: ../src/Clients/Classical/gbrainy.cs:548
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr ""
+"Erantzuna daukazunean, idatz ezazu \"Erantzuna:\" eremuan eta eta sakatu "
+"\"Ados\" botoia."
+
+#: ../src/Clients/Classical/gbrainy.cs:638
+msgid "Resume"
+msgstr "Jarraitu"
+
+#: ../src/Clients/Classical/gbrainy.cs:753
+#, csharp-format
+msgid "Startup time {0}"
+msgstr "Hasierako ordua {0}"
+
+#. Translators: {0} is a date
+#: ../src/Clients/Classical/CommandLine.cs:106
+#, csharp-format
+msgid "(built on {0})"
+msgstr "(eraikitze-data: {0})"
+
+#: ../src/Clients/Classical/CommandLine.cs:118
+msgid "List of available games"
+msgstr "Joko erabilgarrien zerrenda"
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "Usage: gbrainy [options]"
+msgstr "Erabilera: gbrainy [aukerak]"
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --version\t\t\tPrint version information."
+msgstr "  --version\t\t\tErakutsi bertsioren informazioa."
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --help\t\t\tPrint this usage message."
+msgstr "  --help\t\t\tErakutsi erabileraren mezu hau."
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr "  --gamelist\t\t\tErakutsi joko erabilgarrien zerrenda."
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+"  --customgame [jokoa1, jokoaN]\tJoko pertsonalizatu batean jokatuko diren "
+"jokoen zerrenda zehazten du."
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid "  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr "  --norandom \t\t\tJoko pertsonalizatuaren zerrenda ez da ausaz nahastuko."
+
+#: ../src/Clients/Classical/CommandLine.cs:187
+msgid "  --versions \t\t\tShow dependencies."
+msgstr "  --versions \t\t\tErakutsi mendekotasunak."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:34
+msgid "Software"
+msgstr "Softwarea"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:37
+msgid "Based on ideas by"
+msgstr "Hauen burutazioetan oinarrituta:"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:41
+msgid "MENSA works"
+msgstr "MENSA lanak"
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:61
+msgid "translator-credits"
+msgstr ""
+"Asier Zabaleta <aza at openbravo dot com>\n"
+"Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:66
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+"Programa hau software librea da; birbana eta/edo alda dezakezu Software "
+"Foundation-ek argitaratutako GNU Lizentzia Publiko Orokorraren 2. bertsioan, "
+"edo (nahiago baduzu) beste berriago batean, jasotako baldintzak betez gero.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:67
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+"Programa hau erabilgarria izango delakoan banatzen da, baina, INOLAKO "
+"BERMERIK GABE; era berean, ez da bermatzen beraren EGOKITASUNA "
+"MERKATURATZEKO edo HELBURU PARTIKULARRETARAKO ERABILTZEKO. Argibide gehiago "
+"nahi izanez gero, ikus GNU Lizentzia Publiko Orokorra.\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"Programa honekin batera GNU Lizentzia Publiko Orokorraren kopia bat jasoko "
+"zenuen; hala ez bada, idatzi hona: Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:78
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "Ondo pasatzeko eta garuna gazte mantentzeko jokoa."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:80
+msgid "gbrainy web site"
+msgstr "gbrainy-ren webgunea"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:68
+msgid "Game Name"
+msgstr "Jokoaren izena"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:90
+msgid "Type"
+msgstr "Mota"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:112
+msgid "Enabled"
+msgstr "Gaituta"
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:75
+msgid "PDF files"
+msgstr "PDF fitxategiak"
+
+#: ../src/Clients/Classical/Dialogs/PdfExportDialog.cs:79
+msgid "All files"
+msgstr "Fitxategi denak"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution."
+msgstr "Azpiko grafikoak jokalariaren jokoaren puntuazioaren garapena erakusten du."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid "You need more than one game session recorded to see the score evolution."
+msgstr ""
+"Jokoaren saio bat baino gehiago erregistratuta eduki behar duzu "
+"puntuazioaren garapena ikusteko."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural "It is built using the results of the last {0} recorded game sessions."
+msgstr[0] "Jokoaren saio {0}ean erregistratutako emaitzak erabiliz eraikita."
+msgstr[1] "Jokoaren azken {0} saioetan erregistratutako emaitzak erabiliz eraikita."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+msgid "You are about to delete the player's game session history."
+msgstr "Jokalariaren jokoaren saioaren historia ezabatzera zoaz."
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+"Aurrera jarraitzen baduzu, aurreko jokoaren saioaren historia galdu egingo "
+"duzu. Jarraitzea nahi duzu?"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr "_Ezabatu"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "Joko pertsonalizatua"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "Hautatu denak"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "Desautatu denak"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "_Hasi"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:1
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>Zailtasun maila</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:2
+msgid "<b>Game Types</b>"
+msgstr "<b>Joko motak</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:3
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>Ezarpen orokorrak</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:4
+msgid "<b>Number of games</b>"
+msgstr "<b>Joko kopurua</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:5
+msgid "<b>Output File</b>"
+msgstr "<b>Irteerako fitxategia</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:7
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "Erraza"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:9
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "Maisua"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:10
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "Tartekoa"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:11
+msgid "Number of games per page:"
+msgstr "Joko kopurua orrialdeko:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:12
+msgid "PDF export"
+msgstr "PDFra esportatzea"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:13
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr ""
+"Saltatu koloreak darabilten jokoak (lagungarria erabiltzaile "
+"daltonikoentzako)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:14
+msgid ""
+"This option allows to export a set of games in a PDF file. You can complete "
+"the puzzles without a computer."
+msgstr ""
+"Aukera honek joko multzo bat PDF fitxategi batera esportatzea uzten du. "
+"Puzzleak ordenagailurik gabe osatu ditzakezu."
+
+#: ../src/Clients/Classical/Dialogs/ui/PdfExportDialog.ui.h:15
+msgid "Total number of games:"
+msgstr "Jokoen guztirako kopurua:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Player's Game Session History"
+msgstr "Jokalariaren jokoaren saioaren historia"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "Erakutsi:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>Memoria jokoak</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>Jokalariaren jokoaren saioaren historia</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Delete Player's Game Session History"
+msgstr "Ezabatu jokalariaren jokoaren saioaren historia"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of records in the player's game session history:"
+msgstr ""
+"Erregistroen gehienezko kopurua jokalariaren jokoaren saioaren historian "
+"gordetzeko:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played games to store the game session:"
+msgstr "Gutxieneko joko kopurua jokoaren saioaren historian gordetzeko:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Preferences"
+msgstr "Hobespenak"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "Erakutsi atzekoz aurrera zenbatzea"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "Erronka memorizatzeko denbora (seg.):"
+
+#: ../src/Clients/Classical/Widgets/BrowseFile.cs:43
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "Arakatu..."
+
+#: ../src/Clients/Classical/Widgets/BrowseFile.cs:84
+msgid "Open Location"
+msgstr "Ireki kokalekua"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+msgid "3D Cube"
+msgstr "3D kuboa"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr ""
+"Zenbat kubo txiki behar dira azpiko kubo handia eraikitzeko? Erantzun ezazu "
+"zenbaki bat erabiliz."
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr "Kubo bat objektu laukizuzen trinkoa da, eta sei karratuko aurpegi ditu."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "Oreka"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr "Zenbat triangelu behar dira azken irudiko eskuineko zatian oreka mantentzeko?"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr ""
+"Triangelu bakoitza 1 bezala zenbatzen da, zirkulua 2 gisa eta karratua 3 "
+"bezala."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+msgid "Every circle counts as two triangles."
+msgstr "Zirkulu bakoitza bi triangelu bezala zenbatzen da."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "Eraiki triangelu bat"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"Zein hiru pieza erabili behar dituzu aldi berean triangelu bat osatzeko? "
+"Erantzun hiru irudien izenak erabiliz, adib: {0}, {1}, {2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "Emaitzeko triangelua isoszelea da."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "Triangelua da:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+msgid "Circles in a square"
+msgstr "Zirkuluak karratu batean"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr ""
+"Zein da gehienezko (erakutsitakoak bezalako) zirkulu kopurua azpiko "
+"laukizuzenean doitzeko?"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "64 zirkulu baino gehiago doi ditzakezu."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+"Erakutsitako eskeman altueraren {0} unitate irabazten dira errenkadako. "
+"Honek errenkada gehigarria erabiltzea baimentzen du."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 unitate"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "Unitate 1"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "Ordulariak"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr ""
+"Zein zenbakira zuzentzen du '{0}' ordulariaren orratz luzeak? Erantzun "
+"zenbakiak erabiliz."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid "Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr "{0} ordulariaren aurreneko baturatik hasita orratzek adierazitako baliorarte."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr "Ordulariek ez dute denboraren logika jarraitzen."
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "Zenbatu zirkuluak"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "Zenbat zirkulu zenbatu dituzu?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "Ariketa erraza da sistematikoki zirkuluak zenbatzen badituzu."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "Zenbatzea"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:64
+#, csharp-format
+msgid "We have a {0} meter piece of fabric."
+msgid_plural "We have a {0} meters piece of fabric."
+msgstr[0] "Ehunaren metro {0}eko pieza bat dugu."
+msgstr[1] "Ehunaren {0} metrotako pieza bat dugu."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:68
+#, csharp-format
+msgid ""
+"Machine A takes {0} second to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgid_plural ""
+"Machine A takes {0} seconds to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgstr[0] ""
+"A makinak {0} segundo behar ditu oihal honen metro 1 mozteko. Zenbat segundo "
+"behar ditu A makinak oihalaren pieza osoa 1 metroko piezetan mozteko?"
+msgstr[1] ""
+"A makinak {0} segundo behar ditu oihal honen metro 1 mozteko. Zenbat segundo "
+"behar ditu A makinak oihalaren pieza osoa 1 metroko piezetan mozteko?"
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:73
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr "{0}. mozketarekin A makinak 1 metroko bi pieza sortzen ditu."
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+"Hesi bat karratu formako eskualdea ixteko eraiki da. Karratuko alde "
+"bakoitzean {0}zutoin erabiltzen dira. Zenbat zutoin erabili dira guztira?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:87
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr "{0} zutoin daude, karratuko ertzetako zutoinak partekatuta daudelako."
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:96
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+"Urtebetetzeko opari bat biltzea euro bat kostatzen da. Urtebetetzeko opariak "
+"hura biltzeko kostua baino {0} euro gehiago balio ditu. Zenbat kostatzen da "
+"oparia erostea eta biltzea?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:98
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr "Bakarka, opariak biltzeko papera baino euro bat gehiago kostatzen da."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:40
+msgid "Count series"
+msgstr "Zenbatu serieak"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:62
+msgid "How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr "Zenbat '9' zenbaki behar dira 10 eta 100 arteko zenbakiak adierazteko?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:68
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+"Bi digituko zenbat zenbaki daude non aurreneko digitua bigarrena baino "
+"handiagoa den (adib. 20 eta 21)?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:74
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+"Bi digituko zenbat zenbaki daude non aurreneko digitua bigarrena baino "
+"txikiagoa den (adib. 12 eta 13)?"
+
+#. Translators: A sequence of numbers 1, 2, 3, etc.
+#: ../src/Games/Logic/PuzzleCountSeries.cs:86
+#, csharp-format
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:89
+#, csharp-format
+msgid "The numbers are: {0}."
+msgstr "Zenbakiak hauek dira: {0}."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:94
+msgid "Notice that 99 contains two numbers '9'."
+msgstr "Jakin ezazu 99 balioak bi '9' zenbaki dituela."
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr "Osatutako ehunekoa"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "Irudien zein ehuneko dago margotuta?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "Kuboa"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"The figure below, when folded as a cube, which face on the figure is "
+"opposite the face with a {0} drawn on it? Answer the number written on face."
+msgstr ""
+"Azpiko irudia, kubo batean tolesten denean, irudiko zein aurpegi dago {0} "
+"marraztuta duen aurpegiaren aurka? Erantzun aurpegian idatzitako zenbakia."
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Zein da '2' edo '6' bat lortzeko probabilitatea 6 aldetako dado bat behin "
+"jaurtitzean? Erantzun zatiki bat erabiliz (adib: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr "Posibilitateak 2 / 6 dira."
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Zein da '5' bat ez lortzeko probabilitatea 6 aldetako dado bat behin "
+"jaurtitzean? Erantzun zatiki bat erabiliz (adib: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr "Posibilitateak 5 / 6 dira."
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"6 aldetako bi dado aldei berean behin jaurtitzen dira. Zein posibilitate "
+"dago bi zenbaki bikoiti lortzeko? Erantzun zatiki bat erabiliz (adib: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting two even numbers."
+msgstr "Bi zenbaki bikoiti lortzeko posibilitatea 36tik 9 da."
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"6 aldetako bi dado aldei berean behin jaurtitzen dira. Zein posibilitate "
+"dago 2 '6' zenbaki lortzeko? Erantzun zatiki bat erabiliz (adib: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr "'6' zenbakia bi dadoetan aldi berean lortzeko posibilitatea 1 / 36 da."
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "Dadoa"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr "Zatitu zirkuluak"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr ""
+"Azkenengo irudian, zenbat eskualdetan dago zirkulua zatituta puntu guztiak "
+"konektatuta daudenean?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:179
+#, csharp-format
+msgid "Has {0} region"
+msgid_plural "Has {0} regions"
+msgstr[0] "Eskualde {0} du"
+msgstr[1] "{0} eskualde ditu"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "Ekuazioa"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "Zein da azpiko ekuazioaren emaitza?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+"Eragiketa aritmetikoan ordena beti honela izaten da: berreketak eta erroak, "
+"biderketak eta zatiketak, batuketak eta kenketak."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr "Zirkulu gehigarria"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Zein zirkulu ez dagokio taldeari? Ez da elementuen sekuentzia bat. Erantzun "
+"{0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr "Zirkulu guztiek propietate amankomuna partekatzen dute, zirkulu batek ezik."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+msgid "In all circles the color slices follow the same order except for this one."
+msgstr "Zirkulu guztietan kolore zatiek ordena berdina jarraitzen dute, batek ezik."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "Irudiak eta testua"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+"Irudiak eta testuak zerikusia dute. Zein testu egon beharko luke azken "
+"irudiaren azpian?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr "Testuko karaktere bakoitzak irudiaren propietate bat adierazten du."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"'A' irudiak gainjartzen direla adierazten du, 'B' karratuak direla, 'C' "
+"zirkuluak direla, 'D' irudiak bananduta daudela, 'E' hiru irudi daudela eta "
+"'F' bi irudi daudela."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr "Irudien ereduak"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "Zein irudik ordeztu beharko luke galdera ikurra?  Erantzun {0}, {1} edo {2}."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+"Errenkada bakoitzeko hirugarren irudia nolabait aurreneko bi irudiak "
+"konbinatzea inplikatzen du."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+"Gainjarri aurreneko eta bigarren irudiak eta kendu amankomunean dituzten "
+"marrak, gero biratu emaitzeko irudia 45 gradu."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "Irudiak"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+"Zein da objektuen hurrengo sekuentzia logikoa azken zutabean? Ikus azpiko "
+"konbentzioa erantzuna ematean."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+"Konbinazio bakarra da emandako elementuekin, eta errepikatu gabe. "
+"eraikitzeko."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr "Konbentzioa erantzuna ematean erabiltzeko:"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "Adib: {0}{1}{2} (pentagonoa, triangelua, zirkulua)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "Lau alde"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr "Zenbat lau aldeko irudi zenbatu dituzu azpiko irudian?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "Lau aldeko irudi bat beste irudi baten barruan kapsulatua egon daiteke."
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr "Lau aldeko irudiak honako puntuak konektatuz sortzen dira: {0}"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "Esku ematea"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+"Festa bateko partaideak elkar aurkezten dira, guztira {0} esku emate gertatu "
+"direlarik. Zenbat pertsona daude festan?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid "Try to imagine a situation in which you are meeting a small number of people."
+msgstr "Saiatu zaitez pertsona gutxi batzuekin bilera duzula irudikatzen."
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr "Forma handia"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"Zein da bi irudi konbinatuz sor dezakezun forma handiena? Erantzun {0}, {1}, "
+"{2} edo {3}."
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "Marrak"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+"Zenbat zuzenki zenbatu dituzu azpiko irudian? Zuzenki bat bi puntuen arteko "
+"marra bat da gurutzatu gabeko marrekin."
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr "Ezkerreko irudian {0} marra daude, eta eskuinekoan berriz {1}."
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "Ariketa erraza da marrak sistematikoki zenbatzen badituzu."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr "Matrize taldeak"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "Matrizeko zenbakietariko bat zirkuluarekin markatu behar da. Zein?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr ""
+"Marka biribila duten zenbaki guztiek propietate aritmetiko bat partekatzen "
+"dute."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "Zirkuludun zenbaki bakoitza {0} balioarekin zati daiteke."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr "Matrizeko zenbakiak"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+"Matrize bateko zenbakiek logika bat jarraitzen dute. Zein zenbakik ordeztuko "
+"luke galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr "Eredua aritmetikoa da eta bertikalki funtzionatzen du."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:167
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "Eredua aritmetikoa da eta horizontalki funtzionatzen du."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:65
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+"Laugarrengo errenkada aurreneko bi errenkadak bidertu ondoren hirugarrengoa "
+"gehituz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+"Laugarrengo zutabea aurreneko bi zutabeak bidertu ondoren hirugarrengoa "
+"gehituz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:71
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+"Laugarrengo errenkada aurreneko bi errenkadak bidertu ondoren hirugarrengoa "
+"kenduz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:73
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+"Laugarrengo zutabea aurreneko bi zutabeak bidertu ondoren hirugarrengoa "
+"kenduz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:77
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+"Laugarrengo errenkada aurreneko bi errenkadak gehitu ondoren hirugarrengoa "
+"kenduz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:79
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+"Laugarrengo zutabea aurreneko bi zutabeak gehitu ondoren hirugarrengoa "
+"kenduz lortzen da."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "Falta den pieza"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "Zein karratuk osatzen du azpiko irudia? Erantzun {0}, {1} edo {2}"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr "Logikak errenkada mailan funtzionatzen du."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"Errenkada bakoitzean hirugarren karratua lortzeko aurreneko karratua biratu "
+"eta bigarren karratuari gainjartzen zaio, bat datozten marrak kenduz."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "Falta den zatia"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+"Zati batzuk propietate amankomuna dute. Zein zati falta da azpiko zirkuluan? "
+"Erantzun {0}, {1} edo {2}."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "Zati bakoitzak aurkakoarekin erlazionatuta dago."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+"Zati bakoitzeko zenbaki guztiak, aurkako zatiari gehitutakoan, beti {0} "
+"batzen dute."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr "Bat etortzea"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Erantzun posibleen artean zein dator bat hobeto emandako lau irudiekin? "
+"Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "Pentsatu emandako irudiek barruan dituzten elementu komunetan."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid "It has the same number of elements inside the figure as the given figures."
+msgstr ""
+"Irudiaren barruan dauden elementuen kopurua emandako irudi kopuruen berdina "
+"da."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr ""
+"Bat hobekien datozten elementu gehienak dituen irudia da emandako irudiekin "
+"konparatuz."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "Mugitu irudia"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+"Zein da mugitu beharreko gutxieneko zirkulu kopurua ezkerreko irudia "
+"eskuinekoan bihurtzeko?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"Eraman zirkulua aurreneko marratik bigarrengora eta eraman laugarren marrako "
+"bi zirkulu bigarren eta bostgarren marretara."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+"Eraman aurreneko lerroa zazpigarrenera; eraman bigarren marrako bi zirkulu "
+"hirugarrengora; eta eraman bostgarren marrako aurreneko eta azkenengo "
+"zirkuluak seigarren marrara."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "Hurrengo irudia"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid "Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "Zein da hurrengo irudi logikoa sekuentzian? Erantzun {0}, {1} edo {2}."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+"Aurreneko iruditik goiko zirkulua bi posizio aurreratzen da ordulariaren "
+"norantzan, ezkerreko zirkulua atzerantz posizio bat joaten den bitartean."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "Numeric relation"
+msgstr "Erlazio numerikoa"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:50
+msgid "What number should replace the question mark?"
+msgstr "Zein zenbakik ordeztuko luke galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:54
+msgid "The numbers are related arithmetically."
+msgstr "Zenbakiak aritmetikoki erlazionatuta daude."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:61
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr "{0} taldeko zenbaki bakoitzak {1} batzen du hain zuzen."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:63
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+"Zatitu sekuentzia hiru zenbakiko taldetan. Hirugarren zenbaki bakoitza "
+"aurreneko bi bidertuz lortzen da."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:65
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+"Zatitu sekuentzia hiru zenbakiko taldetan. Hirugarren zenbaki bakoitza "
+"aurrenekoari bigarrengoa kenduz lortzen da."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:42
+msgid "Numeric sequence"
+msgstr "Sekuentzia numerikoa"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:46
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr ""
+"Hurrengo sekuentziak logika bat jarraitzen du. Zein zenbakik ordeztuko luke "
+"galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid "Every number in the sequence is related to the previous one."
+msgstr "Sekuentziako zenbaki bakoitza aurrekoarekin erlazioa dauka."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:57
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+"Sekuentziako zenbaki bakoitza lortzeko aurreko zenbakiari 1 kendu eta "
+"emaitza 2rekin bidertuz lortzen da."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:59
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+"Sekuentziako zenbaki bakoitza lortzeko aurreko zenbakiari 1 gehitu eta "
+"emaitza 3rekin bidertuz lortzen da."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:61
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+"Sekuentziako zenbaki bakoitza lortzeko aurreko zenbakiari 2 kendu eta "
+"emaitza 2rekin bidertuz lortzen da."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "Ostrazismoa"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Zein elementu ez dagokio taldeari? Ez dauka zenbakiak zatitzearekin "
+"zerikusirik. Erantzun {0}, {1}, {2}, {3} edo {4}."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr "Ekuazio bat taldeari dagokion erabakitzeko irizpidea ez da aritmetikoa."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr "Kontutan izan taldeko zenbaki bakoitzak zerikusia duten bi zati dituztela."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+"Beste ekuazio guztietan ezker aldeko digituak eskuineko aldean ere agertu "
+"beharko lukete."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr ""
+"Beste zenbaki guztietan azken hiru digitoak aurreneko bi digitoen karratuak "
+"dira."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Margolari guztiak artistak badira, eta Bartzelonako hiritar batzuk artistak "
+"badira, hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "Bartzelonako hiritar batzuk margolariak dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "Bartzelonako hiritar guztiak margolariak dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "Bartzelonan ez dago hiritarrik margolaria denik"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "Aukera hauetatik bat bera ere ez"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Gaixorik dauden artistak ez badira zoriontsu, eta artista batzuk zoriontsu "
+"badira, hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "Artista batzuk ez daude gaixorik"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "Margotzaile batzuk ez dira artistak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "Artista guztiak zoriontsuak dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Bidaiatzen duen jendeak beti erosten du mapa bat. Zu ez zoaz bidaiatzera. "
+"Hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "Ez daukazu maparik"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "Ez duzu maparik erosi"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "All people have a map"
+msgstr "Jende guztiak mapa bat dauka"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Txistu-hotsa jotzen baduzu zoriontsu zarenean, eta txistu-hotsa jotzean beti "
+"irribarrea egiten baduzu, hauetariko zein ondorio da zuzena? Erantzun {0}, "
+"{1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "Irribarrea egin duzu zoriontsu zaudenean"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "Zoriontsu zaude soilik txistu-hotsa jotzen baduzu"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "Txistu-hotsa jotzen duzu soilik zoriontsu ez zarenean"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:88
+#, csharp-format
+msgid ""
+"If your course is always honest and your course is always the best policy, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Zure helburua beti bada zintzoa izatea , eta zure helburua beti bada "
+"politika onena, hauetariko zein sententzia da zuzena? Erantzun {0}, {1}, {2} "
+"edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Honesty is sometimes the best policy"
+msgstr "Batzuetan zintzotasuna da politikarik egokiena"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:91
+msgid "Honesty is always the best policy"
+msgstr "Zintzotasuna da beti politikarik egokiena"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:92
+msgid "Honesty is not always the best policy"
+msgstr "Zintzotasuna ez da beti politikarik egokiena"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:93
+msgid "Some of the best policies are dishonest"
+msgstr "Politika hoberenetariko batzuk tranpatiak dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:96
+#, csharp-format
+msgid ""
+"If no old misers are cheerful and some old misers are thin, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Diruzale zaharrak ez badira alaiak eta diruzale zahar batzuk argalak badira, "
+"hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:98
+msgid "Some thin people are not cheerful"
+msgstr "Pertsona argal batzuk ez dira alaiak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:99
+msgid "Thin people are not cheerful"
+msgstr "Pertsona argalak ez dira alaiak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:100
+msgid "Cheerful people are not thin"
+msgstr "Pertsona alaiak ez dira argalak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:101
+msgid "Some cheerful people are not thin"
+msgstr "Pertsona alai batzuk ez dira argalak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:104
+#, csharp-format
+msgid ""
+"If all pigs are fat and nothing that is fed on barley-water is fat, which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Txerri batzuk lodiak badira eta garagardoarekin hazitako bat bera ere ez "
+"bada lodia, hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} edo "
+"{3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:106
+msgid "All animals fed on barley-water are non pigs"
+msgstr "Garagardoarekin hazitako animali guztiak ez dira txerriak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:107
+msgid "No pigs are fed on barley-water"
+msgstr "Ez dago garagardoarekin hazitako txerririk"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:108
+msgid "Pigs are not fed on barley-water"
+msgstr "Txerriak ez dira garagardoarekin hazten"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:109
+msgid "All the other options"
+msgstr "Beste aukera guztiak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:112
+#, csharp-format
+msgid ""
+"If some pictures are first attempts and no first attempts are really good, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Irudi batzuk aurreneko saiakerakoak badira eta aurreneko saiakerakorik ez "
+"bada benetan ona, hauetariko zein ondorio da zuzena? Erantzun {0}, {1}, {2} "
+"edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:114
+msgid "Some bad pictures are not first attempts"
+msgstr "Irudi txarretako batzuk ez dira aurreneko saiakerakoak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:115
+msgid "Some pictures are not really good"
+msgstr "Irudi batzuk ez dira benetan onak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:116
+msgid "All bad pictures are first attempts"
+msgstr "Okerreko irudi guztiak aurreneko saiakerakoak dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:117
+msgid "All the others"
+msgstr "Beste guztiak"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:120
+#, csharp-format
+msgid ""
+"If you have been out for a walk and you are feeling better, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Ibiltzera irten eta hobeto sentitzen bazara, hauetariko zein sententzia da "
+"zuzena? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:122
+msgid "To feel better, you must go out for a walk"
+msgstr "Hobeto sentitzeko, joan zaitez ibiltzera"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:123
+msgid "If you go out for a walk, you will feel better"
+msgstr "Ibiltzera joaten bazara, hobeto sentituko zara"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:124
+msgid "Some who go out for a walk feel better"
+msgstr "Ibiltzera joaten direnetatik batzuk hobeto sentitzen dira"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:125
+msgid "No one feels better who does not go out for a walk"
+msgstr "Ibiltzera joan ez direnetatik ez dago hobeto sentitzen denik"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:130
+msgid "Predicate Logic"
+msgstr "Predikatu logikoa"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "Arkatza"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Honako irudien artetik zein ezin da marraztu aurreko marrak gurutzatu gabe "
+"edo arkatza igo gabe? Erantzun {0}, {1}, {2}, {3} edo {4}."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "Jendea mahaian"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"Mahai borobil baten inguruan pertsona talde bat eserita dago, distantzia "
+"berdinarekin bananduta. Zenbat pertsona daude eserita {0} pertsona {1} "
+"pertsonaren aurrean eserita badago?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"Bi posizio kenduz, mahai erdian zenbat pertsona dauden aurki dezakezu. "
+"Zenbaki hau bikoiztuz pertsonen kopuru osoa lortuko duzu."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "5."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "19."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "4."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "12."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "9."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "22."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "Bi pertsona mahaian eserita bata bestearen aurrean"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "Ehunekoa"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+"% {0} deskontua lortu ondoren, {1} euro ordaindu dituzu TB bategatik. Zein "
+"zen TBren jatorrizko salneurria?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:96
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+"Uribarriren dendak {0} eurotako salmentak egin ditu. Azken hilabetearekiko % "
+"{1} handiagotu dira salmentak. Zenbatekoa izan zen igarotako hilabeteko "
+"salmentak?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:112
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+"Treska bateko ur kopurua % {0}ean gutxiagotu da. Uraren kopurua zenbateko "
+"ehunekotan handiagotu beharko da jatorrizko mailara iristeko?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:115
+msgid "The objective is to obtain the same total amount."
+msgstr "Helburua osoko kopuru berdina lortzea da."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "Lau aldekoa"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr ""
+"Hauetariko zein irudi ez dagokio taldeari? Erantzun {0}, {1}, {2}, {3}, {4} "
+"edo {5}."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "Marra guztiak luzera berdinekoak dituen irudi bakarra dago."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:159
+msgid "Related numbers"
+msgstr "Antzeko zenbakiak"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:163
+msgid "In the matrix below, which number should replace the question mark?"
+msgstr "Azpiko matrizean zein zenbakik ordeztuko luke galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:174
+msgid ""
+"The number on the middle in every row is equal to half of the sum of the "
+"other numbers of the row."
+msgstr ""
+"Errenkada bakoitzeko erdian dagoen zenbakia errenkadako beste zenbakien "
+"batuketaren erdiaren berdina da."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:176
+msgid ""
+"The number on the middle in every row is equal the sum of the other numbers "
+"of the row."
+msgstr ""
+"Errenkada bakoitzeko erdian dagoen zenbakia errenkadako beste zenbakien "
+"batuketaren berdina da."
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:178
+msgid ""
+"The number on the middle in every row is equal to the double of the sum of "
+"the other numbers of the row."
+msgstr ""
+"Errenkada bakoitzeko erdian dagoen zenbakia errenkadako beste zenbakien "
+"batuketaren bikoitzaren berdina da."
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:204
+msgid "Square with dots"
+msgstr "Karratua puntuekin"
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:209
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+"Zein da irudiaren hizkia sekuentziako hurrengo irudi logikoa adierazteko? "
+"Erantzun {0}, {1} edo {2}."
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "Karratuak eta hizkiak"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"Karratuen inguruko hizkiek logika bat jarraitzen dute. Zein hizkik ordeztuko "
+"luke azken karratuko galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+"Hizki bakoitza kalkulatzeko aurreko karakterearen posizio alfabetikoa hartu "
+"eta {0} gehitzen zaio hizki berriaren posizioa lortzeko."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr "Karratuak"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "Zenbat edozein tamainako karratu daude azpiko irudian?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+"Karratu bat laukizuzen bat da alde guztiak luzera berdinarekin. Karratu bat "
+"beste karratu batzuekin ere sor daiteke."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"16 karratu bakun daude, 4 karratu bakunekin sortutako 9 karratu, 9 karratu "
+"bakunekin sortutako 4 karratu eta 16 karratu bakunekin sortutako karratu 1."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"9 karratu bakun daude, 4 karratu bakunekin sortutako 4 karratu, eta 9 "
+"karratu bakunekin sortutako karratu 1."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr "Karratuen orriak"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+"Zein da karratuen gutxieneko (edozein paper tamainako) orri kopurua irudia "
+"sortzeko? Marrek orrien arteko mugak adierazten dute."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr "Orriak gainjarri daitezke."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr ""
+"Irudiko zenbakiek orri bakoitzak estaltzen duen area desberdinak adierazten "
+"dute."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr "Tetris"
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr "Zein irudik osatzen du azpiko sekuentzia? Erantzun {0}, {1} edo {2}."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+"Lau blokekin konbinazio posible guztiak betetzen dituen irudia da, biraketak "
+"kontutan hartu gabe."
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr "Oraingo ordua"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+"Duela {0} ordu egun berdineko {1:h tt}(r)etatik bezain urrun zegoen {2:h tt}"
+"(r)etatik. Zer ordu da orain? Erantzun ordua erabiliz (adib: {3:h tt})"
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+"Emandako orduen distantzia berdina duen ordua kalkulatu behar duzu, eta gero "
+"{0} ordu gehitu uneko denborara bihurtzeko."
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:h tt}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr "Ordulariaren lagina"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+msgid "Trains"
+msgstr "Trenak"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr "Distantziaren formula honakoa 'distantzia = abiadura x denbora' da"
+
+#. Translators:
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#. / - The translated string should not use more characters than the original sentence
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+"Tren batek geltokia uzten du {0} km/o abiadurarekin. Ordu {1} beranduago, "
+"bigarren tren bat irtetzen da geltokitik norabide berdinean {2} km/o "
+"abiadurarekin. Zenbat ordu igaroko dira bigarren trenak aurreneko harrapatu "
+"arte?"
+msgstr[1] ""
+"Tren batek geltokia uzten du {0} km/o abiadurarekin. {1} ordu beranduago, "
+"bigarren tren bat irtetzen da geltokitik norabide berdinean {2} km/o "
+"abiadurarekin. Zenbat ordu igaroko dira bigarren trenak aurreneko harrapatu "
+"arte?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+msgid ""
+"You can calculate the answer multiplying the speed of the first train by the "
+"time and dividing it by the difference of speeds."
+msgstr ""
+"Erantzuna kalkula dezakezu aurreneko trenaren abiadura denborarekin bidertuz "
+"eta abiaduren arteko diferentziarekin zatituz."
+
+#. Translators:
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:102
+#, csharp-format
+msgid ""
+"Two trains separated by {0} mile are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgid_plural ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr[0] ""
+"Bi trenen artean kilometro {0}eko distantzia dago, eta bata bestearengana "
+"zuzentzen da trenbide paralelo zuzenetan. Bata {1} km/o doa, bestea berriz "
+"{2} km/o. Zenbat ordu igaroko dira elkar aurkitu arte?"
+msgstr[1] ""
+"Bi trenen artean {0} kilometroko distantzia dago, eta bata bestearengana "
+"zuzentzen da trenbide paralelo zuzenetan. Bata {1} km/o doa, bestea berriz "
+"{2} km/o. Zenbat ordu igaroko dira elkar aurkitu arte?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:129
+msgid "You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr ""
+"Erantzuna kalkula dezakezu haien arteko distantzia bien abiaduren "
+"batuketarekin zatituz."
+
+#. Translators:
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:124
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} mile apart?"
+msgid_plural ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr[0] ""
+"Bi trenek trenbide paralelo zuzenetan puntu berdinetik ateratzen dira "
+"norabide elkarrekiko alderantzizko norabidean, {0} eta {1} km/o "
+"abiadurarekin urrenez urren. Zenbat ordu igaroko dira elkarrengandik km {2}"
+"etara egoteko?"
+msgstr[1] ""
+"Bi trenek trenbide paralelo zuzenetan puntu berdinetik ateratzen dira "
+"norabide elkarrekiko alderantzizko norabidean, {0} eta {1} km/o "
+"abiadurarekin urrenez urren. Zenbat ordu igaroko dira elkarrengandik {2} km-"
+"tara egoteko?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "Triangeluak"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "Zenbat edozein tamainatako triangelu daude azpiko irudian?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "Triangelu bat beste baten barruan kapsulatuta egon daiteke."
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr "Triangeluak honako puntuak konektatuz sor daitezke: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr "Triangeluak zenbakiekin"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "Zein zenbakik ordeztuko luke azpiko galdera ikurra?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+"Triangelu guztiak propietate bat partekatzen dute eta besteengandik "
+"independenteak dira."
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr "Triangelu bakoitzeko bi zenbaki bidertzearen emaitza {0} da."
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "Margotutako irudiak"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid "Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "Irudi hauetariko zein erakutsi da lehenago? Erantzun {0}, {1}, {2} edo {3}."
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "Margotutako testua"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "Zein kolore dauka '{0} esan duen testuak?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "Puntuak zenbatzea"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid "How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr ""
+"Zenbat {0} koloreko puntu zeuden aurreko irudian? Erantzun zenbakiak "
+"erabiliz."
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr "Memorizatu egitateak"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} day production halt next month, but "
+"before that it had not cut production since {1}."
+msgid_plural ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr[0] ""
+"Kotxe Distiratsuak datorren hilean ekoizpenaren egun {0}eko geldiunea izango "
+"duela jakinarazi du, hori baino lehenago ordea ez du ekoizpena {1}.(e)tik "
+"eten."
+msgstr[1] ""
+"Kotxe Distiratsuak datorren hilean ekoizpenaren {0} egunetako geldiunea "
+"izango duela jakinarazi du, hori baino lehenago ordea ez du ekoizpena {1}.(e)"
+"tik eten."
+
+#: ../src/Games/Memory/MemoryFacts.cs:112
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "Zenbat egunetan etengo du Kotxe Distiratsuak bere ekoizpena?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:113
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr "Zein urtetan eten zuen Kotxe Distiratsuak bere ekoizpena?"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:121
+#, csharp-format
+msgid "Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+"Kotxe Distiratsuaren salmentak % {0} erori ziren igarotako abenduan, "
+"jaitsierarik txarrena {1}.(e)tik."
+
+#: ../src/Games/Memory/MemoryFacts.cs:123
+msgid "By how much did company sales fall last December?"
+msgstr "Azken abenduan salmentak zenbatean gutxiagotu ziren?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:124
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr "Zein urtetan izan zuen Kotxe Distiratsuak salmenta baxuagoa abenduan baino?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr ""
+"Mundu osoan ekoiztutako Kotxe Distiratsuaren % {0} inguruan Europan saltzen "
+"da."
+
+#: ../src/Games/Memory/MemoryFacts.cs:131
+msgid "What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr "Mundu osoan ekoiztutako Kotxe Distiratsuen ehuneko zenbat saltzen da Europan?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+"Kotxe Distiratsuen % {0}(e)k gasolioa erabiltzen du, % {1}(e)k gasolina eta "
+"beste guztiak elektrizitatea."
+
+#: ../src/Games/Memory/MemoryFacts.cs:139
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "Kotxe Distiratuen ehunekoaren zenbatekoak erabiltzen du gasoleoa?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:140
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "Kotxe Distiratuen ehunekoaren zenbatekoak erabiltzen du gasolina?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memorize figures"
+msgstr "Memorizatu irudiak"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr ""
+"Zein gelaxkatan dago azpian erakutsitako irudiaren antzekoa? Erantzun "
+"gelaxkaren zenbakia."
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "Triangelua"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+msgid "Square"
+msgstr "Karratua"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+msgid "Pentagon"
+msgstr "Pentagonoa"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "Zirkulua"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "Memorizatu irudiak eta testua"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+"Azpiko zerrendak aurreko irudian zeuden irudiak zenbatzen ditu, bat izan "
+"ezik. Zein da falta den irudia? Erantzun posibleak triangelua, karratua, "
+"pentagonoa eta zirkulua dira."
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr "Irudiak zenbakiekin"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid "Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "Karratu hauetariko zein erakutsi da lehenago? Erantzun {0}, {1} ,{2} edo {3}."
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "Hasi {0} zenbakidun puntuan"
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "Mugitu eskuinera"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "Mugitu ezkerrera"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "Mugitu gora"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "Mugitu behera"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr "Amaitu {0} puntuan"
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr "Memorizatu argibideak"
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Grafiko hauetariko zeinek adierazten du aurreko argibidea? Erantzun {0}, "
+"{1}, {2} edo {3}."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr "Zenbat zenbaki bakoiti zeuden aurreko irudian? Erantzun zenbakiak erabiliz."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr "Zenbat zenbaki bikoiti zeuden aurreko irudian? Erantzun zenbakiak erabiliz."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+"Zenbat zenbaki daude aurreko irudian digitu bat baino gehiagorekin? Erantzun "
+"zenbakiak erabiliz."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "Memorizatu zenbakiak"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "Memorizatu hitzak"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "Hitz bat falta da aurreko zerrendan. Zein da falta den hitza?"
+
+#. Body parts
+#: ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "eskumuturra"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "ukondoa"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "besapea"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "eskua"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "bularra"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "sardina"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "amuarraina"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "zapoa"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "bakailaoa"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "izokina"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "patata"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "jengibrea"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "piperra"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "baratxuria"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "kalabaza"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "balazta"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "pedala"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "katea"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "gurpila"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "eskulekua"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "danborjolea"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "bozgorailua"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "hitzak"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "konpasa"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "abestia"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "hodeia"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "euria"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "ekaitza"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "lainoa"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "ortzadarra"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "untxia"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "sagua"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "tximua"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "hartza"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "otsoa"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "Aritmetika"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "Zein da eragiketa aritmetiko honen emaitza?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "Batez bestekoa"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+"Zenbakiak emanda: {0}. Hurrengo zenbakietatik, zein dago batez bestekotik "
+"hurbilen? Erantzuna {1}, {2}, {3} edo {4}."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+"Zenbakien zerrenda bateko batez bestekoa zenbaki guztien batuketa zerrendako "
+"elementuen kopuruarekin zatituz lortzen da."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "Eragiketaren emaitza {0:##0.###} da."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "Zatiki hurbilena"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr ""
+"Hurrengo zenbakietatik, zein dago  {0:##0.###}-ren hurbilen? Erantzuna {1}, "
+"{2}, {3} edo {4}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "{0} / {1} eragiketaren emaitza {2:##0.###} da"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "Zatikiak"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr ""
+"Zein da eragiketa honen emaitza? Erantzun dezakezu zatiki edo zenbaki bat "
+"erabiliz."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "Zatitzaile handiena"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid "Which of the possible divisors is the greatest that divides all numbers?"
+msgstr ""
+"Zatitzaile guztien artean zein da zenbaki guztien zatitzaile den zenbakirik "
+"handiena?"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:240
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr "Zenbakiak"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:254
+msgid "Possible divisors"
+msgstr "Zatitzaile posibleak"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+msgid "Operators"
+msgstr "Eragileak"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "Lehenengo eragilea {0} da."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr ""
+"Zein eragilek egiten dute {0}, {1}, eta {2}, {3} ematea? Erantzun '+-/*' "
+"erabiliz."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} eta {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "Lehenak"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr ""
+"Azpiko zenbakien multzoan, honako zenbakien artean zein da lehena? Zenbaki "
+"lehena osoko zenbaki positibo bat da, eta soilik bi zatitzaile positibo "
+"ditu: 1 eta bere burua."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+"Emandako zenbaki baten digitu guztien batura 3rekin zatitu badaiteke, orduan "
+"hori da zenbakia. Adibidez, 15 = 1 + 5 = 6, eta hau 3rekin zati daiteke."
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "Proportzioak"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "Zer da {1}/{2}(r)en %{0}a? Erantzun {3}, {4}, {5} edo {6}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "Erlazioa"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"{0} batzen duten bi zenbakik {1}/{2} erlazioa dute. Zein dira zenbaki hauek? "
+"Erantzun bi zenbaki erabiliz (adib.: 1 eta 2)."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+"Bigarrengo zenbakia aurrenekoa {0} balioarekin bidertu eta {1} balioarekin "
+"zatituz kalkulatzen da."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+"Erlazio batek bi zenbakien arteko proportzioa zehazten du. 'a:b' erlazio "
+"batek zera adierazten du: 'a' zati bakoitzeko 'b' zati daudela."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr "x + y = {0}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "{0}:{1} erlazioa du"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "Bi zenbaki"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Zein bi zenbaki batu eta gero {0} ematen dute eta bidertu ondoren {1}? "
+"Erantzun bi zenbaki erabiliz (adib.: 1 eta 2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Zein bi zenbaki kendu eta gero {0} ematen dute eta bidertu ondoren {1}? "
+"Erantzun bi zenbaki erabiliz (adib.: 1 eta 2)."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, csharp-format
+msgid "x - y = {0}"
+msgstr "x - y = {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr "x * y = {0}"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "Joko eta hezitzaile guztiak (logika, buruzko kalkulua eta memoria)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "Erantzuna:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "Joko pertsonalizatuaren hautapena..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Export Games to PDF for Off-line Playing..."
+msgstr "Esportatu jokoak PDFra lineaz kanpo jokatzeko..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "Extensions"
+msgstr "Hedapenak"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "How to Extend gbrainy's Functionality"
+msgstr "Nola zabaldu Gbrainy-ren funtzionalitateak?"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Logic Puzzles Only"
+msgstr "Logikako puzzleak soilik"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Memory Trainers Only"
+msgstr "Memoria hezitzaileak soilik"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Mental Calculation Trainers Only"
+msgstr "Buruzko kalkuluen hezitzaileak soilik"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Toolbar"
+msgstr "Tresna-barra"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "Verbal Analogies Only"
+msgstr "Hizketako analogiak soilik"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_Contents"
+msgstr "_Edukia"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_End Game"
+msgstr "Joko-_amaiera"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Game"
+msgstr "_Jokoa"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_Help"
+msgstr "_Laguntza"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_New Game"
+msgstr "Joko _berria"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Next"
+msgstr "_Hurrengoa"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Pause Game"
+msgstr "_Pausatu jokoa"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Settings"
+msgstr "_Ezarpenak"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_Tip"
+msgstr "_Aholkua"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "_View"
+msgstr "_Ikusi"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr "<b>Hautatu gehigarriak instalatzeko eta egin klik Hurrengoan</b>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>Gehigarrien kudeatzailea</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "Gehigarria"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "Gehigarrien mendekotasunak:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "Gehigarrien instalazioa"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "Gehigarrien kudeatzailea"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "Hedapen gehigarriak behar dira eragiketa hau lantzeko."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "Erregistratutako biltegi guztiak"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "Egilea:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "Copyright-a:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "Desgaitu"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "Gaitu"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "Instalatu hemendik:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "Izena"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "Bestelakoa"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "Bide-izena:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "Erregistratu biltegi lokala"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "Erregistratu lineako biltegia"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "Biltegia"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "Hautatu _denak"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "Hautatu erregistratzea nahi duzun biltegiaren kokalekua:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "Erakutsi pakete guztiak"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "Erakutsi bertsio berriak soilik"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "Erakutsi eguneraketak soilik"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "Unean instalatuta dauden gehigarriak:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "Instalatuko diren gehigarriak:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "URLa"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "URLa:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "Bertsioa"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "Bertsioa:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "_Instalatu gehigarriak..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "_Biltegiak..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "_Desinstalatu..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "_Desinstalatu denak"
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="hi">
+  <info>
+    <title type="sort">३</title>
+    <desc>कौन से प्रकार के खेल आप खेल सकते हैं </desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>खेल के प्रकार</title>
+
+  <p><app>जी बरैनी </app>खेल के निम्नलिखित प्रकार प्रदान करता है:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>तर्क पहेलियाँ</title>
+          <p>
+            Games designed to challenge your reasoning and thinking skills. These 
+            games are based on sequences of elements, visual and spatial reasoning 
+            or relationships between elements.
+          </p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>तर्क खेल की लोगो</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>मानसिक गणना</title>
+          <p>
+            Games based on arithmetical operations designed to improve your mental 
+            calculation skills. Games that require the player to use multiplication, 
+            division, addition and subtraction combined in different ways.
+          </p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>गणना खेल की लोगो</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>स्मृति प्रशिक्षकों</title>
+          <p>
+            Games designed to challenge your short-term memory. These games show 
+            collections of objects and ask the player to recall them, sometimes 
+            establishing relationships between figures, words, numbers or colors.
+          </p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>स्मृति खेल की लोगो</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>मौखिक समानता</title>
+          <p>
+            Games that challenge your verbal aptitude. These games ask the player to 
+            identify cause and effect, use synonyms or antonyms, and use their vocabulary.
+          </p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>मौखिक समानता खेल की लोगो</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

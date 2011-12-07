@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Feladványmegjelenítési idő módosítása a memóriajátékokban.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>A feladvány hosszának módosítása</title>
+  <p>A memóriajátékokban a feladvány megjegyzésére kapott másodpercek számának módosításához tegye a következőket:</p>
+  <steps>
+    <item>
+      <p>Válassza a <guiseq><gui style="menu">Beállítások</gui><gui style="menuitem">Beállítások</gui></guiseq> menüpontot.</p>
+    </item>
+    <item>
+      <p>A <gui>Memóriajátékok</gui> szakaszban a léptetőgomb használatával növelje vagy csökkentse a feladat memorizálására adott időt megadó másodpercek számát.</p>
+      <p>Az alapértelmezett érték 6 másodperc.</p>
+    </item>
+  </steps>
+</page>

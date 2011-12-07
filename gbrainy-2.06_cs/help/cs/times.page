@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="cs">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Jak změnit dobu zobrazení úkolu v paměťových hrách.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Změna doby zobrazení úkolu</title>
+  <p>Pokud chcete změnit počet sekund, které máte dané na zapamatování úkolu, když hrajete paměťové hry, postupujte následovně:</p>
+  <steps>
+    <item>
+      <p>Zvolte <guiseq><gui style="menu">Natavení</gui><gui style="menuitem">Předvolby</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>V části <gui>Paměťové hry</gui> použijte číselník ke zvýšení nebo snížení počtu sekund, po které je úkol zobrazen.</p>
+      <p>Výchozí hodnota je 6 sekund.</p>
+    </item>
+  </steps>
+</page>

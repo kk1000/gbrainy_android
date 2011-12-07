@@ -1,0 +1,1003 @@
+# Hungarian translation of gbrainy_help
+# Copyright (C) 2011. Free Software Foundation, Inc.
+# This file is distributed under the same license as the gbrainy package.
+#
+# Gabor Kelemen <kelemeng at gnome dot hu>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy_help master\n"
+"POT-Creation-Date: 2011-08-02 12:39+0000\n"
+"PO-Revision-Date: 2011-08-02 14:41+0200\n"
+"Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
+"Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: C/export.page:7(desc)
+msgid "Export the games for playing off-line."
+msgstr "Játékok exportálása számítógép nélküli játékhoz."
+
+#: C/export.page:10(name) C/times.page:11(name) C/newgame.page:13(name)
+#: C/index.page:14(name) C/gameplay.page:12(name) C/score.page:11(name)
+#: C/multiplayer.page:11(name) C/history.page:9(name)
+#: C/difficulty.page:12(name) C/tips.page:12(name) C/pause.page:12(name)
+#: C/customgame.page:12(name)
+msgid "Milo Casagrande"
+msgstr "Milo Casagrande"
+
+#: C/export.page:11(email) C/times.page:12(email) C/newgame.page:14(email)
+#: C/index.page:15(email) C/gameplay.page:13(email) C/score.page:12(email)
+#: C/multiplayer.page:12(email) C/history.page:10(email)
+#: C/difficulty.page:13(email) C/tips.page:13(email) C/pause.page:13(email)
+#: C/customgame.page:13(email)
+msgid "milo@ubuntu.com"
+msgstr "milo@ubuntu.com"
+
+#: C/export.page:14(p) C/times.page:15(p) C/newgame.page:17(p)
+#: C/index.page:18(p) C/gameplay.page:16(p) C/score.page:15(p)
+#: C/multiplayer.page:15(p) C/history.page:13(p) C/difficulty.page:16(p)
+#: C/tips.page:16(p) C/pause.page:16(p) C/gametypes.page:12(p)
+#: C/customgame.page:16(p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr "Creative Commons Share Alike 3.0"
+
+#: C/export.page:20(title)
+msgid "Export the games"
+msgstr "Játékok exportálása"
+
+#: C/export.page:21(p)
+msgid ""
+"It is possible to export and then print the games provided by the app for "
+"playing while not at the computer."
+msgstr ""
+"Lehetőség van az alkalmazásban elérhető játékok exportálására és "
+"kinyomtatására, hogy a számítógép nélkül is játszhasson."
+
+#: C/export.page:25(p)
+msgid "The games will be saved in a <file>PDF</file> file in the selected folder."
+msgstr ""
+"A játékok egy <file>PDF</file> fájlba kerülnek mentésre a kiválasztott "
+"mappába."
+
+#: C/export.page:28(p)
+msgid "To export the games:"
+msgstr "A játékok exportálása:"
+
+#: C/export.page:33(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Export "
+"Games to PDF for Off-Line Playing</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Játék</gui><gui style=\"menuitem"
+"\">Játékok PDF-be exportálása papíron való játékhoz</gui></guiseq> "
+"menüpontot."
+
+#: C/export.page:38(p)
+msgid ""
+"Select the type of games, the difficulty level, and how many games to "
+"export. When done click <gui style=\"button\">Save</gui>."
+msgstr ""
+"Válassza ki a játékok típusát, a nehézségi szintet, és az exportálandó "
+"játékok számát. Ha kész, nyomja meg a <gui style=\"button\">Mentés</gui> "
+"gombot."
+
+#: C/times.page:7(desc)
+msgid "Change the challenge presentation time in memory games."
+msgstr "Feladványmegjelenítési idő módosítása a memóriajátékokban."
+
+#: C/times.page:19(title)
+msgid "Change the challenge duration"
+msgstr "A feladvány hosszának módosítása"
+
+#: C/times.page:20(p)
+msgid ""
+"To change the number of seconds you are given to memorize the challenge when "
+"playing memory games, proceed as follows:"
+msgstr ""
+"A memóriajátékokban a feladvány megjegyzésére kapott másodpercek számának "
+"módosításához tegye a következőket:"
+
+#: C/times.page:26(p) C/difficulty.page:26(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem"
+"\">Preferences</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Beállítások</gui><gui style=\"menuitem"
+"\">Beállítások</gui></guiseq> menüpontot."
+
+#: C/times.page:31(p)
+msgid ""
+"In the <gui>Memory Games</gui> section, use the spin box to increase or "
+"decrease the number of seconds that the challenge will be visible for."
+msgstr ""
+"A <gui>Memóriajátékok</gui> szakaszban a léptetőgomb használatával növelje "
+"vagy csökkentse a feladat memorizálására adott időt megadó másodpercek "
+"számát."
+
+#: C/times.page:35(p)
+msgid "The default value is 6 seconds."
+msgstr "Az alapértelmezett érték 6 másodperc."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:57(None)
+msgid "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+msgstr "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:76(None) C/gametypes.page:36(None)
+msgid "@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+msgstr "@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:95(None) C/gametypes.page:57(None)
+msgid "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+msgstr "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:114(None) C/gametypes.page:78(None)
+msgid "@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+msgstr "@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:133(None) C/gametypes.page:98(None)
+msgid "@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+msgstr "@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+
+#: C/newgame.page:6(title)
+msgid "1"
+msgstr "1"
+
+#: C/newgame.page:9(desc)
+msgid "Start and play a game."
+msgstr "Játék indítása és játszása."
+
+#: C/newgame.page:21(title)
+msgid "Game session"
+msgstr "Játék folyamata"
+
+#: C/newgame.page:24(title)
+msgid "Start a new session"
+msgstr "Új játék indítása"
+
+#: C/newgame.page:25(p)
+msgid "To start a new game, do one of the following:"
+msgstr "Új játék indításához tegye a következők egyikét:"
+
+#: C/newgame.page:30(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui></guiseq>, and select the type of game to play."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Játék</gui><gui style=\"menuitem\">Új "
+"játék</gui></guiseq> menüpontot, és válassza ki a kívánt játék típusát."
+
+#: C/newgame.page:36(p)
+msgid "Click on one of the buttons in the toolbar."
+msgstr "Kattintson az eszköztár egyik gombjára."
+
+#: C/newgame.page:41(p)
+msgid "The toolbar buttons have the following meanings:"
+msgstr "Az eszköztár gombjai a következőket jelentik:"
+
+#: C/newgame.page:49(title)
+msgid "All"
+msgstr "Mindegyik"
+
+#: C/newgame.page:50(p)
+msgid "Starts a new game playing all the available game types."
+msgstr "Új játék az összes elérhető játéktípussal."
+
+#: C/newgame.page:58(p)
+msgid "All games button"
+msgstr "Minden játék gomb"
+
+#: C/newgame.page:68(title)
+msgid "Logic"
+msgstr "Logika"
+
+#: C/newgame.page:69(p)
+msgid "Start a new game playing only logic games."
+msgstr "Új játék csak a logikai játékokkal."
+
+#: C/newgame.page:77(p)
+msgid "Logic games button"
+msgstr "Logikai játékok gomb"
+
+#: C/newgame.page:87(title)
+msgid "Calculation"
+msgstr "Számolás"
+
+#: C/newgame.page:88(p)
+msgid "Starts a new game playing only calculation games."
+msgstr "Új játék csak a számolási játékokkal."
+
+#: C/newgame.page:96(p)
+msgid "Calculation games button"
+msgstr "Számolási játékok gomb"
+
+#: C/newgame.page:106(title)
+msgid "Memory"
+msgstr "Memória"
+
+#: C/newgame.page:107(p)
+msgid "Starts a new game playing only memory games."
+msgstr "Új játék csak a memóriajátékokkal."
+
+#: C/newgame.page:115(p)
+msgid "Memory games button"
+msgstr "Memóriajátékok gomb"
+
+#: C/newgame.page:125(title)
+msgid "Verbal"
+msgstr "Verbális"
+
+#: C/newgame.page:126(p)
+msgid "Starts a new game playing only verbal analogy games."
+msgstr "Új játék csak a verbális analógia játékokkal."
+
+#: C/newgame.page:134(p)
+msgid "Verbal games button"
+msgstr "Verbális játékok gomb"
+
+#: C/newgame.page:142(p)
+msgid ""
+"These descriptions also apply to the game types that you can select from the "
+"<gui style=\"menu\">Game</gui> menu."
+msgstr ""
+"Ezek a leírások érvényesek a <gui style=\"menu\">Játék</gui> menüből "
+"kiválasztható játéktípusokra is."
+
+#: C/newgame.page:149(title)
+msgid "Play a session"
+msgstr "A játék folyamata"
+
+#: C/newgame.page:151(p)
+msgid "When you play a game, always read the instructions carefully!"
+msgstr "Játék közben mindig körültekintően olvassa el az utasításokat!"
+
+#: C/newgame.page:155(p)
+msgid ""
+"The game session begins by showing you the problem and then asking for the "
+"answer. At the bottom of the window is the main set of controls that you can "
+"use to interact with the game."
+msgstr ""
+"A játék a feladvány megjelenítésével kezdődik, majd a válasz bekérésével "
+"folytatódik. Az ablak alján található a vezérlőelemek csoportja, amelyekkel "
+"a játékot kezelheti."
+
+#: C/newgame.page:159(p)
+msgid ""
+"Once you know the answer to the problem, type it in the <gui style=\"input"
+"\">Answer</gui> text entry and press <gui style=\"button\">OK</gui>."
+msgstr ""
+"Ha úgy érzi, tudja a választ a feladatra, írja be azt a <gui style=\"input"
+"\">Válasz</gui> mezőbe, és nyomja meg az <gui style=\"button\">OK</gui> "
+"gombot."
+
+#: C/newgame.page:163(p)
+msgid "To proceed to the next game, click <gui style=\"button\">Next</gui>."
+msgstr ""
+"A következő feladatra lépéshez használja a <gui style=\"button\">Következő</"
+"gui> gombot."
+
+#: C/newgame.page:167(p)
+msgid ""
+"If you click <gui style=\"button\">Next</gui> before completing the game, or "
+"without providing an answer, that game will be counted in your results."
+msgstr ""
+"Ha a <gui style=\"button\">Következő</gui> gombot a játék befejeződése "
+"előtt, vagy válasz megadása nélkül nyomja meg, a játék akkor is be lesz "
+"számítva az eredményeibe."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/index.page:23(None)
+msgid "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+msgstr "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+
+#: C/index.page:7(title) C/index.page:8(title) C/index.page:11(title)
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: C/index.page:12(desc)
+msgid "The <app>gbrainy</app> help."
+msgstr "A <app>gbrainy</app> súgója."
+
+#: C/index.page:22(title)
+msgid ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logo</media> gbrainy"
+msgstr ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logó</media> gbrainy"
+
+#: C/index.page:28(title)
+msgid "Basic Gameplay &amp; Usage"
+msgstr "Alapvető játékmenet és használat"
+
+#: C/index.page:32(title)
+msgid "Multiplayer Game"
+msgstr "Több résztvevős játék"
+
+#: C/index.page:36(title)
+msgid "Tips &amp; Tricks"
+msgstr "Tippek és trükkök"
+
+#: C/gameplay.page:7(desc)
+msgid "Introduction to <app>gbrainy</app>."
+msgstr "A <app>gbrainy</app> bemutatása."
+
+#: C/gameplay.page:20(title)
+msgid "Gameplay"
+msgstr "Játékmenet"
+
+#: C/gameplay.page:22(p)
+msgid ""
+"<app>gbrainy</app> is a brain teaser game; the aim of the game is to have "
+"fun and keep your brain trained."
+msgstr ""
+"A <app>gbrainy</app> egy agytorna játék, a játék célja a szórakoztatás és az "
+"agytornásztatás."
+
+#: C/gameplay.page:26(p)
+msgid ""
+"It features different game types like logic puzzles, mental calculation "
+"games, memory trainers and verbal analogies, designed to test different "
+"cognitive skills."
+msgstr ""
+"A különböző játéktípusokat (mint a logikai fejtörők, fejszámolásos játékok, "
+"memóriaedzők és verbális analógiák) különböző kognitív képességek "
+"tesztelésére tervezték."
+
+#: C/gameplay.page:30(p)
+msgid ""
+"You can choose different difficulty levels making <app>gbrainy</app> "
+"enjoyable for kids, adults or senior citizens. It also features a game "
+"history, personal records, tips and fullscreen mode support. <app>gbrainy</"
+"app> can also be <link href=\"http://live.gnome.org/gbrainy/Extending"
+"\">extended</link> easily with new games developed by third parties."
+msgstr ""
+"Több nehézségi szint közül választhat, így a <app>gbrainy</app> egyaránt "
+"élvezhető gyerekek, felnőttek vagy idősek számára is. Tartalmaz "
+"játékelőzményeket, egyéni rekordokat, tippeket és a teljes képernyős mód is "
+"támogatott. A <app>gbrainy</app> egyszerűen <link href=\"http://live.gnome."
+"org/gbrainy/Extending\">kibővíthető</link> harmadik felek által készített új "
+"játékokkal."
+
+#: C/gameplay.page:37(p)
+msgid ""
+"<app>gbrainy</app> relies heavily on the work of previous puzzle masters, "
+"ranging from classic puzzles from ancient times to more recent works like "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</"
+"link> puzzles or the classic <link href=\"http://en.wikipedia.org/wiki/Dr."
+"_Brain\">Dr. Brain</link> game."
+msgstr ""
+"A <app>gbrainy</app> erősen épít a korábbi fejtörőmesterek munkájára, az ősi "
+"klasszikus fejtörőktől az újabb munkákig, mint <link href=\"http://en."
+"wikipedia.org/wiki/Terry_Stickels\">Terry Stickels</link> fejtörői, vagy a "
+"klasszikus <link href=\"http://en.wikipedia.org/wiki/Dr._Brain\">Dr. Brain</"
+"link> játék."
+
+#: C/gameplay.page:45(p)
+msgid ""
+"There have been recent discussions in the scientific community regarding "
+"whether brain training software improves cognitive performance. Most of the "
+"studies show that there is little or no improvement, but that doesn't mean "
+"you can't have a good time playing games like <app>gbrainy</app>!"
+msgstr ""
+"A tudományos közösségben nemrégiben vita bontakozott ki arról, hogy az "
+"agytornáztató szoftverek fejlesztik-e a kognitív teljesítményt. A legtöbb "
+"tanulmány szerint nincs vagy kicsi a fejlődés, de ez nem jelenti azt, hogy "
+"ne szórakozhatna jól a <app>gbrainy</app>-hez hasonló játékokkal!"
+
+#: C/score.page:8(desc)
+msgid "How the player scores are calculated."
+msgstr "A pontszámok kiszámításának módja."
+
+#: C/score.page:19(title)
+msgid "Game score and timings"
+msgstr "Pontszám és időzítések"
+
+#: C/score.page:20(p)
+msgid "If you answer a puzzle incorrectly, you will not get any score for it."
+msgstr "Ha rosszul válaszol egy fejtörőre, akkor nem kap érte pontot."
+
+#: C/score.page:23(p)
+msgid ""
+"If you answer a puzzle correctly, you will get a score which depends on the "
+"time taken to resolve the problem and whether you used the tip during the "
+"game."
+msgstr ""
+"Ha helyesen válaszol egy fejtörőre, akkor pontokat kap érte, amely a "
+"megoldáshoz felhasznált időtől, és attól függ, hogy használta-e a tippet a "
+"játék során."
+
+#: C/score.page:27(p)
+msgid ""
+"The following table summarizes the different game durations (in seconds) "
+"based on the difficulty level."
+msgstr ""
+"A következő táblázat összefoglalja a különböző játékhosszakat (másodpercben) "
+"a nehézségi szinttől függően."
+
+#: C/score.page:34(p)
+msgid "Easy"
+msgstr "Könnyű"
+
+#: C/score.page:35(p)
+msgid "Medium"
+msgstr "Közepes"
+
+#: C/score.page:36(p)
+msgid "Master"
+msgstr "Mester"
+
+#: C/score.page:39(p) C/gametypes.page:26(title)
+msgid "Logic puzzles"
+msgstr "Logikai fejtörők"
+
+#: C/score.page:40(p)
+msgid "156"
+msgstr "156"
+
+#: C/score.page:41(p)
+msgid "120"
+msgstr "120"
+
+#: C/score.page:42(p)
+msgid "110"
+msgstr "110"
+
+#: C/score.page:45(p)
+msgid "Mental calculation"
+msgstr "Fejszámolás"
+
+#: C/score.page:46(p)
+msgid "78"
+msgstr "78"
+
+#: C/score.page:47(p)
+msgid "60"
+msgstr "60"
+
+#: C/score.page:48(p)
+msgid "55"
+msgstr "55"
+
+#: C/score.page:51(p) C/gametypes.page:68(title)
+msgid "Memory trainers"
+msgstr "Memóriaedzők"
+
+#: C/score.page:52(p) C/score.page:58(p)
+msgid "39"
+msgstr "39"
+
+#: C/score.page:53(p) C/score.page:59(p)
+msgid "30"
+msgstr "30"
+
+#: C/score.page:54(p) C/score.page:60(p)
+msgid "27"
+msgstr "27"
+
+#: C/score.page:57(p) C/gametypes.page:89(title)
+msgid "Verbal analogies"
+msgstr "Verbális analógiák"
+
+#: C/score.page:63(p)
+msgid ""
+"With the expected time for the chosen difficulty level and the time you take "
+"to complete the game, the following logic is applied:"
+msgstr ""
+"A kiválasztott nehézségi szinthez elvárt idő és az Ön által felhasznált idő "
+"alapján a következőképpen kerülnek a pontok kiszámításra:"
+
+#: C/score.page:69(p)
+msgid ""
+"If you take less than the time expected to complete the game, you score 10 "
+"points."
+msgstr "Ha az elvártnál kevesebb idő alatt fejezi be a játékot, akkor 10 pontot kap."
+
+#: C/score.page:74(p)
+msgid ""
+"If you take more than the time expected to complete the game, you score 8 "
+"points."
+msgstr "Ha az elvártnál több idő alatt fejezi be a játékot, akkor 8 pontot kap."
+
+#: C/score.page:79(p)
+msgid ""
+"If you take more than 2x the time expected to complete the game, you score 7 "
+"points."
+msgstr ""
+"Ha az elvártnál kétszer több idő alatt fejezi be a játékot, akkor 7 pontot "
+"kap."
+
+#: C/score.page:85(p)
+msgid ""
+"If you take more than 3x the time expected to complete the game, you score 6 "
+"points."
+msgstr ""
+"Ha az elvártnál háromszor több idő alatt fejezi be a játékot, akkor 6 pontot "
+"kap."
+
+#: C/score.page:91(p)
+msgid "If you use a tip, you score only the 80% of the original score."
+msgstr "Ha használja a tippet, akkor csak az eredeti pontszám 80%-át kapja."
+
+#: C/score.page:98(title)
+msgid "Computing the totals"
+msgstr "Az összesítés kiszámítása"
+
+#: C/score.page:99(p)
+msgid ""
+"<app>gbrainy</app> keeps track of the different games types played. To "
+"compute the final score of every set of game types it sums all the results "
+"of the same game types played and then applies a factor based on: the "
+"logarithm of 10 for the easy level; on the logarithm of 20 for the medium "
+"level; and on the logarithm of 30 for the master level."
+msgstr ""
+"A <app>gbrainy</app> nyilvántartja a lejátszott játéktípusokat. Az egyes "
+"játéktípusok végső pontszámának kiszámításához összeadja az azonos "
+"játéktípusok eredményeit, és ezt szorozza egy tényezővel: könnyű szinten 10 "
+"logaritmusával, közepes szinten 20 logaritmusával, és mester szinten 30 "
+"logaritmusával."
+
+#: C/score.page:106(p)
+msgid ""
+"This means that when playing at medium difficulty level, to get a score of "
+"100 points you need to score 10 points on at least 20 games of every game "
+"type played."
+msgstr ""
+"Ez azt jelenti, hogy közepes nehézségi szinten 100 pont eléréséhez 10 pontot "
+"kell elérnie legalább 20 játékban minden játéktípusban."
+
+#: C/score.page:110(p)
+msgid ""
+"This may sound challenging, but it allows players to compare game scores "
+"from different sessions (in the player's game history) and allows better "
+"tracking of the progression of the player through all of the games played."
+msgstr ""
+"Ez bonyolultnak hangozhat, de lehetővé teszi, hogy a játékosok "
+"összehasonlíthassák a különböző játékokban (adott felhasználó "
+"játékelőzményein belül) elért pontszámaikat, és jobban követhetővé teszi a "
+"játékos fejlődését a végigjátszott játékok során."
+
+#: C/multiplayer.page:7(desc)
+msgid "How to play with other people."
+msgstr "Hogyan játszhat másokkal."
+
+#: C/multiplayer.page:19(title)
+msgid "Play with other people"
+msgstr "Játék másokkal"
+
+#: C/multiplayer.page:21(p)
+msgid ""
+"It is not possible to play against other people over the Internet or a local "
+"network with <app>gbrainy</app>."
+msgstr ""
+"Nem lehet másokkal játszani az interneten vagy helyi hálózaton keresztül a "
+"<app>gbrainy</app>-vel."
+
+#: C/history.page:6(desc)
+msgid "Access your personal game history."
+msgstr "Személyes játékelőzmények elérése."
+
+#: C/history.page:17(title)
+msgid "Personal game history"
+msgstr "Személyes játékelőzmények"
+
+#: C/history.page:19(p)
+msgid ""
+"The <gui>Player's Game History</gui> dialog shows your performance in every "
+"game type during the last few game sessions."
+msgstr ""
+"A <gui>Játékos játékelőzményei</gui> ablak megjeleníti teljesítményét az "
+"összes játéktípusban a legutolsó néhány befejezett játék alapján."
+
+#: C/history.page:25(title)
+msgid "View the games history"
+msgstr "A játékelőzmények megjelenítése"
+
+#: C/history.page:26(p)
+msgid ""
+"To access your personal game history, choose <guiseq><gui style=\"menu"
+"\">View</gui><gui style=\"menuitem\">Player's Game History</gui></guiseq>."
+msgstr ""
+"Személyes játékelőzményei megnyitásához válassza a <guiseq><gui style=\"menu"
+"\">Nézet</gui><gui style=\"menuitem\">Játékos játékelőzményei</gui></guiseq> "
+"menüpontot."
+
+#: C/history.page:33(title)
+msgid "Select which results to show"
+msgstr "Megjelenítendő eredmények kiválasztása"
+
+#: C/history.page:34(p)
+msgid ""
+"To select the results that will be shown in the graphic, use the different "
+"check boxes located under the graph."
+msgstr ""
+"Az ábrán megjelenő eredmények kiválasztásához használja a grafikon alatti "
+"jelölőnégyzeteket."
+
+#: C/history.page:41(title)
+msgid "Change the number of saved games"
+msgstr "Mentett játékok számának módosítása"
+
+#: C/history.page:42(p)
+msgid "<app>gbrainy</app> saves the player's scores so it can track how they evolve."
+msgstr ""
+"A <app>gbrainy</app> elmenti a játékosok pontszámait, így követheti "
+"fejlődésüket."
+
+#: C/history.page:45(p)
+msgid ""
+"In order to change the number of sessions recorded or how many games will be "
+"stored in the history, proceed as follows:"
+msgstr ""
+"A rögzített befejezett játékok számának vagy az előzményekben tárolt játékok "
+"számának módosításához tegye a következőket:"
+
+#: C/history.page:51(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\"> "
+"Preferences</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Beállítások</gui><gui style=\"menuitem"
+"\">Beállítások</gui></guiseq> menüpontot."
+
+#: C/history.page:57(p)
+msgid "In the <gui>Player's Game History</gui> section:"
+msgstr "A <gui>Játékos játékelőzményei</gui> szakaszban:"
+
+#: C/history.page:62(p)
+msgid ""
+"Use the first spin box to change how many game sessions need to be recorded "
+"before you can start to see the results in the history graphic."
+msgstr ""
+"Az első léptetőgomb használatával módosíthatja a rögzítendő befejezett "
+"játékok számát, mielőtt az eredmények megjelennek az előzménygrafikonon."
+
+#: C/history.page:68(p)
+msgid ""
+"Use the second spin box to change how many game sessions will be shown in "
+"the history graphic."
+msgstr ""
+"A második léptetőgomb használatával módosíthatja az előzménygrafikonon "
+"megjelenő befejezett játékok számát."
+
+#: C/difficulty.page:6(title)
+msgid "2"
+msgstr "2"
+
+#: C/difficulty.page:8(desc)
+msgid "Change the difficulty level of the games."
+msgstr "Játékok nehézségi szintjének módosítása."
+
+#: C/difficulty.page:20(title)
+msgid "Difficulty levels"
+msgstr "Nehézségi szintek"
+
+#: C/difficulty.page:21(p)
+msgid "To change the difficulty level of the game, proceed as follows:"
+msgstr "A játék nehézségi szintjének módosításához tegye a következőt:"
+
+#: C/difficulty.page:31(p)
+msgid "In the <gui>Difficulty Level</gui> section, select the desired level."
+msgstr "A <gui>Nehézségi szint</gui> szakaszban válassza ki a kívánt szintet."
+
+#: C/difficulty.page:34(p)
+msgid ""
+"You can choose from three different levels: <gui style=\"radiobutton\">Easy</"
+"gui>, <gui style=\"radiobutton\">Medium</gui>, and <gui style=\"radiobutton"
+"\">Master</gui>. The default level is <gui style=\"radiobutton\">Medium</"
+"gui>."
+msgstr ""
+"Három különböző szint közül választhat: <gui style=\"radiobutton\">Könnyű</"
+"gui>, <gui style=\"radiobutton\">Közepes</gui> és <gui style=\"radiobutton"
+"\">Mester</gui>. Az alapértelmezett szint a <gui style=\"radiobutton"
+"\">Közepes</gui>."
+
+#: C/tips.page:8(desc)
+msgid "Use the tips to solve a puzzle."
+msgstr "Tippek használata a rejtvények megoldására."
+
+#: C/tips.page:20(title)
+msgid "Tips"
+msgstr "Tippek"
+
+#: C/tips.page:21(p)
+msgid ""
+"With some of the games you can play, it is possible to get simple tips that "
+"can help you to solve the problem."
+msgstr "Néhány játék esetén egyszerű tippeket kaphat a probléma megoldásához."
+
+#: C/tips.page:25(p)
+msgid ""
+"When playing a game, click on the <gui style=\"button\">Tip</gui> button at "
+"the bottom of the window (next to the <gui style=\"input\">Answer</gui> text "
+"entry)."
+msgstr ""
+"Játék közben kattintson a <gui style=\"button\">Tipp</gui> gombra az ablak "
+"alján (a <gui style=\"input\">Válasz</gui> mező mellett)."
+
+#: C/tips.page:29(p)
+msgid "This feature is not available for some of the games."
+msgstr "Ez a szolgáltatás nem érhető el egyes játékokhoz."
+
+#: C/pause.page:6(title)
+msgid "4"
+msgstr "4"
+
+#: C/pause.page:9(desc)
+msgid "How to pause or end a game."
+msgstr "Játék szüneteltetésének vagy befejezésének módja."
+
+#: C/pause.page:20(title)
+msgid "Pause/End a game"
+msgstr "Játék szüneteltetése/befejezése"
+
+#: C/pause.page:23(title)
+msgid "Pause and resume a game"
+msgstr "Játék szüneteltetése és leállítása"
+
+#: C/pause.page:24(p)
+msgid ""
+"To pause a game so that you can resume it at the same point at a later time, "
+"perform one of the following:"
+msgstr ""
+"Tegye a következők egyikét a játék szüneteltetéséhez, hogy később "
+"folytathassa azt:"
+
+#: C/pause.page:30(p) C/pause.page:45(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Pause "
+"Game</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Játék</gui><gui style=\"menuitem"
+"\">Játék szüneteltetése</gui></guiseq> menüpontot."
+
+#: C/pause.page:35(p)
+msgid "Click on the <gui style=\"button\">Pause</gui> button in the toolbar."
+msgstr "Kattintson az eszköztár <gui style=\"button\">Szünet</gui> gombjára."
+
+#: C/pause.page:40(p)
+msgid ""
+"In order to resume the game after you paused it, perform one of the "
+"following:"
+msgstr "A szüneteltetett játék folytatásához tegye a következők egyikét:"
+
+#: C/pause.page:50(p)
+msgid "Click on the <gui style=\"button\">Resume</gui> button in the toolbar."
+msgstr "Kattintson az eszköztár <gui style=\"button\">Folytatás</gui> gombjára."
+
+#: C/pause.page:58(title)
+msgid "End a game"
+msgstr "Játék befejezése"
+
+#: C/pause.page:59(p)
+msgid "To end a game, perform one of the following:"
+msgstr "A játék befejezéséhez tegye a következők egyikét:"
+
+#: C/pause.page:64(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">End "
+"Game</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Játék</gui><gui style=\"menuitem"
+"\">Játék befejezése</gui></guiseq> menüpontot."
+
+#: C/pause.page:69(p)
+msgid "Click on the <gui style=\"button\">End</gui> button in the toolbar."
+msgstr "Kattintson az eszköztár <gui style=\"button\">Befejezés</gui> gombjára."
+
+#: C/license.page:8(desc)
+msgid "Legal information."
+msgstr "Jogi információk."
+
+#: C/license.page:11(title)
+msgid "License"
+msgstr "Licenc"
+
+#: C/license.page:12(p)
+msgid ""
+"This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 "
+"Unported license."
+msgstr ""
+"Ez a mű a CreativeCommons Attribution-Share Alike 3.0 Unported licenc "
+"feltételei szerint terjeszthető."
+
+#: C/license.page:18(p)
+msgid "You are free:"
+msgstr "Jogodban áll:"
+
+#: C/license.page:23(em)
+msgid "To share"
+msgstr "Megosztani"
+
+#: C/license.page:24(p)
+msgid "To copy, distribute and transmit the work."
+msgstr "Másolni, terjeszteni és továbbítani a művet."
+
+#: C/license.page:27(em)
+msgid "To remix"
+msgstr "Feldolgozni"
+
+#: C/license.page:28(p)
+msgid "To adapt the work."
+msgstr "Módosítani a művet."
+
+#: C/license.page:31(p)
+msgid "Under the following conditions:"
+msgstr "A következő feltételek szerint:"
+
+#: C/license.page:36(em)
+msgid "Attribution"
+msgstr "Nevezd meg!"
+
+#: C/license.page:37(p)
+msgid ""
+"You must attribute the work in the manner specified by the author or "
+"licensor (but not in any way that suggests that they endorse you or your use "
+"of the work)."
+msgstr ""
+"A szerző vagy a jogosult által meghatározott módon fel kell tüntetned a "
+"műhöz kapcsolódó információkat (pl. a szerző nevét vagy álnevét, a Mű címét)."
+
+#: C/license.page:44(em)
+msgid "Share Alike"
+msgstr "Így add tovább!"
+
+#: C/license.page:45(p)
+msgid ""
+"If you alter, transform, or build upon this work, you may distribute the "
+"resulting work only under the same, similar or a compatible license."
+msgstr ""
+"Ha megváltoztatod, átalakítod, feldolgozod ezt a művet, az így létrejött "
+"alkotást csak a jelenlegivel megegyező licenc alatt terjesztheted."
+
+#: C/license.page:51(p)
+msgid ""
+"For the full text of the license, see the <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</"
+"link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Commons Deed</link>."
+msgstr ""
+"A licenc teljes szövegéért lásd a <link href=\"http://creativecommons.org/"
+"licenses/by-sa/3.0/legalcode\">CreativeCommons weboldalát</link>, vagy a "
+"teljes <link href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Commons "
+"összefoglalót</link>."
+
+#: C/gametypes.page:5(title)
+msgid "3"
+msgstr "3"
+
+#: C/gametypes.page:6(desc)
+msgid "What types of game you can play."
+msgstr "Milyen típusú játékokkal játszhat."
+
+#: C/gametypes.page:15(title)
+msgid "Game types"
+msgstr "Játéktípusok"
+
+#: C/gametypes.page:17(p)
+msgid "<app>gbrainy</app> provides the following types of games:"
+msgstr "A <app>gbrainy</app> a következő játéktípusokat kínálja:"
+
+#: C/gametypes.page:27(p)
+msgid ""
+"Games designed to challenge your reasoning and thinking skills. These games "
+"are based on sequences of elements, visual and spatial reasoning or "
+"relationships between elements."
+msgstr ""
+"Következtetési és gondolkodási képességei tesztelésére tervezett játékok. "
+"Ezek a játékok elemek sorozatain, vizuális és térbeli következtetéseken vagy "
+"elemek közti kapcsolatokon alapulnak."
+
+#: C/gametypes.page:37(p)
+msgid "Logic games logo"
+msgstr "Logikai játékok logó"
+
+#: C/gametypes.page:47(title)
+msgid "Mental calculations"
+msgstr "Fejszámolások"
+
+#: C/gametypes.page:48(p)
+msgid ""
+"Games based on arithmetical operations designed to improve your mental "
+"calculation skills. Games that require the player to use multiplication, "
+"division, addition and subtraction combined in different ways."
+msgstr ""
+"Fejszámolási képességei fejlesztésére tervezett, aritmetikai műveletekre "
+"épülő játékok. Ezek megoldása a négy alapművelet különböző módokon való "
+"kombinálását igényli."
+
+#: C/gametypes.page:58(p)
+msgid "Calculation games logo"
+msgstr "Számolási játékok logó"
+
+#: C/gametypes.page:69(p)
+msgid ""
+"Games designed to challenge your short-term memory. These games show "
+"collections of objects and ask the player to recall them, sometimes "
+"establishing relationships between figures, words, numbers or colors."
+msgstr ""
+"Rövid távú memóriájának tesztelésére tervezett játékok. Ezek a játékok "
+"objektumok gyűjteményeit jelenítik meg, és a játékostól ezek felidézését "
+"kérik, néha ábrák, szavak, számok vagy színek közti kapcsolatok létrehozása "
+"mellett."
+
+#: C/gametypes.page:79(p)
+msgid "Memory games logo"
+msgstr "Memóriajátékok logó"
+
+#: C/gametypes.page:90(p)
+msgid ""
+"Games that challenge your verbal aptitude. These games ask the player to "
+"identify cause and effect, use synonyms or antonyms, and use their "
+"vocabulary."
+msgstr ""
+"Verbális képességeinek tesztelésére tervezett játékok. Ezek ok és okozat "
+"felismerését, hasonló vagy ellentétes értelmű szavak használatát, valamint a "
+"szókincs használatát kérik."
+
+#: C/gametypes.page:99(p)
+msgid "Verbal analogies games logo"
+msgstr "Verbális játékok logó"
+
+#: C/customgame.page:9(desc)
+msgid "Start a custom games selection."
+msgstr "Egyéni játékválogatás indítása."
+
+#: C/customgame.page:20(title)
+msgid "Custom games selection"
+msgstr "Egyéni játékválogatás"
+
+#: C/customgame.page:21(p)
+msgid ""
+"It is possible to play a custom selection of all the games in <app>gbrainy</"
+"app>."
+msgstr ""
+"A <app>gbrainy</app> játékainak egyénileg kiválasztott halmazával is "
+"játszhat."
+
+#: C/customgame.page:24(p)
+msgid "To do so, proceed as follows:"
+msgstr "Ehhez tegye a következőket:"
+
+#: C/customgame.page:29(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui><gui style=\"menuitem\">Custom Game Selection</gui></guiseq>."
+msgstr ""
+"Válassza a <guiseq><gui style=\"menu\">Játék</gui><gui style=\"menuitem\">Új "
+"játék</gui><gui style=\"menuitem\">Egyéni kérdések</gui></guiseq> menüpontot."
+
+#: C/customgame.page:35(p)
+msgid ""
+"In the <gui>Custom Game</gui> dialog, select the games that you would like "
+"to play by clicking on the check box next to the name of the game."
+msgstr ""
+"Az <gui>Egyéni játék</gui> ablakban a nevük melletti jelölőnégyzet "
+"bejelölésével válassza ki azokat a játékokat, amelyekkel játszani kíván."
+
+#: C/customgame.page:41(p)
+msgid ""
+"Once you are done, click on <gui style=\"button\">Start</gui> to start "
+"playing your custom games selection."
+msgstr ""
+"Ha befejezte, kattintson a <gui style=\"button\">Kezdés</gui> gombra az "
+"egyéni játékválogatással való játék megkezdéséhez."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: C/index.page:0(None)
+msgid "translator-credits"
+msgstr "Kelemen Gábor <kelemeng at gnome dot hu>"
+

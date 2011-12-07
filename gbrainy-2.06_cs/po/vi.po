@@ -1,0 +1,3937 @@
+# Vietnamese translation for gbrainy
+# Ngô Huy Hoàng <hoang.ngo.h@gmail.com>, 2010
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-25 23:07+0200\n"
+"PO-Revision-Date: 2010-07-23 16:36+0000\n"
+"Last-Translator: Ngô Huy Hoàng <hoang.ngo.h@gmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2010-08-25 20:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+
+#: ../data/games.xml.h:1
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+
+#: ../data/games.xml.h:2
+#, fuzzy
+msgid "Age"
+msgstr "Trung bình"
+
+#: ../data/games.xml.h:3
+msgid "Bank interest"
+msgstr ""
+
+#: ../data/games.xml.h:4
+msgid "Box"
+msgstr ""
+
+#: ../data/games.xml.h:5
+msgid "Boxes"
+msgstr ""
+
+#: ../data/games.xml.h:6
+#, fuzzy
+msgid "Brothers and sisters"
+msgstr "Hình vuông và chữ cái"
+
+#: ../data/games.xml.h:7
+#, fuzzy
+msgid "Clock Rotation"
+msgstr "Tính toán"
+
+#: ../data/games.xml.h:8
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+
+#: ../data/games.xml.h:9
+#, fuzzy
+msgid "Container"
+msgstr "Đếm"
+
+#: ../data/games.xml.h:10
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:11
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:12
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+
+#: ../data/games.xml.h:13
+msgid "Every hour rotates 360 degrees."
+msgstr ""
+
+#: ../data/games.xml.h:14
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr ""
+
+#: ../data/games.xml.h:15
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+
+#: ../data/games.xml.h:16
+#, fuzzy
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "Tìm kết quả của phương trình dưới đây?"
+
+#: ../data/games.xml.h:17
+#, fuzzy
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "Tìm kết quả của phương trình dưới đây?"
+
+#: ../data/games.xml.h:18
+#, fuzzy
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "Tìm kết quả của phương trình dưới đây?"
+
+#: ../data/games.xml.h:19
+#, fuzzy
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "Tìm kết quả của phương trình dưới đây?"
+
+#: ../data/games.xml.h:20
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+
+#: ../data/games.xml.h:21
+msgid ""
+"Palindrome years occur usually at 110 year intervals except for the end of "
+"each millennium that occur at a 11 years interval."
+msgstr ""
+
+#: ../data/games.xml.h:22
+msgid "Palindromic years"
+msgstr ""
+
+#: ../data/games.xml.h:23
+msgid "Password"
+msgstr ""
+
+#: ../data/games.xml.h:24
+#, fuzzy
+msgid "Simple equations"
+msgstr "Nhiều lựa chọn"
+
+#: ../data/games.xml.h:25
+#, fuzzy
+msgid "Tennis game"
+msgstr "Quần vợt"
+
+#: ../data/games.xml.h:26
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:27
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:28
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:29
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:30
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr ""
+
+#: ../data/games.xml.h:31
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+
+#: ../data/games.xml.h:32
+msgid "[rslt_a] and [rslt_b]"
+msgstr ""
+
+#: ../data/games.xml.h:33
+msgid ""
+"[year_start] was a palindromic year as [year_end] was, a gap of 11 years. "
+"What are the next two consecutive palindromic years after [year_end] with "
+"the same gap?"
+msgstr ""
+
+#: ../data/games.xml.h:34
+msgid "x * [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:35
+msgid "x + [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:36
+msgid "x - [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:37
+msgid "x / [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "Trò chơi"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+"Thử thách khả năng lô-gic, tính toán, ghi nhớ và từ vựng của bạn với các câu "
+"hỏi"
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr "Một con cá bị nhốt trong bể."
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A person with excessive preoccupation for his health has?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A terrier is to a dog like a?"
+msgstr "Chó săn so với chó giống như?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "Abstinence"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "Acrophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Agoraphobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:9
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Anthophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Anthropophobia"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Apple"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Attic"
+msgstr "Gác mái"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Bagpipes"
+msgstr "Kèn túi"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "Basketball"
+msgstr "Bóng rổ"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Bassoon"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Centimeter"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Collectivism"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Column"
+msgstr "Cột"
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Connoisseur"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Conspirator"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:22
+msgid "Contradictory"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:23
+#, fuzzy
+msgid "Crocodile"
+msgstr "Hình tròn"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Cycling"
+msgstr "Đua xe đạp"
+
+#: ../data/verbal_analogies.xml.h:25
+#, fuzzy
+msgid "Deer"
+msgstr "hạt tiêu"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Fish"
+msgstr "Cá"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Flower"
+msgstr "Hoa"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Fossil"
+msgstr "Hóa thạch"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Frog"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:30
+#, fuzzy
+msgid "Gallon"
+msgstr "cá hồi"
+
+#: ../data/verbal_analogies.xml.h:31
+#, fuzzy
+msgid "Golf"
+msgstr "sói"
+
+#: ../data/verbal_analogies.xml.h:32
+#, fuzzy
+msgid "Grape"
+msgstr "Trò chơi"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Hyena"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Hypochondria"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Ironic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "It is the only one that does not use a ball in the game."
+msgstr "Đây là môn duy nhất không sử dụng bóng trong thi đấu."
+
+#: ../data/verbal_analogies.xml.h:37
+#, fuzzy
+msgid "It is the only one that is not a carnivore."
+msgstr "Đây là thứ duy nhất không liên quan tới kiến trúc."
+
+#: ../data/verbal_analogies.xml.h:38
+#, fuzzy
+msgid "It is the only one that is not a fruit."
+msgstr "Đó là nhạc cụ duy nhất không thuộc bộ hơi làm bằng gỗ."
+
+#: ../data/verbal_analogies.xml.h:39
+#, fuzzy
+msgid "It is the only one that is not a reptile."
+msgstr "Đây là thứ duy nhất không liên quan tới kiến trúc."
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "Đó là nhạc cụ duy nhất không thuộc bộ hơi làm bằng gỗ."
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "It is the only one that is not related to architecture."
+msgstr "Đây là thứ duy nhất không liên quan tới kiến trúc."
+
+#: ../data/verbal_analogies.xml.h:42
+#, fuzzy
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "Đây là môn duy nhất không sử dụng bóng trong thi đấu."
+
+#: ../data/verbal_analogies.xml.h:43
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:44
+#, fuzzy
+msgid "Liter"
+msgstr "cắn"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Loner"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:46
+#, fuzzy
+msgid "Meter"
+msgstr "Bậc thầy"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Oboe"
+msgstr ""
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:49
+#, fuzzy
+msgid "Orange"
+msgstr "cam"
+
+#: ../data/verbal_analogies.xml.h:50
+#, fuzzy
+msgid "Pain"
+msgstr "mưa"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Person expelled from society"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:52
+#, fuzzy
+msgid "Pleasure"
+msgstr "Tạm dừng"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Portico"
+msgstr "Cổng"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Positivism"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:55
+#, fuzzy
+msgid "Potato"
+msgstr "khoai tây"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Related"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:57
+#, fuzzy
+msgid "Snake"
+msgstr "mắt cá | mắt cá chân"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Specializes in skin diseases"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Sport"
+msgstr "Thể thao"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Suffers a skin disease"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Synonym"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Tennis"
+msgstr "Quần vợt"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "The first word is the instrument and the second what it measures."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:65
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Think of the items used in the game."
+msgstr "Suy nghĩ về những vật được sử dụng trong trò chơi."
+
+#: ../data/verbal_analogies.xml.h:68
+#, fuzzy
+msgid "Tiger"
+msgstr "gừng"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Turtle"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Violin"
+msgstr "Dương cầm"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Weapon"
+msgstr "Vũ khí"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "What is a 'halberd'?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr ""
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:77
+msgid "Which of the following sports is the odd one?"
+msgstr "Môn thể thao nào không cùng nhóm với các môn còn lại?"
+
+#: ../data/verbal_analogies.xml.h:78
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr "Hãy chọn ra từ không cùng loại trong các từ sau?"
+
+#: ../data/verbal_analogies.xml.h:79
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr "Hãy chọn ra từ không cùng loại trong các từ sau?"
+
+#: ../data/verbal_analogies.xml.h:80
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr "Hãy chọn ra từ không cùng loại trong các từ sau?"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Which of the following words is the odd one?"
+msgstr "Hãy chọn ra từ không cùng loại trong các từ sau?"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Which of the following words means fear of people?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:84
+#, fuzzy
+msgid "Wolf"
+msgstr "sói"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Works with dead animals"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "Works with leather"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "airplane | aeroplane | plane"
+msgstr "máy bay | tàu bay | phi cơ"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "ankle"
+msgstr "mắt cá | mắt cá chân"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "ant / vertebrate"
+msgstr "kiến | động vật có xương sống"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "art / gallery | drama"
+msgstr "nghệ thuật | phòng trưng bày | kịch"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "atlas"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "bite"
+msgstr "cắn"
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "body | skin"
+msgstr "cơ thể | da"
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "book"
+msgstr ""
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:96
+msgid "box / open | banana"
+msgstr "hộp / mở | chuối"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "bridge / over | tunnel"
+msgstr "cầu / ở trên | hầm"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "broken"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "burst | pop"
+msgstr "nổ"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:101
+#, fuzzy
+msgid "button / push | key (used in a lock)"
+msgstr "nút / ấn | chìa khóa"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "cage | zoo | zoological garden"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "camera"
+msgstr "máy ảnh | máy quay"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "car / road | train"
+msgstr "ô tô / đường | tàu hỏa"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "chicken / bird"
+msgstr "gà / chim"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "chop"
+msgstr "bổ | chặt"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "coins"
+msgstr "đồng xu | xu | tiền xu"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "composer | songwriter | lyricist"
+msgstr "nhạc sĩ | nhà soạn nhạc"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "condemn"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "constellation / stars | archipelago"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "cousin"
+msgstr "anh/chị/em họ"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:113
+msgid "dance"
+msgstr "múa"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "dish / break | balloon"
+msgstr "đĩa / vỡ | bóng"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "dog / cat"
+msgstr "chó / mèo"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "dog / tame | wolf"
+msgstr "chó / thuần hóa | chó sói"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "elbow / knee | wrist"
+msgstr "khuỷu tay / đầu gối | cổ tay"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "erroneous"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "error / correct | damage"
+msgstr "lỗi / sửa | thiệt hại"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "eyebrow / eye | mustache"
+msgstr "lông mày / mắt | ria"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:122
+msgid "feet / two | toes"
+msgstr "chân / hai | ngón chân"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "fish / aquarium | monkey"
+msgstr "cá / bể | khỉ"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "fish / submarine | bird"
+msgstr "cá / tàu ngầm | chim"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "fox / den | bird"
+msgstr "cáo / hang | chim"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "glass / break | paper"
+msgstr "thủy tinh / vỡ | giấy"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "hands / grab | teeth"
+msgstr "tay / nắm | răng"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "has no relation"
+msgstr "không có quan hệ"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "herbivorous | herbivore"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "hide"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "his mother"
+msgstr "mẹ của anh ấy"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "horse / pony"
+msgstr "ngựa / ngựa con"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "hour / minute | minute"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "hungry / eat | tired"
+msgstr "đói / ăn | mệt"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "hunter / rifle | photographer"
+msgstr "thợ săn / súng | nhà nhiếp ảnh"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "ice / slippery | glue"
+msgstr "băng / trơn | keo"
+
+#: ../data/verbal_analogies.xml.h:137
+#, fuzzy
+msgid "icon"
+msgstr "đồng xu | xu | tiền xu"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "ignore"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "in | under | through"
+msgstr "ở trong | ở dưới | xuyên qua"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "innovator"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "islands"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "leopard / spots | tiger"
+msgstr "báo / chấm hoa | hổ"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "letter / word | page"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "lip | mouth"
+msgstr "môi | miệng | mồm"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "martyr"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "nest"
+msgstr "tổ"
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "nose"
+msgstr "mũi"
+
+#: ../data/verbal_analogies.xml.h:148
+msgid "novel / author | song"
+msgstr "tiểu thuyết / tác giả | bài hát"
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "obscure"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "orange / fruit | spinach"
+msgstr "cam / hoa quả | rau chân vịt"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "pediatrics / children | numismatics"
+msgstr "nhi khoa / trẻ em | đúc tiền"
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "peel"
+msgstr "bóc | bóc vỏ"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "pioneer"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "poems / anthology | maps"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "puzzle / solve | game"
+msgstr "câu đố / giải | trò chơi"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "repair | fix"
+msgstr "bồi thường | sửa chữa"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "ring / finger | bracelet"
+msgstr "nhẫn / ngón tay | vòng"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "seal / flippers | bird"
+msgstr "chó biển / chân chèo | chim"
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:160
+#, fuzzy
+msgid "second"
+msgstr "cá tuyết"
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "shovel / dig | axe"
+msgstr "xẻng / đào | rìu"
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "simplistic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:163
+msgid "sink"
+msgstr "chìm"
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "sleep | rest"
+msgstr "ngủ | nghỉ | nghỉ ngơi"
+
+#: ../data/verbal_analogies.xml.h:165
+msgid "slurp / tongue | snort"
+msgstr "xì xụp / lưỡi | khụt khịt"
+
+#: ../data/verbal_analogies.xml.h:166
+msgid "son-in-law"
+msgstr "con rể"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "sour"
+msgstr "chua"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:169
+msgid "stick / float | stone"
+msgstr "que / nổi | đá"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "sticky"
+msgstr "dính"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "stripes"
+msgstr "vằn"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "sugar / sweet | vinegar"
+msgstr "đường / ngọt | dấm"
+
+#: ../data/verbal_analogies.xml.h:173
+#, fuzzy
+msgid "tear | rip"
+msgstr "rách"
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "tears / eyes | sweat"
+msgstr "nước mắt / mắt | mồ hôi"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:176
+msgid "ten | 10"
+msgstr "mười | 10"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "tennis / sport | ballet"
+msgstr "quần vợt / thể thao | ba-lê"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "theatre | theater"
+msgstr "nhà hát | rạp hát"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "thermometer / temperature | clock"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "tiger / carnivore | cow"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:181
+#, fuzzy
+msgid "time"
+msgstr "Số nguyên tố"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "toy / play | tool"
+msgstr "đồ chơi / chơi | dụng cụ"
+
+#: ../data/verbal_analogies.xml.h:183
+#, fuzzy
+msgid "track | railway | rails"
+msgstr "ray | đường ray | đường sắt"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "turn"
+msgstr "vặn | xoay"
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "unorthodox"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:186
+msgid "vegetable"
+msgstr "rau"
+
+#: ../data/verbal_analogies.xml.h:187
+msgid "whirlpool / water | tornado"
+msgstr "xoáy nước / nước | bão"
+
+#: ../data/verbal_analogies.xml.h:188
+#, fuzzy
+msgid "wild | savage"
+msgstr "gió | không khí"
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "win"
+msgstr "thắng | chiến thắng"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "wind | air"
+msgstr "gió | không khí"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "wings"
+msgstr "cánh | đôi cánh"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:193
+msgid "work"
+msgstr "làm | làm việc"
+
+#. Body parts
+#: ../data/verbal_analogies.xml.h:194 ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "cổ tay"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "Sẵn sàng ghi nhớ các đồ vật tiếp theo..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:64
+msgid "Total"
+msgstr "Tổng hợp"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:366
+msgid "Logic"
+msgstr "Logic"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:371
+msgid "Calculation"
+msgstr "Tính toán"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:377
+msgid "Memory"
+msgstr "Ghi nhớ"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:383
+msgid "Verbal"
+msgstr "Từ vựng"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr "Điểm số"
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "Trả lời đúng {0} / {1} câu hỏi"
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. Trả lời đúng {1} / {2} câu hỏi"
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "Tổng thời gian trả lời {0} (trung bình mỗi câu {1})"
+
+#: ../src/Core/Views/FinishView.cs:165
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:175
+msgid "Tips for your next games"
+msgstr "Mẹo cho những lần chơi sau"
+
+#: ../src/Core/Views/FinishView.cs:203
+msgid "Congratulations! New personal record"
+msgstr "Chúc mừng bạn vừa lập kỉ lục cá nhân mới!"
+
+#: ../src/Core/Views/FinishView.cs:213
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Bạn vừa lập kỉ lục cá nhân mới ở phần các câu hỏi lô-gic với số điểm {0}%. "
+"Kỉ lục trước đó là {1}%."
+
+#: ../src/Core/Views/FinishView.cs:219
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Bạn vừa lập kỉ lục cá nhân mới ở phần tính toán với số điểm {0}%. Kỉ lục "
+"trước đó là {1}%."
+
+#: ../src/Core/Views/FinishView.cs:225
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+"Bạn vừa lập kỉ lục cá nhân mới ở phần ghi nhớ với số điểm {0}%. Kỉ lục trước "
+"đó là {1}%."
+
+#: ../src/Core/Views/FinishView.cs:231
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"Bạn vừa lập kỉ lục cá nhân mới ở phần từ vựng với số điểm {0}%. Kỉ lục trước "
+"đó là {1}%."
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "Câu đố lô-gic. Thử thách khả năng suy luận của bạn."
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr ""
+"Tính toán. Các phép toán số học sẽ kiểm tra khả năng tính toán của bạn."
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "Ghi nhớ. Giúp rèn luyện trí nhớ ngắn hạn."
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "Từ vựng. Thử thách vốn từ vựng của bạn."
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "Chào mừng đến với gbrainy {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr "Gbrainy là một trò chơi giúp rèn luyện trí não, nó bao gồm các phần:"
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "Chỉnh độ khó của trò chơi thông qua Thiết lập"
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "đỏ"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "xanh lá cây"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "xanh da trời"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "vàng"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "đỏ tươi"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "cam"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "đen"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "trắng"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "Đáp án đúng là {0}."
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:316
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:318
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:338
+#, csharp-format
+msgid "Figure {0}"
+msgstr "Hình {0}"
+
+#: ../src/Core/Main/GameManager.cs:319
+#, fuzzy
+msgid "Extensions database:"
+msgstr "Phần mở rộng"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+"Đã chơi {0} ván: {1} ván trả lời câu đố, {2} ván tính toán, {3} ván ghi nhớ, "
+"{4} ván từ vựng"
+
+#: ../src/Core/Main/GameSession.cs:176
+#, fuzzy, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "Đã trả lời: {0} ({1}% điểm)"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - Thời gian: {0}"
+
+#: ../src/Core/Main/GameSession.cs:180
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- Kiểu câu hỏi: {0}"
+
+#: ../src/Core/Main/GameSession.cs:193
+#, csharp-format
+msgid "Outstanding results"
+msgstr "Kết quả tuyệt vời"
+
+#: ../src/Core/Main/GameSession.cs:195
+#, csharp-format
+msgid "Excellent results"
+msgstr "Kết quả xuất sắc"
+
+#: ../src/Core/Main/GameSession.cs:197
+#, csharp-format
+msgid "Good results"
+msgstr "Kết quả tốt"
+
+#: ../src/Core/Main/GameSession.cs:199
+#, csharp-format
+msgid "Poor results"
+msgstr "Kết quả tồi"
+
+#: ../src/Core/Main/GameSession.cs:200
+#, csharp-format
+msgid "Disappointing results"
+msgstr "Kết quả đáng thất vọng"
+
+#: ../src/Core/Main/GameSession.cs:262
+msgid "Paused"
+msgstr "Tạm dừng"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr "Đọc kĩ hướng dẫn rồi xác định dữ liệu và gợi ý đã cho."
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+"Gbrainy đánh giá người chơi dựa vào thời gian và các kĩ năng cần thiết để "
+"trả lời mỗi câu hỏi."
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+"Trong các câu hỏi lô-gic, các yếu tố quan trọng đôi khi lại có vẻ rời rạc."
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:61
+#, fuzzy
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr ""
+"Trả lời tất cả các câu hỏi, kể cả các câu hỏi khó. Luyện tập sẽ giúp bạn "
+"ngày càng tiến bộ."
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "Luyện tập hàng ngày, bạn sẽ sớm thấy sự tiến bộ."
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+"Sử dụng 'Tự chọn phần chơi' để chọn lựa chính xác các phần chơi bạn muốn."
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr "Liên kết các yếu tố, đối tượng là một kĩ thuật hay sử dụng để ghi nhớ."
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr "Nhóm các đối tượng vào các nhóm là một kĩ thuật thông dụng để ghi nhớ."
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+"Tạo ra các từ viết tắt sử dụng chữ cái đầu tiên của các hiện tượng, sự vật "
+"cần nhớ."
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr "Sự hứng thú với các câu đố tỉ lệ thuận với thời gian bạn suy nghĩ."
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr ""
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "Ghi nhớ các đối tượng dưới đây trong thời gian qui định"
+
+#: ../src/Core/Main/Memory.cs:217
+#, fuzzy
+msgid "Time left"
+msgstr "Sang trái"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "Các phương án đúng là: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:90
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:63
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, fuzzy, csharp-format
+msgid "Multiple options #{0}"
+msgstr "Nhiều lựa chọn"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} Trả lời {1}."
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:101
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:137
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:143
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:95
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:150
+#: ../src/Games/Logic/PuzzleSquareDots.cs:206
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "Các phương án trả lời:"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, fuzzy, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "So sánh cặp từ"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr ""
+"Cho mối quan hệ giữa hai từ dưới đây, từ nào có mối quan hệ tương tự với từ "
+"'{0}'?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#, csharp-format
+msgid "Words: {0}"
+msgstr "{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:39
+#, fuzzy, csharp-format
+msgid "Pair of words #{0}"
+msgstr "Cặp từ"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:68
+#, csharp-format
+msgid ""
+"Given the relationship between the words '{0}', which of the possible "
+"answers has the closest in relationship to the given pair? Answer {1}."
+msgstr ""
+"Cho mối quan hệ giữa hai từ '{0}', lựa chọn phương án có mối quan hệ gần "
+"nhất với cặp đã cho. Trả lời {1}."
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, fuzzy, csharp-format
+msgid "Question and answer #{0}"
+msgstr "Câu hỏi và trả lời"
+
+#: ../src/Clients/Classical/gbrainy.cs:359
+msgid "Play all the games"
+msgstr "Chơi tất cả các phần"
+
+#: ../src/Clients/Classical/gbrainy.cs:360
+msgid "All"
+msgstr "Tổng hợp"
+
+#: ../src/Clients/Classical/gbrainy.cs:365
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "Trả lời các câu hỏi thử thách khả năng suy luận"
+
+#: ../src/Clients/Classical/gbrainy.cs:372
+msgid "Play games that challenge your mental calculation skills"
+msgstr "Trả lời các câu hỏi thử thách khả năng tính toán"
+
+#: ../src/Clients/Classical/gbrainy.cs:378
+msgid "Play games that challenge your short term memory"
+msgstr "Trả lời các câu hỏi thử thách trí nhớ ngắn hạn"
+
+#: ../src/Clients/Classical/gbrainy.cs:384
+msgid "Play games that challenge your verbal aptitude"
+msgstr "Trả lời các câu hỏi thử thách khả năng từ vựng"
+
+#: ../src/Clients/Classical/gbrainy.cs:389
+#: ../src/Clients/Classical/gbrainy.cs:623
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: ../src/Clients/Classical/gbrainy.cs:390
+msgid "Pause or resume the game"
+msgstr "Tạm dừng hoặc tiếp tục trả lời"
+
+#: ../src/Clients/Classical/gbrainy.cs:395
+msgid "End the game and show score"
+msgstr "Kết thúc trò chơi và hiển thị điểm"
+
+#: ../src/Clients/Classical/gbrainy.cs:396
+msgid "Finish"
+msgstr "Kết thúc"
+
+#: ../src/Clients/Classical/gbrainy.cs:486
+msgid "Congratulations."
+msgstr "Chúc mừng bạn."
+
+#: ../src/Clients/Classical/gbrainy.cs:488
+msgid "Incorrect answer."
+msgstr "Câu trả lời không chính xác."
+
+#: ../src/Clients/Classical/gbrainy.cs:546
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr "Nhập câu trả lời của bạn vào ô \"Trả lời:\" rồi ấn nút \"OK\"."
+
+#: ../src/Clients/Classical/gbrainy.cs:627
+msgid "Resume"
+msgstr "Tiếp tục"
+
+#: ../src/Clients/Classical/gbrainy.cs:742
+#, fuzzy, csharp-format
+msgid "Startup time {0}"
+msgstr "Bắt đầu từ điểm số {0}."
+
+#: ../src/Clients/Classical/CommandLine.cs:105
+#, csharp-format
+msgid "(built on {0})"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:117
+msgid "List of available games"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:180
+msgid "Usage: gbrainy [options]"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "  --version\t\t\tPrint version information."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --help\t\t\tPrint this usage message."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid "  --versions \t\t\tShow dependencies."
+msgstr ""
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:52
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Ngô Huy Hoàng https://launchpad.net/~hoangnh"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:57
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:58
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:59
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+msgstr ""
+"Dựa trên ý tưởng của Terry Stickels, những quyển sách của MENSA và Jordi Mas."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:70
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "Một trò chơi hóc búa giúp rèn luyện trí não."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:72
+msgid "gbrainy web site"
+msgstr "Trang web của gbrainy"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:67
+msgid "Game Name"
+msgstr "Phần chơi"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:89
+msgid "Type"
+msgstr "Kiểu"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:111
+msgid "Enabled"
+msgstr "Đã kích hoạt"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution. "
+msgstr "Biểu đồ thể hiện điểm số của người chơi "
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+#, fuzzy
+msgid "You are about to delete the player's game session history."
+msgstr "Số ván tối đa lưu trong lịch sử chơi của người dùng"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "Tự chọn phần chơi"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "Bỏ chọn tất cả"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "_Bắt đầu"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+#, fuzzy
+msgid "Player's Game Session History"
+msgstr "Lịch sử chơi của người dùng"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "Hiển thị:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>Độ khó</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>Thiết lập chung</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+#, fuzzy
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>Lịch sử chơi của người dùng</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+#, fuzzy
+msgid "Delete Player's Game Session History"
+msgstr "Xóa lịch sử chơi của người dùng"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "Dễ"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "Bậc thầy"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+#, fuzzy
+msgid "Maximum number of records in the player's game session history:"
+msgstr "Số ván tối đa lưu trong lịch sử chơi của người dùng"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "Trung bình"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+#, fuzzy
+msgid "Minimum number of played games to store the game session:"
+msgstr "Số câu hỏi tối thiểu phải trả lời trước khi lưu ván chơi:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "Tùy chỉnh"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "Hiển thị thông báo đếm ngược"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "Bỏ qua những câu hỏi có sử dụng màu (dành cho người mù màu)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "Thời gian để ghi nhớ các câu hỏi:"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+#, fuzzy
+msgid "3D Cube"
+msgstr "Hình lập phương"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+#, fuzzy, csharp-format
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr ""
+"Phải sử dụng bao nhiêu khối lập phương con (kích thước bằng nhau) để tạo "
+"thành khối lập phương to trong hình vẽ dưới đây. Nhập vào một con số."
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr ""
+"Hình lập phương là một khối đặc, có sáu mặt là các hình vuông bằng nhau."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "Cân bằng"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr ""
+"Cần thêm bao nhiêu hình tam giác vào phía bên phải của hình cuối cùng để giữ "
+"cho nó thăng bằng"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+#, fuzzy
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr ""
+"Mỗi hình tam giác tính là 1, hình thoi tính là 2, và hình vuông tính là 3."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+#, fuzzy
+msgid "Every circle counts as two triangles."
+msgstr "Mỗi hình thoi tính là 2 hình tam giác."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "Tạo ra một tam giác"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"Lựa chọn ba hình trong các hình sau để tạo thành một tam giác? Trả lời sử "
+"dụng tên của các hình, ví dụ {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "Tam giác thu được là tam giác cân."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+#, fuzzy
+msgid "Circles in a square"
+msgstr "Hình tròn trong hình chữ nhật"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr "Hình vuông dưới đây có thể chứa tối đa bao nhiều hình tròn (đã cho)?"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "Có thể chứa nhiều hơn 64 hình tròn."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 đơn vị"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "1 đơn vị"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "Đồng hồ"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr "Kim dài của đồng hồ '{0}' chỉ vào số mấy? Trả lời sử dụng các số."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+"Từ đồng hồ thứ nhất, ta cộng thêm {0} vào số được tạo ra bởi 2 kim đồng hồ."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr "Các đồng hồ không tuân theo lô-gic thời gian."
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "Đếm hình tròn"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "Có bao nhiêu hình tròn?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "Sẽ dễ dàng hơn nếu bạn đếm các hình tròn một cách có hệ thống."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "Đếm"
+
+#. Translators: {0} and {1} are always numbers greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:65
+#, csharp-format
+msgid ""
+"We have a {0} meters piece of fabric. Machine A takes {1} seconds to cut 1 "
+"meter of this fabric. How many seconds does Machine A take to cut the entire "
+"piece of fabric into 1 meter pieces?"
+msgstr ""
+"Một mảnh vải dài {0}m, máy A mất {1} giây để cắt 1m của mảnh vải này. Hỏi "
+"mất bao nhiêu giây thì máy A mới hoàn thành công việc cắt mảnh vải thành các "
+"phần 1m?"
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:69
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr "Ở lần cắt thứ {0}, ta tạo ra được 2 miếng vải 1m"
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:79
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+"Một vùng hình vuông được bao quanh bởi rào. Mỗi cạnh hình vuông có {0} cọc "
+"rào. Hỏi tổng cộng có bao nhiêu cọc rào?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr "Có {0} cọc vì các cọc ở góc được dùng chung."
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:92
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+"Để gói một món quà, bạn mất 1 euro. Món quà đắt hơn {0} euro so với gói quà. "
+"Hỏi số tiền phải bỏ ra để mua và gói quà là bao nhiêu?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:94
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:39
+msgid "Count series"
+msgstr "Đếm chuỗi"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:51
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr ""
+"Để biểu diễn các số tự nhiên từ 10 đến 100 thì cần sử dụng bao nhiêu số '9'?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:56
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+"Có bao nhiêu số tự nhiên có hai chữ số mà chữ số hàng chục lớn hơn chữ số "
+"hàng đơn vị?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+"Có bao nhiêu số tự nhiên có hai chữ số mà chữ số hàng chục nhỏ hơn chữ số "
+"hàng đơn vị?"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "Bao nhiêu phần trăm của hình vẽ được tô màu?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "Hình lập phương"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When folded as a cube, which face on the figure is opposite the face with a "
+"{0} drawn on it? Answer the number written on face."
+msgstr ""
+"Khi được gập lại thành hình lập phương, mặt nào sẽ nằm đối diện với mặt số "
+"{0}? Trả lời sử dụng các số được ghi trên mặt."
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Xác suất nhận được mặt '2' hoặc '6' là bao nhiêu khi tung một xúc xắc 6 mặt? "
+"Trả lời dưới dạng phân số (ví dụ 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr "Có 2 trong 6 khả năng."
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Xác suất để không nhận được mặt '5' là bao nhiêu khi tung xúc xắc 6 mặt? Trả "
+"lời dưới dạng phân số (ví dụ 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr "Có 5 trong 6 khả năng."
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Hai xúc xắc 6 mặt được tung cùng một lúc. Hỏi xác suất nhận được hai số chẵn "
+"là bao nhiêu? Trả lời dưới dạng phân số (ví dụ 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting an even number."
+msgstr "Có 9 trong 36 khả năng là sẽ nhận được số hai số chẵn."
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"Hai xúc xắc 6 mặt được tung cùng một lúc. Hỏi xác suất nhận được hai mặt '6' "
+"là bao nhiêu? Trả lời dưới dạng phân số (ví dụ 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+"Có 1 trong 6 khả năng nhận được mặt '6' ở xúc xắc thứ nhất, và tương tự cho "
+"xúc xắc thứ hai."
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "Xúc xắc"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr "Chia hình tròn"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr ""
+"Trong hình cuối, hình tròn sẽ được chia thành bao nhiêu phần khi nối tất cả "
+"chấm lại?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:113
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:128
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:145
+#, csharp-format
+msgid "Has {0} regions"
+msgstr "Có {0} vùng"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "Phương trình"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "Tìm kết quả của phương trình dưới đây?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+"Thứ tự thực hiện các phép toán là: lũy thừa và căn, nhân và chia, cộng và "
+"trừ."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr "Hình tròn thừa"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Hình tròn nào không thuộc vào nhóm? Lưu ý, các hình được sắp xếp theo thứ tự "
+"ngẫu nhiên. Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr "Tất cả các hình tròn đều có chung một tính chất trừ một hình."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+#, csharp-format
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr ""
+"Trong tất cả các hình, các dải màu đều tuân theo một thứ tự trừ hình này."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "Hình và chữ"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+"Các hình và các chữ có quan hệ với nhau. Hãy cho biết những chữ nào sẽ đi "
+"với hình cuối cùng?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr "Mỗi chữ cái sẽ tượng trưng cho một tính chất của hình vẽ."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+#, fuzzy
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"Chữ 'A' cho biết các hình giao nhau, 'B' cho biết đó là hình vuông, 'C' cho "
+"biết đó là hình tròn, 'D' cho biết các hình không giao nhau, 'E' cho biết là "
+"có 3 hình, 'F' cho biết là có 2 hình."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr "Dạng hình"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "Hình nào sẽ thay thế dấu chấm hỏi? Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+"Hình thứ ba trong mỗi hàng là sự kết hợp theo một cách nào đó hai hình đứng "
+"trước."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+"Đặt hình thứ nhất chồng lên hình thứ hai, loại bỏ các đoạn thẳng chung, rồi "
+"xoay kết quả vừa thu được 45 độ."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "Hình"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+"Hãy cho biết thứ tự của các phần tử trong cột cuối cùng. Sử dụng quy tắc "
+"dưới đây để trả lời."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+"Đó là tổ hợp duy nhất được tạo ra từ các phần tử đã cho mà không trùng với "
+"các tổ hợp cho trước."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr "Quy tắc sử dụng để trả lời là:"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, fuzzy, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "Ví dụ: {0}{1}{2} (hình thoi, hình tam giác, hình tròn)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "Tứ giác"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr "Có bao nhiêu hình tứ giác trong hình dưới đây?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "Một hình tứ giác có thể nằm bên trong  một hình khác."
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr "Các hình bốn cạnh được tạo ra bằng cách nối các điểm sau đây: {0}"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "Bắt tay"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+"Tất cả mọi người tham gia bữa tiệc đều được giới thiệu với nhau. Có tổng số "
+"{0} cái bắt tay. Hỏi có bao nhiêu người tham dự bữa tiệc?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr ""
+"Hãy tưởng tượng ra tình huống bạn tham gia một buổi gặp mặt nhỏ với ít người."
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr "Hình lớn hơn"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"Bằng cách kết hợp hai hình đầu tiên ta có thể thu được hình lớn hơn nào? Trả "
+"lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "Đoạn thẳng"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+"Có bao nhiêu đoạn thẳng trong hình dưới đây? Một đoạn thẳng là một đường "
+"thẳng nối hai điểm và không có đường thẳng nào cắt nó."
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr ""
+"Có {0} đoạn thẳng trong hình bên trái và {1} đoạn thẳng trong hình bên phải"
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "Sẽ dễ dàng hơn nếu bạn đếm các đoạn thẳng một cách có hệ thống."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr "Nhóm ma trận"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "Hãy khoanh tròn một số trong ma trận sau."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr "Tất cả các số được khoanh tròn đều có chung một tính chất."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "Các số này đều có thể chia hết cho {0}."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr "Ma trận số"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+"Các số trong ma trận đều tuân theo một quy tắc. Hãy cho biết số nào sẽ thay "
+"thế dấu chấm hỏi?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr "Quy tắc số học được áp dụng theo chiều dọc."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "Quy tắc số học được áp dụng theo chiều ngang."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+"Hàng thứ tư được tính bằng cách nhân hai hàng đầu tiên với nhau rồi cộng với "
+"hàng thứ ba."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:69
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+"Cột thứ tư được tính bằng cách nhân hai cột đầu tiên với nhau rồi cộng với "
+"cột thứ ba."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:74
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+"Hàng thứ tư được tính bằng cách nhân hai hàng đầu tiên với nhau rồi trừ cho "
+"hàng thứ ba."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:76
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+"Cột thứ tư được tính bằng cách nhân hai cột đầu tiên với nhau rồi trừ cho "
+"cột thứ ba."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:81
+#, csharp-format
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+"Hàng thứ tư được tính bằng cách cộng hai hàng đầu tiên với nhau rồi trừ đi "
+"hàng thứ ba."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:83
+#, csharp-format
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+"Cột thứ tư được tính bằng cách cộng hai cột đầu tiên với nhau rồi trừ cho "
+"cột thứ ba."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "Hình còn thiếu"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "Chọn hình vuông để hoàn thành hình sau đây. Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr "Quy tắc lô-gic được áp dụng theo hàng."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"Ở mỗi hàng, hình vuông thứ ba được tạo ra bằng cách lật hình vuông thứ nhất "
+"rồi đặt chồng lên hình thứ hai, sau đó loại bỏ các đoạn thẳng trùng nhau."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "Cung còn thiếu"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+"Các cung có một tính chất chung. Hãy chỉ ra cung còn thiếu để hoàn thành "
+"hình tròn dưới đây. Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "Các cung đều có quan hệ với cung đối diện nó."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+"Tất cả các số trong mỗi cung khi cộng với số tương ứng ở cung đối diện luôn "
+"cho kết quả là {0}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr "Điểm tương đồng"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Hình nào có nhiều điểm chung nhất với bốn hình đã cho? Trả lời {0}, {1}, {2} "
+"hoặc {3}."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "Hãy tìm ra các yếu tố chung mà các hình đã cho chứa bên trong nó."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr "Nó có cùng số yếu tố ở bên trong với các hình đã cho."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr "Nó là hình có nhiều yếu tố chung nhất khi so với các hình đã cho."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "Dời hình"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+"Cần phải chuyển ít nhất bao nhiêu hình tròn để biến đổi hình bên trái thành "
+"hình bên phải?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"Chuyển một hình tròn từ dòng thứ nhất xuống dòng thứ hai và chuyển hai hình "
+"tròn từ dòng thứ tư, một lên dòng thứ hai và một xuống dòng thứ năm"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+"Chuyển dòng thứ nhất xuống dòng thứ bảy; chuyển hai hình tròn từ dòng thứ "
+"hai xuống dòng thứ ba; chuyển hình tròn đầu tiên và cuối cùng của dòng thứ "
+"năm xuống dòng thứ sáu."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "Hình tiếp theo"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "Hình nào sẽ là hình tiếp theo trong dãy? Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+#, csharp-format
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+"Từ hình đầu tiên, hình tròn phía trên tiến hai vị trí theo chiều kim đồng "
+"hồ, trong khi hình phía bên trái đi ngược lại một vị trí."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:38
+msgid "Numeric relation"
+msgstr "Quan hệ số học"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:42
+msgid "What number should replace the question mark?"
+msgstr "Số nào sẽ thay thế dấu chấm hỏi?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "The numbers are related arithmetically."
+msgstr "Các số có quan hệ số học với nhau."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:53
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr "Tất cả các nhóm {0} số đều có tổng là {1}."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:55
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+"Chia dãy số thành các nhóm ba số, các số thứ ba trong nhóm là tích của hai "
+"số phía trước."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+"Chia dãy số thành các nhóm ba số, các số thứ ba trong nhóm là hiệu của phép "
+"trừ số thứ nhất cho số thứ hai."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:35
+msgid "Numeric sequence"
+msgstr "Chuỗi số"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:39
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr ""
+"Dãy số sau tuân theo một quy luật. Hãy cho biết số nào sẽ thay thế dấu chấm "
+"hỏi?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:43
+msgid "Every number in the sequence is related to the previous one."
+msgstr "Các số trong dãy có quan hệ với số đi ngay trước nó."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+"Mọi số trong dãy (trừ số đầu tiên) là kết quả của phép toán lấy số đứng "
+"trước trừ cho 1 rồi nhân đôi."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:52
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+"Mọi số trong dãy (trừ số đầu tiên) là kết quả của phép toán lấy số đứng "
+"trước cộng thêm 1 rồi nhân với 3."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+"Mọi số trong dãy (trừ số đầu tiên) là kết quả của phép toán lấy số đứng "
+"trước trừ cho 2 rồi nhân với -2."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "Loại phần tử"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, fuzzy, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Hình tròn nào không thuộc vào nhóm? Lưu ý, các hình được sắp xếp theo thứ tự "
+"ngẫu nhiên. Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+"Để xác định một phương trình có thuộc vào nhóm không, ta sử dụng một tiêu "
+"chuẩn không liên quan đến số học."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr "Các số thuộc vào nhóm được cấu tạo từ hai phần có quan hệ với nhau."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+"Trong các phương trình còn lại, các số xuất hiện ở vế trái cũng xuất hiện ở "
+"vế phải."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr ""
+"Ở các số còn lại, ba chữ số cuối cùng chính là bình phương của hai chữ số "
+"đầu tiên."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Nếu tất cả họa sĩ là nghệ sĩ, một số người ở Barcelona là họa sĩ. Mệnh đề "
+"nào sau đây là đúng? Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "Một số người ở Barcelona là họa sĩ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "Tất cả mọi người ở Barcelona là họa sĩ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "Không có ai ở Barcelona là họa sĩ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "Các đáp án trên đều không chính xác"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Nếu không có họa sĩ bị ốm nào hạnh phúc, và một số họa sĩ cảm thấy hạnh "
+"phúc. Mệnh đề nào sau đây là đúng? Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "Một số họa sĩ không bị ốm"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "Một số họa sĩ là nghệ sĩ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "Tất cả các họa sĩ đều hạnh phúc"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Những người đi du lịch thường mua một cái bản đồ. Bạn không đi du lịch. Mệnh "
+"đề nào sau đây là đúng? Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "Bạn không có bản đồ."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "Bạn không mua bản đồ."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+#, fuzzy
+msgid "All people have a map"
+msgstr "Tất cả mọi người đều có bản đồ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, fuzzy, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Nếu bạn huýt sáo thì bạn đang hạnh phúc và bạn chỉ cười khi bạn huýt sáo. "
+"Mệnh đề nào sau đây là đúng? Trả lời {0}, {1}, {2} hoặc {3}."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "Nếu bạn cười thì bạn đang hạnh phúc"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "Bạn chỉ hạnh phúc nếu bạn huýt sáo"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "Bạn huýt sáo nếu bạn không hạnh phúc"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Predicate Logic"
+msgstr "Lô-gic mệnh đề"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "Bút chì"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"Trong các hình sau đây, hình nào không thể được vẽ bằng một nét mà không lặp "
+"lại các nét đã vẽ. Trả lời {0}, {1}, {2}, {3} hoặc {4}."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "Người ngồi quanh bàn"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"Một nhóm người đang ngồi cách đều nhau quanh một chiếc bàn tròn. Hỏi có bao "
+"nhiêu người nếu người thứ {0} ngồi đối diện người thứ {1}?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"Kết quả của phép trừ hai vị trí cho nhau chính là một nửa số người ngồi "
+"quanh bàn. Nhân đôi số này lên ta sẽ được kết quả cần tìm."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "thứ 5"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "thứ 19"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "thứ 4"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "thứ 12"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "thứ 9"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "thứ 22"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "Hai người ngồi quanh bàn đối diện nhau"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "Tỉ lệ phần trăm"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+"Sau khi được giảm giá {0}% thì bạn phải trả {1} đơn vị tiền tệ cho một chiếc "
+"ti-vi. Hỏi giá ban đầu của chiếc ti-vi này là bao nhiêu?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:95
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+"Doanh thu tháng này ở cửa hàng của John là {0} đơn vị tiền tệ, tăng {1}% so "
+"với tháng trước. Hỏi doanh thu tháng trước là bao nhiêu?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:110
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+"Lượng nước trong xô giảm {0}%. Hỏi phải tăng thêm bao nhiêu phần trăm để "
+"lượng nước trong xô bằng với ban đầu?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:113
+#, fuzzy
+msgid "The objective is to obtain the same total amount."
+msgstr "Mục đích là đạt được tổng số như nhau"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "Tứ giác"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr ""
+"Hình nào trong các hình sau không thuộc vào nhóm? Trả lời {0}, {1}, {2}, "
+"{3}, {4} hoặc {5}."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "Đó là hình duy nhất mà các cạnh của nó bằng nhau."
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:92
+msgid "Square with dots"
+msgstr "Hình vuông với chấm"
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:97
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+"Hãy tìm ra chữ cái của hình tiếp theo trong dãy. Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "Hình vuông và chữ cái"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"Các chữ cái xung quanh hình vuông tuân theo một quy tắc. Chữ cái nào sẽ thay "
+"thế dấu chấm hỏi ở hình vuông cuối cùng?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+"Mọi chữ cái đều được xác định bằng cách lấy vị trí trong bảng chữ cái của "
+"chữ cái đứng trước cộng với {0} để ra vị trí của chữ cái tiếp theo."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr "Hình vuông"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "Có bao nhiêu hình vuông trong hình dưới đây?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+"Hình vuông là hình chữ nhật có các cạnh bằng nhau. Một hình vuông có thể "
+"được tạo ra từ các hình vuông khác."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"Có 16 hình vuông con, 9 hình vuông được tạo từ các bộ 4 hình vuông con, 4 "
+"hình vuông được tạo từ các bộ 9 hình vuông con và 1 hình vuông được tạo từ "
+"16 hình vuông con."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"Có 9 hình vuông con, 4 hình vuông được tạo từ các bộ 4 hình vuông con và 1 "
+"hình vuông được tạo từ 9 hình vuông con."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr "Giấy hình vuông"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+"Để tạo ra hình sau, cần ít nhất bao nhiêu mảnh giấy hình vuông (kích thước "
+"bất kì)? Các đường thẳng thể hiện ranh giới giữa các mảnh giấy khác nhau."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr "Các mảnh giấy có thể chồng lên nhau."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr "Các chữ số trong hình thể hiện các vùng mà các mảnh phủ."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr "Xếp hình"
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr "Hãy cho biết hình tiếp theo trong dãy sau. Trả lời {0}, {1} hoặc {2}."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+"Đó là hình mà có thể kết hợp với cả bốn khối mà không cần thực hiện phép "
+"xoay."
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr "Thời gian hiện tại"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+"Khoảng thời gian từ {0} giờ trước đến {1:%H} và {2:%H} trong cùng ngày là "
+"bằng nhau. Hỏi bây giờ là mấy giờ? Trả lời sử dụng định dạng {3:%H}"
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+"Ta tìm thời điểm cách đều hai thời điểm đã cho rồi cộng thêm {0} giờ thì sẽ "
+"thu được thời điểm hiện tại."
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:%H}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr "Đồng hồ mẫu"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+#, fuzzy
+msgid "Trains"
+msgstr "mưa"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+#, csharp-format
+msgid ""
+"You can calculate the answer multiplying the second train speed by the time "
+"and dividing it by the difference of speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {3} are always greater than 2
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:104
+#, csharp-format
+msgid ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:128
+#, csharp-format
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:125
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "Tam giác"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "Có bao nhiêu tam giác trong hình sau?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "Một tam giác có thể nằm trong một tam giác khác?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr "Các tam giác được tạo ra bằng cách nối các điểm sau: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr "Tam giác với số"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "Số nào sẽ thay thế dấu chấm hỏi dưới đây?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+"Tất cả các tam giác đều có chung một tính chất và độc lập với các tam giác "
+"còn lại."
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr "Kết quả của phép nhân hai số nằm trong mỗi tam giác là {0}."
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "Hình màu"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Hình nào trong các hình dưới đây đã được hiển thị khi trước? Trả lời {0}, "
+"{1}, {2} hoặc {3}."
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "Chữ màu"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "Hãy cho biết màu của đoạn chữ '{0}'?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "Đếm chấm"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr "Có bao nhiêu chấm màu {0} ở trong hình trước? Trả lời sử dụng các số."
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr "Ghi nhớ sự kiện"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr ""
+"Shiny Cars đã thông báo họ sẽ dừng sản xuất {0} ngày trong tháng sau, trước "
+"đó thì họ đã không dừng sản xuất kể từ năm {1}."
+
+#: ../src/Games/Memory/MemoryFacts.cs:110
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "Shiny Cars sẽ dừng sản xuất trong bao nhiêu ngày?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:111
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr "Lần cuối cùng Shiny Cars dừng sản xuất là vào năm nào?"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:119
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+"Doanh thu của Shiny Cars đã giảm {0}% trong tháng 12, đây là lần giảm tồi tệ "
+"nhất kể từ năm {1}."
+
+#: ../src/Games/Memory/MemoryFacts.cs:121
+msgid "By how much did company sales fall last December?"
+msgstr ""
+"Doanh thu của Shiny Cars đã giảm bao nhiêu phần trăm trong tháng 12 này?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:122
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+"Vào năm nào doanh thu của Shiny Cars đạt thấp hơn doanh thu trong tháng 12 "
+"này?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:127
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr "Khoảng {0}% sản lượng toàn cầu của Shiny Cars được bán ở châu Âu."
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr ""
+"Bao nhiêu phần trăm sản lượng toàn cầu của Shiny Cars được bán ở châu Âu?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:135
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+"Khoảng {0}% ô tô của Shiny Cars dùng dầu diesel, {1}% dùng khí ga, phần còn "
+"lại dùng điện."
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "Bao nhiêu phần trăm ô tô của Shiny Cars dùng dầu diesel?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:138
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "Bao nhiêu phần trăm ô tô của Shiny Cars dùng khí ga?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memory figures"
+msgstr "Ghi nhớ hình"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr ""
+"Hình trong ô nào giống hình được cho dưới đây? Trả lời bằng số thứ tự của ô."
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "Hình tam giác"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+#, fuzzy
+msgid "Square"
+msgstr "Hình vuông"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+#, fuzzy
+msgid "Pentagon"
+msgstr "Tỉ lệ phần trăm"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "Ghi nhớ hình và chữ"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+#, fuzzy
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+"Dưới đây là các hình đã xuất hiện khi trước trừ một hình. Hãy cho biết hình "
+"còn thiếu là hình gì. Các đáp án lựa chọn là hình tam giác, hình chữ nhật, "
+"hình thoi và hình tròn."
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr "Hình với số"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Trong các hình sau hình nào đã xuất hiện khi trước? Trả lời {0}, {1}, {2} "
+"hoặc {3}."
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "Bắt đầu từ điểm số {0}."
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "Sang phải"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "Sang trái"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "Lên trên"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "Xuống dưới"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr "Kết thúc ở điểm {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr "Ghi nhớ chỉ dẫn"
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"Trong các hình sau, hình nào tương ứng với các chỉ dẫn đã cho?  Trả lời {0}, "
+"{1}, {2} hoặc {3}."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr "Có bao nhiêu số lẻ trong hình? Trả lời bằng các số."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr "Có bao nhiêu số chẵn trong hình. Trả lời bằng các số."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+"Có bao nhiêu số có nhiều hơn một chữ số trong hình. Trả lời bằng các số."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "Ghi nhớ số"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "Ghi nhớ từ"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+#, csharp-format
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "Hãy cho biết từ còn thiếu so với danh sách đã cho."
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "khuỷu tay"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "nách"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "tay"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "ngực"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "Cá xác-đin"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "cá hồi"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "cá tuyết"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "cá hồi"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "khoai tây"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "gừng"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "hạt tiêu"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "tỏi"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "bí ngô"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "phanh"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "bàn đạp"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "xích"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "bánh xe"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "tay lái"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "người đánh trống"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "lời"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "nhịp"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "bài hát"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "mây"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "mưa"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "bão"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "sương"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "cầu vồng"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "thỏ"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "chuột"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "khỉ"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "gấu"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "sói"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "Số học"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "Hãy cho biết kết quả của phép tính sau?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "Trung bình"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+"Cho các số: {0}. Số nào sau đây có giá trị gần nhất với trung bình của các "
+"số trên? Trả lời {1}, {2}, {3} hoặc {4}."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, fuzzy, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "Kết quả của phép tính là {0:##0.###}"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "Phân số gần hơn"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr ""
+"Số nào trong các số sau có giá trị gần với {0:##0.###} nhất? Trả lời {1}, "
+"{2}, {3} hoặc {4}."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "Kết quả của phép tính {0} / {1} là {2:##0.###}"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "Phân số"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+#, csharp-format
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr ""
+"Hãy cho biết kết quả của phép tính sau. Trả lời bằng phân số hoặc số thập "
+"phân."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "Ước chung lớn nhất"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers?"
+msgstr "Hãy cho biết ước chung lớn nhất của tất cả các số sau?"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:236
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr "Số"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:250
+msgid "Possible divisors"
+msgstr "Các phương án trả lời"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+#, fuzzy
+msgid "Operators"
+msgstr "Toán tử"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "Toán tử đầu tiên là {0}."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr ""
+"Hãy sử dụng các toán tử thích hợp để từ {0}, {1}, và {2} thu được kết quả là "
+"{3}. Trả lời sử dụng '+-/*'."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} và {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "Số nguyên tố"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr ""
+"Trong các số sau, số nào là số nguyên tố? Số nguyên tố là số tự nhiên có duy "
+"nhất hai ước số dương là 1 và chính nó."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+"Nếu tổng các chữ số trong một số chia hết cho 3 thì số đó cũng chia hết cho "
+"3. Ví dụ, 15 = 1 + 5 = 6 chia hết cho 3."
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "Tỉ lệ"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "{0}% của {1}/{2} là bao nhiêu? Trả lời {3}, {4}, {5} hoặc {6}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "Tỉ lệ"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, fuzzy, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"Hai số có tổng là {0} và có tỉ lệ {1} trên {2}. Hãy cho biết hai số đó là "
+"hai số nào."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+"Số thứ hai được tính bằng cách nhân số thứ nhất với {0} và chia cho {1}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+"Tỉ lệ cho biết tương quan giữa hai số. Một tỉ lệ a:b cho biết ứng với mỗi "
+"'a' phần ta có 'b' phần."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "tỉ lệ giữa hai số là {0}:{1}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "Hai số"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, fuzzy, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr "Tìm hai số biết tổng của chúng là {0} và tích của chúng là {1}."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, fuzzy, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr "Tìm hai số biết hiệu của chúng là {0} và tích của chúng là {1}."
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, fuzzy, csharp-format
+msgid "x - y = {0}"
+msgstr " - Thời gian: {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr ""
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "Tổng hợp (lô-gic, tính toán, ghi nhớ và tự vựng)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "Trả lời:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "Tự chọn phần chơi..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "Cách mở rộng chức năng cho gbrainy"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "Trả lời câu đố lô-gic"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "Luyện tập trí nhớ"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "Luyện tập tính toán"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "Thanh công cụ"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "Luyện tập từ vựng"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "_Nội dung"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "_Kết thúc chơi"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "Trò _chơi"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "Trợ _Giúp"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "_Chơi ván mới"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "_Tiếp"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "_Tạm dừng"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "T_hiết lập"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "_Mẹo"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "_Xem"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr "<b>Chọn phần mở rộng muốn cài rồi ấn Tiếp</b>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>Quản lí phần mở rộng</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "Phần mở rộng"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "Phần mở rộng phụ thuộc vào:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "Cài đặt phần mở rộng"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "Quản lí phần mở rộng"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "Để thực hiện thao tác này, cần cài thêm phần mở rộng."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "Các kho đã đăng kí"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "Duyệt..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "Bản quyền:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "Tắt"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "Bật"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "Cài đặt từ:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "Tên"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "Khác"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "Đường dẫn:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "Đăng kí một kho cục bộ"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "Đăng kí một kho trực tuyến"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "Kho"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "_Chọn tất cả"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "Lựa chọn ví trí của các kho bạn muốn lưu:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "Hiển thị tất cả các gói"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "Chỉ hiển thị phiên bản mới"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "Chỉ hiển thị cập nhật"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "Những phần mở rộng sau đang được cài:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "Những phần mở rộng sau sẽ được cài:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "Url"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "Url:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "Phiên bản"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "Phiên bản:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "_Cài phần mở rộng..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "_Kho..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "_Gỡ bỏ..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "_Bỏ chọn tất cả"
+
+#~ msgid "John's father's sister's sister-in-law is also?"
+#~ msgstr "Chị/em dâu của chị/em của bố của John cũng chính là?"
+
+#~ msgid "Water polo"
+#~ msgstr "Bóng nước"
+
+#~ msgid "cage | zoo"
+#~ msgstr "lồng | chuồng | vườn thú"
+
+#~ msgid "wild"
+#~ msgstr "hoang dã"
+
+#~ msgid "Verbal analogies"
+#~ msgstr "Từ vựng"
+
+#~ msgid "Read {0} verbal analogies of type {1}"
+#~ msgstr "Đọc {0} câu hỏi từ vựng thuộc kiểu {1}"
+
+#~ msgid "Read a total of {0} verbal analogies"
+#~ msgstr "Đọc tổng cộng {0} câu hỏi từ vựng"
+
+#~ msgid ""
+#~ "Which element does not belong to the group? Answer {0}, {1}, {2}, {3} or "
+#~ "{4}."
+#~ msgstr ""
+#~ "Hãy chỉ ra phần tử không thuộc vào nhóm sau. Trả lời {0}, {1}, {2}, {3} "
+#~ "hoặc {4}."
+
+#~ msgid "Rectangle"
+#~ msgstr "Hình chữ nhật"
+
+#~ msgid "Diamond"
+#~ msgstr "Hình thoi"
+
+#~ msgid "number1 + number2 = {0}"
+#~ msgstr "số1 + số2 = {0}"
+
+#~ msgid "number1 - number2 = {0}"
+#~ msgstr "số1 - số2 = {0}"
+
+#~ msgid "number1 * number2 = {0}"
+#~ msgstr "số1 * số2 = {0}"
+
+#~ msgid "_FullScreen"
+#~ msgstr "_Toàn bộ màn hình"

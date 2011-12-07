@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custompage" xml:lang="da">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Begynd med en tilpasset spilmarkering.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-20" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>  
+  </info>
+
+  <title>Tilpasset spilmarkering</title>
+  <p>Det er muligt at spille med en tilpasset spilmarkering blandt alle spil i <app>gbrainy</app>.</p>
+  <p>Det gøres på den følgende måde:</p>
+  <steps>
+    <item>
+      <p>Vælg <guiseq><gui style="menu">Spil</gui><gui style="menuitem">Nyt spil</gui><gui style="menuitem">Tilpasset spiludvælgelse</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>I dialogen <gui>Tilpasset spil</gui> vælges spillet som du ønsker at spille ved at klikke på afkrydsningsboksen ved siden af navnet på spillet.</p>
+    </item>
+    <item>
+      <p>Når du er færdig, klik på <gui style="button">Start</gui> for at starte et spil med dine tilpasninger.</p>
+    </item>
+  </steps>
+</page>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="af">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Inleiding tot <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Spel</title>
+  
+  <p><app>gbrainy</app> is 'n kopkrapspeletjie; die doel van die speletjie is om pret te hê en die brein fiks te hou.</p>
+  <p>Dit bevat verskillende speltipes soos logikaraaisels, hoofrekenespeletjies, geheuebreiers en verbale analogieë - ontwerp om verskillende kognitiewe vaardighede te toets.</p>
+  <p>Verskillende moeilikheidsvlakke kan gekies word om <app>gbrainy</app> vir kinders, volwassenes en senior burgers prettig te maak. Dit het ook 'n spelgeskiedenis, persoonlike rekords, wenke en 'n volskermmodus. <app>gbrainy</app> kan ook maklik <link href="http://live.gnome.org/gbrainy/Extending">uitgebrei</link> word met nuwe speletjies.</p>
+  <p><app>gbrainy</app> is afhanklik van die werk van vorige raaiselmeesters. Dit strek van klassieke raaisels van antieke tye tot meer onlangse werk soos <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> se raaisels oor die klassieke <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>-speletjie.</p>
+  <note>
+    <p>Daar is onlangse besprekings in die wetenskapsgemeenskap oor of breinoefeningsagteware kognitiewe vermoëns verbeter. Meeste van die studies bewys dat daar min of geen verbetering is nie, maar dit beteken nie dat mens nie pret kan hê met die speel van speletjies soos <app>gbrainy</app> nie!</p>
+  </note>
+</page>

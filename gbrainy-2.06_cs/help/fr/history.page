@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="history" xml:lang="fr">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Accéder à votre historique personnel des jeux.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Historique personnel des jeux</title>
+  
+  <p>La boîte de dialogue <gui>Historique des parties du joueur</gui> affiche vos performances dans tous les types de jeu pendant les quelques dernières parties.</p>
+  
+  <section id="history-personal">
+    <title>Affichage de l'historique des jeux</title>
+    <p>Pour accéder à votre historique personnel des jeux, choisissez <guiseq><gui style="menu">Affichage</gui><gui style="menuitem">Historique des parties du joueur</gui></guiseq>.</p>
+  </section>
+  
+  <section id="history-change-graphic">
+    <title>Sélection des résultats à afficher</title>
+    <p>Pour choisir quels résultats seront affichés sur le graphique, utilisez les diverses cases à cocher situées sous le graphe.</p>
+  </section>
+  
+  <section id="history-save-prefs">
+    <title>Modification du nombre de jeux enregistrés</title>
+    <p><app>gbrainy</app> enregistre les scores du joueur afin de pouvoir suivre son évolution.</p>
+    <p>Afin de modifier le nombre de parties enregistrées ou le nombre de parties affichées dans l'historique, suivez les instructions suivantes :</p>
+    <steps>
+      <item>
+        <p>Choisissez <guiseq><gui style="menu">Paramètres</gui><gui style="menuitem">Préférences</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Dans la section <gui>Historique des parties du joueur</gui> :</p>
+        <list>
+          <item>
+            <p>Utilisez la première zone de sélection numérique pour modifier le nombre nécessaire de parties pour obtenir un affichage des résultats dans le graphique de l'historique.</p>
+          </item>
+          <item>
+            <p>Utilisez la deuxième zone de sélection numérique pour modifier le nombre de parties qui seront affichées dans le graphique de l'historique.</p>
+          </item>
+        </list>
+      </item>
+    </steps>
+  </section>
+</page>

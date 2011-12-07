@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Játékok exportálása számítógép nélküli játékhoz.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Játékok exportálása</title>
+  <p>Lehetőség van az alkalmazásban elérhető játékok exportálására és kinyomtatására, hogy a számítógép nélkül is játszhasson.</p>
+  <p>A játékok egy <file>PDF</file> fájlba kerülnek mentésre a kiválasztott mappába.</p>
+  <p>A játékok exportálása:</p>
+  <steps>
+    <item>
+      <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Játékok PDF-be exportálása papíron való játékhoz</gui></guiseq> menüpontot.</p>
+    </item>
+    <item>
+      <p>Válassza ki a játékok típusát, a nehézségi szintet, és az exportálandó játékok számát. Ha kész, nyomja meg a <gui style="button">Mentés</gui> gombot.</p>
+    </item>
+  </steps>
+
+</page>

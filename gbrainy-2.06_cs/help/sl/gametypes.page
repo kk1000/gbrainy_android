@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="sl">
+  <info>
+    <title type="sort">3</title>
+    <desc>Katere vrste iger lahko igrate.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+    </license>
+  </info>
+  <title>Vrste iger</title>
+
+  <p><app>gbrainy</app> zagotavlja naslednje vrste iger:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logične uganke</title>
+          <p>Igre zasnovane za izziv vaših zmožnosti razmišljanja in sklepanja. Te igre so osnovane na zaporedju predmetov, vidnim in prostorskim sklepanjem ali razmerju med predmeti.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logotip logičnih iger</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logotip miselnih računov</title>
+          <p>Igre osnovane na aritmetičnih operacijah zasnovane za izboljšanje vaših zmožnosti miselnega računanja. Igre od igralca zahtevajo uporabo množenja, deljenja, seštevanja in odštevanja združenega na različne načine.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logotip računskih iger</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Treningi pomnjenja</title>
+          <p>Igre zasnovane za preizkus vašega kratkoročnega pomnjenja. Te igre pokažejo zbirke predmetov in od igralca zahtevajo naj se jih zapomni ter včasih vzpostavi razmerja med slikami, besedami, številkami in barvami. </p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logotip iger pomnjenja</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Besedne analogije</title>
+          <p>Igre, ki izzivajo vaše besedno bistrost. Te igre od igralca zahtevajo določitev vzroka in posledice, uporabo sopomenk in protipomenk in besednjaka.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logotip iger besednih analogij</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

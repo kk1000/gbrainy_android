@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="sr@latin">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Kako se izračunava rezultat igrača.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Rezultat igre i vreme</title>
+  <p>Ako netačno odgovorite na zagonetku, za nju nećete dobiti nikakav rezultat.</p>
+  <p>Ako tačno odgovorite na zagonetku, dobićete rezultat koji zavisi od vremena koje vam je bilo potrebno da rešite problem i da li ste koristili savet tokom igre.</p>
+  <p>Sledeća tabela rezimira različita trajanja igre (u sekundama) na osnovu nivoa težine.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Lako</p></td>
+      <td><p>Srednje</p></td>
+      <td><p>Teško</p></td>
+    </tr>
+    <tr>
+      <td><p>Logičke zagonetke</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Mentalni račun</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Memorijske vežbe</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Verbalne analogije</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Uz očekivano vreme za izabrani nivo težine i vreme koje vam je bilo potrebno da završite igru, primenjuje se sledeća logika:</p>
+  <list>
+    <item>
+      <p>Ako vam je bilo potrebno manje vremena od očekivanog da završite igru, dobijate 10 poena.</p>
+    </item>
+    <item>
+      <p>Ako vam je bilo potrebno više vremena od očekivanog da završite igru, dobijate 8 poena.</p>
+    </item>
+    <item>
+      <p>Ako vam je bilo potrebno 2x više vremena od očekivanog da završite igru, dobijate 7 poena.</p>
+    </item>
+    <item>
+      <p>Ako vam je bilo potrebno 3x više vremena od očekivanog da završite igru, dobijate 6 poena.</p>
+    </item>
+    <item>
+      <p>Ako koristite savet, dobijate samo 80% od originalnog rezultata.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Izračunavanje totala</title>
+    <p><app>g-kefalo</app> vodi evidenciju o odigranim različitim vrstama igara. Da bi izračunao konačan rezultat svakog skupa vrsta igara, sabira iznose svih rezultata istih odigranih vrsta igara, a zatim primenjuje faktor zasnovan: na logaritmu od 10 za lakši nivo; na logaritmu od 20 za srednji nivo i na logaritmu od 30 za teški nivo.</p>
+	  <p>To znači da kada igrate srednji nivo težine, da biste dobili rezultat od 100 poena potrebno je da postignete 10 poena u najmanje 20 igara iz svake odigrane vrste igre.</p>
+	  <p>Ovo možda zvuči izazovno, ali omogućava igračima da uporede rezultate iz različitih sesija (u istorijatu igre igrača) i omogućava bolje praćenje napredovanja igrača kroz sve odigrane igre.</p>
+  </section>
+</page>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="sl">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Uvod v <app>gbrainy.</app></desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+   </license>
+  </info>
+
+  <title>Igranje</title>
+  
+  <p><app>gbrainy</app> je igra za razvijanje razmišljanja in bistrenje misli. Njen cilj je zabava in treniranje vaših možganov.</p>
+  <p>Vsebuje različne vrste iger kot so logične uganke, igre miselnega računanja, treningi pomnjenja in besedne analogije, zasnovane za preizkus različnih kognitivnih sposobnosti.</p>
+  <p>Izberete lahko različne težavnost, ki naredijo <app>gbrainy</app> zabaven za otroke, odrasle in starejše. Vsebuje tudi zgodovino iger, osebne rekorde, namige in podporo celozaslonskega načina. <app>gbrainy</app> je mogoče tudi enostavno <link href="http://live.gnome.org/gbrainy/Extending">razširiti</link> z novimi igrami, ki so jih razvile tretje osebe.</p>
+  <p><app>gbrainy</app> se močno zanaša na delo prejšnjih mojstrov ugank od klasičnih ugank iz starodavnih časov do bolj nedavnih del kot so uganke <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels'</link> ali igra <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>.</p>
+  <note>
+    <p>V znanstveni skupnosti poteka veliko razprav ali programi za treniranje možganov izboljšajo kognitivno zmogljivost. Večina študij je pokazala da je izboljšava majhna ali pa je sploh ni. Vendar pa to ne pomeni, da se ne morete zabavati z igranjem iger kot je <app>gbainy</app>!</p>
+  </note>
+</page>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="fr">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Modifier la durée d'affichage des défis dans les jeux de mémoire.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Modification de la durée des défis</title>
+  <p>Pour modifier le nombre de secondes qui vous sont laissées pour mémoriser le défi au cours des jeux de mémoire, suivez les instructions suivantes :</p>
+  <steps>
+    <item>
+      <p>Choisissez <guiseq><gui style="menu">Paramètres</gui><gui style="menuitem">Préférences</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Dans la section <gui>Jeux de mémoire</gui>, utilisez la zone de sélection numérique pour augmenter ou diminuer le nombre de secondes pendant lesquelles le défi sera visible.</p>
+      <p>La valeur par défaut est de 6 secondes.</p>
+    </item>
+  </steps>
+</page>

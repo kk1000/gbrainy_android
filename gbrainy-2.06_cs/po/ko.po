@@ -1,0 +1,3890 @@
+# Korean translation for gbrainy
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the gbrainy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-18 11:02+0200\n"
+"PO-Revision-Date: 2010-07-03 01:37+0000\n"
+"Last-Translator: Bundo <bundo@bundo.biz>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2010-08-16 21:28+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+
+#: ../data/games.xml.h:1
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+
+#: ../data/games.xml.h:2
+#, fuzzy
+msgid "Age"
+msgstr "평균"
+
+#: ../data/games.xml.h:3
+msgid "Bank interest"
+msgstr ""
+
+#: ../data/games.xml.h:4
+msgid "Box"
+msgstr ""
+
+#: ../data/games.xml.h:5
+msgid "Boxes"
+msgstr ""
+
+#: ../data/games.xml.h:6
+#, fuzzy
+msgid "Brothers and sisters"
+msgstr "정사각형과 문자"
+
+#: ../data/games.xml.h:7
+#, fuzzy
+msgid "Clock Rotation"
+msgstr "계산"
+
+#: ../data/games.xml.h:8
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+
+#: ../data/games.xml.h:9
+#, fuzzy
+msgid "Container"
+msgstr "계산중"
+
+#: ../data/games.xml.h:10
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:11
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:12
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+
+#: ../data/games.xml.h:13
+msgid "Every hour rotates 360 degrees."
+msgstr ""
+
+#: ../data/games.xml.h:14
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr ""
+
+#: ../data/games.xml.h:15
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+
+#: ../data/games.xml.h:16
+#, fuzzy
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "아래 방정식의 결과는 무엇입니까?"
+
+#: ../data/games.xml.h:17
+#, fuzzy
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "아래 방정식의 결과는 무엇입니까?"
+
+#: ../data/games.xml.h:18
+#, fuzzy
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "아래 방정식의 결과는 무엇입니까?"
+
+#: ../data/games.xml.h:19
+#, fuzzy
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "아래 방정식의 결과는 무엇입니까?"
+
+#: ../data/games.xml.h:20
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+
+#: ../data/games.xml.h:21
+msgid ""
+"Palindrome years occur usually at 110 year intervals except for the end of "
+"each millennium that occur at a 11 years interval."
+msgstr ""
+
+#: ../data/games.xml.h:22
+msgid "Palindromic years"
+msgstr ""
+
+#: ../data/games.xml.h:23
+msgid "Password"
+msgstr ""
+
+#: ../data/games.xml.h:24
+#, fuzzy
+msgid "Simple equations"
+msgstr "다양한 옵션"
+
+#: ../data/games.xml.h:25
+#, fuzzy
+msgid "Tennis game"
+msgstr "테니스"
+
+#: ../data/games.xml.h:26
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:27
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:28
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:29
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr ""
+
+#: ../data/games.xml.h:30
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr ""
+
+#: ../data/games.xml.h:31
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+
+#: ../data/games.xml.h:32
+msgid "[rslt_a] and [rslt_b]"
+msgstr ""
+
+#: ../data/games.xml.h:33
+msgid ""
+"[year_start] was a palindromic year as [year_end] was, a gap of 11 years. "
+"What are the next two consecutive palindromic years after [year_end] with "
+"the same gap?"
+msgstr ""
+
+#: ../data/games.xml.h:34
+msgid "x * [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:35
+msgid "x + [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:36
+msgid "x - [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:37
+msgid "x / [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "게임"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr ""
+"당신의 논리 능력, 어휘 능력, 계산 능력, 암기 능력을 테스트할 게임을 해보세요"
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "지브레이니"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr "허술하게 만들어진 자동차 엔진은?"
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr "수족관에 갇혀 사는 물고기."
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "자신의 건강에 대해 과도하게 신경을 쓰는 사람은?"
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A terrier is to a dog like a?"
+msgstr "테리어(개의 종류)와 같은 개는?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "Abstinence"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "Acrophobia"
+msgstr "고소 공포증"
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Agoraphobia"
+msgstr "광장 공포증"
+
+#: ../data/verbal_analogies.xml.h:9
+#, fuzzy
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr "영원한 우상이 된 아티스트는?"
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Anthophobia"
+msgstr "꽃 공포증"
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Anthropophobia"
+msgstr "대인 공포증"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Apple"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Attic"
+msgstr "다락방"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Bagpipes"
+msgstr "백파이프"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "Basketball"
+msgstr "농구"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Bassoon"
+msgstr "바순"
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Centimeter"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Collectivism"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Column"
+msgstr "칸"
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Connoisseur"
+msgstr "감정가"
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Conspirator"
+msgstr "공모자"
+
+#: ../data/verbal_analogies.xml.h:22
+#, fuzzy
+msgid "Contradictory"
+msgstr "공모자"
+
+#: ../data/verbal_analogies.xml.h:23
+#, fuzzy
+msgid "Crocodile"
+msgstr "원"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Cycling"
+msgstr "자전거 타기"
+
+#: ../data/verbal_analogies.xml.h:25
+#, fuzzy
+msgid "Deer"
+msgstr "후추"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Fish"
+msgstr "물고기"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Flower"
+msgstr "꽃"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Fossil"
+msgstr "화석"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Frog"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:30
+#, fuzzy
+msgid "Gallon"
+msgstr "연어"
+
+#: ../data/verbal_analogies.xml.h:31
+#, fuzzy
+msgid "Golf"
+msgstr "늑대"
+
+#: ../data/verbal_analogies.xml.h:32
+#, fuzzy
+msgid "Grape"
+msgstr "게임"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Hyena"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Hypochondria"
+msgstr "히포콘드리증"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Ironic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "It is the only one that does not use a ball in the game."
+msgstr "이 사람은 경기에서 공을 사용하지 않는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:37
+#, fuzzy
+msgid "It is the only one that is not a carnivore."
+msgstr "이 사람은 건축과 관련이 없는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:38
+#, fuzzy
+msgid "It is the only one that is not a fruit."
+msgstr "이 사람은 목관 악기를 사용하지 않는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:39
+#, fuzzy
+msgid "It is the only one that is not a reptile."
+msgstr "이 사람은 건축과 관련이 없는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "이 사람은 목관 악기를 사용하지 않는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "It is the only one that is not related to architecture."
+msgstr "이 사람은 건축과 관련이 없는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:42
+#, fuzzy
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "이 사람은 경기에서 공을 사용하지 않는 유일한 사람입니다."
+
+#: ../data/verbal_analogies.xml.h:43
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:44
+#, fuzzy
+msgid "Liter"
+msgstr "물다"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Loner"
+msgstr "고독한 사람"
+
+#: ../data/verbal_analogies.xml.h:46
+#, fuzzy
+msgid "Meter"
+msgstr "최고급"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Oboe"
+msgstr "오보에"
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:49
+#, fuzzy
+msgid "Orange"
+msgstr "오렌지색"
+
+#: ../data/verbal_analogies.xml.h:50
+#, fuzzy
+msgid "Pain"
+msgstr "비"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Person expelled from society"
+msgstr "사회로부터 추방된 사람"
+
+#: ../data/verbal_analogies.xml.h:52
+#, fuzzy
+msgid "Pleasure"
+msgstr "일시 중지"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Portico"
+msgstr "포티코"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Positivism"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:55
+#, fuzzy
+msgid "Potato"
+msgstr "감자"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Related"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:57
+#, fuzzy
+msgid "Snake"
+msgstr "발목"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Specializes in skin diseases"
+msgstr "피부병에 전문화된 사람"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Sport"
+msgstr "스포츠"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Suffers a skin disease"
+msgstr "피부병으로 고통을 겪고 있는 사람"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Synonym"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Tennis"
+msgstr "테니스"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "The first word is the instrument and the second what it measures."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:65
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "'박제사'라는 단어는 어떤 사람을 정의하는 단어일까요?"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Think of the items used in the game."
+msgstr "게임에서 사용되는 항목을 생각 해보십시오."
+
+#: ../data/verbal_analogies.xml.h:68
+#, fuzzy
+msgid "Tiger"
+msgstr "생강"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "Turtle"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "Violin"
+msgstr "바이올린"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Weapon"
+msgstr "무기"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "What is a 'halberd'?"
+msgstr "'미늘창'이란 무엇입니까?"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr "다음 중 '따돌림 당한' 사람을 더 잘 설명한 문장은 무엇입니까?"
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:77
+msgid "Which of the following sports is the odd one?"
+msgstr "다음 스포츠 가운데  어울리지 않는 것은?"
+
+#: ../data/verbal_analogies.xml.h:78
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr "'혹평'과 가장 비슷한 의미의 단어는 무엇일까요?"
+
+#: ../data/verbal_analogies.xml.h:79
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr "'혹평'과 가장 비슷한 의미의 단어는 무엇일까요?"
+
+#: ../data/verbal_analogies.xml.h:80
+#, fuzzy
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr "'혹평'과 가장 비슷한 의미의 단어는 무엇일까요?"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "'혹평'과 가장 비슷한 의미의 단어는 무엇일까요?"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Which of the following words is the odd one?"
+msgstr "다은 단어 가운데 어울리지 않는 것은?"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "Which of the following words means fear of people?"
+msgstr "다음 단어 중 사람들의 공포를 의미하는 단어는 무엇일까요?"
+
+#: ../data/verbal_analogies.xml.h:84
+#, fuzzy
+msgid "Wolf"
+msgstr "늑대"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "Works with dead animals"
+msgstr "죽은 동물로 일하는 사람"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "Works with leather"
+msgstr "가죽으로 일하는 사람"
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "airplane | aeroplane | plane"
+msgstr "비행기 | 비행기 | 날틀"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "ankle"
+msgstr "발목"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "ant / vertebrate"
+msgstr "개미 / 척추동물"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "art / gallery | drama"
+msgstr "예술 / 갤러리 | 드라마"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "atlas"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "bite"
+msgstr "물다"
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "body | skin"
+msgstr "몸 | 피부"
+
+#: ../data/verbal_analogies.xml.h:94
+#, fuzzy
+msgid "book"
+msgstr "깨짐"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:96
+msgid "box / open | banana"
+msgstr "박스 / 열기 | 바나나"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "bridge / over | tunnel"
+msgstr "다리 / 건너 | 터널"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "broken"
+msgstr "깨짐"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "burst | pop"
+msgstr "폭발 | 펑하는 소리"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:101
+#, fuzzy
+msgid "button / push | key (used in a lock)"
+msgstr "버튼 / 누루다 / 열쇠"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "cage | zoo | zoological garden"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "camera"
+msgstr "카메라"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "car / road | train"
+msgstr "차 / 길 | 기차"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "chicken / bird"
+msgstr "닭 / 새"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "chop"
+msgstr "자르기"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "coins"
+msgstr "동전"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "composer | songwriter | lyricist"
+msgstr "작곡가 | 송라이터 | 작사가"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "condemn"
+msgstr "비난하다"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "constellation / stars | archipelago"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "cousin"
+msgstr "사촌"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:113
+msgid "dance"
+msgstr "춤"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "dish / break | balloon"
+msgstr "요리 / 휴식 | 풍선"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "dog / cat"
+msgstr "개 / 고양이"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "dog / tame | wolf"
+msgstr "강아지 / 길들인 | 늑대"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "elbow / knee | wrist"
+msgstr "팔꿈치 / 무릎 | 손목"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "erroneous"
+msgstr "잘못된"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "error / correct | damage"
+msgstr "오류 / 수정 | 피해"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "eyebrow / eye | mustache"
+msgstr "눈썹 / 눈 | 콧수염"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:122
+msgid "feet / two | toes"
+msgstr "발 / 둘 | 발가락"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "fish / aquarium | monkey"
+msgstr "물고기 / 수족관 | 원숭이"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "fish / submarine | bird"
+msgstr "물고기 / 잠수함 | 조류"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "fox / den | bird"
+msgstr "여우 / 굴 | 새"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "glass / break | paper"
+msgstr "유리 / 깨지다 | 종이"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "hands / grab | teeth"
+msgstr "손 / 장갑 | 치아"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "has no relation"
+msgstr "아무 관계 없음"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "herbivorous | herbivore"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "hide"
+msgstr "숨김"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "his mother"
+msgstr "그의 어머니"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "horse / pony"
+msgstr "말 / 조랑말"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "hour / minute | minute"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "hungry / eat | tired"
+msgstr "배고픔 / 먹다 | 지치다"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "hunter / rifle | photographer"
+msgstr "사냥꾼 / 총 | 사진사"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "ice / slippery | glue"
+msgstr "얼음 / 미끄러운 | 접착제"
+
+#: ../data/verbal_analogies.xml.h:137
+#, fuzzy
+msgid "icon"
+msgstr "동전"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "ignore"
+msgstr "무시"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "in | under | through"
+msgstr "안에 | 아래에 | 통해"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "innovator"
+msgstr "혁신자"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "islands"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "leopard / spots | tiger"
+msgstr "표범 / 스포츠 | 호랑이"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid "letter / word | page"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "lip | mouth"
+msgstr "입술 | 입"
+
+#: ../data/verbal_analogies.xml.h:145
+msgid "martyr"
+msgstr "순교자"
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "nest"
+msgstr "둥지"
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "nose"
+msgstr "코"
+
+#: ../data/verbal_analogies.xml.h:148
+msgid "novel / author | song"
+msgstr "소설 / 저자 | 노래"
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "obscure"
+msgstr "불분명"
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "orange / fruit | spinach"
+msgstr "오렌지 / 과일 | 시금치"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "pediatrics / children | numismatics"
+msgstr "소아과 / 아동 | 화폐학"
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "peel"
+msgstr "벗기다"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "pioneer"
+msgstr "개척자"
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "poems / anthology | maps"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "puzzle / solve | game"
+msgstr "퍼즐 / 해결 | 게임"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "repair | fix"
+msgstr "수리 | 수정"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "ring / finger | bracelet"
+msgstr "반지 / 손가락 | 팔찌"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "seal / flippers | bird"
+msgstr "도장 / 날개 | 새"
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:160
+#, fuzzy
+msgid "second"
+msgstr "대구"
+
+#: ../data/verbal_analogies.xml.h:161
+msgid "shovel / dig | axe"
+msgstr "삽 / 발굴 | 도끼"
+
+#: ../data/verbal_analogies.xml.h:162
+msgid "simplistic"
+msgstr "단순한"
+
+#: ../data/verbal_analogies.xml.h:163
+msgid "sink"
+msgstr "가라 앉음"
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "sleep | rest"
+msgstr "잠 | 휴식"
+
+#: ../data/verbal_analogies.xml.h:165
+msgid "slurp / tongue | snort"
+msgstr "꿀꺽꿀꺽 / 널름널름 | 씩씩"
+
+#: ../data/verbal_analogies.xml.h:166
+msgid "son-in-law"
+msgstr "사위"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "sour"
+msgstr "신 맛"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:169
+msgid "stick / float | stone"
+msgstr "고정 / 뜨다 / 돌"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "sticky"
+msgstr "고정된"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "stripes"
+msgstr "줄무늬"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "sugar / sweet | vinegar"
+msgstr "설탕 / 달콤한 | 식초"
+
+#: ../data/verbal_analogies.xml.h:173
+#, fuzzy
+msgid "tear | rip"
+msgstr "눈물 | 물결"
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "tears / eyes | sweat"
+msgstr "눈물 / 눈 | 땀"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:176
+msgid "ten | 10"
+msgstr "열 | 10"
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "tennis / sport | ballet"
+msgstr "테니스 / 운동 | 발레"
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "theatre | theater"
+msgstr "상영관 | 극장"
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "thermometer / temperature | clock"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "tiger / carnivore | cow"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:181
+#, fuzzy
+msgid "time"
+msgstr "소수"
+
+#: ../data/verbal_analogies.xml.h:182
+msgid "toy / play | tool"
+msgstr "장난감 / 놀이 | 공구"
+
+#: ../data/verbal_analogies.xml.h:183
+#, fuzzy
+msgid "track | railway | rails"
+msgstr "트랙 | 철도"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "turn"
+msgstr "돌다"
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "unorthodox"
+msgstr "변칙"
+
+#: ../data/verbal_analogies.xml.h:186
+msgid "vegetable"
+msgstr "야채"
+
+#: ../data/verbal_analogies.xml.h:187
+msgid "whirlpool / water | tornado"
+msgstr "소용돌이 / 수질 | 토네이도"
+
+#: ../data/verbal_analogies.xml.h:188
+#, fuzzy
+msgid "wild | savage"
+msgstr "바람 | 공기"
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "win"
+msgstr "승리"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "wind | air"
+msgstr "바람 | 공기"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "wings"
+msgstr "날개"
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:193
+msgid "work"
+msgstr "일"
+
+#. Body parts
+#: ../data/verbal_analogies.xml.h:194 ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "손목"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "다음 물체를 기억하기 위해 준비하십시오..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:64
+msgid "Total"
+msgstr "합계"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:366
+msgid "Logic"
+msgstr "논리"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:371
+msgid "Calculation"
+msgstr "계산"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:377
+msgid "Memory"
+msgstr "기억"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:383
+msgid "Verbal"
+msgstr "언어"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr "점수"
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "승리한 게임: {0} ({1} 번 플레이 함)"
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}. 승리한 게임: {1} ({2} 번플레이 함)"
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "플레이한 시간 {0} (게임 당 평균 {1})"
+
+#: ../src/Core/Views/FinishView.cs:165
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:175
+msgid "Tips for your next games"
+msgstr "다음 게임 위한 팁"
+
+#: ../src/Core/Views/FinishView.cs:203
+msgid "Congratulations! New personal record"
+msgstr "축하합니다! 새로운 개인 최고 기록"
+
+#: ../src/Core/Views/FinishView.cs:213
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"논리 퍼즐 게임에서 {0}% 의 점수를 기록하여 새로운 개인 기록을 달성하셨습니"
+"다. 이전 기록은 {1}% 입니다."
+
+#: ../src/Core/Views/FinishView.cs:219
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"산수 게임에서 {0}% 의 점수를 기록하여 새로운 개인 기록을 달성하셨습니다. 이"
+"전 기록은 {1}% 입니다."
+
+#: ../src/Core/Views/FinishView.cs:225
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+"기억력 게임에서 {0}% 의 점수를 기록하여 새로운 개인 기록을 달성하셨습니다. 이"
+"전 기록은 {1}% 입니다."
+
+#: ../src/Core/Views/FinishView.cs:231
+#, fuzzy, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+"어휘 분석에서 {0}% 의 점수를 기록하여 새로운 개인 기록을 달성하셨습니다. 이"
+"전 기록은 {1}% 입니다."
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "논리 퍼즐. 당신의 논리와 사고력에 도전해보십시오."
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr "암산입니다. 산수 활동을 통해 당신의 암산 능력을 테스트합니다."
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "당신의 단기 기억을 증명하기 위한 메모리 훈련"
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "언어유추. 당신의 언어적 소질에 도전하세요."
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "gbrainy {0}에 오신 것을 환영합니다."
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr ""
+"gbrainy는 두뇌 유희 게임이자 당신의 두뇌룰 즐겁게 훈련할 수 있는 트레이너입니"
+"다. gbrainy는 다음을 포함하고 있습니다:"
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "게임의 난이도를 조절하려면 설정 메뉴를 사용하세요."
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "빨간색"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "녹색"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "파란색"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "노란색"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "진홍색"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "오렌지색"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "검정색"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "흰색"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "정답은 {0}."
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:316
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:318
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:338
+#, csharp-format
+msgid "Figure {0}"
+msgstr "숫자 {0}"
+
+#: ../src/Core/Main/GameManager.cs:319
+msgid "Pluggin database:"
+msgstr ""
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+"게임 전적: {0}: {1} 논리 퍼즐, {2} 계산 트레이너, {3} 기억력 트레이너, {4} 어"
+"휘 분석"
+
+#: ../src/Core/Main/GameSession.cs:175
+#, fuzzy, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "해본 게임: {0} ({1}% 점)"
+
+#: ../src/Core/Main/GameSession.cs:176
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - 시간: {0}"
+
+#: ../src/Core/Main/GameSession.cs:179
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- 게임: {0}"
+
+#: ../src/Core/Main/GameSession.cs:192
+#, csharp-format
+msgid "Outstanding results"
+msgstr "탁월한 결과"
+
+#: ../src/Core/Main/GameSession.cs:194
+#, csharp-format
+msgid "Excellent results"
+msgstr "우수한 결과"
+
+#: ../src/Core/Main/GameSession.cs:196
+#, csharp-format
+msgid "Good results"
+msgstr "좋은 결과"
+
+#: ../src/Core/Main/GameSession.cs:198
+#, csharp-format
+msgid "Poor results"
+msgstr "불쌍한 결과"
+
+#: ../src/Core/Main/GameSession.cs:199
+#, csharp-format
+msgid "Disappointing results"
+msgstr "실망스러운 결과"
+
+#: ../src/Core/Main/GameSession.cs:261
+msgid "Paused"
+msgstr "일시 중지"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr "지시 사항을 잘 읽고 자료와 주어진 단서를 검증하세요."
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+"사용자의 점수를 기록하기 위해 gbrainy는 각 게임을 완수하는데 걸린 시간과 팁"
+"의 갯수를 사용합니다."
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+"논리 게임에서는, 관계 없어 보이는 구성 요소들이 매우 중요할 수 있습니다."
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr "심리적인 장벽을 허물고 문제의 한계를 보십시오."
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr "실수를 즐기십시오, 실수는 배우는 과정의 일부분입니다."
+
+#: ../src/Core/Main/GameTips.cs:61
+#, fuzzy
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr ""
+"모든 문제를 시도해보십시오, 심지어 어려운 문제라도. 연습을 통해 향상이 이루"
+"어 질것입니다."
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "매일 매일 플레이하다보면, 곧 진전이 있을 것입니다."
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+"하고 싶은 게임을 정확히 플레이하려면 '커스텀 게임 선택'을 이용하십시오."
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr "요소간의 연관 짓기은 무언가를 기억하는데 많이 쓰이는 기술입니다."
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+"요소를 몇가지 카테고리로 분류하는 것은 무언가를 기억하는데 많이 쓰이는 기술입"
+"니다."
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr "각 사실을 기억하기 위해 첫글자를 사용하여 문장을 만드십시오."
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr "퍼즐로부터 얻게되는 즐거움은 퍼즐을 푸는데 소비한 시간과 비례합니다."
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr ""
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "아래 사물들을 주어진 시간 안에 기억하십시오"
+
+#: ../src/Core/Main/Memory.cs:217
+#, fuzzy
+msgid "Time left"
+msgstr "왼쪽으로 이동"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "가능한 정답은: {0}."
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:90
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:63
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, fuzzy, csharp-format
+msgid "Multiple options #{0}"
+msgstr "다양한 옵션"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} 답변 {1}."
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:101
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:137
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:143
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:95
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:150
+#: ../src/Games/Logic/PuzzleSquareDots.cs:206
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "가능한 답변은:"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, fuzzy, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "단어 쌍 비교"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr ""
+"다음 두 단어 사이의 관계를 부여한다면, 어떤 단어가 '{0}'과 같은 관계일까요?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#, csharp-format
+msgid "Words: {0}"
+msgstr "단어: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:39
+#, fuzzy, csharp-format
+msgid "Pair of words #{0}"
+msgstr "한쌍의 단어"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:68
+#, csharp-format
+msgid ""
+"Given the relationship between the words '{0}', which of the possible "
+"answers has the closest in relationship to the given pair? Answer {1}."
+msgstr ""
+"'{0}' 사이의 관계를 부여한다면, 어떤 답이 주어진 쌍과 가장 밀접한 관계를 갖"
+"고 있을 까요? 정답 {1}."
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, fuzzy, csharp-format
+msgid "Question and answer #{0}"
+msgstr "질문과 답변"
+
+#: ../src/Clients/Classical/gbrainy.cs:359
+msgid "Play all the games"
+msgstr "모든 게임 플레이"
+
+#: ../src/Clients/Classical/gbrainy.cs:360
+msgid "All"
+msgstr "전체"
+
+#: ../src/Clients/Classical/gbrainy.cs:365
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "논리와 생각에 도전하는 게임을 해보십시오"
+
+#: ../src/Clients/Classical/gbrainy.cs:372
+msgid "Play games that challenge your mental calculation skills"
+msgstr "당신의 암산 능력에 도전하는  게임을 해보십시오"
+
+#: ../src/Clients/Classical/gbrainy.cs:378
+msgid "Play games that challenge your short term memory"
+msgstr "당신의 단기 기억력에 도전하는 게임을 해보십시오"
+
+#: ../src/Clients/Classical/gbrainy.cs:384
+msgid "Play games that challenge your verbal aptitude"
+msgstr "당신의 언어적 유추에 도전하는 게임을 해보십시오"
+
+#: ../src/Clients/Classical/gbrainy.cs:389
+#: ../src/Clients/Classical/gbrainy.cs:623
+msgid "Pause"
+msgstr "일시 중지"
+
+#: ../src/Clients/Classical/gbrainy.cs:390
+msgid "Pause or resume the game"
+msgstr "게임을 일시 중지하거나 재개"
+
+#: ../src/Clients/Classical/gbrainy.cs:395
+msgid "End the game and show score"
+msgstr "게임 종료 그리고 점수 보기"
+
+#: ../src/Clients/Classical/gbrainy.cs:396
+msgid "Finish"
+msgstr "끝내기"
+
+#: ../src/Clients/Classical/gbrainy.cs:486
+msgid "Congratulations."
+msgstr "축하합니다."
+
+#: ../src/Clients/Classical/gbrainy.cs:488
+msgid "Incorrect answer."
+msgstr "오답."
+
+#: ../src/Clients/Classical/gbrainy.cs:546
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr "정답을 아셨다면 정답을 \"정답:\"란에 적고, OK 버튼을 누르십시오."
+
+#: ../src/Clients/Classical/gbrainy.cs:627
+msgid "Resume"
+msgstr "다시 시작"
+
+#: ../src/Clients/Classical/gbrainy.cs:742
+#, csharp-format
+msgid "Startup time {0}"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:105
+#, csharp-format
+msgid "(built on {0})"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:117
+msgid "List of available games"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:180
+msgid "Usage: gbrainy [options]"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "  --version\t\t\tPrint version information."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --help\t\t\tPrint this usage message."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid "  --versions \t\t\tShow dependencies."
+msgstr ""
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:52
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Bugbear5 https://launchpad.net/~bugbear5\n"
+"  Bundo https://launchpad.net/~kang-bundo\n"
+"  Ernesto2k https://launchpad.net/~boramism\n"
+"  Kyoung-wan Lim https://launchpad.net/~asklkw\n"
+"  Miru https://launchpad.net/~mirupsec\n"
+"  Seung Soo, Ha https://launchpad.net/~sungsuha\n"
+"  imsu https://launchpad.net/~imsu928\n"
+"  koolmint https://launchpad.net/~koolmint\n"
+"  twinsen brim https://launchpad.net/~eolithx\n"
+"  yang jinseok https://launchpad.net/~nayajinseok"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:57
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:58
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details\n"
+"\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:59
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+msgstr "Terry Stickels, MENSA books, Jordi Mas의 아이디어에 기초했습니다."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:70
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "재미와 두뇌 훈련을 위한 두뇌 유희 게임."
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:72
+msgid "gbrainy web site"
+msgstr "지브레이니 웹사이트"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:67
+msgid "Game Name"
+msgstr "게임 이름"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:89
+msgid "Type"
+msgstr "종류"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:111
+msgid "Enabled"
+msgstr "사용함"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution. "
+msgstr "아래 그래프는 플레이어의 게임 점수 향상을 보여줍니다. "
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+#, fuzzy
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr "이것은 {0} 개의 지난 게임 결과를 토대로 만들어진 것입니다."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+#, fuzzy
+msgid "You are about to delete the player's game session history."
+msgstr "플레이어의 게임 기록 중 저장된 게임의 최대 수:"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "사용자 정의 게임"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "모두 선택"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "전체 선택 해제"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "시작(_S)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+#, fuzzy
+msgid "Player's Game Session History"
+msgstr "플레이어의 게임의 기록"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "보기:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>난이도</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>일반 설정</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>게임 기억</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+#, fuzzy
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>플레이어의 게임의 기록</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+#, fuzzy
+msgid "Delete Player's Game Session History"
+msgstr "플레이어의 게임의 기록 청소"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "쉬움"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "최고급"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+#, fuzzy
+msgid "Maximum number of records in the player's game session history:"
+msgstr "플레이어의 게임 기록 중 저장된 게임의 최대 수:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "중간"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+#, fuzzy
+msgid "Minimum number of played games to store the game session:"
+msgstr "게임을 저장하기 위해 플레이한 퍼즐의 최소 숫자:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "기본 설정"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "카운트 다운 메시지 보기"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "색을 사용하는 게임은 건너 뛰기 (색맹 사용자들을 위한 옵션)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "도전을 기억하는데 걸린 시간(초)"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+#, fuzzy
+msgid "3D Cube"
+msgstr "큐브"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+#, fuzzy, csharp-format
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr ""
+"아래 도형에서 얼마나 많은 정육면체를 셀 수 있나요? (도형은 세지 않습니다) 숫"
+"자로 답해주세요."
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr "정육면체는 사각의 모두 동일한 면을 갖고 있는 규칙적인 입체 도형입니다."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "균형"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr "균형을 유지하려면 마지막 그림 오른편에 몇 개의 삼각형이 필요합니까?"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+#, fuzzy
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr ""
+"삼각형 하나는 1로 칩니다. 다이아몬드 하나는 2로, 정사각형 하나는 3으로 칩니"
+"다."
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+#, fuzzy
+msgid "Every circle counts as two triangles."
+msgstr "다이아몬드 하나는 삼각형 둘로 칩니다."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "삼각형 만들기"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"아래에 있는 도형 중 세개를 이용하여 삼각형을 만들 수 있습니까? 사용할 세 개"
+"의 도형이름을 답변하세요.e.g.: {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "결과는 이등변 삼각형입니다."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "삼각형은:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+#, fuzzy
+msgid "Circles in a square"
+msgstr "사각형 안의 원들"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr "아래 사각형 안에 채워넣을 수 있는 원(보기에서)의 최대 갯수는?"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr "64개 이상 원을 채워넣을 수 있습니다."
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr "8 개"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr "1 개"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "시계"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr "'{0}' 시계의 시침은 어느 숫자를 가리켜야 합니까? 숫자로 답해주십시오."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+"첫번째 시계부터 시작해서, 시계 바늘이 가리키는 값의 합 {0} 을 구합니다."
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr "시간 논리에 따라 시계가 동작하지는 않습니다."
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "원 계산"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "얼마나 많은 동그라미가 계산됩니까?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "원의 갯수를 체계적으로 세면 , 쉬운 연습문제입니다."
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr "계산중"
+
+#. Translators: {0} and {1} are always numbers greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:65
+#, csharp-format
+msgid ""
+"We have a {0} meters piece of fabric. Machine A takes {1} seconds to cut 1 "
+"meter of this fabric. How many seconds does Machine A take to cut the entire "
+"piece of fabric into 1 meter pieces?"
+msgstr ""
+"천이 {0} 미터 있습니다. A 기계는 천 1미터 자르는데 {1} 초 걸립니다. A 기계가 "
+"천을 1미터 조각으로 모두 자르는데 몇 초 걸립니까?"
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:69
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr "{0} 번 자를 때, A 기계는 1 미터 조각을 두 개 만들어냅니다."
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:79
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+"정사각형 영역을 에워싸려고 울타리를 세웁니다. 정사각형의 한 변에 울타리 기둥 "
+"{0}개를 사용합니다. 울타리 기둥을 모두 몇 개 사용합니까?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr "정사각형 모서리에서는 기둥을 공유하므로, 울타리 기둥은 {0} 개 입니다."
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:92
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+"기념일 선물 포장에 일 유로가 듭니다. 기념일 선물은 포장비보다 {0} 유로만큼 "
+"더 듭니다. 이 때, 선물도 사고 또 포장도 하려면 얼마나 듭니까?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:94
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr "개별적으로, 포장비보다 선물값이 일 유로만큼 더 듭니다."
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:39
+msgid "Count series"
+msgstr "시리즈 계산"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:51
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr "10에서 100까지 숫자를 나열하면 숫자 '9' 가 몇 번 나옵니까?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:56
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+"첫째 자리가 둘째 자리보다 큰(예: 20 그리고 21) 두 자리 숫자는 몇 개 나옵니까?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+"첫째 자리가 둘째 자리보다 작은(예: 12 그리고 13), 두 자리 숫자는 몇 개 나옵니"
+"까?"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr "면적 비율"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "그림에서 색칠된 부분은 몇 퍼센트입니까?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "큐브"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When folded as a cube, which face on the figure is opposite the face with a "
+"{0} drawn on it? Answer the number written on face."
+msgstr ""
+"정육면체로 접으면, 보기에서 숫자 {0}이 그려진 면의 반대쪽 면은 어느 것입니"
+"까? 면 위에 적혀있는 숫자로 답해주십시오."
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"정육면체 주사위를 한 번 던져서 '2' 또는 '6'이 나올 확률은 얼마입니까? 분수로 "
+"답해주십시오(예: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr "확률은 2/6 입니다."
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"정육면체 주사위를 한 번 던져서 '5'가 나올 확률은 얼마입니까? 분수로 답해주십"
+"시오 (예: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr "확률은 5/6 입니다."
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"정육면체 주사위 두 개를 동시에 던졌습니다. 주사위 둘 다 짝수가 나올 확률은 얼"
+"마입니까? 분수로 답해주십시오 (예: 1/2)."
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting an even number."
+msgstr "짝수가 나올 확률은 9/36 입니다."
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+"주사위 2개를 동시에 던졌습니다. 둘 다 '6'이 나올 확률은? 분수로 답해주십시오 "
+"(예: 1/2)"
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+"첫 번째 주사위에 '6'이 나올 확률은 1/6이고, 두 번째 주사위도 그와 같습니다."
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr "주사위"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr "원 나누기"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr "앞 그림에서, 모든 점을 선으로 이으면 원은 몇 개의 영역으로 나뉩니까?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:113
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:128
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:145
+#, csharp-format
+msgid "Has {0} regions"
+msgstr "{0}개의 영역"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "방정식"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "아래 방정식의 결과는 무엇입니까?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+"산술 연산의 순서는 늘 다음과 같다:지수와 근, 곱셉과 나눗셈, 덧셈과 뺄셈."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr "추가할 원"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"그룹에 속하지 않는 원은 어느 것입니까? 요소의 순서는 아닙니다. 정답은 {0}, "
+"{1}, {2} 또는 {3}."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr "원 하나만 제외하고, 모든 원은 공통 속성을 갖고 있습니다."
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+#, csharp-format
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr "이 원을 제외한 나머지 원에서는, 부채꼴 색깔이 같은 순서를 따릅니다."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "도형과 텍스트"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr ""
+"도형과 텍스트는 관련 있습니다. 마지막 도형 밑에는 어떤 텍스트가 들어가야 합니"
+"까?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr "텍스트의 각 문자는 도형의 속성을 나타냅니다."
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+#, fuzzy
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"'A'는 도형끼리 겹칩, 'B'는 사각형, 'C'는 원, 'D'는 도형이 분리됨, 'E'는 도형"
+"이 3개, 'F'는 도형이 2개임을 가리킵니다."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr "도형 패턴"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "어느 도형이 물음표를 대체해야합니까? 정답은 {0}, {1} 또는 {2}"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr "각 행의 세번째 도형은, 앞서 두 도형과 어떻게든 밀접한 관계가 있습니다."
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+"첫번째와 두번째 도형을 포개고, 겹치는 선을 없앤 다음, 45도 회전시키십시오."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "형태"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+"논리적인 순서로 볼 때, 맨 마지막 열에 와야할 오브젝트는 무엇입니까?  아래 규"
+"칙을 보고 답해주십시오."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr "주어진 요소들을 반복하지 않고서도 짤 수 있는 유일한 조합입니다."
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr "정답은 다음 형태로 제시합니다:"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, fuzzy, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "예: {0}{1}{2} (마름모, 삼각형, 원)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "사변"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr "아래 그림에서 사변형은 몇 개입니까?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "변이 4개인 도형을 다른 도형 안에 끼워넣을 수 있습니다."
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr "아래 점들을 연결하면 사변형이 됩니다: {0}"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr "악수"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+"파티 참석자 모두 서로 소개합니다. 전부 {0}회 악수했습니다. 파티에 참가한 사람"
+"은 몇 명입니까?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr "작은 인원수의 사람들을 만나는 상황을 상상해보십시오."
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr "더 큰 모양"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"앞서 두 도형을 결합하려면, 더 큰 모양 어느 것으로 가능합니까? 정답은 {0}, "
+"{1}, {2} 또는 {3}"
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "직선"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+"아래 도형에서 선분은 몇 개입니까? 선분이란, 교차선이 지나가지 않는, 두 점 사"
+"이의 선입니다."
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr "왼편 도형은 선분이 {0}개, 오른편 도형은 {1}개 입니다."
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "선분의 갯수를 체계적으로 헤아리면 쉬운 연습문제입니다."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr "행렬 그룹"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "행렬속 숫자 하나에 동그라미를 쳐야합니다. 어느 숫자?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr "동그라미 친 숫자들은 한 가지 산술 속성을 공유하고 있습니다."
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "동그라미 친 숫자는 {0}으로 나눠집니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr "행렬 번호"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr "행렬 숫자는 어떤 패턴을 따릅니다. 물음표에 들어갈 숫자는?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr "그 패턴은 사칙연산이고 수직방향입니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "그 패턴은 사칙연산이고 수평방향입니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+"첫번째와 두번째 행을 곱하고 세번째 행을 더해서 네 번째 행이 계산됩니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:69
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+"첫번째와 두번째 열을 곱하고 세번째 열을 더해서 네 번째 행이 계산됩니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:74
+#, csharp-format
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr "첫번째와 두번째 행을 곱하고 세번째 행을 빼서 네 번째 행이 계산됩니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:76
+#, csharp-format
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr "첫번째와 두번째 열을 곱하고 세번째 열을 배서 네번째 열이 계산됩니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:81
+#, csharp-format
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr "첫번째와 두번째 행을 더하고 세번째 행을 빼면 네번째 열이 계산됩니다."
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:83
+#, csharp-format
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+"맨앞 첫째와 둘째 열을 더한 값을 셋째 열로 나눈 값이 넷째 열에 들어갑니다."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "빠진 조각"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "어느 정사각형이라야 아래 도형이 완성됩니까? 정답은 {0}, {1} 또는 {2}."
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"매 열에서 세번째의 정사각형은 같은 열의 첫번째 정사각형을 좌, 우로 뒤집고 이"
+"를 두번째 줄 정사각형과 겹친 후 공통되는 선을 제거한 것입니다."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr "빠진 조각"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+"다음의 조각들은 공통된 특징을 가지고 있습니다. 아래의 원에서 빠진 조각은 무엇"
+"인가요? {0}, {1} 또는 {2}로 답변하세요."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr "각 조각들은 반대편의 것과 관련이 있습니다."
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+"각 조각의 숫자들은 반대편 조각에 있는 같은 위치의 수와 더했을 때 {0}의 값이 "
+"됩니다."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr "공통점"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"주어진 네개의 그림의 공통점에 대한 답변이 될 수 있는 것은 무엇입니까? {0}, "
+"{1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "주어진 그림이 가지는 공통적인 요소에 대해 생각해 봅시다."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr "주어진 그림과 같이 내부에 같은 수의 요소를 가지고 있습니다."
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr "주어진 그림과 비교하여 대부분의 요소들이 공통되는 그림입니다."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "이동 그림"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr ""
+"왼쪽그림에서 오른쪽그림으로 원을 옮길 때 최소한 원을 몇번 옮겨야 하는가?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"1 번째 줄에서 2 번째로 원을 옮기고 2 개의 원을 4 번째 줄에서 2 번째와 5 번째 "
+"줄로 옮기십시오."
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "다음 그림"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "다음으로 오는 그림은 무엇입니까? 대답 {0}, {1} or {2}."
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+#, csharp-format
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:38
+msgid "Numeric relation"
+msgstr "숫자 관계"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:42
+msgid "What number should replace the question mark?"
+msgstr "물음표에 들어갈 숫자는 무엇입니까?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "The numbers are related arithmetically."
+msgstr "숫자들은 산술적으로 관계되어 있습니다."
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:53
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:55
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:35
+msgid "Numeric sequence"
+msgstr "숫자 순서"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:39
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr ""
+"다음 숫자들은 어떤 법칙에 따라 나열되어 있습니다. 물음표를 대신할 숫자는 무엇"
+"입니까?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:43
+msgid "Every number in the sequence is related to the previous one."
+msgstr "수열에 있어 모든 수는 이전 수와 괄련이 있습니다."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr "나열된 수들은 모두 앞의 수로부터 1을 빼고 그 값에 2를 곱한 수입니다."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:52
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr "나열된 수들은 모두 앞의 수로부터 1을 더하고 그 값에 3을 곱한 수입니다."
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr "나열된 수들은 모두 앞의 수로부터 2를 빼고 그 값에 -2를 곱한 수입니다."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr "추방"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, fuzzy, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"그룹에 속하지 않는 원은 어느 것입니까? 요소의 순서는 아닙니다. 정답은 {0}, "
+"{1}, {2} 또는 {3}."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr ""
+"그룹에 속하는 수는 서로 연관된 두 개의 부분으로 나누어 볼 수 있음을 참고하세"
+"요."
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr "다른 모든 수에서, 마지막 세자리의 수는 처음 두자리의 제곱입니다."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"모든 화가들은 예술가이고 바르셀로나의 일부 시민들은 예술가라면 다음 중 올바"
+"른 문장은 어떤 것인가요? {0}, {1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "바로셀로나의 약간의 시민은 화가이다."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "바로셀로나의 모든 시민은 화가이다."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "바로셀로나의 시민은 화가가 아니다."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "답 없음"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"행복한 아픈 예술가는 없고 일부 예술가들은 행복하다면 다음 중 올바른 문장은 어"
+"떤 것인가요? {0}, {1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "일부 예술가는 아프지 않다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "일부 화가는 예술가가 아니다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "모든 예술가는 행복하다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"여행을 하고자 하는 사람들은 지도를 삽니다. 당신은 여행을 가지 않습니다. 다음 "
+"중 올바른 문장은 어떤 것인가요? {0}, {1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "당신은 지도를 가지고 있지 않다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "당신은 지도를 사지 않는다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+#, fuzzy
+msgid "All people have a map"
+msgstr "모든 사람은 지도를 가지고 있다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, fuzzy, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"만일 당신이 행복할 때 휘파람을 불고 휘파람을 불 때 미소를 짓는다면 다음 중 올"
+"바른 문장은 어떤 것인가요? {0}, {1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "당신은 행복할 때 미소를 짓는다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "당신은 휘파람을 불 때만 행복하다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "당신은 행복하지 않을 때 휘파람을 분다"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Predicate Logic"
+msgstr "법칙 서술하기"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "연필"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"다음 그림 중 다른 선을 가로지르거나 연필을 떼지 않고는 그릴 수 없는 것은 무엇"
+"인가요? {0}, {1}, {2}, {3} 또는 {4}로 답변하세요."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "탁자에 모인 사람들"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"많은 사람들이 둥근 탁자에 빽빽하게 모여 앉아있습니다. {0}의 사람과 {1}의 사람"
+"이 마주 보고 있다면 총 몇 명의 사람이 탁자에 모여 앉아있을까요?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"두 사람의 위치를 빼면 탁자의 절반에 전부 몇 명이 앉아있는지 알 수 있습니다. "
+"그 값을 두 배로 하여 전체 인원의 수를 구할 수 있습니다."
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "5번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "19번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "4번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "12번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "9번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "22번째"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "두 명이 탁자에서 마주 보며 앉아있다"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "백분율"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+"{0}%의 할인을 받아 TV를 사는데 {1} 화폐를 지불하였습니다. 그 TV의 할인 전 가"
+"격은 얼마였을까요?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:95
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+"존의 가게는 {0} 골드의 매출이 있었습니다. 이는 작년에 비해 {1}% 상승한 것입니"
+"다. 작년의 매출은 얼마였을까요?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:110
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+"양동이의 물이 {0}% 줄었습니다. 양동이의 물이 원래의 양이 되려면 물이 몇 % 늘"
+"어야 할까요?"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:113
+#, fuzzy
+msgid "The objective is to obtain the same total amount."
+msgstr "전체 양이 같아지는 값을 찾아야 합니다."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "4변형"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr ""
+"다음 그림 중 다른 그림과 값은 그룹에 속하지 않는 것은 무엇인가요? {0}, {1}, "
+"{2}, {3}, {4} 또는 {5}로 답변하세요."
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "각 변이 동일한 유일한 그림입니다."
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:92
+msgid "Square with dots"
+msgstr "점으로 된 사각형"
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:97
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr "다음 순서에 맞는 그림은 어느 것인가요? {0}, {1} 또는 {2}로 답변하세요."
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "정사각형과 문자"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"사각형 주변의 문자는 어떤 형식을 따르고 있습니다. 마지막 사각형의 물음표에 알"
+"맞는 것은 무엇일까요?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr "정사각형"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "다음 그림에서 찾아낼 수 있는 정사각형의 개수는 총 몇 개인가요?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+"정사각형은 4변의 길이가 모두 같은 사각형입니다. 정사각형은 다른 정사각형으로"
+"부터도 만들어질 수 있습니다."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"총 16개의 단일 정사각형이 있습니다. 9개는 4개의 단일 정사각형으로부터, 4개는 "
+"9개의 단일 정사각형으로부터, 1개는 16개의 단위 정사각형으로부터 만들어집니다."
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"총 9개의 단일 정사각형이 있습니다. 4개는 4개의 단일 정사각형으로부터, 1개는 9"
+"개의 단일 정사각형으로부터 만들어집니다."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr "정사각형 종이"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+"다음 그림과 같이 만들기 위해 필요한 정사각형 종이의 최소 개수는 몇 장인가요? "
+"각 선분은 각각의 종이의 테두리를 의미합니다."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr "종이는 서로 겹칠 수 있습니다."
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr "테트리스"
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr ""
+"아래 순서를 완성하는 그림은 무엇인가요? {0}, {1} 또는 {2}로 답변하세요."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr "지금 시간"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+"지금으로부터 {0}시간 전에 같은 날의 {1:tt h시}로부터 흐른 시간과 {2:tt h시}까"
+"지 남은 시간이 정확히 일치하였습니다. 현재 시간은 몇 시인가요? (예: {3:tt h"
+"시})"
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+"주어진 시간 간의 간격이 같은 시간을 계산하고 거기에 {0}시간을 더해 현재 시간"
+"으로 변환합니다."
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:%H시}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr "예제 시간"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+#, fuzzy
+msgid "Trains"
+msgstr "비"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+#, csharp-format
+msgid ""
+"You can calculate the answer multiplying the second train speed by the time "
+"and dividing it by the difference of speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {3} are always greater than 2
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:104
+#, csharp-format
+msgid ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:128
+#, csharp-format
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr ""
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:125
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "삼각형"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "아래 그림에서 찾을 수 있는 삼각형의 개수는 얼마인가요!"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "삼각형의 내부에는 다른 삼각형을 포함할 수 있습니다."
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr "삼각형과 숫자"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "아래 그림에서 물음표를 대신할 수 있는 숫자는 무엇인가요?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr "각 삼각형의 내부에 있는 두 개의 수를 곱한 값은 {0}입니다."
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"이전에 나타난 그림은 어느 것인가요? {0}, {1}, {2} 또는 {3}으로 답변하세요."
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "점 세기"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr "이전의 그림에서 {0}색의 점은 모두 몇 개였습니까? 숫자로 답변하세요."
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr "내용 기억하기"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr ""
+"'반짝반짝차'는 다음 달 {0}일 동안 생산을 중단한다고 발표하였습니다.  {1}년 이"
+"후로는 생산랑을 감축한 적이 없었습니다."
+
+#: ../src/Games/Memory/MemoryFacts.cs:110
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "'반짝반짝차'가 생산을 중단하기로 한 것은 몇 일 동안 인가요?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:111
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr "'반짝반짝차'가 가장 최근에 생산을 중단한 것은 몇년도였나요?"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:119
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+"'반짝반짝차'의 판매량은 지난 12월 {0}% 감소하였습니다. 이는 {1}년 이후로 최악"
+"의 하락입니다."
+
+#: ../src/Games/Memory/MemoryFacts.cs:121
+msgid "By how much did company sales fall last December?"
+msgstr "지난 12월 줄어든 판매량은 얼마였나요?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:122
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+"'반짝반짝차'가 지난 12월 보다 낮은 전체 판매량을 기록한 것은 몇 년도인가요?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:127
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr "약 {0}%의 '반짝반짝차' 제품이 유럽에서 판매되었습니다."
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr "'반짝반짝차'의 제품 중 유럽에서 팔린 것은 몇 %나 되나요?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:135
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr ""
+"'반짝반짝차'의 제품 중 약 {0}%는 디젤유를 사용하며, {1}%는 가솔린, 나머지는 "
+"전기를 사용합니다."
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "'반짝반짝차'의 제품 중 몇 %가 디젤유를 사용하나요?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:138
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "'반짝반짝차'의 제품 중 몇 %가 가솔린을 사용하나요?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memory figures"
+msgstr "그림 기억하기"
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr "아래 그림과 다른 그림은 무엇입니까? 숫자로 답해 주십시오."
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "삼각형"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+#, fuzzy
+msgid "Square"
+msgstr "정사각형"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+#, fuzzy
+msgid "Pentagon"
+msgstr "백분율"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "원"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr "그림과 문장 기억하기"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr "숫자가 있는 그림"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"아래 정사각형 중 이전에 나타났던 것은 무엇입니까? {0}, {1}, {2} 또는 {3}으로 "
+"답변하세요."
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "오른쪽으로 이동"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "왼쪽으로 이동"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "위로 이동"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "아래로 이동"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr "이전 그림에 나타난 홀수의 갯수는 총 몇개인가요? 숫자로 답변하세요."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr "이전 그림에 나타난 짝수의 갯수는 총 몇개인가요? 숫자로 답변하세요."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+"이전 그림에 나타난 한 자릿수보다 큰 수의 갯수는 총 몇개인가요? 숫자로 답변하"
+"세요."
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr "숫자 외우기"
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr "단어 외우기"
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+#, csharp-format
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "이전 리스트로부터 누락된 단어가 있습니다. 누락된 단어는 무엇인가요?"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "팔꿈치"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "겨드랑이"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "손"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "가슴"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "정어리"
+
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "송어"
+
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "아귀"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "대구"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "연어"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "감자"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "생강"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "후추"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "마늘"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "호박"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "브레이크"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "페달"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "체인"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "휠"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "손잡이"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "드러머"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "스피커"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "가사"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "박자"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "노래"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "구름"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "비"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "번개"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "안개"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "무지개"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "토끼"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "쥐"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "원숭이"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "곰"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "늑대"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "산술적인"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "사칙연산의 값은 무엇인가요?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "평균"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+"주어진 숫자: {0}, 아래 숫자 중 주어진 숫자의 평균에 가까운 수는 무엇인가요? "
+"{1}, {2}, {3} 또는 {4}로 답변하세요."
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, fuzzy, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "연산 결과는 {0:##0.###}입니다."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr "근사한 분수"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr ""
+"{0:##0.###}에 가까운 수는 무엇인가요? {1}, {2}, {3} 또는 {4}로 답변하세요."
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "{0} / {1}을 계산한 값은 {2:##0.###}입니다."
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr "분수"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+#, csharp-format
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr "다음 연산의 결과값은 무엇인가요? 분수 또는 숫자로 답변하세요."
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "최대공약수"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers?"
+msgstr "모든 수를 나눌 수 있는 공약수 중 가장 큰 수는 무엇인가요?"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:236
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr "숫자"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:250
+msgid "Possible divisors"
+msgstr "가능한 공약수"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+#, fuzzy
+msgid "Operators"
+msgstr "연산기호"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "첫번째 연산 기호는 {0}입니다."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr ""
+"{0}, {1}과 {2}를 {3}과 같게 하는 연산기호는 무엇인가요? '+ - * /'로 답변하세"
+"요."
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0}과(와) {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "소수"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr ""
+"아래의 수 중 소수는 무엇인가요? 소수는 양의 정수 가운데 1과 자신 외에는 나누"
+"어 떨어지지 않는 수를 말합니다."
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+"주어진 수에 포함된 각 숫자를 더한 값이 3으로 나눠 떨어진다면 그 수가 됩니다. "
+"예를 들어 15입니다. (15 = 1 + 5 = 6, 3으로 나눠 떨어짐)"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "{1}/{2}의{0}%는 몇인가요? {3}, {4}, {5} 또는 {6}으로 답변하세요."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "비율"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, fuzzy, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr "두 수의 합이 {0}이고, 두 수의 비율이 {1} : {2} 일 때, 두 수는?"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr "두번째 수는 첫번째 수에 {0}을 곱한 것을 {1}로 나누어 계산됩니다."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "{0} : {1} 의 비율"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "두 개의 수"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, fuzzy, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr "더했을 때 {0}, 곱했을 때 {1}이 되는 두 수는 무엇인가요?"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, fuzzy, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr "뺐을 때 {0}, 나눴을 때 {1}이 되는 두 수는 무엇인가요?"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, fuzzy, csharp-format
+msgid "x - y = {0}"
+msgstr " - 시간: {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr ""
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "모든 게임(논리, 암산, 기억 그리고 언어 유추)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "답변:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "사용자 게임 선택..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "확장 기능"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "지브레이니 게임을 확장 하는 법"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "논리 퍼즐 만"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "기억력 훈련 전용"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "암산 훈련 전용"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "도구모음"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "언어 유추 전용"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "차례(_C)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "게임 끝내기(_E)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "게임(_G)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "도움말(_H)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "새 게임(_N)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "다음(_N)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "게임 일시 중지(_P)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "설정 (_S)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "팁(_T)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "보기(_V)"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr "<b>설치할 애드인을 선택하고 다음을 클릭하십시오</b>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr "<big><b>애드인 관리자</b></big>"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr "추가 기능"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr "추가 기능 의존성:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr "추가 기능 설치"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr "추가 기능 관리자"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "이 작업을 수행하려면 추가적인 확장이 필요합니다."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "등록된 모든 저장소"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "저작자:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "찾아보기..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "저작권:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "사용하지 않기"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "사용하기"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "설치 경로:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "이름"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "기타"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "경로:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "로컬 저장소 등록"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "온라인 저장소 등록"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "저장소"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "전부 선택(_A)"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "등록하고 싶은 저장소의 위치를 선택하십시오:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "모든 꾸러미 보기"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "새 버전 만 보기"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "업데이트 만 보기"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "다음 추가 기능들이 현재 설치되어 있습니다:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "다음 추가 기능이 설치될 것입니다:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "URL"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "URL:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "버젼"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "버젼:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "추가 기능 설치(_I)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "저장소(_R)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "설치 제거(_U)..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "모두 선택 해제(_U)"
+
+#~ msgid "John's father's sister's sister-in-law is also?"
+#~ msgstr "철수의 아버지의 누나의 시누이는 또한 무엇일까요?"
+
+#~ msgid "Water polo"
+#~ msgstr "수중 폴로"
+
+#~ msgid "cage | zoo"
+#~ msgstr "새장 | 동물원"
+
+#~ msgid "emblem"
+#~ msgstr "상징"
+
+#~ msgid "wild"
+#~ msgstr "야생"
+
+#~ msgid "Verbal analogies"
+#~ msgstr "언어 유추"
+
+#~ msgid "Read {0} verbal analogies of type {1}"
+#~ msgstr "읽기 {0} 언어적 유추 타입 {1}"
+
+#~ msgid "Read a total of {0} verbal analogies"
+#~ msgstr "전체 어휘 분석 중 {0} 개를 읽음"
+
+#~ msgid ""
+#~ "Which element does not belong to the group? Answer {0}, {1}, {2}, {3} or "
+#~ "{4}."
+#~ msgstr ""
+#~ "그룹에 속하지 않는 보기는 무엇입니까? 대답 {0}, {1}, {2}, {3} or {4}."
+
+#~ msgid "Rectangle"
+#~ msgstr "사각형"
+
+#~ msgid "Diamond"
+#~ msgstr "마름모"
+
+#~ msgid "number1 + number2 = {0}"
+#~ msgstr "숫자1 + 숫자2 = {0}"
+
+#~ msgid "number1 - number2 = {0}"
+#~ msgstr "숫자1 - 숫자2 = {0}"
+
+#~ msgid "number1 * number2 = {0}"
+#~ msgstr "숫자1 * 숫자2 = {0}"
+
+#~ msgid "_FullScreen"
+#~ msgstr "전체화면(_F)"

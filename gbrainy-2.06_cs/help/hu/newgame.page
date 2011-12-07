@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="hu">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Játék indítása és játszása.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Játék folyamata</title>
+  
+  <section id="game-start">
+    <title>Új játék indítása</title>
+    <p>Új játék indításához tegye a következők egyikét:</p>
+    <list>
+      <item>
+        <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Új játék</gui></guiseq> menüpontot, és válassza ki a kívánt játék típusát.</p>
+      </item>
+      <item>
+        <p>Kattintson az eszköztár egyik gombjára.</p>
+      </item>
+    </list>
+    <p>Az eszköztár gombjai a következőket jelentik:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Mindegyik</title>
+            <p>Új játék az összes elérhető játéktípussal.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Minden játék gomb</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logika</title>
+            <p>Új játék csak a logikai játékokkal.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Logikai játékok gomb</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Számolás</title>
+            <p>Új játék csak a számolási játékokkal.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Számolási játékok gomb</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Memória</title>
+            <p>Új játék csak a memóriajátékokkal.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Memóriajátékok gomb</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Verbális</title>
+            <p>Új játék csak a verbális analógia játékokkal.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Verbális játékok gomb</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Ezek a leírások érvényesek a <gui style="menu">Játék</gui> menüből kiválasztható játéktípusokra is.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>A játék folyamata</title>
+    <note style="tip">
+      <p>Játék közben mindig körültekintően olvassa el az utasításokat!</p>
+    </note>
+    <p>A játék a feladvány megjelenítésével kezdődik, majd a válasz bekérésével folytatódik. Az ablak alján található a vezérlőelemek csoportja, amelyekkel a játékot kezelheti.</p>
+    <p>Ha úgy érzi, tudja a választ a feladatra, írja be azt a <gui style="input">Válasz</gui> mezőbe, és nyomja meg az <gui style="button">OK</gui> gombot.</p>
+    <p>A következő feladatra lépéshez használja a <gui style="button">Következő</gui> gombot.</p>
+    <note>
+      <p>Ha a <gui style="button">Következő</gui> gombot a játék befejeződése előtt, vagy válasz megadása nélkül nyomja meg, a játék akkor is be lesz számítva az eredményeibe.</p>
+    </note>
+  </section>
+</page>

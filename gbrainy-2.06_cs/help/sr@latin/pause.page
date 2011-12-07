@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="pause" xml:lang="sr@latin">
+      
+  <info>
+    <title type="sort">4</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Kako da pauzirate ili da završite igru</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Pauzirati/završiti igru</title>
+
+  <section id="pause-pause">
+    <title>Pauzirajte i nastavite igru</title>
+    <p>Da pauzirate igru, tako da možete nastaviti sa istog mesta u kasnijem trenutku, izvršite jedno od sledećeg:</p>
+    <list>
+      <item>
+        <p>Izaberite „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Pauziraj igru</gui></guiseq>“.</p>
+      </item>
+      <item>
+        <p>Kliknite na dugme „<gui style="button">Pauziraj</gui>“ na liniji alata.</p>
+      </item>
+    </list>
+    <p>Da nastavite igru nakon što ste je pauzirali, uradite jedno od sledećeg:</p>
+    <list>
+      <item>
+        <p>Izaberite „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Pauziraj igru</gui></guiseq>“.</p>
+      </item>
+      <item>
+        <p>Kliknite na dugme „<gui style="button">Rezumiraj</gui>“ na liniji alata.</p>
+      </item>
+    </list>
+  </section>
+  
+  <section id="pause-stop">
+    <title>Završite igru</title>
+    <p>Da završite igru, uradite jedno od sledećeg:</p>
+    <list>
+      <item>
+        <p>Izaberite „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Završi igru</gui></guiseq>“.</p>
+      </item>
+      <item>
+        <p>Kliknite na dugme „<gui style="button">Kraj</gui>“ na liniji alata.</p>
+      </item>
+    </list>
+  </section>
+</page>

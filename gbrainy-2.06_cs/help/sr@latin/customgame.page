@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custompage" xml:lang="sr@latin">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Započnite izbor prilagođenih igara.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-20" status="draft"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>  
+  </info>
+
+  <title>Izbor proizvoljnih igara</title>
+  <p>Moguće je igrati proizvoljan izbor svih igara u <app>g-kefalu</app>.</p>
+  <p>Da biste to uradili, postupite kao što sledi:</p>
+  <steps>
+    <item>
+      <p>Izaberite: „<guiseq><gui style="menu">Igra</gui><gui style="menuitem">Nova igra</gui><gui style="menuitem">Izbor proizvoljne igre</gui></guiseq>“.</p>
+    </item>
+    <item>
+      <p>U prozorčetu „<gui>Proizvoljna igra</gui>“, izaberite igre koje želite da igrate tako što ćete kliknuti na polje za potvrdu pored imena igre.</p>
+    </item>
+    <item>
+      <p>Kada ste završili, kliknite „<gui style="button">Počni</gui>“ da započnete sa igranjem vašeg izbora proizvoljnih igara.</p>
+    </item>
+  </steps>
+</page>

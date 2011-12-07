@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="history" xml:lang="sr@latin">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Pristupite vašem ličnom istorijatu igre.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Kazagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>„Creative Commons Share Alike 3.0“</p>
+    </license>
+  </info>
+
+  <title>Lični istorijat igre</title>
+  
+  <p>Prozorče <gui>Igračev istorijat igre</gui> prikazuje vaše performanse u svakoj vrsti igre u poslednjih nekoliko sesija igre.</p>
+  
+  <section id="history-personal">
+    <title>Pregledati istorijat igre</title>
+    <p>Da pristupite vašem ličnom istorijatu igre, izaberite „<guiseq><gui style="menu">Pregled</gui><gui style="menuitem">Igračev istorijat igre</gui></guiseq>“.</p>
+  </section>
+  
+  <section id="history-change-graphic">
+    <title>Izabrati rezultat za prikazivanje</title>
+    <p>Da izaberete rezultate koji će biti prikazani na grafikonu, štiklirajte različita polja za potvrdu koja se nalaze ispod grafikona.</p>
+  </section>
+  
+  <section id="history-save-prefs">
+    <title>Izmeniti broj sačuvanih igara</title>
+    <p><app>g-kefalo</app> čuva igračeve rezultate tako da može da prati njihov razvoj.</p>
+    <p>Da promenite broj sačuvanih sesija ili koliko igara će biti sačuvano u istorijatu, uradite sledeće:</p>
+    <steps>
+      <item>
+        <p>Izaberite „<guiseq><gui style="menu">Postavke</gui><gui style="menuitem"> Podešavanja</gui></guiseq>“.</p>
+      </item>
+      <item>
+        <p>U odeljku „<gui>Igračev istorijat igre</gui>“:</p>
+        <list>
+          <item>
+            <p>Koristite prvo spin polje da odredite koliko sesija igara treba da bude zabeleženo pre nego što ćete moći da vidite rezultate na grafikonu istorijata.</p>
+          </item>
+          <item>
+            <p>Koristite drugo spin polje da odredite koliko će sesija igara biti prikazano na grafikonu istorijata.</p>
+          </item>
+        </list>
+      </item>
+    </steps>
+  </section>
+</page>

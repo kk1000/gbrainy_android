@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="ro">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Schimbarea dificultății pentru jocuri.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Nivele de dificultate</title>
+  <p>Pentru a schimba nivelul de dificultate al unui joc, procedați după cum urmează:</p>
+  <steps>
+    <item>
+      <p>Selectați <guiseq><gui style="menu">Configurări</gui><gui style="menuitem">Preferințe</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>În secțiunea <gui>Nivel de dificultate</gui>, selectați nivelul dorit.</p>
+      <p>Puteți alege dintre trei nivele diferite: <gui style="radiobutton">Ușor</gui>, <gui style="radiobutton">Mediu</gui>, și <gui style="radiobutton">Greu</gui>. Nivelul implicit este <gui style="radiobutton">Mediu</gui>.</p>
+    </item>
+  </steps>
+</page>

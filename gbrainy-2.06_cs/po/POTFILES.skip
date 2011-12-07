@@ -1,0 +1,4 @@
+src/Clients/Classical/Builder/Builder.cs
+tests/test_analogies.xml
+tests/test_games.xml
+tools/GameTemplate.cs

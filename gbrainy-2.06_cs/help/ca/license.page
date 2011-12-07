@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="ca">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>Informació legal.</desc>
+  </info>
+
+  <title>Llicència</title>
+  <p>Aquest treball es distribueix sota els termes de la llicència Reconeixement-Compartir Igual 3.0 No adaptada.</p>
+  <p>Sou lliure de:</p>
+  <terms>
+    <item>
+      <title><em>Compartir</em></title>
+      <p>Copiar, distribuir i transmetre el treball.</p>
+    </item>
+    <item>
+      <title><em>Combinar</em></title>
+      <p>Fer-ne obres derivades.</p> 
+    </item>
+  </terms>
+  <p>Sota les condicions següents:</p>
+  <terms>
+    <item>
+      <title><em>Atribució</em></title>
+      <p>Heu de donar crèdit al treball en la manera que especificada per l'autor o el llicenciatari (però no en cap manera que suggereixi que us dóna suport a vosaltres o l'ús que en feu del treball).</p>
+    </item>
+    <item>
+      <title><em>Compatir igual</em></title>
+      <p>Si altereu, transformeu, o us baseu en aquest treball, podeu distribuir el treball resultant sota els mateixos termes, similars o sota una llicència compatible.</p>
+    </item>
+  </terms>
+  <p>Per accedir al text complet de la llicència, visiteu el lloc web de <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">CreativeCommons</link>, o llegiu el text <link href="http://creativecommons.org/licenses/by-sa/3.0/deed.ca">Commons Deed</link>.</p>
+</page>

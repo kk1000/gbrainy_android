@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="ca">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Inicia una partida.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Reconeixement-Compartir Igual 3.0</p>
+   </license>
+  </info>
+
+  <title>Partida</title>
+  
+  <section id="game-start">
+    <title>Inicia una partida nova</title>
+    <p>Per a iniciar una partida nova, feu una de les accions següents:</p>
+    <list>
+      <item>
+        <p>Seleccioneu <guiseq><gui style="menu">Partida</gui><gui style="menuitem">Partida nova</gui></guiseq>, i escolliu els tipus de jocs a que voleu jugar.</p>
+      </item>
+      <item>
+        <p>Feu clic a un dels botons a la barra d'eines.</p>
+      </item>
+    </list>
+    <p>Els botons de la barra d'eines tenen les funcions següents:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Tots</title>
+            <p>Inicia una partida nova amb tots els tipus de jocs disponibles.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Botó tots els jocs</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Lògica</title>
+            <p>Inicia una partida nova només amb els trencaclosques lògics.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Botó de lògica</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Càlcul</title>
+            <p>Inicia una partida nova només amb els jocs de càlcul mental.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Botó de jocs càlcul</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Memòria</title>
+            <p>Inicia una partida nova només amb els jocs de memòria.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Botó de jocs de memòria</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Verbal</title>
+            <p>Inicia una partida nova només amb jocs d'analogies verbals.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Botó de jocs verbals</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Aquestes descripcions també s'apliquen als tipus de jocs que podeu seleccionar des del menú <gui style="menu">Partida</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Jugueu una partida</title>
+    <note style="tip">
+      <p>Quan jugueu, llegiu sempre les instruccions amb deteniment!</p>
+    </note>
+    <p>La partida comença mostrant un problema i demanant la resposta. A la part inferior de la finestra hi ha el conjunt principal de controls que podeu utilitzar per a interactuar amb el joc.</p>
+    <p>Una vegada coneixeu la resposta, heu d'escriure-la en el camp d'entrada al costat de l'etiqueta <gui style="input">Resposta:</gui> i fer clic al botó <gui style="button">D'acord</gui>.</p>
+    <p>Per a procedir amb el joc següent, feu clic al botó <gui style="button">Següent</gui>.</p>
+    <note>
+      <p>Si feu clic a <gui style="button">Següent</gui> abans de completar el joc, o sense proporcionar una resposta, el joc serà computat als resultats.</p>
+    </note>
+  </section>
+</page>

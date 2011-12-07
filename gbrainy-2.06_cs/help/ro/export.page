@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="export" xml:lang="ro">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Exportă jocurile pentru a le juca off-line.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-12-26" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Exportă jocurile</title>
+  <p>Este posibil să exportați și apoi să tipăriți jocurile oferite de această aplicație pentru a le juca atunci când nu sunteți la calculator.</p>
+  <p>Jocurile vor fi salvate într-un fișier <file>PDF</file> în dosarul selectat.</p>
+  <p>Pentru a exporta jocuri:</p>
+  <steps>
+    <item>
+      <p>Selectați <guiseq><gui style="menu">Joc</gui><gui style="menuitem">Exportă jocuri în PDF pentru a juca fără calculator...</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Selectați tipul jocurilor, nivelul de dificultate, și câte jocuri doriți să exportați. Când ați încheiat apăsați <gui style="button">Salvează</gui>.</p>
+    </item>
+  </steps>
+
+</page>

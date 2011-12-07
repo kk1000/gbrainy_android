@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="cs">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Jak změnit náročnost her.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Úrovně náročnosti</title>
+  <p>Když chcete změnit náročnost hry, postupujte následovně:</p>
+  <steps>
+    <item>
+      <p>Zvolte <guiseq><gui style="menu">Natavení</gui><gui style="menuitem">Předvolby</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>V části <gui>Náročnost</gui> vyberte požadovanou úroveň.</p>
+      <p>Můžete volit z těchto tří rozdílných úrovní: <gui style="radiobutton">Lehká</gui>, <gui style="radiobutton">Střední</gui> a <gui style="radiobutton">Těžká</gui>. Výchozí úroveň je <gui style="radiobutton">Střední</gui>.</p>
+    </item>
+  </steps>
+</page>

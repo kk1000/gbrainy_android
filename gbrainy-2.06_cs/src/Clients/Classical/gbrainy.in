@@ -1,0 +1,16 @@
+#!/bin/bash
+
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@ 
+
+MONO_EXE="$libdir/gbrainy/gbrainy.exe"
+ 
+for arg in $*; do
+    case "x--debug" in ("x${arg}")
+        MONO_OPTIONS="--debug${MONO_OPTIONS+:$MONO_OPTIONS}"
+    esac
+done
+
+exec -a gbrainy mono $MONO_OPTIONS $MONO_EXE "$@"
+

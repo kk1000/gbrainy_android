@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="da">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Hvordan spillerpoint beregnes.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Point og tid</title>
+  <p>Hvis du svarer forkert på et puslespil, vil du ikke modtage nogen point.</p>
+  <p>Hvis du svarer korrekt, vil du få point afhængig af hvor lang tid, du var om at løse problemet, og efter hvorvidt du brugte fif i spillet.</p>
+  <p>Den følgende tabel opsummerer de forskellige spilvarigheder (i sekunder) baseret på sværhedsgraden.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Let</p></td>
+      <td><p>Mellem</p></td>
+      <td><p>Øvet</p></td>
+    </tr>
+    <tr>
+      <td><p>Logiske puslespil</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Hovedregning</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Hukommelsesspil</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Sproglige analogier</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Med det forventede tidsbrug i mente for det aktuelle sværhedsniveau og den reelt forbrugte tid på spillet anvendes den følgende logik:</p>
+  <list>
+    <item>
+      <p>Hvis spilleren brugte mindre end det forventede tidsforbrug er pointtildelingen 10 point.</p>
+    </item>
+    <item>
+      <p>Hvis spilleren brugte mere end det forventede tidsforbrug er pointtildelingen 8 point.</p>
+    </item>
+    <item>
+      <p>Hvis spilleren brugte mere end 2x det forventede tidsforbrug er pointtildelingen på 7 point.</p>
+    </item>
+    <item>
+      <p>Hvis spilleren brugte mere end 3x det forventede tidsforbrug er pointtildelingen på 6 point.</p>
+    </item>
+    <item>
+      <p>Hvis du bruger et fif, er pointtildelingen kun på 80 % af den oprindelige pointtildeling.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Beregning af totalerne</title>
+    <p><app>gbrainy</app> holder historik på de forskellige spiltyper, der er spillet. For at beregne den samlede sum for alle spiltyper summer spillet resultaterne for de enkelte spiltyper og ganger så en faktor til baseret på en logaritme på 10 for sværhedsgraden let, 20 for mellem og 30 for øvet.</p>
+	  <p>Dette betyder, at for at få 100 point på sværhedsgraden mellem skal du have mindst 10 point i mindst 20 spil af hver spiltype.</p>
+	  <p>Dette kan lyde indviklet men gør at spillere kan sammenligne point fra forskellige sessioner (i spillerhistorikken) og gør, at det er nemmere at følge udviklingen for en spiller over alle de spil, som denne har spillet.</p>
+  </section>
+</page>

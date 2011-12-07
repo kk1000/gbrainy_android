@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="cs">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>Právní informace.</desc>
+  </info>
+
+  <title>Licence</title>
+  <p>Tato práce je šířena pod licencí CreativeCommons Attribution-Share Alike 3.0 Unported license.</p>
+  <p>Můžete volně:</p>
+  <terms>
+    <item>
+      <title><em>Sdílet</em></title>
+      <p>Kopírovat, šířit a rozesílat dílo.</p>
+    </item>
+    <item>
+      <title><em>Měnit</em></title>
+      <p>Přizpůsobovat dílo.</p> 
+    </item>
+  </terms>
+  <p>Za následujících podmínek:</p>
+  <terms>
+    <item>
+      <title><em>Označení</em></title>
+      <p>Musíte dílo označit v souladu s požadavky autora nebo licence (ale ne žádným způsobem, který předpokládá, že schvalují vás nebo vaše použití díla).</p>
+    </item>
+    <item>
+      <title><em>Sdílení stejně</em></title>
+      <p>Pokud dílo změníte, převedete nebo na něm založíte jiné, můžete výsledek této práce šířit pouze pod stejnou, podobnou nebo kompatibilní licencí.</p>
+    </item>
+  </terms>
+  <p>Text licence v plném znění najdete na <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">webových stránkách CreativeCommons</link> nebo si přečtěte <link href="http://creativecommons.org/licenses/by-sa/3.0/">výtah dokumentu pro neprávníky</link>.</p>
+</page>

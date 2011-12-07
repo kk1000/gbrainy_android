@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="fr">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Modifier le niveau de difficulté des jeux.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Niveaux de difficulté</title>
+  <p>Pour modifier le niveau de difficulté de la partie, suivez les instructions suivantes :</p>
+  <steps>
+    <item>
+      <p>Choisissez <guiseq><gui style="menu">Paramètres</gui><gui style="menuitem">Préférences</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Dans la section <gui>Niveau de difficulté</gui>, choisissez le niveau souhaité.</p>
+      <p>Vous pouvez choisir parmi trois niveaux différents : <gui style="radiobutton">Facile</gui>, <gui style="radiobutton">Intermédiaire</gui> et <gui style="radiobutton">Maître</gui>. Le niveau par défaut est <gui style="radiobutton">Intermédiaire</gui>.</p>
+    </item>
+  </steps>
+</page>

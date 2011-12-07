@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="tips" xml:lang="el">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Χρησιμοποιήστε τις υποδείξεις για να λύσετε ένα γρίφο.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="review"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Υποδείξεις</title>
+  <p>Σε κάποια από τα παιχνίδια μπορείτε να λάβετε απλές υποδείξεις που θα σας βοηθήσουν στη λύση του προβλήματος.</p>
+  <p>Όταν παίζετε ένα παιχνίδι, κάντε κλικ στο πλήκτρο <gui style="button">Υπόδειξη</gui> στο κάτω μέρος του παραθύρου (δίπλα στο πλαίσιο <gui style="input">Απάντηση</gui>).</p>
+  <note>
+    <p>Αυτό το χαρακτηριστικό δεν είναι διαθέσιμο σε κάποια από τα παιχνίδια.</p>
+  </note>
+</page>

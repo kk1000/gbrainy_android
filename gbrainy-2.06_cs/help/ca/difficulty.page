@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="ca">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Canvia el nivell de dificultat dels jocs.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Reconeixement-Compartir Igual 3.0</p>
+   </license>
+  </info>
+
+  <title>Nivells de dificultat</title>
+  <p>Per a canviar el nivell de dificultat del joc, seguiu els passos següents:</p>
+  <steps>
+    <item>
+      <p>Seleccioneu <guiseq><gui style="menu">Paràmetres</gui><gui style="menuitem">Preferències</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>A la secció <gui>Nivell de dificultat</gui>, seleccioneu el nivell que desitgeu.</p>
+      <p>Podeu escollir entre tres nivells de dificultat: <gui style="radiobutton">Fàcil</gui>, <gui style="radiobutton">Mitjà</gui>, i <gui style="radiobutton">Mestre</gui>. El nivell de dificultat predeterminat és el <gui style="radiobutton">Mitjà</gui>.</p>
+    </item>
+  </steps>
+</page>

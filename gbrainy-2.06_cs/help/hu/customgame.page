@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custompage" xml:lang="hu">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Egyéni játékválogatás indítása.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-20" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>  
+  </info>
+
+  <title>Egyéni játékválogatás</title>
+  <p>A <app>gbrainy</app> játékainak egyénileg kiválasztott halmazával is játszhat.</p>
+  <p>Ehhez tegye a következőket:</p>
+  <steps>
+    <item>
+      <p>Válassza a <guiseq><gui style="menu">Játék</gui><gui style="menuitem">Új játék</gui><gui style="menuitem">Egyéni kérdések</gui></guiseq> menüpontot.</p>
+    </item>
+    <item>
+      <p>Az <gui>Egyéni játék</gui> ablakban a nevük melletti jelölőnégyzet bejelölésével válassza ki azokat a játékokat, amelyekkel játszani kíván.</p>
+    </item>
+    <item>
+      <p>Ha befejezte, kattintson a <gui style="button">Kezdés</gui> gombra az egyéni játékválogatással való játék megkezdéséhez.</p>
+    </item>
+  </steps>
+</page>

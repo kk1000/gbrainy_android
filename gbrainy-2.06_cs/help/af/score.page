@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="af">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Hoe die speler se punte bereken word.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Speltelling en tydsberekening</title>
+  <p>Indien 'n raaisel verkeerd geantwoord word, sal geen punte toegeken word daarvoor nie.</p>
+  <p>Indien 'n raaisel korrek geantwoord word, sal 'n punt toegeken word wat afhang van die tyd wat dit geneem het om die probleem op te los en of 'n wenk gebruik is tydens die speletjie.</p>
+  <p>Die volgende tabel som die verskillende speletjies se tydsduur op (in sekondes) gebaseer op die moeilikheidsgraad.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Maklik</p></td>
+      <td><p>Medium</p></td>
+      <td><p>Meester</p></td>
+    </tr>
+    <tr>
+      <td><p>Logikaraaisels</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Hoofrekene</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Geheuebreiers</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Verbale analogieë</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Met die verwagte tyd vir die gekose moeilikheidsgraad en die tyd wat dit geneem het om die speletjie te voltooi, word die volgende reëls toegepas:</p>
+  <list>
+    <item>
+      <p>Indien dit minder as die verwagte tyd geneem het om die speletjie te voltooi, word 10 punte toegeken.</p>
+    </item>
+    <item>
+      <p>Indien dit langer geneem het as die verwagte tyd om die speletjie te voltooi, word 8 punte toegeken.</p>
+    </item>
+    <item>
+      <p>Indien dit meer as 2x die verwagte tyd geneem het om die speletjie te voltooi, word 7 punte toegeken.</p>
+    </item>
+    <item>
+      <p>Indien dit meer as 3x die verwagte tyd geneem het om die speletjie te voltooi, word 6 punte toegeken.</p>
+    </item>
+    <item>
+      <p>Indien 'n wenk aangevra word, word slegs 80% van die oorspronklike punte toegeken.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Berekening van die totale</title>
+    <p><app>gbrainy</app> hou tred met die verskillende speltipes wat gespeel word. Om die finale punte van elke stel speltipes te bereken, word al die resultate van dieselfde speltipe wat gespeel is bymekaar getel en 'n faktor daarop toegepas wat gebaseer is op: die logaritme van 10 vir die maklike vlak; die logaritme van 20 vir die medium vlak en die logaritme van 30 vir die meestersvlak.</p>
+	  <p>Dit beteken dat wanneer 'n speletjie op die medium vlak gespeel word, 10 punte met ten minste 20 speletjies van elke speltipe verkry moet word om 100 punte te kan kry.</p>
+	  <p>Dit kan soos 'n uitdaging klink, maar dit laat spelers toe om die tellings van verskillende sessies (in die speler se spelgeskiedenis) te vergelyk. Dit maak die naspeur van die speler se vordering in al die speletjies wat gespeel is makliker.</p>
+  </section>
+</page>

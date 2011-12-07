@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="el">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Εισαγωγή στο <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Εμπειρία Παιχνιδιού</title>
+  
+  <p>Το <app>gbrainy</app> είναι ένα παιχνίδι με σπαζοκεφαλιές. Ο σκοπός του είναι να σας διασκεδάσει και να κρατήσει το μυαλό σας σε εγρήγορση.</p>
+  <p>Διαθέτει διάφορους τύπους παιχνιδιών, όπως γρίφους λογικής, παιχνίδια αριθμητικής, ασκήσεις μνήμης και λεκτικές αναλογίες, έτσι ώστε να μπορεί να δοκιμάζει διάφορες γνωστικές δεξιότητες.</p>
+  <p>Μπορείτε να επιλέξετε διάφορα επίπεδα δυσκολίας, έτσι ώστε το <app>gbrainy</app> να είναι ευχάριστο για παιδιά, ενήλικες και μεγαλύτερα άτομα. Διαθέτει επίσης ιστορικό παιχνιδιών, τήρηση βαθμολογίας, υποδείξεις και υποστήριξη λειτουργίας πλήρους οθόνης. Το <app>gbrainy</app> μπορεί επίσης να <link href="http://live.gnome.org/gbrainy/Extending">επεκταθεί</link> εύκολα με νέα παιχνίδια από τρίτους.</p>
+  <p>Το <app>gbrainy</app> βασίζεται αρκετά σε προηγούμενους γρίφους, ξεκινώντας από τα αρχαία χρόνια και φτάνοντας μέχρι τα πιο σύγχρονα έργα, όπως οι γρίφοι του <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> ή το κλασσικό παιχνίδι <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>.</p>
+  <note>
+    <p>Υπήρξαν πρόσφατες συζητήσεις στην επιστημονική κοινότητα σχετικά με το αν τα προγράμματα εξάσκησης του μυαλού βελτιώνουν τις γνωστικές επιδόσεις. Οι περισσότερες από τις μελέτες δείχνουν ότι υπάρχει μικρή ή καθόλου βελτίωση, αλλά αυτό δεν σημαίνει ότι δεν μπορείτε να διασκεδάσετε παίζοντας παιχνίδια όπως το <app>gbrainy</app>!</p>
+  </note>
+</page>

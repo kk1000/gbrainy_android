@@ -1,0 +1,2747 @@
+# Hindi (India) Translation.
+# Copyright (C) 2010 gbrainy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gbrainy package.
+# Dilip Thirupathisamy <u4764938@anu.edu.au>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-07 17:08+1000\n"
+"PO-Revision-Date: 2010-05-12 23:05+1000\n"
+"Last-Translator: Dilip Thirupathisamy <u4764938@anu.edu.au>\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr "एक मोटरगाड़ी कि इंजन कि रचना खराब और कृत्रिमता कि कमी है?"
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A fish in an aquarium lives in captivity."
+msgstr "एक मछली  जलजीवालय में बंदी - दशा में रहती है"
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "एक व्यक्ति अपने स्वास्थ्य के लिए अत्यधिक परवा के साथ है"
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A terrier is to a dog like a?"
+msgstr "एक छोटा शिकारी कुत्ता हर एक कुत्ते के समान ?"
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "Acrophobia"
+msgstr "उत्तुंगता-भीति"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "Agoraphobia"
+msgstr "भीड़ से डर लगना"
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "An artist that has became an enduring icon is?"
+msgstr "एक कलाकार जो टिकाऊ का प्रतिरूप है?"
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Anthophobia"
+msgstr "फूलों से डर लगना"
+
+#: ../data/verbal_analogies.xml.h:9
+msgid "Anthropophobia"
+msgstr "लोगों से डर लगना "
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Attic"
+msgstr "अटारी "
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Bagpipes"
+msgstr "मशक बाजा"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Basketball"
+msgstr "बास्केटबाल"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Bassoon"
+msgstr "अलगोजा"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "Column"
+msgstr "स्तंभ"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid "Connoisseur"
+msgstr "विशेषज्ञ"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Conspirator"
+msgstr "षड्यंत्रकारी"
+
+#: ../data/verbal_analogies.xml.h:17
+#: ../data/verbal_analogies.xml.h:18
+msgid "Fish"
+msgstr "मछली"
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Flower"
+msgstr "फूल"
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Fossil"
+msgstr "जीवाश्म"
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Hypochondria"
+msgstr "रोगभ्रम"
+
+#: ../data/verbal_analogies.xml.h:22
+msgid "It is the only one that does not use a ball in the game."
+msgstr "यह केवल एक ही खेल है जिसमे गेंद का उपयोग नहीं होता"
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "यह केवल एक ही साधनहै है जो काष्ठ वाद्य नहीं है"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "It is the only one that is not related to architecture."
+msgstr "यह केवल एक ही चीज़ है जो वास्तुकला से संबंधित नहीं है"
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "John's father's sister's sister-in-law is also?"
+msgstr "जॉन के पिता की बहन की भाभी भी?"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Loner"
+msgstr "कुंवारा"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Oboe"
+msgstr "नफीरी"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Person expelled from society"
+msgstr "समाज से निष्कासित किया हुआ व्यक्ति"
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Portico"
+msgstr "बरामदा"
+
+#: ../data/verbal_analogies.xml.h:30
+msgid "Specializes in skin diseases"
+msgstr "त्वचा की रोगों में विशेषज्ञता प्राप्त करना"
+
+#: ../data/verbal_analogies.xml.h:31
+msgid "Sport"
+msgstr "खेल कूद"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Suffers a skin disease"
+msgstr "त्वचा की रोग से पीड़ित"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Tennis"
+msgstr "टेनिस - गेंद का खेल"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr "'चर्मपूर्ण करनेवाला' शब्द का उपयोग एक व्यक्ति को परिभाषित करने के लिए कि?"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Think of the items used in the game."
+msgstr "खेल में इस्तेमाल किये  हुए वस्तुओं के बारे में सोचो"
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "Violin"
+msgstr "सारंगी"
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "Water polo"
+msgstr "जल पोलो"
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "Weapon"
+msgstr "हथियार"
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "What is a 'halberd'?"
+msgstr "'भाला' क्या होता है ?"
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr "निम्नलिखित वाक्यों में से कौन सा बेहतर है जो  एक 'बहिष्कृत' व्यक्ति को परिभाषित करता है?"
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:44
+msgid "Which of the following sports is the odd one?"
+msgstr "निम्नलिखित खेल में से कौन सा एक अजीब है?"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "निम्न शब्दों में से कौन सा 'निंदा' के अर्थ से करीब है?"
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Which of the following words is the odd one?"
+msgstr "निम्न शब्दों में से कौन सा एक अजीब है?"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Which of the following words means fear of people?"
+msgstr "निम्नलिखित शब्दों में से कौन सा शब्द लोगों से डर का मतलब बनता है?"
+
+#: ../data/verbal_analogies.xml.h:48
+msgid "Works with dead animals"
+msgstr "मृत जानवरों के साथ काम करता है"
+
+#: ../data/verbal_analogies.xml.h:49
+msgid "Works with leather"
+msgstr "चमड़े के साथ काम करता है"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "airplane | aeroplane | plane"
+msgstr "वायु - यान | हवाई जहाज़ | विमान"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "ankle"
+msgstr "घुटिका"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "ant / vertebrate"
+msgstr "चींटी / हड्डीवाला"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "art / gallery | drama"
+msgstr "कला / चित्रशाला | नाटक"
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "bite"
+msgstr "काटना"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "body | skin"
+msgstr "शरीर | त्वचा"
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:57
+msgid "box / open | banana"
+msgstr "डिब्बा / खोलना | केला"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "bridge / over | tunnel"
+msgstr "पुल / ऊपर | सुरंग"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "broken"
+msgstr "टूटा"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "burst | pop"
+msgstr "विस्फोट | झटपट आना"
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:62
+msgid "button / push | key"
+msgstr "घुण्डी / धक्का | चाबी"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid "cage | zoo"
+msgstr "पिंजरा | चिड़ियाघर"
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "camera"
+msgstr "प्रतिबिम्ब लेने की पेटी"
+
+#: ../data/verbal_analogies.xml.h:65
+msgid "car / road | train"
+msgstr "मोटरगाड़ी / सड़क | रेलगाड़ी"
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "chicken / bird"
+msgstr "मुर्गी / पक्षी"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "chop"
+msgstr "काटना"
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "coins"
+msgstr "सिक्के"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "composer | songwriter | lyricist"
+msgstr "संगीतकार | गीतकार | प्रगीतकार"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "condemn"
+msgstr "निंदा"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "cousin"
+msgstr "चचेरा ममेरा मौसेरा या फुफेरा भाई या बहन"
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:73
+msgid "dance"
+msgstr "नृत्य"
+
+#: ../data/verbal_analogies.xml.h:74
+msgid "dish / break | balloon"
+msgstr "थाली / अवकाश | गुब्बारा"
+
+#: ../data/verbal_analogies.xml.h:75
+msgid "dog / cat"
+msgstr "कुत्ता / बिल्ली"
+
+#: ../data/verbal_analogies.xml.h:76
+msgid "dog / tame | wolf"
+msgstr "कुत्ता  / पालतू बनाना | भेड़िया"
+
+#: ../data/verbal_analogies.xml.h:77
+msgid "elbow / knee | wrist"
+msgstr "कुहनी  / घुटना | कलाई"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid "emblem"
+msgstr "प्रतीक "
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "erroneous"
+msgstr "ग़लत"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "error / correct | damage"
+msgstr "त्रुटि / सही | क्षति"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "eyebrow / eye | mustache"
+msgstr "सही क्षति / आँख | मूंछ"
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:83
+msgid "feet / two | toes"
+msgstr "पैर / दो | पैर की अंगुली"
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "fish / aquarium | monkey"
+msgstr "मछली / जलजीवालय | बंदर"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "fish / submarine | bird"
+msgstr "मछली / पनडुब्बी | पक्षी"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "fox / den | bird"
+msgstr "लोमड़ी / खोह | पक्षी"
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "glass / break | paper"
+msgstr "शीशा / तोड़ना | काग़ज़"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "hands / grab | teeth"
+msgstr "हाथ / झपटकर पकड़ना | दांत"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "has no relation"
+msgstr "कोई रिश्ता नहीं है"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "hide"
+msgstr "छिपना"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "his mother"
+msgstr "उसकी माँ"
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "horse / pony"
+msgstr "घोड़ा / छोटा घोड़ा"
+
+#: ../data/verbal_analogies.xml.h:93
+msgid "hungry / eat | tired"
+msgstr "भूखा / भोजन करना | थका हुआ"
+
+#: ../data/verbal_analogies.xml.h:94
+msgid "hunter / rifle | photographer"
+msgstr "शिकारी / राइफ़ल - एक प्रकार की बन्दूक | अक्सी तस्वीर खींचने वाला"
+
+#: ../data/verbal_analogies.xml.h:95
+msgid "ice / slippery | glue"
+msgstr "बर्फ / फिसलाऊ | गोंद"
+
+#: ../data/verbal_analogies.xml.h:96
+msgid "ignore"
+msgstr "उपेक्षा करना"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "in | under | through"
+msgstr "अंदर | नीचे | द्वारा"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "innovator"
+msgstr "प्रवर्तक"
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "leopard / spots | tiger"
+msgstr "तेन्दुआ / बिन्दु  | बाघ"
+
+#: ../data/verbal_analogies.xml.h:100
+msgid "lip | mouth"
+msgstr "होंठ | मुंह "
+
+#: ../data/verbal_analogies.xml.h:101
+msgid "martyr"
+msgstr "शहीद"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "nest"
+msgstr "घोंसला"
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "nose"
+msgstr "नाक"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "novel / author | song"
+msgstr "उपन्यास / लेखक | गीत"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "obscure"
+msgstr "अस्पष्ट"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "orange / fruit | spinach"
+msgstr "संतरा / फल | पालक"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "pediatrics / children | numismatics"
+msgstr "बाल चिकित्सा / बच्चे | टंक विज्ञान"
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "peel"
+msgstr "छिलना"
+
+#: ../data/verbal_analogies.xml.h:109
+msgid "pioneer"
+msgstr "अग्रगामी"
+
+#: ../data/verbal_analogies.xml.h:110
+msgid "puzzle / solve | game"
+msgstr "पहेली / हल करना | खेल"
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "repair | fix"
+msgstr "मरम्मत | तय"
+
+#: ../data/verbal_analogies.xml.h:112
+msgid "ring / finger | bracelet"
+msgstr "अंगूठी / उंगली | कंकण"
+
+#: ../data/verbal_analogies.xml.h:113
+msgid "seal / flippers | bird"
+msgstr "सील मछली / तरणक-पाद | पक्षी"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "shovel / dig | axe"
+msgstr "खुरपा / खुदाई | कुल्हाड़ी"
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "simplistic"
+msgstr "एकपक्षीय"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "sink"
+msgstr "डूबना"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "sleep | rest"
+msgstr "नींद | आराम"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "slurp / tongue | snort"
+msgstr "सुड़कने की आवाज करते हुए कुछ खाना या पीना / जीभ | नासिका ध्वनि"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "son-in-law"
+msgstr "जमाई"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "sour"
+msgstr "खट्टा"
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:122
+msgid "stick / float | stone"
+msgstr "चिपकाना / तैरना | पत्थर"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "sticky"
+msgstr "चिपचिपा"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "stripes"
+msgstr "धारियों"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "sugar / sweet | vinegar"
+msgstr "चीनी / मीठा | सिरका"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "tear | rips"
+msgstr "फाड़ना | चीर"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "tears / eyes | sweat"
+msgstr "आँसू / आँखें | पसीना"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:129
+msgid "ten | 10"
+msgstr "दस | १० "
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "tennis / sport | ballet"
+msgstr "टेनिस - गेंद का खेल / खेल कूद | बैले - संबंधी"
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "theatre | theater"
+msgstr "सिनेमाघर | नृत्यशाला या  नाटकघर"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "toy / play | tool"
+msgstr "खिलौना / क्रीड़ा | साधन"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "track | railway"
+msgstr "मार्ग | रेल पथ"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "turn"
+msgstr "मोड़ना"
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "unorthodox"
+msgstr "अपरंपरागत"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "vegetable"
+msgstr "सब्ज़ी"
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "whirlpool / water | tornado"
+msgstr "भँवर / जल  | जलस्तंभ"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "wild"
+msgstr "जंगली"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "win"
+msgstr "जीत लेना"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "wind | air"
+msgstr "हवा | वायु "
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "wings"
+msgstr "पंखें "
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:143
+msgid "work"
+msgstr "काम करना"
+
+#. Body parts
+#: ../data/verbal_analogies.xml.h:144
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "wrist"
+msgstr "कलाई"
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "खेल"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid "Play games that challenge your logic, verbal, calculation and memory abilities"
+msgstr "खेल खेलें  जो आपकी तर्क, मौखिक, गणना और स्मृति क्षमताओं से चुनौती लेती है "
+
+#: ../data/gbrainy.desktop.in.h:3
+#: ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "जी-बरैनी"
+
+#: ../src/Core/Views/CountDownView.cs:82
+msgid "Get ready to memorize the next objects..."
+msgstr "अगले वस्तुओं को याद करने के लिए तैयार हो जाएँ "
+
+#: ../src/Core/Views/FinishView.cs:92
+#: ../src/Core/Views/PlayerHistoryView.cs:68
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:58
+msgid "Total"
+msgstr "कुल मिलाकर "
+
+#: ../src/Core/Views/FinishView.cs:99
+#: ../src/Core/Main/Game.cs:392
+#: ../src/Clients/Classical/gbrainy.cs:312
+msgid "Logic"
+msgstr " तर्क"
+
+#: ../src/Core/Views/FinishView.cs:106
+#: ../src/Core/Main/Game.cs:398
+#: ../src/Clients/Classical/gbrainy.cs:317
+msgid "Calculation"
+msgstr "गणना"
+
+#: ../src/Core/Views/FinishView.cs:113
+#: ../src/Core/Main/Game.cs:395
+#: ../src/Clients/Classical/gbrainy.cs:323
+msgid "Memory"
+msgstr "स्मृति "
+
+#: ../src/Core/Views/FinishView.cs:120
+#: ../src/Core/Main/Game.cs:401
+#: ../src/Clients/Classical/gbrainy.cs:329
+msgid "Verbal"
+msgstr "मौखिक"
+
+#: ../src/Core/Views/FinishView.cs:136
+msgid "Score"
+msgstr "अंक"
+
+#: ../src/Core/Views/FinishView.cs:146
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr "खेलों की जीत :{0} ({1} खेला है)"
+
+#: ../src/Core/Views/FinishView.cs:148
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr "{0}.खेलों की जीत: {1} ({2} खेला है)"
+
+#: ../src/Core/Views/FinishView.cs:152
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "खेल का समय {0} (एक खेल का औसत है  {1})"
+
+#: ../src/Core/Views/FinishView.cs:164
+msgid "Tips for your next games"
+msgstr "अगले खेल कि युक्तियाँ"
+
+#: ../src/Core/Views/FinishView.cs:192
+msgid "Congratulations! New personal record"
+msgstr "बधाई हो!  नया व्यक्तिगत कीर्तिमान है"
+
+#: ../src/Core/Views/FinishView.cs:202
+#, csharp-format
+msgid "By scoring {0}% in logic puzzle games you have established a new personal record. Your previous record was {1}%."
+msgstr "तर्क पहेली खेल में  {0}% प्राप्त करके  आपने एक नया व्यक्तिगत कीर्तिमान स्थापित किया है। आपका पिछला कीर्तिमान था {1}%"
+
+#: ../src/Core/Views/FinishView.cs:208
+#, csharp-format
+msgid "By scoring {0}% in calculation games you have established a new personal record. Your previous record was {1}%."
+msgstr "मानसिक गणना खेल में  {0}% प्राप्त करके  आपने एक नया व्यक्तिगत कीर्तिमान स्थापित किया है। आपका पिछला कीर्तिमान था {1}%"
+
+#: ../src/Core/Views/FinishView.cs:214
+#, csharp-format
+msgid "By scoring {0}% in memory games you have established a new personal record. Your previous record was {1}%."
+msgstr "स्मृति खेल में  {0}% प्राप्त करके  आपने एक नया व्यक्तिगत कीर्तिमान स्थापित किया है। आपका पिछला कीर्तिमान था {1}%"
+
+#: ../src/Core/Views/FinishView.cs:220
+#, csharp-format
+msgid "By scoring {0}% in verbal analogies you have established a new personal record. Your previous record was {1}%."
+msgstr "मौखिक समानता खेल में  {0}% प्राप्त करके  आपने एक नया व्यक्तिगत कीर्तिमान स्थापित किया है। आपका पिछला कीर्तिमान था {1}%"
+
+#: ../src/Core/Views/WelcomeView.cs:62
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "तर्क पहेलियाँ . आपकी  तर्क और सोच कौशल से चुनौती लेती है "
+
+#: ../src/Core/Views/WelcomeView.cs:83
+msgid "Mental calculation. Arithmetical operations that test your mental calculation abilities."
+msgstr "मानसिक गणना . अंकगणितीय सम्बन्ध जो आपकी मानसिक गणना क्षमताओं का परीक्षण करता है "
+
+#: ../src/Core/Views/WelcomeView.cs:104
+msgid "Memory trainers. To prove your short term memory."
+msgstr "स्मृति प्रशिक्षकों . अपने अल्पकालिक स्मृति साबित करने के लिए"
+
+#: ../src/Core/Views/WelcomeView.cs:125
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "मौखिक समानता. आपकी मौखिक योग्यता से चुनौती लेती है"
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:142
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "जी-बरैनी  स्वागत करता है  {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:146
+msgid "gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained. It includes:"
+msgstr "जी-बरैनी  एक मस्तिष्क चिढ़ाने का खेल और आपके दिमाग को प्रशिक्षित रखता है. इसमें यह भी शामिल है:"
+
+#: ../src/Core/Views/WelcomeView.cs:150
+#: ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr "समायोजन का उपयोग करके  खेल के कठिनाई के स्तर को समायोजित करें "
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "लाल"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "हरा"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "नीला"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "पीला"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "नीलातिरक्त रंग "
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "नारंगी"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "काला"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "सफ़ेद"
+
+#: ../src/Core/Main/Game.cs:109
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "सही उत्तर है {0}."
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:317
+msgid "A"
+msgstr "A"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:319
+msgid "B"
+msgstr "B"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:321
+msgid "C"
+msgstr "C"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:323
+msgid "D"
+msgstr "D"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:325
+msgid "E"
+msgstr "E"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:327
+msgid "F"
+msgstr "F"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:329
+msgid "G"
+msgstr "G"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:331
+msgid "H"
+msgstr "H"
+
+#: ../src/Core/Main/Game.cs:339
+#, csharp-format
+msgid "Figure {0}"
+msgstr "आकृति {0}"
+
+#: ../src/Core/Main/GameManager.cs:141
+#, csharp-format
+msgid "Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} memory trainers, {4} verbal analogies"
+msgstr "पंजीकृत हुए खेल हैं: {0}: {1} तर्क पहेलियाँ , {2} मानसिक गणना प्रशिक्षकों,  {3} स्मृति प्रशिक्षकों,  {4} मौखिक समानता "
+
+#: ../src/Core/Main/GameSession.cs:247
+#, csharp-format
+msgid "Games played: {0} ({1}% score)"
+msgstr "खेले गए हुए खेल : {0} ({1}% अंक)"
+
+#: ../src/Core/Main/GameSession.cs:248
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - समय:  {0}"
+
+#: ../src/Core/Main/GameSession.cs:251
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- खेल:  {0}"
+
+#: ../src/Core/Main/GameSession.cs:264
+#, csharp-format
+msgid "Outstanding results"
+msgstr "अनोखा परिणाम"
+
+#: ../src/Core/Main/GameSession.cs:266
+#, csharp-format
+msgid "Excellent results"
+msgstr "उत्कृष्ट परिणाम"
+
+#: ../src/Core/Main/GameSession.cs:268
+#, csharp-format
+msgid "Good results"
+msgstr "अच्छा परिणाम"
+
+#: ../src/Core/Main/GameSession.cs:270
+#, csharp-format
+msgid "Poor results"
+msgstr "विनीत परिणाम"
+
+#: ../src/Core/Main/GameSession.cs:271
+#, csharp-format
+msgid "Disappointing results"
+msgstr "निराशाजनक परिणाम"
+
+#: ../src/Core/Main/GameSession.cs:334
+msgid "Paused"
+msgstr "ठहरा है "
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr "निर्देशों का सावधानी से पढ़ें और तथ्य और संकेत को पहचानें"
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid "To score the player gbrainy uses the time and tips needed to complete each game."
+msgstr "खिलाड़ी को अंक पाने में  जी-बरैनी के समय और सुझावों का उपयोग प्रत्येक खेल को पूरा करने की जरूरत होती  है"
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid "In logic games, elements that may seem irrelevant can be very important."
+msgstr "तर्क खेलों  में, तत्वों जो असंगत लगता है बहुत महत्वपूर्ण हो सकता है"
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr "मानसिक खंड को तोड़कर समस्याओं की सीमाओं पर देखें "
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr "गलतियाँ बनाने में आनंद लें,वो सीखने की प्रक्रिया का हिस्सा है"
+
+#: ../src/Core/Main/GameTips.cs:61
+msgid "Do all the problems, even the difficult ones. Improvement comes from practising."
+msgstr "सभी समस्याओं को करो, जो कठिन भी है| सुधार अभ्यास से आता है"
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr "एक दैनिक आधार पर खेलो, आप शीग्र ही आपकी  प्रगति को देख सकते हें "
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid "Use the 'Custom Game Selection' to choose exactly which games you want to play."
+msgstr "खेल के रिवाज का प्रयोग करके जो खेल आप खेलना चाहते हें उसे चुनें"
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr "तत्वों से संपर्क बातें याद रखने के लिए एक आम तरीका है"
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid "Grouping elements into categories is a common technique for remembering things."
+msgstr "तत्वों के वर्गों को श्रेणियों में बनाने का तरीका चीजों को आसानी से याद रख सकते हें "
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr "प्रत्येक तथ्य के पहले अक्षर को याद किये, परिवर्णी शब्द बनायें"
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid "The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr "एक पहेली पर जो आनंद प्राप्त होता है वह उस पहेली पर कर्च किये गए समय से आनुपातिक होता है"
+
+#: ../src/Core/Main/Memory.cs:54
+msgid "Memorize the objects below in the given time"
+msgstr "नीचे दिए गए हुए वस्तुओं को समय पर याद करें"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:32
+msgid "Verbal analogies"
+msgstr "मौखिक समानता"
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:75
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:65
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:78
+msgid ", "
+msgstr ","
+
+#: ../src/Core/Main/Verbal/Analogies.cs:78
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "सम्भाव्य सही उत्तर हैं: {0}."
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:45
+msgid "Multiple options"
+msgstr "एकाधिक विकल्प"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:71
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} उत्तर {1}"
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:117
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:116
+#: ../src/Games/Logic/PuzzleOstracism.cs:167
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:146
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:165
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1} "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:131
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:110
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:194
+#: ../src/Games/Logic/PuzzleLargerShape.cs:303
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:175
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:219
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:317
+#: ../src/Games/Logic/PuzzleNextFigure.cs:169
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:159
+#: ../src/Games/Logic/PuzzleSquareDots.cs:207
+#: ../src/Games/Logic/PuzzleTetris.cs:175
+msgid "Possible answers are:"
+msgstr "सम्भाव्य उत्तर हैं :"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:46
+msgid "Pair of words compare"
+msgstr "शब्दों की जोड़ी को तुलना"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:72
+#, csharp-format
+msgid "Given the relationship between the two words below, which word has the same relationship to '{0}'?"
+msgstr "नीचे  दिए गए हुए दो शब्धों के बीच रिश्ता है, कौन सा शब्द  इस रिश्ते से जुड़ता है  '{0}'?"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:108
+#, csharp-format
+msgid "Words: {0}"
+msgstr "शब्दों: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:44
+msgid "Pair of words"
+msgstr "शब्दों की जोड़ी"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:83
+#, csharp-format
+msgid "Given the relationship between the words '{0}', which of the possible answers has the closest in relationship to the given pair? Answer {1}."
+msgstr "नीचे  दिए गए हुए शब्धों के बीच रिश्ता है  '{0}', कौन सा संभव उत्तर दिए गए जोड़ी के रिश्ते से निकटतम है? उत्तर  {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:42
+msgid "Question and answer"
+msgstr "प्रश्न और उत्तर"
+
+#: ../src/Core/Main/Verbal/AnalogiesFactory.cs:148
+#, csharp-format
+msgid "Read {0} verbal analogies of type {1}"
+msgstr "{0} को  पढ़ें और मौखिक समानता के प्रकार {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesFactory.cs:153
+#, csharp-format
+msgid "Read a total of {0} verbal analogies"
+msgstr "कुल मिलाकर {0} मौखिक समानता को पढ़ें"
+
+#: ../src/Clients/Classical/gbrainy.cs:305
+msgid "Play all the games"
+msgstr "सभी खेल खेलें "
+
+#: ../src/Clients/Classical/gbrainy.cs:306
+msgid "All"
+msgstr "सभी"
+
+#: ../src/Clients/Classical/gbrainy.cs:311
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "खेल खेलें जो आपकी तर्क और सोच से चुनौती लेती है "
+
+#: ../src/Clients/Classical/gbrainy.cs:318
+msgid "Play games that challenge your mental calculation skills"
+msgstr "खेल खेलें जो आपकी मानसिक गणना की कौशल से चुनौती लेती है "
+
+#: ../src/Clients/Classical/gbrainy.cs:324
+msgid "Play games that challenge your short term memory"
+msgstr "खेल खेलें जो आपकी अल्पकालिक स्मृति से चुनौती लेती है"
+
+#: ../src/Clients/Classical/gbrainy.cs:330
+msgid "Play games that challenge your verbal aptitude"
+msgstr "खेल खेलें जो आपकी मौखिक योग्यता से चुनौती लेती है"
+
+#: ../src/Clients/Classical/gbrainy.cs:335
+#: ../src/Clients/Classical/gbrainy.cs:560
+msgid "Pause"
+msgstr "ठहराना"
+
+#: ../src/Clients/Classical/gbrainy.cs:336
+msgid "Pause or resume the game"
+msgstr "खेल को ठहराना या फिर आरम्भ करना"
+
+#: ../src/Clients/Cla ssical/gbrainy.cs:341
+msgid "End the game and show score"
+msgstr "खेल को अंत करें और अंक दिखाएँ "
+
+#: ../src/Clients/Classical/gbrainy.cs:342
+msgid "Finish"
+msgstr "अन्त"
+
+#: ../src/Clients/Classical/gbrainy.cs:431
+msgid "Congratulations."
+msgstr "बधाई"
+
+#: ../src/Clients/Classical/gbrainy.cs:433
+msgid "Incorrect answer."
+msgstr "गलत ज़वाब"
+
+#: ../src/Clients/Classical/gbrainy.cs:482
+msgid "Once you have an answer type it in the \"Answer:\" entry box and press the \"OK\" button."
+msgstr "जब आपको उत्तर मिल जाता है तब \"उत्तर:\" डिब्बे में टाइप करें और  \"ठीक \" घुण्डी को दबाएँ "
+
+#: ../src/Clients/Classical/gbrainy.cs:564
+msgid "Resume"
+msgstr "फिर आरम्भ करना"
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:52
+msgid "translator-credits"
+msgstr "अनुवादक-श्रेय"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:57
+msgid ""
+"This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as  published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n"
+"\n"
+msgstr "यह खेल मुफ़्त है;आप इसे पुनर्वितरित कर सकते हैं और / या इसे संशोधित शर्तों के तहत जी एन यू जनरल पब्लिक अनुज्ञा मुफ़्त सॉफ्टवेयर स्थापना के द्वारा प्रकाशित; अनुज्ञा के संस्करण 2 या (आपके विकल्प पर) कोई नया संस्करण \n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:58
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n"
+"\n"
+msgstr "यह खेल वितरित किया जाता है पर ज़मानता के बिना; अव्यक्त व्यापारिकता ज़मानता के बिना भी या किसी विशेष प्रयोजन के लिए उपयुक्तता .जी एन यू जनरल पब्लिक अनुज्ञा अधिक जानकारी के लिए देखें .\n"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:59
+msgid "You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr "आपको जी एन यू जनरल पब्लिक अनुज्ञा की एक प्रतिलिपि इस खेल के साथ प्राप्त करना चाहिए; अगर नहीं तो मुफ़्त सॉफ्टवेयर स्थापना को आप लिक सकते हो, ई एन सी.,59 मंदिर प्लेस - सुइट 330, बोस्टन, एम ए 02111-1307, अमरीका"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid "Based on ideas by Terry Stickels, MENSA books and Jordi Mas."
+msgstr "विचारों के आधार पर टेरी स्तिच्केल्स,मनसा पुस्तकें और जोर्दी मास"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:70
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr "मस्ती के लिए एक मस्तिष्क चिढ़ाने और अपने मस्तिष्क को प्रशिक्षित रखने का खेल"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:72
+msgid "gbrainy web site"
+msgstr "जी-बरैनी संचार प्रौद्योगिकी"
+
+#. Define columns
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:66
+msgid "Game Name"
+msgstr "खेल का नाम"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:72
+msgid "Type"
+msgstr "प्रकार"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:79
+msgid "Enabled"
+msgstr "समर्थ है"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:47
+msgid "The graph below shows the player's game score evolution. "
+msgstr "नीचे दिया गया हुआ आलेख खिलाड़ी के खेल के अंक के विकास को दर्शाता है."
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:48
+#, csharp-format
+msgid "You need more than one game recorded to see the score evolution."
+msgid_plural "It is built using the results of {0} last recorded games."
+msgstr[0] "आपको एक से ज्यादे खेल खेलने पड़ेंगे जब आपको अंक के विकास की ज़रूरत पड़ें "
+msgstr[1] "यह {0} पिछले दर्ज खेलों  के परिणाम का उपयोग कर बनाया गया है"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "खेल का रिवाज"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "सभी का चयन करें"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "सभी रद्द करें"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "_प्रारंभ"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Player's Game History"
+msgstr "खिलाड़ी के खेल का इतिहास"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "प्रदर्शन है:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>कठिन स्तर </b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>सामान्य समायोजन</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>स्मृति खेल</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game History</b>"
+msgstr "<b>खिलाड़ी के खेल का इतिहास</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Clear Player's Game History"
+msgstr "खिलाड़ी के खेल के इतिहास को धवल करना"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "सरल"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "निपुण"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of stored games in the player's game history:"
+msgstr "संग्रहीत खेल के खिलाड़ी के खेल के इतिहास में अधिकतम संख्या"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "मध्यम"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played puzzles to store the game:"
+msgstr "पहेली खेल की न्यूनतम संख्या जो खेल को संग्रह करता है"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "वरीयताएँ"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "उलटी गिनती दिखाने की संदेश"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "जो खेल रंगों का उपयोग करता है उसे छोड़ दें (रंगान्ध उपयोगकर्ताओं के लिए अनुकूल है)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "समय सेकंड्स में चुनौती को याद करने के लिए :"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:34
+#: ../src/Games/Logic/PuzzleCube.cs:47
+msgid "Cube"
+msgstr "घन"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:38
+#, csharp-format
+msgid "How many cubes do you count in the figure below? (not counting the figure) Answer using a number."
+msgstr "नीचे दिए गए आंकड़ा में आप कितने घन को गिन सकते हो ?(आँकड़ा को गिनना नहीं ) उत्तर संख्या में दें"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:42
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr "एक घन नियमित रूप से ठोस वस्तु है  जिसके छह अनुकूल वर्ग चेहरे हैं "
+
+#: ../src/Games/Logic/PuzzleBalance.cs:51
+msgid "Balance"
+msgstr "संतुलन"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:55
+msgid "How many triangles are needed in the right part of the last figure to keep it balanced?"
+msgstr "अंत आंकड़े की दायें भाग में कितने त्रिकोण की जरूरत है ताकि यह संतुलित रहे "
+
+#: ../src/Games/Logic/PuzzleBalance.cs:61
+msgid "Every triangle counts as 1, each diamond as 2 and each square as 3."
+msgstr "हर त्रिकोण को गिनी जाती है 1, प्रत्येक हीरा को 2, और प्रत्येक वर्ग को 3"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:67
+msgid "Every diamond counts as two triangles."
+msgstr "हर दो हीरे के रूप में गिना जाता है त्रिकोण"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:53
+msgid "Build a triangle"
+msgstr "एक त्रिकोण बनायें"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:58
+#, csharp-format
+msgid "Which three pieces can you use together to build a triangle? Answer using the three figure names, e.g.: {0}{1}{2}."
+msgstr "आप कौन से तीन टुकड़े एक साथ उपयोग करने के लिए एक त्रिकोण का निर्माण कर सकते? उत्तर तीन आंकड़ा के नाम से दें उदाहरण: {0}{1}{2}."
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:63
+msgid "The resulting triangle is isosceles."
+msgstr "परिणामस्वरूप त्रिकोण समद्विबाहु है"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:172
+msgid "The triangle is:"
+msgstr "यह त्रिकोण है:"
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:32
+msgid "Circles in a rectangle"
+msgstr "एक आयत में कई चक्र"
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:36
+msgid "What is the maximum number of circles (as shown) that fit in the square below?"
+msgstr "नीचे दिए गए वर्ग में (के रूप में दिखाया) अधिकतम कितने घेरा उपयुक्त हो सकते हैं "
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:40
+msgid "You can fit more than 64 circles."
+msgstr "आप  64 से भी ज्यादा घेरों को भर सकते हैं"
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:46
+#, csharp-format
+msgid "In the layout shown {0} units of height are gained in each row. This allows using an additional row."
+msgstr "अभिन्यास में {0} ऊंचाई की इकाइयों प्रत्येक पंक्ति में प्राप्त कर रहे हैं"
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:81
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:102
+msgid "8 units"
+msgstr "8 इकाई"
+
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:121
+#: ../src/Games/Logic/PuzzleCirclesRectangle.cs:140
+msgid "1 unit"
+msgstr "1 इकांक"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:40
+msgid "Clocks"
+msgstr "घड़ियाँ"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:46
+#, csharp-format
+msgid "To what number should the large handle of the '{0}' clock point? Answer using numbers."
+msgstr "कौन सी संख्या पर घडी की बड़ी हाथ {0} होनी चाहिए ? उत्तर संख्या से दें "
+
+#: ../src/Games/Logic/PuzzleClocks.cs:53
+#, csharp-format
+msgid "Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr "पहली घड़ी से शुरू योग {0} हाथों से संकेत मान"
+
+#: ../src/Games/Logic/PuzzleClocks.cs:59
+msgid "The clocks do not follow the time logic."
+msgstr "घड़ियाँ समय की तर्क का पालन नहीं करती"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:50
+msgid "Count circles"
+msgstr "घेरों की गिनती करें "
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:54
+msgid "How many circles do you count?"
+msgstr "आपने कितने घेरा को गिना ?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:58
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr "यह एक आसान अभ्यास है अगर आप व्यवस्थित घेरा को गिनते हैं"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:43
+msgid "Counting"
+msgstr "गिनती"
+
+#. Translators: {0} and {1} are always numbers greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:67
+#, csharp-format
+msgid "We have a {0} meters piece of fabric. Machine A takes {1} seconds to cut 1 meter of this fabric. How many seconds does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgstr "हमारे पास {0} मीटर कपड़े का टुकड़ा है | मशीन A इस कपड़े का  1 मीटर काटने के लिए {1} सेकंड्स लेता है | मशीन A पूरे कपड़े को एक मीटर की टुकड़ा करने  में कितना सेकंड्स लेगा?"
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:71
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr "{0} टुकड़े के साथ, मशीन A 1 मीटर का दो टुकड़ा बनाता है"
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:81
+#, csharp-format
+msgid "A fence is built to enclose a square shaped region. {0} fence poles are used in each side of the square. How many fence poles are used in total?"
+msgstr "वर्ग के आकार में जो क्षेत्र हें उसे बाड़ के दुवारा बंद करते हैं | {0} बाड़ डंडे का उपयोग वर्ग के प्रत्येक पक्ष में किया जाता है| कुल मिलाकर कितने बाड़ डंडे का उपयोग होता है?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:85
+#, csharp-format
+msgid "There are {0} fence poles since the poles on the corners of the square are shared."
+msgstr "वहां {0} बाड़ खंभे हैं वर्ग के कोनों पर डंडे से साझा कर रहे हैं"
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:94
+#, csharp-format
+msgid "Wrapping an anniversary present costs one euro. The anniversary present costs {0} euros more than the cost to wrap it. How much does it cost to both purchase and wrap the present?"
+msgstr "वर्ष गाँठ के उपहार को ओढ़ने पर एक यूरो लगता है | वर्ष गाँठ का उपहार ओढ़ने के दाम से {0} यूरो अधिक है| उपहार को खरीद कर और ओढ़ने पर कितने दाम लगते हैं?"
+
+#: ../src/Games/Logic/PuzzleCounting.cs:96
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr "व्यक्तिगत रूप से, वर्तमान कीमत छिपाने  से खरीदने पर एक यूरो ज़्यादा पड़ता है"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:42
+msgid "Count series"
+msgstr "क्रम की गिनती करें"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid "How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr "'9'की कितनी संख्या चहिये जो 10 से 100 तक वर्णन कर सकता है?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:66
+msgid "How many two digit numbers occur where the first digit is larger than the second (e.g.: 20 and 21)?"
+msgstr "कितनी दो अंक वाली संख्या है जिसमे पहला अंक दुसरे अंक से बड़ा होता है  (उदाहरण: 20 और 21)?"
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:71
+msgid "How many two digit numbers occur where the first digit is smaller than the second (e.g.: 12 and 13)?"
+msgstr "कितनी दो अंक वाली संख्या है जिसमे पहला अंक दुसरे अंक से छोटा होता है  (उदाहरण: 12 और 13)?"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:37
+msgid "Cover percentage"
+msgstr "प्रतिशत आवरण है"
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:41
+msgid "What percentage of the figure is colored?"
+msgstr "कितनी प्रतिशत की आकृति रंगीन है?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:51
+#, csharp-format
+msgid "When folded as a cube, which face on the figure is opposite the face with a {0} drawn on it? Answer the number written on face."
+msgstr "जब एक घन के रूप में तह,आंकड़े का कौन सा चेहरा {0} का कर्षण किये हुए चहेरे के सामने है ?  चहेरे की संख्या दुवारा उत्तर दें"
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "What is the probability of getting a '2' or a '6' in a single throw of a fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr "क्या संभावना है कि 2 या 6 एक 6 पक्षीय घन में एक एकल कि फेंक में मिलें? उत्तर भाग में दें (उदाहरण: 1/2)"
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid "There are 2 of 6 possibilities."
+msgstr "इसमें  छह से दो संभावनाएं हैं"
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "What is the probability of not getting a '5' in a single throw of a fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr "क्या संभावना है कि एक 6 पक्षीय पांसा में एक एकल कि फेंक में '5' नहीं आ सकें ?  उत्तर भाग में दें (उदाहरण: 1/2)"
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid "There are 5 of 6 possibilities."
+msgstr "इसमें  छह से पांच संभावनाएं हैं"
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "Two fair 6 sided dices are thrown simultaneously. What is the probability of getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr "दो 6 पक्षीय पांसा एक साथ फेंकी जाती है | क्या संभावना है कि दो ईवन संख्या मिल जायें ? उत्तर भाग में दें (उदाहरण: 1/2)"
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid "There are 9 of 36 possibilities of getting an even number."
+msgstr "इसमें 36 से 9 संभावनाएं हैं कि ईवन संख्या मिलने में"
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid "Two fair 6 sided dices are thrown simultaneously. What is the probability of getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr "दो 6 पक्षीय पांसा एक साथ फेंकी जाती है | क्या संभावना है कि दो 6 मिल जायें ? उत्तर भाग में दें (उदाहरण: 1/2)"
+
+#: ../src/Games/Logic/PuzzleDice.cs:66
+msgid "There is 1 of 6 possibilities of getting a '6' on the first die and the same for the second die."
+msgstr "इसमें 6 से 1 संभावना हैं कि 6 पहले पांसा में और दूसरे में भी मिल जायें"
+
+#: ../src/Games/Logic/PuzzleDice.cs:70
+msgid "Dice"
+msgstr "पांसा"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:47
+msgid "Divide circles"
+msgstr "घेरों को विभाजित करना"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:51
+msgid "In the last figure, in how many regions is the circle divided into when all dots are connected?"
+msgstr "पिछले चित्र में,कितने क्षेत्रों में घेरा विभाजित है जब सभी बिंदुओं को जोड़ते हैं?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:115
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:130
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:147
+#, csharp-format
+msgid "Has {0} regions"
+msgstr "इसके {0} क्षेत्र है"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:35
+msgid "Equation"
+msgstr "समीकरण"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:39
+msgid "What is the result of the equation below?"
+msgstr "नीचे दिए गए हुए समीकरण का क्या समीकरण है?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:45
+msgid "The order of arithmetical operations is always as follows: exponents and roots, multiplication and division, addition and subtraction."
+msgstr "अंकगणितीय आपरेशनों का आदेश हमेशा इस प्रकार है: प्रतिपादक और जड़ों,गुणन और विभाजन,जोड़ना और घटाव"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:42
+msgid "Extra circle"
+msgstr "अतिरिक्त घेरा"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:51
+#, csharp-format
+msgid "Which circle does not belong to the group? It is not a sequence of elements. Answer {0}, {1}, {2} or {3}."
+msgstr "कौन सा घेरा इस समूह से मिलता नहीं? यह तत्व के एक दृश्य नहीं है | उत्तर {0} {1} {2} या {3}"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:56
+msgid "All circles share a common property except for one."
+msgstr "सिर्फ एक के अलावा ,सभी घेरा एक आम संपत्ति से जोड़ित हैं"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:62
+#, csharp-format
+msgid "In all circles the color slices follow the same order except for this one."
+msgstr "सिर्फ इसके अलावा,सभी घेरों में रंग का टुकड़ा एक ही क्रम का पालन करते हैं"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:42
+msgid "Figures and text"
+msgstr "आंकड़े और विषय"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:46
+msgid "The figures and the text are related. What text should go under the last figure?"
+msgstr "आकृति और विषय में सम्बन्ध | कौन सा विषय अंतिम आकृति के नीचे जायेगा ?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:50
+msgid "Every character of the text represents a property of the figure."
+msgstr "विषय का हर चरित्र आकृति की संपत्ति का वर्णन करता है"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:56
+msgid "'A' indicates that the figures overlap, 'B' that are rectangles, 'C' that are circles, 'D' that the figures are separated, 'E' that there are three figures and 'F' that there are two figures."
+msgstr "'A'संकेत करता है आंकड़े अतिव्यापन करते हैं, 'B' आयत हैं, 'C' घेरा है, 'D'आंकड़े अलग हैं, 'E'तीन आंकड़े हैं, और 'F' दो आंकड़े हैं"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:42
+msgid "Figure pattern"
+msgstr "आकृति के तरीक़े"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:47
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "कौन सी आकृति प्रश्नसूचक का स्थान लेगा ? उत्तर  {0}, {1} या {2}"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:52
+msgid "The third figure of every row involves somehow combining the first two figures."
+msgstr "हर पंक्ति का तीसरा आकृति पहला और दूसरे का संयोजन करता है "
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:58
+msgid "Superpose the first and second figures and remove the lines that they have in common, then rotate the resulting figure 45 degrees."
+msgstr "पहला और दूसरे आकृति  को एक के ऊपर रख कर जो भी सामान्य पंक्तियां हैं उसे हटा दें और आकृति  को 45 डिग्री घुमाएँ "
+
+#: ../src/Games/Logic/PuzzleFigures.cs:44
+msgid "Figures"
+msgstr "आंकड़े"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:48
+msgid "What is the next logical sequence of objects in the last column? See below the convention when giving the answer."
+msgstr "अगले वस्तुओं की तार्किक अनुक्रम अंतिम पंक्ति में क्या हैं ?जब उत्तर देतें हैं तब सम्मेलन पर ध्यान दें"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:55
+msgid "It is the only combination that you can build with the given elements without repeating them."
+msgstr "केवल यही संयोग बिना दोहरा तत्वों से बन सकता है"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:84
+#: ../src/Games/Logic/PuzzleFigures.cs:96
+#: ../src/Games/Logic/PuzzleFigures.cs:109
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:165
+msgid "Convention when giving the answer is:"
+msgstr "सम्मेलन जब आप उत्तर देतें हैं"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:169
+#, csharp-format
+msgid "E.g: {0}{1}{2} (diamond, triangle, circle)"
+msgstr "उदाहरण: {0}{1}{2} (हीरक,त्रिकोण,घेरा)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:34
+msgid "Four sided"
+msgstr "चार पक्षीय"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:38
+msgid "How many four sided figures do you count in the figure below?"
+msgstr "कितने चार पक्षीय आंकड़े आप नीचे दिए गए आंकड़े में गिन सकते हैं ?"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:42
+msgid "A four sided figure can be embedded inside another figure."
+msgstr "एक चार पक्षीय आंकड़ा एक और आंकड़े के अंदर लागू हो सकता है"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:34
+msgid "Handshakes"
+msgstr "हाथ मिलाना"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:39
+#, csharp-format
+msgid "All attendees to a party are introduced to one another. {0} handshakes are made in total. How many people are attending the party?"
+msgstr "दल में सभी लोग एक दूसरे से मिलते हैं | {0} कुल हाथ मिलान होता है | कितने लोग दल पर आयें हैं?"
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:44
+msgid "Try to imagine a situation in which you are meeting a small number of people."
+msgstr "एक स्थिति है जिसमें आप छोटी संख्या के लोगों से मिल रहे हैं,उसकी कल्पना की कोशिश करें"
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:114
+msgid "Larger shape"
+msgstr "बड़ा आकार"
+
+#: ../src/Games/Logic/PuzzleLines.cs:36
+msgid "Lines"
+msgstr "रेखाएं "
+
+#: ../src/Games/Logic/PuzzleLines.cs:40
+msgid "How many line segments in total are in the figures below? A line segment is a line between two points with no crossing lines."
+msgstr "कुल मिलाकर कितने रेखाएं की खंड नीचे दिए गए आंकड़े में हैं"
+
+#: ../src/Games/Logic/PuzzleLines.cs:46
+#, csharp-format
+msgid "There are {0} lines in the figure to the left and {1} in the figure to the right."
+msgstr "इसमें {0} रेखाएं आकृति के बाएँ और {1} दायें हैं"
+
+#: ../src/Games/Logic/PuzzleLines.cs:52
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr "यह एक आसान अभ्यास है अगर आप रेखा को व्यवस्थित से गिने"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:37
+msgid "Matrix groups"
+msgstr "साँचा समूहों"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:41
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "साँचा में एक संख्या को गोल किया होगा.कौन सा है?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:45
+msgid "All circled numbers share an arithmetical property."
+msgstr "जो संख्या को गोल किया है उन सबकी अंकगणितीय संपत्ति एक है"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:51
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "हर गोल किये गए संख्या को {0} से विभाजित किया जा सकता है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:46
+msgid "Matrix numbers"
+msgstr "साँचा संख्या"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:50
+msgid "The numbers in the matrix follow a pattern. Which number should replace the question mark?"
+msgstr "साँचा में जो संख्या हैं वह एक रूप का पालन करते हैं | कौन सी संख्या प्रश्नसूचक को हटा सकती है?"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+msgid "The pattern is arithmetical and works vertically."
+msgstr "वह रूप अंकगणितीय है और ऊर्ध्वाधर काम करता करता है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:58
+msgid "The pattern is arithmetical and works horizontally."
+msgstr "वह रूप अंकगणितीय है और क्षैतिज काम करता करता है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:69
+#, csharp-format
+msgid "The fourth row is calculated by multiplying the first two rows and adding the third."
+msgstr "पहले दो पंक्तियाँ की गुणा और तीसरे को जोड़कर चौथी पंक्ति की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:71
+#, csharp-format
+msgid "The fourth column is calculated by multiplying the first two columns and adding the third."
+msgstr "पहले दो काँलम की गुणा और तीसरे को जोड़कर चौथी काँलम की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:76
+#, csharp-format
+msgid "The fourth row is calculated by multiplying the first two rows and subtracting the third."
+msgstr "पहले दो पंक्तियाँ की गुणा और तीसरे को घटा करने पर चौथी पंक्ति की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:78
+#, csharp-format
+msgid "The fourth column is calculated by multiplying the first two columns and subtracting the third."
+msgstr "पहले दो काँलम की गुणा और तीसरे को घटा करने पर चौथी काँलम की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:83
+#, csharp-format
+msgid "The fourth row is calculated by adding the first two rows and subtracting the third."
+msgstr "पहले दो पंक्तियाँ को जोड़कर और तीसरे को घटा करने पर चौथी पंक्ति की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:85
+#, csharp-format
+msgid "The fourth column is calculated by adding the first two columns and subtracting the third."
+msgstr "पहले दो काँलम को जोड़कर और तीसरे को घटा करने पर चौथी काँलम की गणना होती है"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:36
+msgid "Missing piece"
+msgstr "लापता खंड"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:41
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "कौन सा वर्ग नीचे के आंकड़ा को पूर्ण करता है? उत्तर {0}, {1} या  {2}"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:46
+msgid "The logic works at row level."
+msgstr "तर्क पंक्ति के स्तर पर काम करता है"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:52
+msgid "In every row the third square is made by flipping the first square and superimposing it on the second square, followed by removing the matching lines."
+msgstr "हर पंक्ति में तीसरे वर्ग को पहले वर्ग को झटक कर और दूसरे वर्ग के ऊपर रख कर जिन रेखाओं का मिलान है उसे हटाते हैं "
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:63
+msgid "Missing slice"
+msgstr "लापता अंश"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:68
+#, csharp-format
+msgid "Some slices have a common property. Which is the missing slice in the circle below? Answer {0}, {1} or {2}."
+msgstr "कुछ अंश में एक आम संपत्ति है | कौन सा अंश के जो घेरा में नहीं है? उत्तर {0}, {1} या  {2}"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:73
+msgid "Each slice is related to the opposite one."
+msgstr "प्रत्येक टुकड़ा विपरीत एक से संबंधित है"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:79
+#, csharp-format
+msgid "All numbers of each slice, when added to the ones of the opposite slice, add always {0}."
+msgstr "सभी टुकड़े की संख्यां जब सामने जो टुकड़े होते हैं उनसे जोड़ा जाता है तब सिर्फ {0} जोड़ना "
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:77
+msgid "Most in common"
+msgstr "आम में अधिकांश"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:82
+#, csharp-format
+msgid "Which of the possible answers have the most in common with the four given figures? Answer {0}, {1}, {2} or {3}."
+msgstr "संभव जवाब में से आम में अधिकांश कौन से  चार दिए आंकड़ों में है?उत्तर {0}, {1}, {2} या  {3}"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:87
+msgid "Think of the common elements that the given figures have inside them."
+msgstr "दिए गए आंकड़े के अंदर में जो आम तत्व है उनके के बारे में सोचो"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:95
+msgid "It has the same number of elements inside the figure as the given figures."
+msgstr "तत्वों की संख्यां जो आंकडें के अन्दर हैं वह दिए गए आंकडें के सम्मान है"
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:97
+msgid "It is the figure with the most elements in common compared to the given figures."
+msgstr "यह आंकड़ा है जिसमे सभी तत्वों आम है जब दिए गए आंकडें से तुलना की जाती है"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:35
+msgid "Move figure"
+msgstr "आकृति"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:39
+msgid "What is the minimum number of circles to be moved in order to convert the left figure into the right figure?"
+msgstr "कितनी न्यूनतम घेरा को हटाना है जिससे बाएं आंकड़ा दायें आंकड़ा बन जाये?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:48
+msgid "Move the circle from the first line to the second and move two circles from the fourth line to the second and the fifth lines."
+msgstr "घेरा को पहली रेखा से दूसरी रेखा कि ओर हटायें और दो घेरों को चौथी से दूसरी और पांचवी रेखा कि ओर हटायें "
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:51
+msgid "Move the first line to the seventh; move the two circles of the second line to third; and move first and last circles of the fifth line to the sixth."
+msgstr "पहली रेखा को सातवीं;दो घेरों को दूसरे रेखा से तीसरी रेखा कि ओर हटायें और पहली और अन्तिम घेरों को पांचवी रेखा से छठी  रेखा कि ओर हटायें"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:54
+msgid "Next figure"
+msgstr "अगला आकृति"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:59
+#, csharp-format
+msgid "Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "अगला तर्कसंगत अनुक्रम में कौन सा आंकड़ा है? उत्तर {0}, {1} या  {2}"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:68
+#, csharp-format
+msgid "From first figure, the top circle advances by two positions clockwise, while the left circle goes backwards one position."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:40
+msgid "Numeric relation"
+msgstr "संख्यात्मक संबंध"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:44
+msgid "What number should replace the question mark?"
+msgstr "कौन सी संख्या प्रश्न चिह्न की जगह चाहिए ?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:48
+msgid "The numbers are related arithmetically."
+msgstr "संख्याएं अंकगणितीय संबंधित हैं"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr "संख्याओं के हर समूह {0} वास्तव में रकम {1}"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:60
+msgid "Divide the sequence in groups of three numbers. Every third number is calculated by multiplying by the two previous ones."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:64
+msgid "Divide the sequence in groups of three numbers. Every third number is calculated by subtracting the second number from the first."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:37
+msgid "Numeric sequence"
+msgstr "संख्यात्मक क्रम"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:41
+msgid "The next sequence follows a logic. What number should replace the question mark?"
+msgstr " अगला अनुक्रम एक तर्क निम्नानुसार | कौन सी संख्या प्रश्न चिह्न की जगह चाहिए ?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:45
+msgid "Every number in the sequence is related to the previous one."
+msgstr "अनुक्रम में प्रत्येक संख्या पिछले एक से संबंधित है"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid "Every number in the sequence is the result of subtracting 1 from the previous number and multiplying it by 2."
+msgstr "अनुक्रम में प्रत्येक संख्या का परिणाम पिछले संख्या से 1 घटाकर और  2 से गुणा करने पर होती है"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:57
+msgid "Every number in the sequence is the result of adding 1 to the previous number and multiplying it by 3."
+msgstr "अनुक्रम में प्रत्येक संख्या का परिणाम पिछले संख्या से 1 जोड़कर  और  3 से गुणा करने पर होती है"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:60
+msgid "Every number in the sequence is the result of subtracting 2 from the previous number and multiplying it by -2."
+msgstr "अनुक्रम में प्रत्येक संख्या का परिणाम पिछले संख्या से 2 घटाकर  और  -2 से गुणा करने पर होती है"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:55
+msgid "Ostracism"
+msgstr "निर्वासन"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:60
+#, csharp-format
+msgid "Which element does not belong to the group? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr "कौन सा तत्व समूह के लिए नहीं है? उत्तर {0}, {1}, {2}, {3}, या  {4}"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid "The criteria for deciding if an equation belongs to the group is not arithmetical."
+msgstr "मापदंड है कि एक समीकरण समूह के अंतर्गत आता है अगर वह अंकगणितीय  नहीं हैं "
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:70
+msgid "Consider that every number that belongs to the group has two parts that are related."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:83
+msgid "In all the other equations the digits from the left side appear also in the right side."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:86
+msgid "In all the other numbers the last three digits are the square of the first two digits."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+#, csharp-format
+msgid "If all painters are artists and some citizens of Barcelona are artists. Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "Some citizens of Barcelona are painters"
+msgstr "बार्सिलोना के कुछ नागरिक चित्रकार हैं"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+msgid "All citizens of Barcelona are painters"
+msgstr "बार्सिलोना के सभी नागरिक चित्रकार हैं"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:62
+msgid "No citizen of Barcelona is a painter"
+msgstr "बार्सिलोना का कोई नागरिक एक चित्रकार नहीं है"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:63
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:71
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:79
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:87
+msgid "None of the other options"
+msgstr "अन्य विकल्पों में से कोई नहीं"
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "Some artist are not ill"
+msgstr "कुछ कलाकार बीमार नहीं हैं"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+msgid "Some painters are not artists"
+msgstr "कुछ चित्रकार कलाकार नहीं हैं"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:70
+msgid "All artists are happy"
+msgstr "सभी कलाकार खुश हैं"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+#, csharp-format
+msgid "People that travel always buy a map. You are not going to travel. Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "You do not have any map"
+msgstr "आप के पास किसी का भी मानचित्र नहीं है"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+msgid "You do not buy a map"
+msgstr "आप मानचित्र को खरीदना नहीं "
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:78
+msgid "All people have a map"
+msgstr "सब लोगों के पास मानचित्र है "
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+#, csharp-format
+msgid "If you whistle if you are happy and you only smile when you whistle. Which of the following sentences is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You smile if you are happy"
+msgstr "आप मुस्कुराइए अगर आप खुश हैं "
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "You are only happy if you whistle"
+msgstr "आप केवल खुश होंगे हैं अगर आपने सीटी बजाई"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:86
+msgid "You whistle if you are not happy"
+msgstr "आप सीटी बजाते हैं अगर आप खुश नहीं हैं "
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:92
+msgid "Predicate Logic"
+msgstr "विधेय तर्क"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:39
+msgid "Pencil"
+msgstr "कूँची "
+
+#: ../src/Games/Logic/PuzzlePencil.cs:44
+#, csharp-format
+msgid "Which of the following figures cannot be drawn without crossing any previous lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:47
+msgid "People at a table"
+msgstr "लोगों एक मेज पर"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:51
+#, csharp-format
+msgid "A group of people are sitting at round table, evenly spaced out. How many people are there if the {0} person is across from the {1}?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:57
+msgid "Subtracting the two positions you find out how many people are seated half way around the table. Doubling this number leaves you with the total amount of people."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:66
+msgid "5th"
+msgstr "५ "
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "19th"
+msgstr "१९"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:71
+msgid "4th"
+msgstr "४ "
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "12th"
+msgstr "१२"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:76
+msgid "9th"
+msgstr "९ "
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:77
+msgid "22nd"
+msgstr "२२ "
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:117
+msgid "Two people in the table sitting across each other"
+msgstr "दो लोग मेज के पार बैठे हैं "
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:43
+msgid "Percentage"
+msgstr "प्रतिशत"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:80
+#, csharp-format
+msgid "After getting {0}% discount you have paid {1} monetary units for a TV set. What was the original price of the TV set?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:97
+#, csharp-format
+msgid "John's shop had sales of {0} monetary units. This was an increase of {1}% over last month. What were last month sales?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:112
+#, csharp-format
+msgid "The amount of water in a bucket decreases by {0}%. By what percentage must the amount of water increase to reach its original value?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:115
+msgid "The objective is to obtain the same total amount."
+msgstr "यह उद्देश्य है कि कुल राशि प्राप्त है"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:46
+msgid "Quadrilaterals"
+msgstr "चतुष्कोष"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:51
+#, csharp-format
+msgid "Which of the following figures does not belong to the group? Answer {0}, {1}, {2}, {3}, {4} or {5}."
+msgstr "निम्नलिखित आंकड़ों में कौन सा समूह से संबंधित नहीं है | उत्तर  {0}, {1}, {2}, {3}, {4}, या  {5}"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:59
+msgid "It is the only figure with all lines of equal length."
+msgstr "केवल यही आंकड़ा जिसमे सबी रेखाएं में एक सम्मान कि लम्बाई है "
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:93
+msgid "Square with dots"
+msgstr "बिन्दुओं के साथ वर्ग"
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:98
+#, csharp-format
+msgid "What is the letter of the figure that represents the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr "कौन सा अक्षर है जो अनुक्रम में अगले तार्किक आंकड़ा का वर्णन करता है ? उत्तर {0}, {1} या  {2}"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:37
+msgid "Squares and letters"
+msgstr "वर्गों और अक्षरों "
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:41
+msgid "The letters around the squares follow a pattern. Which letter should replace the question mark in the last square?"
+msgstr "वर्गों के आस - पास के अक्षर एक तरीका का पालन करते हैं | कौन सा अक्षर अन्तिम वर्ग के प्रश्नसूचक कि जगह आएगा ?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:47
+#, csharp-format
+msgid "Every letter is calculated by taking the alphabetical position of the previous character and adding {0} to it in order to get the position of the new letter."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:34
+msgid "Squares"
+msgstr "वर्गों"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:38
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "नीचे के आंकड़ें में कितने आकार के कई वर्ग गिन सकते हैं "
+
+#: ../src/Games/Logic/PuzzleSquares.cs:42
+msgid "A square is a rectangle with sides of equal length. A square can also be built from other squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:51
+msgid "There are 16 single squares, 9 squares made by 4 single squares, 4 squares made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:54
+msgid "There are 9 single squares, 4 squares made by 4 single squares and 1 square made by 9 single squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:32
+msgid "Square sheets"
+msgstr "वर्ग चादरें"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:36
+msgid "What is the minimum number of square sheets of paper of any size required to create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:40
+msgid "The sheets should overlap."
+msgstr "कफ़न एक के ऊपर एक होना चाहिए"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:46
+msgid "The numbers in the figure reflect the different areas covered by each one of the sheets."
+msgstr "आकृति में जो संख्या है वह कर एक कफ़न के क्षेत्र से प्रतिनिधि है "
+
+#: ../src/Games/Logic/PuzzleTetris.cs:37
+msgid "Tetris"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:42
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr "कौनसा आकृति नीचे दिए गए अनुक्रम को पूरा करता है ? उत्तर  {0},  {1} या  {2}."
+
+#: ../src/Games/Logic/PuzzleTetris.cs:49
+msgid "It is the figure that completes all possible combinations with four blocks without taking into account rotations."
+msgstr "यही एक आंकड़ा है जो सब बिना घुमाये चार खण्डों संयोजन पूर्ण करता है "
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:36
+msgid "Time now"
+msgstr "अभी  समय"
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:46
+#, csharp-format
+msgid "{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:54
+#, csharp-format
+msgid "You have to calculate the hour from which the distance is the same for the given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:77
+#, csharp-format
+msgid "{0:h tt}"
+msgstr ""
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:86
+msgid "Sample clock"
+msgstr "नमूना घड़ी"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:34
+msgid "Triangles"
+msgstr "त्रिकोण"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:38
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "नीचे दिए गए आंकड़ा में कई आकार के कितने त्रिकोण को आप गिन सकते हैं "
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:42
+msgid "A triangle can be embedded inside another triangle."
+msgstr "एक त्रिकोण एक और त्रिकोण के अंदर रखा जा सकता है"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:49
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr "त्रिकोण निम्नलिखित बिन्दुओं  को जोड़ने के द्वारा किया जाता है: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:60
+msgid "Triangles with numbers"
+msgstr "त्रिकोण के साथ संख्या "
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:64
+msgid "Which number should replace the question mark below?"
+msgstr "कौन सी संख्या प्रश्नसूचक की जगह लेगी ?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:69
+msgid "All the triangles share a property and are independent of the rest."
+msgstr "सभी त्रिकोण एक संपत्ति से जुड़े हुए हैं और आराम से स्वतंत्र हैं."
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:75
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr "हर त्रिकोण के अंदर दो संख्याओं का गुणा परिणाम है {0}"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:52
+msgid "Colored figures"
+msgstr "रंगीन आंकड़े"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:61
+#, csharp-format
+msgid "Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "इन आंकड़ों में से कौन सा पहले दिखाया गया था? उत्तर {0}, {1}, {2} या {3}"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:37
+msgid "Colored text"
+msgstr "रंगीन विषय"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:46
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "वह विषय का रंग क्या था जिसने कहा '{0}' ?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:42
+msgid "Counting dots"
+msgstr "बिन्दुओं की गिनती"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:53
+#, csharp-format
+msgid "How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr "पिछले छवि में कितने बिन्दुओं का {0} रंग था ?उत्तर संख्या में दें"
+
+#: ../src/Games/Memory/MemoryFacts.cs:52
+msgid "Memorize facts"
+msgstr "तथ्य को याद करें"
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:107
+#, csharp-format
+msgid "Shiny Cars had already announced a {0} days production halt next month, but before that it had not cut production since {1}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:109
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr "कितने दिन के लिए  चमकदार कारें की उत्पादन रोका गया "
+
+#: ../src/Games/Memory/MemoryFacts.cs:110
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr "पिछले किस वर्ष में चमकदार कारें का उत्पादन रोका गया "
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:118
+#, csharp-format
+msgid "Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr "चमकदार कारों की बिक्री पिछले दिसम्बर में {0}% गिरी, बुरा गिरावट {1} पूर्वकाल से  "
+
+#: ../src/Games/Memory/MemoryFacts.cs:120
+msgid "By how much did company sales fall last December?"
+msgstr "कंपनी की बिक्री पिछले दिसंबर में कितनी गिरावट थी ?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:121
+msgid "In what year did Shiny Cars record a sales total lower than that of last December?"
+msgstr "कौन सी वर्ष में चमकदार कारें कि कुल बिक्री पिछले दिसंबर से कम है "
+
+#: ../src/Games/Memory/MemoryFacts.cs:126
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr "{0}% चमकदार कारों का उत्पादन होता है वह यूरोप में अधिक बेचा जाता है"
+
+#: ../src/Games/Memory/MemoryFacts.cs:128
+msgid "What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr "चमकदार कारों कि उत्पादन में कितनी प्रतिशत यूरोप में बेचा जथा है ?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:134
+#, csharp-format
+msgid "About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use electric."
+msgstr "{0}% चमकदार कारें डीजल का उपयोग, {1}% उपयोग गैसोलीन और शेष का उपयोग बिजली"
+
+#: ../src/Games/Memory/MemoryFacts.cs:136
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "कितने प्रतिशत के चमकदार कार डीजल  का उपयोग करता है ?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "कितने प्रतिशत के चमकदार कार गैसोलीन का उपयोग करता है "
+
+#: ../src/Games/Memory/MemoryFigures.cs:56
+msgid "Memory figures"
+msgstr "आंकड़े का स्मृति करना"
+
+#: ../src/Games/Memory/MemoryFigures.cs:61
+msgid "In which cell is the other figure like the one shown below? Answer the cell number."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:52
+msgid "Triangle"
+msgstr "त्रिकोण"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:54
+msgid "Rectangle"
+msgstr "आयत"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:56
+msgid "Diamond"
+msgstr "हीरक"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:58
+msgid "Circle"
+msgstr "घेरा"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:66
+msgid "Memorize figures and text"
+msgstr "आंकड़े और विषय याद करें "
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:70
+msgid "The list below enumerates the figures shown in the previous image except for one. Which is the missing figure? Possible answers are triangle, rectangle, diamond and circle."
+msgstr "नीचे दी गई सूची में  एक को छोड़कर सबी  आंकड़े को पिछले छवि में दिखाया गया | कौन सा आंकड़ा लापता है ? संभव जवाब त्रिकोण, आयताकार, हीरेक और घेरा हैं"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:40
+msgid "Figures with numbers"
+msgstr "संख्या के साथ आंकड़े"
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:45
+#, csharp-format
+msgid "Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "इन वर्गों में से कौन सा  पहले दिखाया गया ? उत्तर {0}, {1}, {2} या  {3}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:131
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "आरंभ करें {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:135
+msgid "Move right"
+msgstr "दाएँ जाएँ "
+
+#: ../src/Games/Memory/MemoryIndications.cs:137
+msgid "Move left"
+msgstr "बाएं जाएँ "
+
+#: ../src/Games/Memory/MemoryIndications.cs:139
+msgid "Move up"
+msgstr "ऊपर जाएँ "
+
+#: ../src/Games/Memory/MemoryIndications.cs:141
+msgid "Move down"
+msgstr "नीचे जाएँ "
+
+#: ../src/Games/Memory/MemoryIndications.cs:146
+#, csharp-format
+msgid "End at point {0}"
+msgstr "अंत  करें {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:160
+msgid "Memorize indications"
+msgstr "संकेत को याद करें"
+
+#: ../src/Games/Memory/MemoryIndications.cs:166
+#, csharp-format
+msgid "Which of the following graphics represent the indications previously given? Answer {0}, {1}, {2} or {3}."
+msgstr "निम्नलिखित ग्राफिक्स में कौन सा पहले दिए गए संकेत का वर्णन करता है?उत्तर {0}, {1}, {2} या {3}"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:59
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr "कितनी विषम संख्या पिछले छवि में थे? उत्तर संख्या में दें"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:79
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr "कितनी समगुण संख्या पिछले छवि में थे? उत्तर संख्या में दें"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:99
+msgid "How many numbers with more than one digit were in the previous image? Answer using numbers."
+msgstr "पिछले छवि में कितनी संख्या  एक से अधिक अंक वाली थी ? उत्तर संख्या में दें"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:116
+msgid "Memorize numbers"
+msgstr "संख्या को याद करें"
+
+#: ../src/Games/Memory/MemoryWords.cs:39
+msgid "Memorize words"
+msgstr "शब्दों को याद करें"
+
+#: ../src/Games/Memory/MemoryWords.cs:44
+#, csharp-format
+msgid "There is a missing word from the previous list. Which one is the missing word?"
+msgstr "पिछले सूची में से एक लापता शब्द है, वो कौन सा शब्द है ?"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "elbow"
+msgstr "कोहनी"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "armpit"
+msgstr "कांख"
+
+#: ../src/Games/Memory/MemoryWords.cs:56
+msgid "hand"
+msgstr "हाथ"
+
+#: ../src/Games/Memory/MemoryWords.cs:57
+msgid "chest"
+msgstr "छाती "
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "sardine"
+msgstr "सार्डाइन- एक प्रकार की मछली"
+
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "trout"
+msgstr "ट्राउट - एक प्रकार की मछली"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "monkfish"
+msgstr "भिक्षु मछली"
+
+#: ../src/Games/Memory/MemoryWords.cs:63
+msgid "cod"
+msgstr "काड मच्छली"
+
+#: ../src/Games/Memory/MemoryWords.cs:64
+msgid "salmon"
+msgstr "चांदी के समन खाल और नारंगी रंग के मांसवाली नदी की मछली"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "potato"
+msgstr "आलू"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "ginger"
+msgstr "अदरक"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pepper"
+msgstr "काली मिर्च"
+
+#: ../src/Games/Memory/MemoryWords.cs:70
+msgid "garlic"
+msgstr "लहसुन"
+
+#: ../src/Games/Memory/MemoryWords.cs:71
+msgid "pumpkin"
+msgstr "कद्दू"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "brake"
+msgstr "गतिरोधक"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "pedal"
+msgstr "पावदान"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "chain"
+msgstr "जंज़ीर"
+
+#: ../src/Games/Memory/MemoryWords.cs:77
+msgid "wheel"
+msgstr "पहिया"
+
+#: ../src/Games/Memory/MemoryWords.cs:78
+msgid "handlebar"
+msgstr "स्टीयरिंग बर"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "drummer"
+msgstr "ढंढोरची"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "speaker"
+msgstr "अध्यक्ष"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "lyrics"
+msgstr "गीत"
+
+#: ../src/Games/Memory/MemoryWords.cs:84
+msgid "beat"
+msgstr "ताल "
+
+#: ../src/Games/Memory/MemoryWords.cs:85
+msgid "song"
+msgstr "गाना"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "cloud"
+msgstr "बरसात"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "rain"
+msgstr "बरसात"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "storm"
+msgstr "तूफ़ान"
+
+#: ../src/Games/Memory/MemoryWords.cs:91
+msgid "fog"
+msgstr "धुंध"
+
+#: ../src/Games/Memory/MemoryWords.cs:92
+msgid "rainbow"
+msgstr "इन्द्रधनुष"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "rabbit"
+msgstr "खरगोश"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "mouse"
+msgstr "चूहा"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "monkey"
+msgstr "बंदर"
+
+#: ../src/Games/Memory/MemoryWords.cs:98
+msgid "bear"
+msgstr "भालू"
+
+#: ../src/Games/Memory/MemoryWords.cs:99
+msgid "wolf"
+msgstr "भेड़िया"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:45
+msgid "Arithmetical"
+msgstr "अंकगणितीय"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:53
+msgid "What is the result of the arithmetical operation?"
+msgstr "अंकगणिती गणना का परिणाम क्या है?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:40
+msgid "Average"
+msgstr "औसत"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:57
+#, csharp-format
+msgid "Given the numbers: {0}. Which of the following numbers is the nearest to the average? Answer {1}, {2}, {3} or {4}."
+msgstr "संख्या को देखते हुए: {0} निम्नलिखित में से कौन सी संख्या औसत के नजदीक  है? उत्तर {1},  {2}, {3} या  {4}"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr "इस गणना का परिणाम है {0:##0.###}"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:39
+msgid "Closer fraction"
+msgstr "निकटतम भाग"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:48
+#, csharp-format
+msgid "Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, {3} or {4}."
+msgstr "निम्नलिखित में से कौन सी संख्या नजदीक  है {0:##0.###}? उत्तर {1},  {2}, {3} या  {4}"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:57
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr "इस गणना का परिणाम  {0} / {1} है {2:##0.###}"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:62
+msgid "Fractions"
+msgstr "भाग"
+
+#: ../src/Games/Calculation/CalculationFractions.cs:70
+#, csharp-format
+msgid "What is the result of the given operation? Answer using either a fraction or a number."
+msgstr "गणना का परिणाम क्या है? उत्तर भाग में या संख्या में दें "
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr "बड़ी भाजक"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid "Which of the possible divisors is the greatest that divides all numbers?"
+msgstr "कौन सा भाजक बड़ा है जो सभी संखयों को विभाजित करता है ?"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:209
+#: ../src/Games/Calculation/CalculationPrimes.cs:211
+msgid "Numbers"
+msgstr "संख्या"
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:224
+msgid "Possible divisors"
+msgstr "साध्य भाजक"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:37
+msgid "Operator"
+msgstr "प्रचालक"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:41
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "पहला प्रचालक है {0}"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:49
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr "कौन से  प्रचालक  {0},  {1},  और  {2} को  {3} बनाते हैं ?  उत्तर '+-/*' में दें  "
+
+#: ../src/Games/Calculation/CalculationOperator.cs:85
+#: ../src/Games/Calculation/CalculationRatio.cs:89
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:102
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} और {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr "अभाज्य"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid "In the set of numbers below, which of the following numbers is a prime? A prime number is a positive integer that has exactly two different positive divisors, 1 and itself."
+msgstr "नीचे दिए गए संख्या के सेट में कौन सी संख्या अभाज्य है?अभाज्य संख्या सकारात्मक पूर्णांक है कि वास्तव में दो अलग अलग सकारात्मक भाजक हैं वह है 1 और वहीं संख्या "
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid "If the sum of all digits in a given number is divisible by 3, then so is the number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr "अगर संख्या के सबी अंक को जोड़ने पर वह  3 से विभाज्य हैं फिर वह संख्या | उधाहरण के लिए  15 = 1 + 5 = 6,  3 से विभाजित है  "
+
+#: ../src/Games/Calculation/CalculationProportions.cs:39
+msgid "Proportions"
+msgstr "समानुपात"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:49
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "{0}% of {1}/{2}? उत्तर {3},  {4},  {5} या  {6}."
+
+#: ../src/Games/Calculation/CalculationRatio.cs:34
+msgid "Ratio"
+msgstr "अनुपात"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:44
+#, csharp-format
+msgid "Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers?"
+msgstr "कौन सी दो संख्या है, जिनकी योग {0} और अनुपात {1} से {2} है?"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:53
+#, csharp-format
+msgid "The second number is calculated by multiplying the first by {0} and dividing it by {1}."
+msgstr "दूसरी संख्या की गणित पहले {0} द्वारा गुणन और {1} द्वारा विभाजन पर मिलता है"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:60
+msgid "A ratio specifies a proportion between two numbers. A ratio a:b means that for every 'a' parts you have 'b' parts."
+msgstr "अनुपात दो संख्या के बीच समानुपात निर्दिष्ट करता है अनुपात a:b का मतलब है हर 'a'के भाग के लिए 'b'का भाग भी है "
+
+#: ../src/Games/Calculation/CalculationRatio.cs:101
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:117
+#, csharp-format
+msgid "number1 + number2 = {0}"
+msgstr "संख्या1 + संख्या2 ={0}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:104
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "इनका  अनुपात {0}:{1} है"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:43
+msgid "Two numbers"
+msgstr "दो संख्याओं"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:54
+#, csharp-format
+msgid "Which two numbers when added are {0} and when multiplied are {1}?"
+msgstr "कौन सी दो संख्या है जब दोनों का संकलन होता है उस समय {0} और जब गुणा होता है उस समय {1} मिलता है?"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:57
+#, csharp-format
+msgid "Which two numbers when subtracted are {0} and when multiplied are {1}?"
+msgstr "कौन सी दो संख्या है जब दोनों का घटाना होता है उस समय {0} और जब गुणा होता है उस समय {1} मिलता है?"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:120
+#, csharp-format
+msgid "number1 - number2 = {0}"
+msgstr "संख्या1 - संख्या2 ={0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:127
+#, csharp-format
+msgid "number1 * number2 = {0}"
+msgstr "संख्या1 * संख्या2 = {0}"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "सभी खेल (तर्क,मानसिक गणना,स्मृति और मौखिक समानता )"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "उत्तर"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "खेल के रिवाज को  चयन करें"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "विस्तार"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "जी - बरैनी के कार्यक्षमता को कैसे बढायें"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "केवल तर्क पहेलियाँ"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "केवल स्मृति प्रशिक्षकों"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "केवल  मानसिक गणना प्रशिक्षकों"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "उपकरण पट्टी"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "केवल  मौखिक समानता"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "विषय - सूची"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "खेल को अंत करना"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "खेल "
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "सहाय"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "नया खेल"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "अगला"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "खेल  को  ठहरना"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "समायोजन"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "सहायक - सूचना"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "देखना"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr "यह प्रचालन करने के लिए अतिरिक्त विस्तार चाहिये"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr "सभी पंजीकृत खजाने"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr "लेखक"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr "पृष्ठ पलटाना "
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "सर्वाधिकार"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "निष्क्रिय"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "सक्षम"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "से स्थापित"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "नाम"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr "अन्य"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr "पथ"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr "स्थानीय भंडार में रजिस्टर करें"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr "ऑनलाइन भंडार गृह में रजिस्टर करें"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "भंडार गृह"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "सभी का चयन करें"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr "भंडार गृह के स्थान में रजिस्टर करने का चयन करें"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "सभी संकुल को दिखाना"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "केवल  नए संस्करणों को दिखाना"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "केवल अद्यतन दिखाएँ"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr "निम्नलिखित जोड़-इन्स वर्तमान में स्थापित हैं"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr "निम्नलिखित जोड़-इन्स स्थापित किये जायेंगे"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "यूनिफ़ॉर्म रिसोर्स लोकेटर"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "यूनिफ़ॉर्म रिसोर्स लोकेटर:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "संस्करण"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "संस्करण"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr "जोड़-इन्स को स्थापित करें"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr "खजाने"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "स्थापना रद्द"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "सभी रद्द करें"
+

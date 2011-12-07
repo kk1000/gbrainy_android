@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="nl">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>De moeilijkheidsgraad van de spellen wijzigen.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Moeilijkheidsgraden</title>
+  <p>Om de moeilijkheidsgraad van het spel te wijzigen doet u het volgende:</p>
+  <steps>
+    <item>
+      <p>Kies <guiseq><gui style="menu">Instellingen</gui><gui style="menuitem">Voorkeuren</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Selecteer in de sectie <gui>Moeilijkheidsgraad</gui> het gewenste niveau.</p>
+      <p>U kunt kiezen uit drie verschillende niveaus: <gui style="radiobutton">Gemakkelijk</gui>, <gui style="radiobutton">Gemiddeld</gui>, en <gui style="radiobutton">Moeilijk</gui>. Het standaard niveau is <gui style="radiobutton">Gemiddeld</gui>.</p>
+    </item>
+  </steps>
+</page>

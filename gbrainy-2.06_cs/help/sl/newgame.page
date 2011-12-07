@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="sl">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Začetek in igranje igre.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+   </license>
+  </info>
+
+  <title>Seja iger</title>
+  
+  <section id="game-start">
+    <title>Začni novo sejo</title>
+    <p>Za začetek nove igre storite nekaj od naslednjega:</p>
+    <list>
+      <item>
+        <p>Izberite <guiseq><gui style="menu">Igra</gui><gui style="menuitem">Nova igra</gui></guiseq> in izberite vrsto igre za igranje.</p>
+      </item>
+      <item>
+        <p>Kliknite na enega od gumbov v orodni vrstici.</p>
+      </item>
+    </list>
+    <p>Gumbi orodne vrstice imajo naslednje pomene:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Vse</title>
+            <p>Začne novo igro sestavljeno iz vseh razpoložljivih vrst iger.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Gumb vseh iger</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logika</title>
+            <p>Začne novo igro sestavljeno le iz logičnih iger.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Gumb logičnih iger</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Računanje</title>
+            <p>Začne novo igro sestavljeno le iz računskih iger</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Gumb računskih iger</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Pomnjenje</title>
+            <p>Začne novo igro sestavljeno le iz iger pomnjenja.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Gumb iger pomnjenja</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Besede</title>
+            <p>Začne novo igro sestavljeno le iz iger besednih analogij.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Gumb besednih iger</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Ti opisi veljajo tudi za vrste iger, ki jih lahko izberete v meniju <gui style="menu">Igra</gui>. </p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Igraj sejo</title>
+    <note style="tip">
+      <p>Med igranjem vedno previdno preberite navodila!</p>
+    </note>
+    <p>Seja igre se začne s prikazom težave in nato vpraša za odgovor. Na dnu okna so glavni nadzorni gumbi za sporazumevanje z igro.</p>
+    <p>Ko poznate odgovor, ga vpišite v besedilni vnos <gui style="input">Odgovor</gui> in pritisnite <gui style="button">V redu</gui>.</p>
+    <p>Za naslednje vprašanje kliknite <gui style="button">Naprej</gui>.</p>
+    <note>
+      <p>Tudi če kliknete <gui style="button">Naprej</gui> pred dokončanjem igre ali brez podajanjem odgovora, se bo igra vseeno štela v vaše rezultate.</p>
+    </note>
+  </section>
+</page>

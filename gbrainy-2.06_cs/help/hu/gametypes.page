@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="hu">
+  <info>
+    <title type="sort">3</title>
+    <desc>Milyen típusú játékokkal játszhat.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Játéktípusok</title>
+
+  <p>A <app>gbrainy</app> a következő játéktípusokat kínálja:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logikai fejtörők</title>
+          <p>Következtetési és gondolkodási képességei tesztelésére tervezett játékok. Ezek a játékok elemek sorozatain, vizuális és térbeli következtetéseken vagy elemek közti kapcsolatokon alapulnak.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logikai játékok logó</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Fejszámolások</title>
+          <p>Fejszámolási képességei fejlesztésére tervezett, aritmetikai műveletekre épülő játékok. Ezek megoldása a négy alapművelet különböző módokon való kombinálását igényli.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Számolási játékok logó</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Memóriaedzők</title>
+          <p>Rövid távú memóriájának tesztelésére tervezett játékok. Ezek a játékok objektumok gyűjteményeit jelenítik meg, és a játékostól ezek felidézését kérik, néha ábrák, szavak, számok vagy színek közti kapcsolatok létrehozása mellett.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Memóriajátékok logó</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Verbális analógiák</title>
+          <p>Verbális képességeinek tesztelésére tervezett játékok. Ezek ok és okozat felismerését, hasonló vagy ellentétes értelmű szavak használatát, valamint a szókincs használatát kérik.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Verbális játékok logó</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

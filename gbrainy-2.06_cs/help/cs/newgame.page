@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="newgame" xml:lang="cs">
+      
+  <info>
+    <title type="sort">1</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Jak spustit a hrát hru.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Herní sezení</title>
+  
+  <section id="game-start">
+    <title>Jak spustit nové sezení</title>
+    <p>Když chcete spustit novou hru, udělejte jednu z následujících věcí:</p>
+    <list>
+      <item>
+        <p>Zvolte <guiseq><gui style="menu">Hra</gui><gui style="menuitem">Nová hra</gui></guiseq> a vyberte typ hry, který chcete hrát.</p>
+      </item>
+      <item>
+        <p>Klikněte na jedno z tlačítek na panelu nástrojů.</p>
+      </item>
+    </list>
+    <p>Jednotlivá tlačítka na panelu nástrojů mají následující význam:</p>
+    <table frame="none" rules="none" shade="none">
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Všechny</title>
+            <p>Spustí novou hru, ve které budete hrát všechny dostupné typy her.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/all-games.png">
+            <p>Tlačítko všech her</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Logické</title>
+            <p>Spustí novou hru, ve které budete hrát pouze logické hry.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/logic-games.png">
+            <p>Tlačítko logických her</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Početní</title>
+            <p>Spustí novou hru, ve které budete hrát pouze početní hry.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/math-games.png">
+            <p>Tlačítko početních her</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Paměťové</title>
+            <p>Spustí novou hru, ve které budete hrát pouze paměťové hry.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/memory-games.png">
+            <p>Tlačítko paměťových her</p>
+          </media>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <terms>
+          <item>
+            <title>Slovní</title>
+            <p>Spustí novou hru, ve které budete hrát pouze hry se slovními analogiemi.</p>
+          </item>
+        </terms>
+        </td>
+        <td>
+          <media type="image" mime="image/png" src="figures/verbal-games.png">
+            <p>Tlačítko slovních her</p>
+          </media>
+        </td>
+      </tr>
+    </table>
+    <note>
+      <p>Tento popis platí i pro typy her, které si můžete vybrat v nabídce <gui style="menu">Hra</gui>.</p>
+    </note>
+  </section>
+  <section id="game-play">
+    <title>Jak hrát sezení</title>
+    <note style="tip">
+      <p>Když hrajete hru, vždy si pozorně přečtěte instrukce!</p>
+    </note>
+    <p>Herní sezení začíná zobrazením problému a dotazem na řešení. V dolní části okna jsou hlavní ovládací prvky, které muže použít ke komunikaci s hrou.</p>
+    <p>Až budete znát na problém odpověď, zapište ji do textového pole <gui style="input">Odpověď</gui> a stiskněte <gui style="button">OK</gui>.</p>
+    <p>Pro pokračování s další hrou klikněte na <gui style="button">Další</gui>.</p>
+    <note>
+      <p>Když kliknete na <gui style="button">Další</gui> před dokončením hry nebo bez poskytnutí odpovědi, bude hra započítána do výsledků.</p>
+    </note>
+  </section>
+</page>

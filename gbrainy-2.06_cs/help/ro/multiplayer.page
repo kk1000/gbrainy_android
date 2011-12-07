@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="multiplayer" xml:lang="ro">
+
+  <info>
+    <link type="guide" xref="index#multi"/>
+  	<desc>Cum să jucați cu alți oameni.</desc>
+  	<!-- Taken from GNOME Tetravex -->
+    <revision pkgversion="2.30" version="0.1" date="2009-12-18" status="draft"/> 
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Jucați-vă cu alți oameni</title>
+
+  <p>Nu este posibil să jucați împotriva altor oameni prin intermediul Internetului sau al rețelei cu <app>gbrainy</app>.</p>
+</page>

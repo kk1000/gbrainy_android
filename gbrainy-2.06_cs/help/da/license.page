@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="da">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>Juridisk information.</desc>
+  </info>
+
+  <title>Licens</title>
+  <p>Dette arbejde er udgivet under licensen CreativeCommons Attribution-Share Alike 3.0 Unported.</p>
+  <p>Du kan frit:</p>
+  <terms>
+    <item>
+      <title><em>Dele</em></title>
+      <p>Kopiere, distribuere og overføre arbejdet.</p>
+    </item>
+    <item>
+      <title><em>Blande</em></title>
+      <p>Tilpasse arbejdet.</p> 
+    </item>
+  </terms>
+  <p>Under de følgende betingelser:</p>
+  <terms>
+    <item>
+      <title><em>Kreditering</em></title>
+      <p>Du skal kreditere arbejdet på den måde som er angivet af forfatteren eller licensindehaveren (men ikke på en måde som indikerer at de støtter dig eller din brug af deres arbejde).</p>
+    </item>
+    <item>
+      <title><em>Share Alike</em></title>
+      <p>Hvis du ændrer, omformer, eller bygger videre på dette arbejde, må du distribuere det færdige arbejde under den samme, lignende eller kompatibel licens.</p>
+    </item>
+  </terms>
+  <p>For den fulde licenstekst, se <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">CreativeCommons hjemmeside</link>, eller læs de fulde <link href="http://creativecommons.org/licenses/by-sa/3.0/">Commons Deed</link>.</p>
+</page>

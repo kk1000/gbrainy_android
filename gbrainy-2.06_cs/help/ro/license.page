@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="license" xml:lang="ro">
+  
+  <info>
+    <link type="seealso" xref="index"/>
+    <revision pkgversion="2.30" version="0.1" date="2009-12-28" status="draft"/>
+    <desc>Informații legale.</desc>
+  </info>
+
+  <title>Licență</title>
+  <p>Această lucrare este distribuita sub licența neportată CreativeCommons Attribution-Share Alike 3.0.</p>
+  <p>Sunteți liberi să:</p>
+  <terms>
+    <item>
+      <title><em>Pentru a partaja</em></title>
+      <p>Să copiați, distribuiți și transmiteți munca.</p>
+    </item>
+    <item>
+      <title><em>Să modificați</em></title>
+      <p>Adaptați munca.</p> 
+    </item>
+  </terms>
+  <p>În conformitate cu condițiile următoare:</p>
+  <terms>
+    <item>
+      <title><em>Atribuire</em></title>
+      <p>Trebuie să atribuiți lucrare într-o manieră specificată de autor sau licensor (dar nu într-un fel care sugerează că ei vă aprobă pe dumneavoastră sau utilizarea dumneavoastră a lucrării).</p>
+    </item>
+    <item>
+      <title><em>Share Alike</em></title>
+      <p>Dacă modificați, transformați, sau construiți ceva plecând de la această lucrare, puteți distribui rezultatul numai sub termenii aceleiași, similare sau compatibile licență.</p>
+    </item>
+  </terms>
+  <p>Pentru întregul conținut al licenței, consultați <link href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">pagina web CreativeCommons</link>, sau citiți în întregime <link href="http://creativecommons.org/licenses/by-sa/3.0/">Commons Deed</link>.</p>
+</page>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="pause" xml:lang="cs">
+      
+  <info>
+    <title type="sort">4</title>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <desc>Jak pozastavit nebo skončit hru.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Pozastavení/skončení hry</title>
+
+  <section id="pause-pause">
+    <title>Jak pozastavit a znovu rozjet hru</title>
+    <p>Pokud chcete hru pozastavit, abyste v ní později mohli od stejného místa pokračovat, proveďte následující:</p>
+    <list>
+      <item>
+        <p>Zvolte <guiseq><gui style="menu">Hra</gui><gui style="menuitem">Pozastavit hru</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klikněte na panelu nástrojů na tlačítko <gui style="button">Přestávka</gui>.</p>
+      </item>
+    </list>
+    <p>Když chcete v pozastavené hře dále řádně pokračovat, proveďte následující:</p>
+    <list>
+      <item>
+        <p>Zvolte <guiseq><gui style="menu">Hra</gui><gui style="menuitem">Pozastavit hru</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klikněte na panelu nástrojů na tlačítko <gui style="button">Pokračovat</gui>.</p>
+      </item>
+    </list>
+  </section>
+  
+  <section id="pause-stop">
+    <title>Jak skončit hru</title>
+    <p>Když chcete ukončit hru, udělejte jednu z následujících věcí:</p>
+    <list>
+      <item>
+        <p>Zvolte <guiseq><gui style="menu">Hra</gui><gui style="menuitem">Skončit hru</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>Klikněte na liště nástrojů na tlačítko <gui style="button">Skončit</gui>.</p>
+      </item>
+    </list>
+  </section>
+</page>

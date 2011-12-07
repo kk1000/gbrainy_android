@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="sr">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Увод у <app>г-кефало</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Мило Казагранде</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>„Creative Commons Share Alike 3.0“</p>
+   </license>
+  </info>
+
+  <title>Играње</title>
+  
+  <p><app>г-кефало</app> је игра мозгалица; циљ игре је да се забавите и да одржавате ваш ум обученим.</p>
+  <p>Поседује различите врсте игара као што су логичке загонетке, игре менталног рачуна, меморијске вежбе и вербалне аналогије, осмишљен је да тестира различите способности закључивања.</p>
+  <p>Можете да изаберете различите нивое тежине чинећи <app>г-кефало</app> пријатним за децу, одрасле и старије грађане. Такође поседује историјат игре, личне записе, савете и подршку целог екрана. <app>г-кефало</app> такође може бити лако <link href="http://live.gnome.org/gbrainy/Extending">проширен</link> новим играма развијеним од стране трећих лица.</p>
+  <p><app>г-кефало</app> се у великој мери ослања на рад претходних мајстора загонетки, у распону од класичних загонетки најстаријих времена до новијих радова као што су загонетке <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Тери Стикелса</link> или класична игра <link href="http://en.wikipedia.org/wiki/Dr._Brain">Др. Ум</link>.</p>
+  <note>
+    <p>Било је недавних дискусија у научним круговима о томе да ли софтвер за вежбање ума побољшава перформансе сазнавања. Већина студија показује да до побољшања долази врло мало или нимало, али то не значи да не можете имати добар провод играјући игре као што је <app>г-кефало</app>!</p>
+  </note>
+</page>

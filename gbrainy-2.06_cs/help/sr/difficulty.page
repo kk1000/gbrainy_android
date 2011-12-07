@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="sr">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Промените ниво тежине игре.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Мило Казагранде</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>„Creative Commons Share Alike 3.0“</p>
+   </license>
+  </info>
+
+  <title>Нивои тежине</title>
+  <p>Да промените ниво тежине игре, урадите следеће:</p>
+  <steps>
+    <item>
+      <p>Изаберите „<guiseq><gui style="menu">Поставке</gui><gui style="menuitem">Подешавања</gui></guiseq>“.</p>
+    </item>
+    <item>
+      <p>У одељку „<gui>Ниво тешкоће</gui>“, изаберите жељени ниво.</p>
+      <p>Можете изабрати између три различита нивоа: <gui style="radiobutton">Лако</gui>, <gui style="radiobutton">Средње</gui> и <gui style="radiobutton">Тешко</gui>. Подразумевани ниво је <gui style="radiobutton">Средње</gui>.</p>
+    </item>
+  </steps>
+</page>

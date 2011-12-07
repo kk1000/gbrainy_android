@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custompage" xml:lang="nl">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="newgame"/>
+    <link type="seealso" xref="gametypes"/>
+    <desc>Een aangepaste spellenselectie starten.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-20" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>  
+  </info>
+
+  <title>Aangepaste spellenselectie</title>
+  <p>Het is mogelijk een aangepaste selectie te spelen van alle spellen in <app>gbrainy</app>.</p>
+  <p>Om dat te doen, doet u het volgende:</p>
+  <steps>
+    <item>
+      <p>Kies <guiseq><gui style="menu">Spel</gui><gui style="menuitem">Nieuw spel</gui><gui style="menuitem">Selectie aangepast spel</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>Selecteer in het dialoogvenster <gui>Aangepast spel</gui> de spellen die u wilt spelen door te klikken op het keuzevakje naast de naam van het spel.</p>
+    </item>
+    <item>
+      <p>Klik wanneer u klaar bent op <gui style="button">Start</gui> om het spelen van uw aangepaste spellenselectie te starten.</p>
+    </item>
+  </steps>
+</page>

@@ -1,0 +1,1040 @@
+# Afrikaans translation for gbrainy.
+# Copyright (C) 2010 gbrainy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gbrainy package.
+# Hermien <hermienbos@gmail.com>, 2010, 2011.
+# F Wolff <friedel@translate.org.za>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy master\n"
+"POT-Creation-Date: 2011-07-27 20:42+0000\n"
+"PO-Revision-Date: 2011-08-05 00:35+0200\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>\n"
+"Language-Team: translate-discuss-af@lists.sourceforge.net\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1-beta1\n"
+"X-Project-Style: default\n"
+
+#: C/export.page:7(desc)
+msgid "Export the games for playing off-line."
+msgstr "Voer die speletjies uit om vanlyn te speel."
+
+#: C/export.page:10(name) C/times.page:11(name) C/newgame.page:13(name)
+#: C/index.page:14(name) C/gameplay.page:12(name) C/score.page:11(name)
+#: C/multiplayer.page:11(name) C/history.page:9(name)
+#: C/difficulty.page:12(name) C/tips.page:12(name) C/pause.page:12(name)
+#: C/customgame.page:12(name)
+msgid "Milo Casagrande"
+msgstr "Milo Casagrande"
+
+#: C/export.page:11(email) C/times.page:12(email) C/newgame.page:14(email)
+#: C/index.page:15(email) C/gameplay.page:13(email) C/score.page:12(email)
+#: C/multiplayer.page:12(email) C/history.page:10(email)
+#: C/difficulty.page:13(email) C/tips.page:13(email) C/pause.page:13(email)
+#: C/customgame.page:13(email)
+msgid "milo@ubuntu.com"
+msgstr "milo@ubuntu.com"
+
+#: C/export.page:14(p) C/times.page:15(p) C/newgame.page:17(p)
+#: C/index.page:18(p) C/gameplay.page:16(p) C/score.page:15(p)
+#: C/multiplayer.page:15(p) C/history.page:13(p) C/difficulty.page:16(p)
+#: C/tips.page:16(p) C/pause.page:16(p) C/gametypes.page:12(p)
+#: C/customgame.page:16(p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr ""
+
+#: C/export.page:20(title)
+msgid "Export the games"
+msgstr "Voer die speletjies uit"
+
+#: C/export.page:21(p)
+msgid ""
+"It is possible to export and then print the games provided by the app for "
+"playing while not at the computer."
+msgstr ""
+"Dit is moontlik om speletjies in die program uit te voer en te druk om te "
+"speel as mens nie by die rekenaar is nie."
+
+#: C/export.page:25(p)
+msgid ""
+"The games will be saved in a <file>PDF</file> file in the selected folder."
+msgstr ""
+"Die speletjies sal in 'n <file>PDF</file>-lêer gestoor word in die gekose "
+"gids."
+
+#: C/export.page:28(p)
+msgid "To export the games:"
+msgstr "Om speletjies uit te voer:"
+
+#: C/export.page:33(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Export "
+"Games to PDF for Off-Line Playing</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Spel</gui><gui style=\"menuitem\">Voer "
+"speletjies uit as PDF om vanlyn te speel</gui></guiseq>."
+
+#: C/export.page:38(p)
+msgid ""
+"Select the type of games, the difficulty level, and how many games to "
+"export. When done click <gui style=\"button\">Save</gui>."
+msgstr ""
+"Kies die tipe speletjies, die moeilikheidsgraad, en hoeveel speletjies om "
+"uit te voer. Klik <gui style=\"button\">Stoor</gui> wanneer u klaar is."
+
+#: C/times.page:7(desc)
+msgid "Change the challenge presentation time in memory games."
+msgstr "Wysig die uitdaging se voorstellingstyd in geheue."
+
+#: C/times.page:19(title)
+msgid "Change the challenge duration"
+msgstr "Wysig die uitdagingstyd"
+
+#: C/times.page:20(p)
+msgid ""
+"To change the number of seconds you are given to memorize the challenge when "
+"playing memory games, proceed as follows:"
+msgstr ""
+"Om die aantal sekondes te wysig wat gegee word om die uitdaging te "
+"memoriseer in geheuespeletjies, maak soos volg:"
+
+#: C/times.page:26(p) C/difficulty.page:26(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem"
+"\">Preferences</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Instellings</gui><gui style=\"menuitem"
+"\">Voorkeure</gui></guiseq>."
+
+#: C/times.page:31(p)
+msgid ""
+"In the <gui>Memory Games</gui> section, use the spin box to increase or "
+"decrease the number of seconds that the challenge will be visible for."
+msgstr ""
+"In die <gui>Geheuespeletjies</gui>-afdeling, gebruik die spinknoppie om die "
+"aantal sekondes wat die uitdaging sigbaar sal wees, te vermeerder of "
+"verminder."
+
+#: C/times.page:35(p)
+msgid "The default value is 6 seconds."
+msgstr "Die verstekwaarde is 6 sekondes."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:57(None)
+msgid "@@image: 'figures/all-games.png'; md5=b9b2464dfdb280d8de79b921e03a4705"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:76(None) C/gametypes.page:36(None)
+msgid ""
+"@@image: 'figures/logic-games.png'; md5=2679be12956397b6337da869bdbee82d"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:95(None) C/gametypes.page:57(None)
+msgid "@@image: 'figures/math-games.png'; md5=208d189bcd6246b40e3dff184a5d5698"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:114(None) C/gametypes.page:78(None)
+msgid ""
+"@@image: 'figures/memory-games.png'; md5=2747c731e0a757a98a91c8e141748c75"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/newgame.page:133(None) C/gametypes.page:98(None)
+msgid ""
+"@@image: 'figures/verbal-games.png'; md5=6559e8d03907794b9983c5501df1aed2"
+msgstr ""
+
+#: C/newgame.page:6(title)
+msgid "1"
+msgstr "1"
+
+#: C/newgame.page:9(desc)
+msgid "Start and play a game."
+msgstr "Begin en speel 'n speletjie."
+
+#: C/newgame.page:21(title)
+msgid "Game session"
+msgstr "Spelsessie"
+
+#: C/newgame.page:24(title)
+msgid "Start a new session"
+msgstr "Begin 'n nuwe sessie"
+
+#: C/newgame.page:25(p)
+msgid "To start a new game, do one of the following:"
+msgstr "Om 'n nuwe speletjie te begin, doen een van die volgende:"
+
+#: C/newgame.page:30(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui></guiseq>, and select the type of game to play."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Spel</gui><gui style=\"menuitem\">Nuwe "
+"spel</gui></guiseq>, en kies die tipe speletjie om te speel."
+
+#: C/newgame.page:36(p)
+msgid "Click on one of the buttons in the toolbar."
+msgstr "Klik op een van die knoppies in die nutsbalk."
+
+#: C/newgame.page:41(p)
+msgid "The toolbar buttons have the following meanings:"
+msgstr "Die nutsbalkknoppies het die volgende betekenisse:"
+
+#: C/newgame.page:49(title)
+msgid "All"
+msgstr "Alle"
+
+#: C/newgame.page:50(p)
+msgid "Starts a new game playing all the available game types."
+msgstr "Begin 'n nuwe speletjie wat al die beskikbare speltipes bevat."
+
+#: C/newgame.page:58(p)
+msgid "All games button"
+msgstr "Al die spelknoppies"
+
+#: C/newgame.page:68(title)
+msgid "Logic"
+msgstr "Logika"
+
+#: C/newgame.page:69(p)
+msgid "Start a new game playing only logic games."
+msgstr "Begin 'n nuwe speletjie wat slegs die logikaspeletjies bevat."
+
+#: C/newgame.page:77(p)
+msgid "Logic games button"
+msgstr "Logikaspelknoppie"
+
+#: C/newgame.page:87(title)
+msgid "Calculation"
+msgstr "Berekening"
+
+#: C/newgame.page:88(p)
+msgid "Starts a new game playing only calculation games."
+msgstr "Begin 'n nuwe speletjie wat slegs die berekeningspeletjies bevat."
+
+#: C/newgame.page:96(p)
+msgid "Calculation games button"
+msgstr "Berekeningspelknoppie"
+
+#: C/newgame.page:106(title)
+msgid "Memory"
+msgstr "Geheue"
+
+#: C/newgame.page:107(p)
+msgid "Starts a new game playing only memory games."
+msgstr "Begin 'n nuwe speletjie wat slegs die geheuespeletjies bevat."
+
+#: C/newgame.page:115(p)
+msgid "Memory games button"
+msgstr "Geheuespelknoppie"
+
+#: C/newgame.page:125(title)
+msgid "Verbal"
+msgstr "Verbaal"
+
+#: C/newgame.page:126(p)
+msgid "Starts a new game playing only verbal analogy games."
+msgstr "Begin 'n nuwe speletjie wat slegs die verbale analogieë bevat."
+
+#: C/newgame.page:134(p)
+msgid "Verbal games button"
+msgstr "Verbalespelknoppie"
+
+#: C/newgame.page:142(p)
+msgid ""
+"These descriptions also apply to the game types that you can select from the "
+"<gui style=\"menu\">Game</gui> menu."
+msgstr ""
+"Hierdie beskrywings is ook van toepassing op die speltipes wat gekies kan "
+"word van die <gui style=\"menu\">Spel</gui>-kieslys."
+
+#: C/newgame.page:149(title)
+msgid "Play a session"
+msgstr "Speel 'n sessie"
+
+#: C/newgame.page:151(p)
+msgid "When you play a game, always read the instructions carefully!"
+msgstr "Wanneer u 'n speletjie speel, lees altyd die instruksies sorgvuldig!"
+
+#: C/newgame.page:155(p)
+msgid ""
+"The game session begins by showing you the problem and then asking for the "
+"answer. At the bottom of the window is the main set of controls that you can "
+"use to interact with the game."
+msgstr ""
+"Die spelsessie begin deur 'n probleem te wys en dan vir 'n antwoord te vra. "
+"Aan die onderkant van die venster is die hoofstel kontroles wat gebruik kan "
+"word vir interaksie met die speletjie."
+
+#: C/newgame.page:159(p)
+msgid ""
+"Once you know the answer to the problem, type it in the <gui style=\"input"
+"\">Answer</gui> text entry and press <gui style=\"button\">OK</gui>."
+msgstr ""
+"Sodra u die antwoord op die probleem het, tik dit in die <gui style=\"input"
+"\">Antwoord</gui> teksinskrywing en druk <gui style=\"button\">OK</gui>."
+
+#: C/newgame.page:163(p)
+msgid "To proceed to the next game, click <gui style=\"button\">Next</gui>."
+msgstr ""
+"Om voort te gaan na die volgende speletjie, klik <gui style=\"button"
+"\">Volgende</gui>."
+
+#: C/newgame.page:167(p)
+msgid ""
+"If you click <gui style=\"button\">Next</gui> before completing the game, or "
+"without providing an answer, that game will be counted in your results."
+msgstr ""
+"Wanneer <gui style=\"button\">Volgende</gui> geklik word voor die speletjie "
+"voltooi is, of sonder om 'n antwoord te verskaf, sal daardie spel getel word "
+"as deel van die resultate."
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: C/index.page:23(None)
+msgid "@@image: 'figures/gbrainy.png'; md5=d3b523ab1c8d00d00560d3f036d681bb"
+msgstr ""
+
+#: C/index.page:7(title) C/index.page:8(title) C/index.page:11(title)
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: C/index.page:12(desc)
+msgid "The <app>gbrainy</app> help."
+msgstr "Die <app>gbrainy</app>-hulp."
+
+#: C/index.page:22(title)
+msgid ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy "
+"logo</media> gbrainy"
+msgstr ""
+"<media type=\"image\" mime=\"image/png\" src=\"figures/gbrainy.png\">gbrainy-"
+"embleem</media> gbrainy"
+
+#: C/index.page:28(title)
+msgid "Basic Gameplay &amp; Usage"
+msgstr "Basiese spel en gebruik"
+
+#: C/index.page:32(title)
+msgid "Multiplayer Game"
+msgstr "Spel met veelvuldige spelers"
+
+#: C/index.page:36(title)
+msgid "Tips &amp; Tricks"
+msgstr "Wenke"
+
+#: C/gameplay.page:7(desc)
+msgid "Introduction to <app>gbrainy</app>."
+msgstr "Inleiding tot <app>gbrainy</app>."
+
+#: C/gameplay.page:20(title)
+msgid "Gameplay"
+msgstr "Spel"
+
+#: C/gameplay.page:22(p)
+msgid ""
+"<app>gbrainy</app> is a brain teaser game; the aim of the game is to have "
+"fun and keep your brain trained."
+msgstr ""
+"<app>gbrainy</app> is 'n kopkrapspeletjie; die doel van die speletjie is om "
+"pret te hê en die brein fiks te hou."
+
+#: C/gameplay.page:26(p)
+msgid ""
+"It features different game types like logic puzzles, mental calculation "
+"games, memory trainers and verbal analogies, designed to test different "
+"cognitive skills."
+msgstr ""
+"Dit bevat verskillende speltipes soos logikaraaisels, hoofrekenespeletjies, "
+"geheuebreiers en verbale analogieë - ontwerp om verskillende kognitiewe "
+"vaardighede te toets."
+
+#: C/gameplay.page:30(p)
+msgid ""
+"You can choose different difficulty levels making <app>gbrainy</app> "
+"enjoyable for kids, adults or senior citizens. It also features a game "
+"history, personal records, tips and fullscreen mode support. <app>gbrainy</"
+"app> can also be <link href=\"http://live.gnome.org/gbrainy/Extending"
+"\">extended</link> easily with new games developed by third parties."
+msgstr ""
+"Verskillende moeilikheidsvlakke kan gekies word om <app>gbrainy</app> vir "
+"kinders, volwassenes en senior burgers prettig te maak. Dit het ook 'n "
+"spelgeskiedenis, persoonlike rekords, wenke en 'n volskermmodus. "
+"<app>gbrainy</app> kan ook maklik <link href=\"http://live.gnome.org/gbrainy/"
+"Extending\">uitgebrei</link> word met nuwe speletjies."
+
+#: C/gameplay.page:37(p)
+msgid ""
+"<app>gbrainy</app> relies heavily on the work of previous puzzle masters, "
+"ranging from classic puzzles from ancient times to more recent works like "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels'</"
+"link> puzzles or the classic <link href=\"http://en.wikipedia.org/wiki/Dr."
+"_Brain\">Dr. Brain</link> game."
+msgstr ""
+"<app>gbrainy</app> is afhanklik van die werk van vorige raaiselmeesters. Dit "
+"strek van klassieke raaisels van antieke tye tot meer onlangse werk soos "
+"<link href=\"http://en.wikipedia.org/wiki/Terry_Stickels\">Terry Stickels</"
+"link> se raaisels oor die klassieke <link href=\"http://en.wikipedia.org/"
+"wiki/Dr._Brain\">Dr. Brain</link>-speletjie."
+
+#: C/gameplay.page:45(p)
+msgid ""
+"There have been recent discussions in the scientific community regarding "
+"whether brain training software improves cognitive performance. Most of the "
+"studies show that there is little or no improvement, but that doesn't mean "
+"you can't have a good time playing games like <app>gbrainy</app>!"
+msgstr ""
+"Daar is onlangse besprekings in die wetenskapsgemeenskap oor of "
+"breinoefeningsagteware kognitiewe vermoëns verbeter. Meeste van die studies "
+"bewys dat daar min of geen verbetering is nie, maar dit beteken nie dat mens "
+"nie pret kan hê met die speel van speletjies soos <app>gbrainy</app> nie!"
+
+#: C/score.page:8(desc)
+msgid "How the player scores are calculated."
+msgstr "Hoe die speler se punte bereken word."
+
+#: C/score.page:19(title)
+msgid "Game score and timings"
+msgstr "Speltelling en tydsberekening"
+
+#: C/score.page:20(p)
+msgid "If you answer a puzzle incorrectly, you will not get any score for it."
+msgstr ""
+"Indien 'n raaisel verkeerd geantwoord word, sal geen punte toegeken word "
+"daarvoor nie."
+
+#: C/score.page:23(p)
+msgid ""
+"If you answer a puzzle correctly, you will get a score which depends on the "
+"time taken to resolve the problem and whether you used the tip during the "
+"game."
+msgstr ""
+"Indien 'n raaisel korrek geantwoord word, sal 'n punt toegeken word wat "
+"afhang van die tyd wat dit geneem het om die probleem op te los en of 'n "
+"wenk gebruik is tydens die speletjie."
+
+#: C/score.page:27(p)
+msgid ""
+"The following table summarizes the different game durations (in seconds) "
+"based on the difficulty level."
+msgstr ""
+"Die volgende tabel som die verskillende speletjies se tydsduur op (in "
+"sekondes) gebaseer op die moeilikheidsgraad."
+
+#: C/score.page:34(p)
+msgid "Easy"
+msgstr "Maklik"
+
+#: C/score.page:35(p)
+msgid "Medium"
+msgstr "Medium"
+
+#: C/score.page:36(p)
+msgid "Master"
+msgstr "Meester"
+
+#: C/score.page:39(p) C/gametypes.page:26(title)
+msgid "Logic puzzles"
+msgstr "Logikaraaisels"
+
+#: C/score.page:40(p)
+msgid "156"
+msgstr "156"
+
+#: C/score.page:41(p)
+msgid "120"
+msgstr "120"
+
+#: C/score.page:42(p)
+msgid "110"
+msgstr "110"
+
+#: C/score.page:45(p)
+msgid "Mental calculation"
+msgstr "Hoofrekene"
+
+#: C/score.page:46(p)
+msgid "78"
+msgstr "78"
+
+#: C/score.page:47(p)
+msgid "60"
+msgstr "60"
+
+#: C/score.page:48(p)
+msgid "55"
+msgstr "55"
+
+#: C/score.page:51(p) C/gametypes.page:68(title)
+msgid "Memory trainers"
+msgstr "Geheuebreiers"
+
+#: C/score.page:52(p) C/score.page:58(p)
+msgid "39"
+msgstr "39"
+
+#: C/score.page:53(p) C/score.page:59(p)
+msgid "30"
+msgstr "30"
+
+#: C/score.page:54(p) C/score.page:60(p)
+msgid "27"
+msgstr "27"
+
+#: C/score.page:57(p) C/gametypes.page:89(title)
+msgid "Verbal analogies"
+msgstr "Verbale analogieë"
+
+#: C/score.page:63(p)
+msgid ""
+"With the expected time for the chosen difficulty level and the time you take "
+"to complete the game, the following logic is applied:"
+msgstr ""
+"Met die verwagte tyd vir die gekose moeilikheidsgraad en die tyd wat dit "
+"geneem het om die speletjie te voltooi, word die volgende reëls toegepas:"
+
+#: C/score.page:69(p)
+msgid ""
+"If you take less than the time expected to complete the game, you score 10 "
+"points."
+msgstr ""
+"Indien dit minder as die verwagte tyd geneem het om die speletjie te "
+"voltooi, word 10 punte toegeken."
+
+#: C/score.page:74(p)
+msgid ""
+"If you take more than the time expected to complete the game, you score 8 "
+"points."
+msgstr ""
+"Indien dit langer geneem het as die verwagte tyd om die speletjie te "
+"voltooi, word 8 punte toegeken."
+
+#: C/score.page:79(p)
+msgid ""
+"If you take more than 2x the time expected to complete the game, you score 7 "
+"points."
+msgstr ""
+"Indien dit meer as 2x die verwagte tyd geneem het om die speletjie te "
+"voltooi, word 7 punte toegeken."
+
+#: C/score.page:85(p)
+msgid ""
+"If you take more than 3x the time expected to complete the game, you score 6 "
+"points."
+msgstr ""
+"Indien dit meer as 3x die verwagte tyd geneem het om die speletjie te "
+"voltooi, word 6 punte toegeken."
+
+#: C/score.page:91(p)
+msgid "If you use a tip, you score only the 80% of the original score."
+msgstr ""
+"Indien 'n wenk aangevra word, word slegs 80% van die oorspronklike punte "
+"toegeken."
+
+#: C/score.page:98(title)
+msgid "Computing the totals"
+msgstr "Berekening van die totale"
+
+#: C/score.page:99(p)
+msgid ""
+"<app>gbrainy</app> keeps track of the different games types played. To "
+"compute the final score of every set of game types it sums all the results "
+"of the same game types played and then applies a factor based on: the "
+"logarithm of 10 for the easy level; on the logarithm of 20 for the medium "
+"level; and on the logarithm of 30 for the master level."
+msgstr ""
+"<app>gbrainy</app> hou tred met die verskillende speltipes wat gespeel word. "
+"Om die finale punte van elke stel speltipes te bereken, word al die "
+"resultate van dieselfde speltipe wat gespeel is bymekaar getel en 'n faktor "
+"daarop toegepas wat gebaseer is op: die logaritme van 10 vir die maklike "
+"vlak; die logaritme van 20 vir die medium vlak en die logaritme van 30 vir "
+"die meestersvlak."
+
+#: C/score.page:106(p)
+msgid ""
+"This means that when playing at medium difficulty level, to get a score of "
+"100 points you need to score 10 points on at least 20 games of every game "
+"type played."
+msgstr ""
+"Dit beteken dat wanneer 'n speletjie op die medium vlak gespeel word, 10 "
+"punte met ten minste 20 speletjies van elke speltipe verkry moet word om 100 "
+"punte te kan kry."
+
+#: C/score.page:110(p)
+msgid ""
+"This may sound challenging, but it allows players to compare game scores "
+"from different sessions (in the player's game history) and allows better "
+"tracking of the progression of the player through all of the games played."
+msgstr ""
+"Dit kan soos 'n uitdaging klink, maar dit laat spelers toe om die tellings "
+"van verskillende sessies (in die speler se spelgeskiedenis) te vergelyk. Dit "
+"maak die naspeur van die speler se vordering in al die speletjies wat "
+"gespeel is makliker."
+
+#: C/multiplayer.page:7(desc)
+msgid "How to play with other people."
+msgstr "Hoe om saam met ander mense te speel."
+
+#: C/multiplayer.page:19(title)
+msgid "Play with other people"
+msgstr "Speel met ander mense"
+
+#: C/multiplayer.page:21(p)
+msgid ""
+"It is not possible to play against other people over the Internet or a local "
+"network with <app>gbrainy</app>."
+msgstr ""
+"Dit is nie moontlik om teen ander mense oor die Internet of 'n plaaslike "
+"netwerk met <app>gbrainy</app> te speel nie."
+
+#: C/history.page:6(desc)
+msgid "Access your personal game history."
+msgstr "Verkry toegang tot u persoonlike spelgeskiedenis."
+
+#: C/history.page:17(title)
+msgid "Personal game history"
+msgstr "Persoonlike spelgeskiedenis"
+
+#: C/history.page:19(p)
+msgid ""
+"The <gui>Player's Game History</gui> dialog shows your performance in every "
+"game type during the last few game sessions."
+msgstr ""
+"Die <gui>Speler se spelgeskiedenis</gui>-dialoog wys die prestasies van elke "
+"speltipe gedurende die laaste paar spelsessies."
+
+#: C/history.page:25(title)
+msgid "View the games history"
+msgstr "Bekyk die spelgeskiedenis"
+
+#: C/history.page:26(p)
+msgid ""
+"To access your personal game history, choose <guiseq><gui style=\"menu"
+"\">View</gui><gui style=\"menuitem\">Player's Game History</gui></guiseq>."
+msgstr ""
+"Om toegang tot u persoonlike spelgeskiedenis te verkry, kies <guiseq><gui "
+"style=\"menu\">Bekyk</gui><gui style=\"menuitem\">Speler se spelgeskiedenis</"
+"gui></guiseq>."
+
+#: C/history.page:33(title)
+msgid "Select which results to show"
+msgstr "Kies watter resultate moet gewys word"
+
+#: C/history.page:34(p)
+msgid ""
+"To select the results that will be shown in the graphic, use the different "
+"check boxes located under the graph."
+msgstr ""
+"Om die resultate wat in die grafiek gewys moet word te kies, gebruik die "
+"verskillende merkblokkies onder die grafiek."
+
+#: C/history.page:41(title)
+msgid "Change the number of saved games"
+msgstr "Wysig die aantal gestoorde speletjies"
+
+#: C/history.page:42(p)
+msgid ""
+"<app>gbrainy</app> saves the player's scores so it can track how they evolve."
+msgstr ""
+"<app>gbrainy</app> stoor die speler se tellings sodat die vordering dopgehou "
+"kan word."
+
+#: C/history.page:45(p)
+msgid ""
+"In order to change the number of sessions recorded or how many games will be "
+"stored in the history, proceed as follows:"
+msgstr ""
+"Om te verander aan die aantal sessies wat gerekordeer word of hoeveel "
+"speletjies in die geskiedenis gestoor moet word, maak soos volg:"
+
+#: C/history.page:51(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Settings</gui><gui style=\"menuitem\"> "
+"Preferences</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Instellings</gui><gui style=\"menuitem\"> "
+"Voorkeure</gui></guiseq>."
+
+#: C/history.page:57(p)
+msgid "In the <gui>Player's Game History</gui> section:"
+msgstr "In die <gui>Speler se spelgeskiedenis</gui>-afdeling:"
+
+#: C/history.page:62(p)
+msgid ""
+"Use the first spin box to change how many game sessions need to be recorded "
+"before you can start to see the results in the history graphic."
+msgstr ""
+"Gebruik die eerste spinknoppie om te verander aan die aantal spelsessies wat "
+"gerekordeer moet word voordat die resultate in die geskiedenisgrafiek gesien "
+"kan word."
+
+#: C/history.page:68(p)
+msgid ""
+"Use the second spin box to change how many game sessions will be shown in "
+"the history graphic."
+msgstr ""
+"Gebruik die tweede spinknoppie om die aantal spelsessies wat in die "
+"geskiedenisgrafiek gewys gaan word te verander."
+
+#: C/difficulty.page:6(title)
+msgid "2"
+msgstr "2"
+
+#: C/difficulty.page:8(desc)
+msgid "Change the difficulty level of the games."
+msgstr "Verander die moeilikheidsgraad van die speletjies."
+
+#: C/difficulty.page:20(title)
+msgid "Difficulty levels"
+msgstr "Moeilikheidsgrade"
+
+#: C/difficulty.page:21(p)
+msgid "To change the difficulty level of the game, proceed as follows:"
+msgstr "Om die moeilikheidsgraad van die speletjie te verander, maak as volg:"
+
+#: C/difficulty.page:31(p)
+msgid "In the <gui>Difficulty Level</gui> section, select the desired level."
+msgstr "In die <gui>Moeilikheidsgraad</gui>-afdeling, kies die verlangde vlak."
+
+#: C/difficulty.page:34(p)
+msgid ""
+"You can choose from three different levels: <gui style=\"radiobutton\">Easy</"
+"gui>, <gui style=\"radiobutton\">Medium</gui>, and <gui style=\"radiobutton"
+"\">Master</gui>. The default level is <gui style=\"radiobutton\">Medium</"
+"gui>."
+msgstr ""
+"Daar kan gekies word van drie verskillende vlakke: <gui style=\"radiobutton"
+"\">Maklik</gui>, <gui style=\"radiobutton\">Medium</gui>, en <gui style="
+"\"radiobutton\">Meester</gui>. Die verstekvlak is <gui style=\"radiobutton"
+"\">Medium</gui>."
+
+#: C/tips.page:8(desc)
+msgid "Use the tips to solve a puzzle."
+msgstr "Gebruik die wenke om 'n raaisel op te los."
+
+#: C/tips.page:20(title)
+msgid "Tips"
+msgstr "Wenke"
+
+#: C/tips.page:21(p)
+msgid ""
+"With some of the games you can play, it is possible to get simple tips that "
+"can help you to solve the problem."
+msgstr ""
+"Met sommige van die speletjies is dit moontlik om eenvoudige wenke te kry "
+"wat kan help om die probleem op te los."
+
+#: C/tips.page:25(p)
+msgid ""
+"When playing a game, click on the <gui style=\"button\">Tip</gui> button at "
+"the bottom of the window (next to the <gui style=\"input\">Answer</gui> text "
+"entry)."
+msgstr ""
+"Wanneer 'n speletjie gespeel word, klik op die <gui style=\"button\">Wenk</"
+"gui>-knoppie aan die onderkant van die venster (langs die <gui style=\"input"
+"\">Antwoord</gui>-teksinskrywing)."
+
+#: C/tips.page:29(p)
+msgid "This feature is not available for some of the games."
+msgstr "Hierdie funksie is nie beskikbaar vir sommige van die speletjies nie."
+
+#: C/pause.page:6(title)
+msgid "4"
+msgstr "4"
+
+#: C/pause.page:9(desc)
+msgid "How to pause or end a game."
+msgstr "Hoe om 'n speletjie tydelik te stop, of te beëindig."
+
+#: C/pause.page:20(title)
+msgid "Pause/End a game"
+msgstr "Stop tydelik/Beëindig speletjie"
+
+#: C/pause.page:23(title)
+msgid "Pause and resume a game"
+msgstr "Stop tydelik en hervat 'n speletjie"
+
+#: C/pause.page:24(p)
+msgid ""
+"To pause a game so that you can resume it at the same point at a later time, "
+"perform one of the following:"
+msgstr ""
+"Om 'n speletjie tydelik te stop sodat dit later op dieselfde plek hervat kan "
+"word, doen een van die volgende:"
+
+#: C/pause.page:30(p) C/pause.page:45(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">Pause "
+"Game</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Spel</gui><gui style=\"menuitem\">Stop spel "
+"tydelik</gui></guiseq>."
+
+#: C/pause.page:35(p)
+msgid "Click on the <gui style=\"button\">Pause</gui> button in the toolbar."
+msgstr ""
+"Klik op die <gui style=\"button\">Stop tydelik</gui>-knoppie in die nutsbalk."
+
+#: C/pause.page:40(p)
+msgid ""
+"In order to resume the game after you paused it, perform one of the "
+"following:"
+msgstr ""
+"Om die spel weer te hervat nadat dit tydelik gestop is, doen een van die "
+"volgende:"
+
+#: C/pause.page:50(p)
+msgid "Click on the <gui style=\"button\">Resume</gui> button in the toolbar."
+msgstr ""
+"Klik op die <gui style=\"button\">Gaan voort</gui>-knoppie in die nutsbalk."
+
+#: C/pause.page:58(title)
+msgid "End a game"
+msgstr "Beëindig 'n speletjie"
+
+#: C/pause.page:59(p)
+msgid "To end a game, perform one of the following:"
+msgstr "Om 'n speletjie te beëindig, doen een van die volgende:"
+
+#: C/pause.page:64(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">End "
+"Game</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Spel</gui><gui style=\"menuitem\">Beëindig "
+"spel</gui></guiseq>."
+
+#: C/pause.page:69(p)
+msgid "Click on the <gui style=\"button\">End</gui> button in the toolbar."
+msgstr "Klik op die <gui style=\"button\">Einde</gui>-knoppie in die nutsbalk."
+
+#: C/license.page:8(desc)
+msgid "Legal information."
+msgstr "Wetlike inligting."
+
+#: C/license.page:11(title)
+msgid "License"
+msgstr "Lisensie"
+
+#: C/license.page:12(p)
+#, fuzzy
+msgid ""
+"This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 "
+"Unported license."
+msgstr ""
+"Hierdie werk is versprei onder 'n CreativeCommons Attribution-Share Alike "
+"3.0 Unported lisensie."
+
+#: C/license.page:18(p)
+#, fuzzy
+msgid "You are free:"
+msgstr "U is vry om die werk te:"
+
+#: C/license.page:23(em)
+#, fuzzy
+msgid "To share"
+msgstr "Deel"
+
+#: C/license.page:24(p)
+#, fuzzy
+msgid "To copy, distribute and transmit the work."
+msgstr "Kopieer, versprei en oor te dra."
+
+#: C/license.page:27(em)
+#, fuzzy
+msgid "To remix"
+msgstr "Hervermeng"
+
+#: C/license.page:28(p)
+#, fuzzy
+msgid "To adapt the work."
+msgstr "Aan te pas."
+
+#: C/license.page:31(p)
+#, fuzzy
+msgid "Under the following conditions:"
+msgstr "Ingevolge die volgende bepalings:"
+
+#: C/license.page:36(em)
+#, fuzzy
+msgid "Attribution"
+msgstr "Erkenning"
+
+#: C/license.page:37(p)
+#, fuzzy
+msgid ""
+"You must attribute the work in the manner specified by the author or "
+"licensor (but not in any way that suggests that they endorse you or your use "
+"of the work)."
+msgstr ""
+"Erkenning van die werk moet gegee word op die manier gespesifiseer deur die "
+"outeur of lisensiehouer (maar nie sodanig dat dit daarop dui dat hulle u of "
+"u gebruik van die werk onderskryf nie)."
+
+#: C/license.page:44(em)
+#, fuzzy
+msgid "Share Alike"
+msgstr "Insgelyks deel"
+
+#: C/license.page:45(p)
+#, fuzzy
+msgid ""
+"If you alter, transform, or build upon this work, you may distribute the "
+"resulting work only under the same, similar or a compatible license."
+msgstr ""
+"Indien u die werk verander, transformeer of uitbrei, mag u dit herversprei, "
+"maar slegs onder dieselfde, soortgelyke of 'n verenigbare lisensie."
+
+#: C/license.page:51(p)
+#, fuzzy
+msgid ""
+"For the full text of the license, see the <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</"
+"link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Commons Deed</link>."
+msgstr ""
+"Vir die volledige teks van die lisensie, kyk na <link "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/legalcode"
+"\">CreativeCommons-webwerf</link>, of lees die volledige <link "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Commons-akte</link>."
+
+#: C/gametypes.page:5(title)
+msgid "3"
+msgstr "3"
+
+#: C/gametypes.page:6(desc)
+msgid "What types of game you can play."
+msgstr "Watter tipes speletjies gespeel kan word."
+
+#: C/gametypes.page:15(title)
+msgid "Game types"
+msgstr "Speltipes"
+
+#: C/gametypes.page:17(p)
+msgid "<app>gbrainy</app> provides the following types of games:"
+msgstr "<app>gbrainy</app> voorsien die volgende tipes speletjies:"
+
+#: C/gametypes.page:27(p)
+msgid ""
+"Games designed to challenge your reasoning and thinking skills. These games "
+"are based on sequences of elements, visual and spatial reasoning or "
+"relationships between elements."
+msgstr ""
+"Speletjies ontwerp om u redenering- en denkvaardighede uit te daag. Hierdie "
+"speletjies is gebaseer op opeenvolging van elemente, visuele en ruimtelike "
+"redenering of verhoudings tussen elemente."
+
+#: C/gametypes.page:37(p)
+msgid "Logic games logo"
+msgstr "Logikaspeletjies-embleem"
+
+#: C/gametypes.page:47(title)
+msgid "Mental calculations"
+msgstr "Hoofrekene"
+
+#: C/gametypes.page:48(p)
+msgid ""
+"Games based on arithmetical operations designed to improve your mental "
+"calculation skills. Games that require the player to use multiplication, "
+"division, addition and subtraction combined in different ways."
+msgstr ""
+"Speletjies wat gebaseer is op wiskundige berekeninge wat ontwerp is om "
+"hoofrekene te verbeter. Speletjies wat vereis dat die speler maal, deel, "
+"optel en aftrek gekombineer op verskillende maniere."
+
+#: C/gametypes.page:58(p)
+msgid "Calculation games logo"
+msgstr "Berekeningspeletjies-embleem"
+
+#: C/gametypes.page:69(p)
+msgid ""
+"Games designed to challenge your short-term memory. These games show "
+"collections of objects and ask the player to recall them, sometimes "
+"establishing relationships between figures, words, numbers or colors."
+msgstr ""
+"Speletjies wat ontwerp is om korttermyngeheue uit te daag. Hierdie "
+"speletjies wys versamelings van voorwerpe en vra die speler om dit te "
+"herroep - soms deur verhoudings tussen figure, woorde, getalle of kleure vas "
+"te stel."
+
+#: C/gametypes.page:79(p)
+msgid "Memory games logo"
+msgstr "Geheuespeletjies-embleem"
+
+#: C/gametypes.page:90(p)
+msgid ""
+"Games that challenge your verbal aptitude. These games ask the player to "
+"identify cause and effect, use synonyms or antonyms, and use their "
+"vocabulary."
+msgstr ""
+"Speletjies wat verbale vermoëns uitdaag. Hierdie speletjies vra van die "
+"speler om oorsaak en gevolg te identifiseer, sinonieme en antonieme asook "
+"woordeskat te gebruik."
+
+#: C/gametypes.page:99(p)
+msgid "Verbal analogies games logo"
+msgstr "Verbale-analogieë-spelembleem"
+
+#: C/customgame.page:9(desc)
+msgid "Start a custom games selection."
+msgstr "Begin 'n eie spelseleksie."
+
+#: C/customgame.page:20(title)
+msgid "Custom games selection"
+msgstr "Eie spelseleksie"
+
+#: C/customgame.page:21(p)
+msgid ""
+"It is possible to play a custom selection of all the games in <app>gbrainy</"
+"app>."
+msgstr ""
+"Dit is moontlik om 'n pasmaakseleksie van al die speletjies in <app>gbrainy</"
+"app> te speel."
+
+#: C/customgame.page:24(p)
+msgid "To do so, proceed as follows:"
+msgstr "Om dit te doen, maak as volg:"
+
+#: C/customgame.page:29(p)
+msgid ""
+"Choose <guiseq><gui style=\"menu\">Game</gui><gui style=\"menuitem\">New "
+"Game</gui><gui style=\"menuitem\">Custom Game Selection</gui></guiseq>."
+msgstr ""
+"Kies <guiseq><gui style=\"menu\">Spel</gui><gui style=\"menuitem\">Nuwe "
+"spel</gui><gui style=\"menuitem\">Eie spelseleksie</gui></guiseq>."
+
+#: C/customgame.page:35(p)
+msgid ""
+"In the <gui>Custom Game</gui> dialog, select the games that you would like "
+"to play by clicking on the check box next to the name of the game."
+msgstr ""
+"In die <gui>Eie spelseleksie</gui>-dialoog, kies die speletjies wat u graag "
+"wil speel deur op die merkblokkies langs die name van die speletjie te klik."
+
+#: C/customgame.page:41(p)
+msgid ""
+"Once you are done, click on <gui style=\"button\">Start</gui> to start "
+"playing your custom games selection."
+msgstr ""
+"Sodra dit gedoen is, klik op <gui style=\"button\">Begin</gui> om u eie "
+"spelseleksie te begin speel."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: C/index.page:0(None)
+msgid "translator-credits"
+msgstr "Hermien Bos"
+
+#~ msgid "To stop a game, in order to end it, perform one of the following:"
+#~ msgstr ""
+#~ "Om 'n speletjie te stop om dit te beëindig, doen een van die volgende:"

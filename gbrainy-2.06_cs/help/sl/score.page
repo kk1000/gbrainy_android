@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="score" xml:lang="sl">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="history"/>
+    <desc>Kako so rezultati iger izračunani</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+    </license>
+  </info>
+
+  <title>Rezultati in časi iger</title>
+  <p>Če na uganko odgovorite napačno, zanjo ne boste dobile točk.</p>
+  <p>Če na uganko odgovorite pravilno, boste dobili točke, ki so odvisne od časa zahtevanega za rešitev uganke in od tega ali ste med igro uporabili namig.</p>
+  <p>Naslednja igra povzame trajanje različnih iger (v sekundah) na osnovi težavnostne ravni.</p>
+  <table frame="all" rules="all">
+    <tr>
+      <td><p/></td>
+      <td><p>Enostavno</p></td>
+      <td><p>Srednje</p></td>
+      <td><p>Mojster</p></td>
+    </tr>
+    <tr>
+      <td><p>Logične uganke</p></td>
+      <td><p>156</p></td>
+      <td><p>120</p></td>
+      <td><p>110</p></td>
+    </tr>
+    <tr>
+      <td><p>Miselni računi</p></td>
+      <td><p>78</p></td>
+      <td><p>60</p></td>
+      <td><p>55</p></td>
+    </tr>
+    <tr>
+      <td><p>Treningi pomnjenja</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+    <tr>
+      <td><p>Besedne analogije</p></td>
+      <td><p>39</p></td>
+      <td><p>30</p></td>
+      <td><p>27</p></td>
+    </tr>
+  </table>
+  <p>Za točkovanje je glede na pričakovani čas, ki je odvisen od izbrane težavnosti, in čas, ki ga potrebujete za dokončanje igre, uporabljena naslednja logika:</p>
+  <list>
+    <item>
+      <p>Če potrebujete za dokončanje igre manj od pričakovanega časa, dobite 10 točk.</p>
+    </item>
+    <item>
+      <p>Če potrebujete za dokončanje igre več od pričakovanega časa, dobite 8 točk.</p>
+    </item>
+    <item>
+      <p>Če potrebujete za dokončanje igre več kot 2x več  od pričakovanega časa, dobite 7 točk.</p>
+    </item>
+    <item>
+      <p>Če potrebujete za dokončanje igre več kot 3 x več od pričakovanega časa, dobite 6 točk.</p>
+    </item>
+    <item>
+      <p>Če uporabite namig, lahko dobite samo 80% izvirnega rezultata.</p>
+    </item>
+  </list>
+  
+  <section id="computing-scores">
+    <title>Izračunavanje skupne vrednosti</title>
+    <p><app>gbrainy</app> sledi različnim vrstam igranih iger. Za izračun končnega rezultata za vsak niz iger gbrainy sešteje vse rezultate iste vrste odigranih iger in nato uveljavi faktor glede na težavnost. Program uporabi logaritem na osnovi 10 za raven enostavno,  logaritem na osnovi 20 za srednjo in logaritem na osnovi 30 za raven mojster.</p>
+	  <p>
+	    This means that when playing at medium difficulty level, to get a score of 
+	    100 points you need to score 10 points on at least 20 games of every game type played.
+	  </p>
+	  <p>To se morda sliši težavno, vendar igralcu omogoča primerjavo rezultatov iger iz različnih sej (v igralčevi zgodovini iger) in omogoča boljše sledenje igralca skozi vse odigrane igre.</p>
+  </section>
+</page>

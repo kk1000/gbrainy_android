@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="times" xml:lang="af">
+      
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Wysig die uitdaging se voorstellingstyd in geheue.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-19" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Wysig die uitdagingstyd</title>
+  <p>Om die aantal sekondes te wysig wat gegee word om die uitdaging te memoriseer in geheuespeletjies, maak soos volg:</p>
+  <steps>
+    <item>
+      <p>Kies <guiseq><gui style="menu">Instellings</gui><gui style="menuitem">Voorkeure</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>In die <gui>Geheuespeletjies</gui>-afdeling, gebruik die spinknoppie om die aantal sekondes wat die uitdaging sigbaar sal wees, te vermeerder of verminder.</p>
+      <p>Die verstekwaarde is 6 sekondes.</p>
+    </item>
+  </steps>
+</page>

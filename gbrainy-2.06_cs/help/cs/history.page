@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="history" xml:lang="cs">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <desc>Jak si zobrazit historii svých her.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-22" status="draft"/>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+  <title>Osobní historie her</title>
+  
+  <p>Dialogové okno <gui>Seznam odehraných her</gui> zobrazuje váš výkon v jednotlivých typech her během několika posledních herních sezeních.</p>
+  
+  <section id="history-personal">
+    <title>Jak zobrazit historii her</title>
+    <p>Když se chcete podívat na svoji osobní historii her, zvolte <guiseq><gui style="menu">Zobrazit</gui><gui style="menuitem">Seznam odehraných her</gui></guiseq>.</p>
+  </section>
+  
+  <section id="history-change-graphic">
+    <title>Jak vybrat, které výsledky zobrazit</title>
+    <p>Pokud chcete vybrat, které výsledky se mají v grafu zobrazit, použijte zaškrtávací pole umístěná pod grafem.</p>
+  </section>
+  
+  <section id="history-save-prefs">
+    <title>Jak změnit počet uložených her</title>
+    <p>Aplikace <app>gbrainy</app> ukládá hráčovo hodnocení, takže je možné sledovat, jak se rozvíjel.</p>
+    <p>Abyste mohli změnit počet zaznamenaných her nebo množství her, které budou uchovány v historii, postupujte takto:</p>
+    <steps>
+      <item>
+        <p>Zvolte <guiseq><gui style="menu">Nastavení</gui><gui style="menuitem"> Předvolby</gui></guiseq>.</p>
+      </item>
+      <item>
+        <p>V části <gui>Historie her hráče</gui>:</p>
+        <list>
+          <item>
+            <p>První číselník použijte k nastavení, kolik her je potřeba zaznamenat, než se vám výsledky zobrazí v grafu historie.</p>
+          </item>
+          <item>
+            <p>Druhý číselník použijte ke změně množství herních sezení, která se mají zobrazit v grafu historie.</p>
+          </item>
+        </list>
+      </item>
+    </steps>
+  </section>
+</page>

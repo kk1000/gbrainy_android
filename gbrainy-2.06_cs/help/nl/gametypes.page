@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gametypes" xml:lang="nl">
+  <info>
+    <title type="sort">3</title>
+    <desc>De soorten spellen die u kunt spelen.</desc>
+    <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="gameplay"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-21" status="review"/>    
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+  <title>Spelsoorten</title>
+
+  <p><app>gbrainy</app> voorziet in de volgende soorten spellen:</p>
+  
+  <table frame="none" rules="none" shade="none">
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Logica-puzzels</title>
+          <p>Spellen ontworpen om uw cognitieve vaardigheden en denkvermogen op de proef te stellen. Deze spellen zijn gebaseerd op de volgorde van elementen, visueel en ruimtelijk inzicht, of relaties tussen elementen.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/logic-games.png">
+          <p>Logo logica-spellen</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Hoofdrekenen</title>
+          <p>Spellen gebaseerd op rekenkundige bewerkingen, ontworpen om uw hoofdrekenvaardigheden te verbeteren. Spellen waarin de speler op verschillende manieren een combinatie van vermenigvuldigen, delen, optellen en aftrekken moet doen.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/math-games.png">
+          <p>Logo rekenspellen</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Geheugentrainers</title>
+          <p>Spellen ontworpen om uw kortetermijngeheugen op de proef te stellen. Deze spellen tonen verzamelingen objecten die de speler moet onthouden, waarbij soms verbanden worden gelegd tussen figuren, woorden, getallen of kleuren.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/memory-games.png">
+          <p>Logo geheugenspellen</p>
+        </media>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <terms>
+        <item>
+          <title>Verbale analogieën</title>
+          <p>Spellen die uw verbale bekwaamheid op de proef stellen. In deze spellen wordt de speler gevraagd oorzaak en gevolg te herkennen, synoniemen en antoniemen te gebruiken en gebruik te maken van zijn/haar woordenschat.</p>
+        </item>
+      </terms>
+      </td>
+      <td>
+        <media type="image" mime="image/png" src="figures/verbal-games.png">
+          <p>Logo verbale analogieën</p>
+        </media>
+      </td>
+    </tr>
+  </table>
+</page>

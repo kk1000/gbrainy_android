@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="ro">
+      
+  <info>
+    <link type="guide" xref="index"/>
+    <desc>Introducere în <app>gbrainy</app>.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-21" status="review"/>
+    <revision pkgversion="2.30" version="0.1" date="2010-04-05" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  </info>
+
+  <title>Desfășurarea jocului</title>
+  
+  <p><app>gbrainy</app> este un joc de inteligență distractiv ce vă menține creierul antrenat.</p>
+  <p>Dispune de diferite tipuri de jocuri cum ar fi puzzle-uri logice, calcule mentale, jocuri de memorie și analogii verbale, concepute pentru a testa diferite abilități cognitive.</p>
+  <p>Puteți alege diferite niveluri de dificultate făcând ca <app>gbrainy</app> să fie plăcut pentru copii, adulți sau vârstnici. De asemenea, oferă o istorie a jocurilor, recorduri personale, sfaturi și suport pentru modul pe întreg ecranul. <app>gbrainy</app> poate fi, de asemenea, <link href="http://live.gnome.org/gbrainy/Extending">extins</link> ușor cu noi jocuri dezvoltate de terți.</p>
+  <p><app>gbrainy</app> se bazează foarte mult pe activitatea maeștrilor în jocuri de tip puzzle din trecut, puzzle-urile variind de la clasice la cele din cele mai vechi timpuri la lucrări mai recente cum ar fi cele ale lui <link href="http://en.wikipedia.org/wiki/Terry_Stickels">Terry Stickels</link> sau clasicul joc <link href="http://en.wikipedia.org/wiki/Dr._Brain">Dr. Brain</link>.</p>
+  <note>
+    <p>Au existat discuții recente în comunitatea științifică cu privire la dacă software-ul pentru antrenarea creierului îmbunătățește performanța cognitivă. Cele mai multe studii arată că este o mică sau nici o îmbunătățire, dar asta nu înseamnă că nu vă puteți distra în timp ce jucați jocuri ca <app>gbrainy</app>!</p>
+  </note>
+</page>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="difficulty" xml:lang="sl">
+      
+  <info>
+    <title type="sort">2</title>
+    <link type="guide" xref="index#play"/>
+    <desc>Sprememba težavnostne ravni iger.</desc>
+    <revision pkgversion="2.30" version="0.1" date="2010-01-10" status="draft"/>
+    <revision pkgversion="2.30" version="0.2" date="2010-01-20" status="review"/>
+   <credit type="author">
+    <name>Milo Casagrande</name>
+    <email>milo@ubuntu.com</email>
+   </credit>
+   <license>
+     <p>Dovoljenje Creative Commons -  deljenje pod istimi pogoji 3.0</p>
+   </license>
+  </info>
+
+  <title>Težavnostne ravni</title>
+  <p>Za spremembo težavnosti igre storite naslednje:</p>
+  <steps>
+    <item>
+      <p>Izberite <guiseq><gui style="menu">Nastavitve</gui><gui style="menuitem">Možnosti</gui></guiseq>.</p>
+    </item>
+    <item>
+      <p>V odseku <gui>Težavnostna raven</gui> izberite želeno raven.</p>
+      <p>Izberete lahko med tremi različnimi težavnostmi: <gui style="radiobutton">Enostavno</gui>, <gui style="radiobutton">Srednje</gui> in <gui style="radiobutton">Mojster</gui>. Privzeta težavnostna raven je <gui style="radiobutton">Srednje</gui>.</p>
+    </item>
+  </steps>
+</page>

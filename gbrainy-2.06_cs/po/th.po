@@ -1,0 +1,4222 @@
+# Thai translation of gbrainy.
+# Copyright (C) 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gbrainy package.
+# Sira Nokyoongtong <gumaraa@gmail.com>, 2010.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gbrainy\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gbrainy&component=general\n"
+"POT-Creation-Date: 2010-10-19 15:12+0000\n"
+"PO-Revision-Date: 2010-10-21 15:26+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../tools/GameXmlGetString.cs:29
+msgid ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minute?"
+msgid_plural ""
+"How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?"
+msgstr[0] "ในเวลา 2 ชั่วโมง [num] นาที เข็มยาวของนาฬิกาหมุนไปทั้งหมดกี่องศา?"
+
+#: ../tools/GameXmlGetString.cs:33
+msgid ""
+"John is 46 years old. His son is [difference] year younger than half of "
+"John's age. How old is John's son?"
+msgid_plural ""
+"John is 46 years old. His son is [difference] years younger than half of "
+"John's age. How old is John's son?"
+msgstr[0] ""
+"จอห์นอายุ 46 ปี ลูกชายของเขาอายุน้อยกว่าครึ่งหนึ่งของอายุของจอห์นอยู่ [difference] ปี "
+"ลูกชายของจอห์นอายุเท่าไร?"
+
+#: ../tools/GameXmlGetString.cs:37
+msgid ""
+"John's age is nowadays 2 times his son's age. [ago] year ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgid_plural ""
+"John's age is nowadays 2 times his son's age. [ago] years ago, John was "
+"[proportion] times older than his son. How old is John's son nowadays?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:41
+msgid ""
+"[ago] year ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgid_plural ""
+"[ago] years ago, John's age minus [ago] was equal to [proportion] times his "
+"son's age minus [ago]."
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:45
+msgid ""
+"A file is protected by a password formed by a [digits] digit number (ranging "
+"from 0 to 9). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits number "
+"(ranging from 0 to 9). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:49
+msgid ""
+"A file is protected by a password formed by a [digits] digit octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgid_plural ""
+"A file is protected by a password formed by a [digits] digits octal number "
+"(ranging from 0 to 7). How many different passwords can you have?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:53
+msgid ""
+"There is [games] tennis game played simultaneously. How many different "
+"forecasts are possible?"
+msgid_plural ""
+"There are [games] tennis games played simultaneously. How many different "
+"forecasts are possible?"
+msgstr[0] "มีการแข่งเทนนิส [games] คู่พร้อมๆ กัน ผลการแข่งขันเป็นไปได้ทั้งหมดกี่แบบ?"
+
+#: ../tools/GameXmlGetString.cs:57
+msgid ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] player?"
+msgid_plural ""
+"How many matches does it take to determine the winner of a tennis tournament "
+"that starts with [players] players?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:61
+msgid ""
+"You have [money] monetary unit in your bank account at 10% compound interest "
+"annually. How much money will you have at end of 2 years?"
+msgid_plural ""
+"You have [money] monetary units in your bank account at 10% compound "
+"interest annually. How much money will you have at end of 2 years?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:65 ../data/games.xml.h:21
+msgid ""
+"In a horse race there are people and horses. You can count [eyes] eye and "
+"[legs] leg. How many horses are present?"
+msgid_plural ""
+"In a horse race there are people and horses. You can count [eyes] eyes and "
+"[legs] legs. How many horses are present?"
+msgstr[0] ""
+
+#: ../tools/GameXmlGetString.cs:69 ../data/games.xml.h:34
+msgid "There are [men] people and [horses] horses."
+msgid_plural "There are [men] people and [horses] horses."
+msgstr[0] ""
+
+#: ../data/games.xml.h:1
+msgid ""
+"A lever is in equilibrium at distances reciprocally proportional to their "
+"weights."
+msgstr ""
+
+#: ../data/games.xml.h:2
+msgid ""
+"A palindromic number remains the same when its digits are reversed (e.g.: "
+"2112)."
+msgstr ""
+
+#: ../data/games.xml.h:3
+msgid "Age"
+msgstr "อายุ"
+
+#: ../data/games.xml.h:4
+msgid "Bank interest"
+msgstr ""
+
+#: ../data/games.xml.h:5
+msgid "Box"
+msgstr ""
+
+#: ../data/games.xml.h:6
+msgid "Boxes"
+msgstr ""
+
+#: ../data/games.xml.h:7
+msgid "Brothers and sisters"
+msgstr "น้องชายกับน้องสาว"
+
+#: ../data/games.xml.h:8
+msgid "Clock Rotation"
+msgstr "การหมุนของนาฬิกา"
+
+#: ../data/games.xml.h:9
+msgid ""
+"Compound interest is paid on the original amount and on the accumulated past "
+"interest."
+msgstr ""
+
+#: ../data/games.xml.h:10
+msgid ""
+"Consider the sentence attributed to Archimedes: give me a lever long enough "
+"and a place to stand, and I can move the Earth."
+msgstr ""
+
+#: ../data/games.xml.h:11
+msgid "Container"
+msgstr ""
+
+#: ../data/games.xml.h:12
+msgid "Dartboard"
+msgstr ""
+
+#: ../data/games.xml.h:13
+msgid ""
+"Every digit has 10 possibilities. The total number of possibilities is 10 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:14
+msgid ""
+"Every digit has 8 possibilities. The total number of possibilities is 8 at "
+"the power of [digits]."
+msgstr ""
+
+#: ../data/games.xml.h:15
+msgid ""
+"Every game is an independent event with 2 possible results. The total number "
+"of possibilities is 2 at the power of [games]."
+msgstr ""
+"ทุกๆ เกมเป็นเหตุการณ์ที่เป็นอิสระต่อกัน โดยมีผลลัพธ์ที่เป็นไปได้ 2 แบบ ดังนั้น "
+"ความเป็นไปได้ทั้งหมดจึงเป็น 2 ยกกำลัง [games] แบบ"
+
+#: ../data/games.xml.h:16
+msgid "Every hour rotates 360 degrees."
+msgstr "ทุกชั่วโมงเข็มยาวจะหมุนไป 360 องศา"
+
+#: ../data/games.xml.h:17
+msgid ""
+"From year 1000 to year 10000, palindrome years occur at 110 year intervals "
+"except for the end of each millennium that occur at a 11 years interval."
+msgstr ""
+
+#: ../data/games.xml.h:18
+msgid "Horse race"
+msgstr ""
+
+#: ../data/games.xml.h:19
+msgid ""
+"How many boxes measuring 1 x 1 x 0.5 can be packed into a container "
+"measuring 6 x 5 x [z]?"
+msgstr ""
+
+#: ../data/games.xml.h:20
+msgid ""
+"How much weight is need at the point indicated by the question mark to "
+"balance the lever?"
+msgstr ""
+
+#: ../data/games.xml.h:22
+msgid ""
+"In every match you eliminate one player, you need the total number of games "
+"minus 1 to find out the winner."
+msgstr ""
+
+#: ../data/games.xml.h:23
+msgid "It is the result of the operation [num_a] * [num_b]."
+msgstr "เป็นผลลัพธ์ของ [num_a] * [num_b]"
+
+#: ../data/games.xml.h:24
+msgid "It is the result of the operation [num_a] + [num_b]."
+msgstr "เป็นผลลัพธ์ของ [num_a] + [num_b]"
+
+#: ../data/games.xml.h:25
+msgid "It is the result of the operation [num_b] - [num_a]."
+msgstr "เป็นผลลัพธ์ของ [num_b] - [num_a]"
+
+#: ../data/games.xml.h:26
+msgid "It is the result of the operation [num_b] / [num_a]."
+msgstr "เป็นผลลัพธ์ของ [num_b] / [num_a]"
+
+#: ../data/games.xml.h:27
+msgid "Lever"
+msgstr ""
+
+#: ../data/games.xml.h:28
+msgid ""
+"On the dartboard below, where you have to hit the darts to add 120 points in "
+"5 throws? Answer using a list of numbers (e.g.: 4, 5, 6, 3, 2)"
+msgstr ""
+
+#: ../data/games.xml.h:29
+msgid ""
+"Out of [people] people, [brothers] have brothers, [sisters] have sisters and "
+"[both] have both. How many people have neither brothers nor sisters?"
+msgstr ""
+"จากคนทั้งหมด [people] คน มี [brothers] คนที่มีน้องชาย, [sisters] คนมีน้องสาว และ "
+"[both] คนมีทั้งน้องชายและน้องสาว มีคนกี่คนที่ไม่มีทั้งน้องชายและน้องสาว?"
+
+#: ../data/games.xml.h:30
+msgid "Palindromic years"
+msgstr ""
+
+#: ../data/games.xml.h:31
+msgid "Password"
+msgstr ""
+
+#: ../data/games.xml.h:32
+msgid "Simple equations"
+msgstr "สมการอย่างง่าย"
+
+#: ../data/games.xml.h:33
+msgid "Tennis game"
+msgstr "แข่งเทนนิส"
+
+#: ../data/games.xml.h:35
+msgid "What number divided by [num_a] equals [num_b]?"
+msgstr "เลขอะไรหารด้วย [num_a] แล้วได้ [num_b]?"
+
+#: ../data/games.xml.h:36
+msgid "What number minus [num_a] equals [num_b]?"
+msgstr "เลขอะไรลบ [num_a] แล้วได้ [num_b]?"
+
+#: ../data/games.xml.h:37
+msgid "What number multiplied by [num_a] equals [num_b]?"
+msgstr "เลขอะไรคูณด้วย [num_a] แล้วได้ [num_b]?"
+
+#: ../data/games.xml.h:38
+msgid "What number plus [num_a] equals [num_b]?"
+msgstr "เลขอะไรบวก [num_a] แล้วได้ [num_b]?"
+
+#: ../data/games.xml.h:39
+msgid "You can fit 6 * 5 * [z] * 2 boxes."
+msgstr ""
+
+#: ../data/games.xml.h:40
+msgid ""
+"[brothers_only] people have brothers only, [sisters_only] sisters only and "
+"[both] have sisters and brothers."
+msgstr ""
+"[brothers_only] คนมีแต่น้องชาย, [sisters_only] คนมีแต่น้องสาว และ [both] "
+"คนมีทั้งน้องชายและน้องสาว"
+
+#: ../data/games.xml.h:41
+msgid "[rslt_a] and [rslt_b]"
+msgstr ""
+
+#: ../data/games.xml.h:42
+msgid ""
+"[year_start] is a palindromic year as [year_end] is, a gap of 11 years. What "
+"are the next two consecutive palindromic years after [year_end] with the "
+"same gap?"
+msgstr ""
+
+#: ../data/games.xml.h:43
+msgid "x * [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:44
+msgid "x + [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:45
+msgid "x - [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/games.xml.h:46
+msgid "x / [num_a] = [num_b]"
+msgstr ""
+
+#: ../data/gbrainy.desktop.in.h:1
+msgid "Game"
+msgstr "เกม"
+
+#: ../data/gbrainy.desktop.in.h:2
+msgid ""
+"Play games that challenge your logic, verbal, calculation and memory "
+"abilities"
+msgstr "เล่นเกมท้าทายความสามารถทางตรรกะ ภาษา การคำนวณ และความจำของคุณ"
+
+#: ../data/gbrainy.desktop.in.h:3 ../src/Clients/Classical/gbrainy.ui.h:23
+msgid "gbrainy"
+msgstr "gbrainy"
+
+#: ../data/verbal_analogies.xml.h:1
+msgid "A car engine that is poorly designed and lacking of sophistication is?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:2
+msgid "A figure of speech that combines contradicting terms."
+msgstr "คำพูดที่เชื่อมโยงสิ่งที่ขัดแย้งกันเข้าด้วยกัน"
+
+#: ../data/verbal_analogies.xml.h:3
+msgid "A fish in an aquarium lives in captivity."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:4
+msgid "A pen is used to write and a fork is used to eat."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:5
+msgid "A person with excessive preoccupation for his health has?"
+msgstr "คนที่มีความวิตกกังวลเกี่ยวกับสุขภาพเกินกว่าเหตุเรียกว่ามีโรคอะไร?"
+
+#: ../data/verbal_analogies.xml.h:6
+msgid "A terrier is to a dog like a?"
+msgstr "terrier กับ dog เปรียบได้กับอะไร?"
+
+#: ../data/verbal_analogies.xml.h:7
+msgid "A turtle is inside a shell and a letter is inside an envelop."
+msgstr "เต่า (turtle) อยู่ในกระดอง (shell) และจดหมาย (letter) ก็อยู่ในซอง (envelop)"
+
+#: ../data/verbal_analogies.xml.h:8
+msgid "Abstinence"
+msgstr "Abstinence"
+
+#: ../data/verbal_analogies.xml.h:9
+msgid "Acrophobia"
+msgstr "Acrophobia"
+
+#: ../data/verbal_analogies.xml.h:10
+msgid "Agoraphobia"
+msgstr "Agoraphobia"
+
+#: ../data/verbal_analogies.xml.h:11
+msgid "Aircraft"
+msgstr "Aircraft"
+
+#: ../data/verbal_analogies.xml.h:12
+msgid "Airline"
+msgstr "Airline"
+
+#: ../data/verbal_analogies.xml.h:13
+msgid "Amphibians"
+msgstr "Amphibians"
+
+#: ../data/verbal_analogies.xml.h:14
+msgid "An artist whose work has become the defining style of that genre is?"
+msgstr "ศิลปินที่มีผลงานที่กลายเป็นแบบอย่างของงานแนวนั้นเรียกว่า?"
+
+#: ../data/verbal_analogies.xml.h:15
+msgid ""
+"An oasis is an isolated area of vegetation in a desert and an island is a "
+"piece of isolated land that is surrounded by water."
+msgstr ""
+"oasis เป็นพื้นที่โดดเดี่ยวที่มีพืชขึ้นอยู่ท่ามกลางทะเลทราย และ island ก็เป็นแผ่นดินโดดเดี่ยวเล็กๆ "
+"ที่มีน้ำล้อมรอบ"
+
+#: ../data/verbal_analogies.xml.h:16
+msgid "Angle"
+msgstr "Angle"
+
+#: ../data/verbal_analogies.xml.h:17
+msgid "Ant / Vertebrate"
+msgstr "Ant กับ Vertebrate"
+
+#: ../data/verbal_analogies.xml.h:18
+msgid "Anthophobia"
+msgstr "Anthophobia"
+
+#: ../data/verbal_analogies.xml.h:19
+msgid "Anthropophobia"
+msgstr "Anthropophobia"
+
+#: ../data/verbal_analogies.xml.h:20
+msgid "Apple"
+msgstr "Apple"
+
+#: ../data/verbal_analogies.xml.h:21
+msgid "Attic"
+msgstr "Attic"
+
+#: ../data/verbal_analogies.xml.h:22
+msgid "Authority"
+msgstr "Authority"
+
+#: ../data/verbal_analogies.xml.h:23
+msgid "Bagpipes"
+msgstr "Bagpipes"
+
+#: ../data/verbal_analogies.xml.h:24
+msgid "Basketball"
+msgstr "Basketball"
+
+#: ../data/verbal_analogies.xml.h:25
+msgid "Bassoon"
+msgstr "Bassoon"
+
+#: ../data/verbal_analogies.xml.h:26
+msgid "Beach"
+msgstr "Beach"
+
+#: ../data/verbal_analogies.xml.h:27
+msgid "Birds"
+msgstr "Birds"
+
+#: ../data/verbal_analogies.xml.h:28
+msgid "Broken"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:29
+msgid "Bunker"
+msgstr "Bunker"
+
+#: ../data/verbal_analogies.xml.h:30
+msgid "Carbon"
+msgstr "Carbon"
+
+#: ../data/verbal_analogies.xml.h:31
+msgid "Cardiology"
+msgstr "Cardiology"
+
+#: ../data/verbal_analogies.xml.h:32
+msgid "Cellulose"
+msgstr "Cellulose"
+
+#: ../data/verbal_analogies.xml.h:33
+msgid "Chicken / Bird"
+msgstr "Chicken กับ Bird"
+
+#: ../data/verbal_analogies.xml.h:34
+msgid "Chord"
+msgstr "Chord"
+
+#: ../data/verbal_analogies.xml.h:35
+msgid "Coast"
+msgstr "Coast"
+
+#: ../data/verbal_analogies.xml.h:36
+msgid "Collectivism"
+msgstr "Collectivism"
+
+#: ../data/verbal_analogies.xml.h:37
+msgid "Column"
+msgstr "Column"
+
+#: ../data/verbal_analogies.xml.h:38
+msgid "Condemn"
+msgstr "Condemn"
+
+#: ../data/verbal_analogies.xml.h:39
+msgid "Connoisseur"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:40
+msgid "Conspirator"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:41
+msgid "Contradictory"
+msgstr "Contradictory"
+
+#: ../data/verbal_analogies.xml.h:42
+msgid "Corn"
+msgstr "Corn"
+
+#: ../data/verbal_analogies.xml.h:43
+msgid "Cousin"
+msgstr "ลูกพี่ลูกน้อง"
+
+#: ../data/verbal_analogies.xml.h:44
+msgid "Crocodile"
+msgstr "Crocodile"
+
+#: ../data/verbal_analogies.xml.h:45
+msgid "Cycling"
+msgstr "Cycling"
+
+#: ../data/verbal_analogies.xml.h:46
+msgid "Decagon"
+msgstr "Decagon"
+
+#: ../data/verbal_analogies.xml.h:47
+msgid "Decimal"
+msgstr "Decimal"
+
+#: ../data/verbal_analogies.xml.h:48
+msgid "Deer"
+msgstr "Deer"
+
+#: ../data/verbal_analogies.xml.h:49
+msgid "Democracy"
+msgstr "Democracy"
+
+#: ../data/verbal_analogies.xml.h:50
+msgid "Dog / Cat"
+msgstr "Dog กับ Cat"
+
+#: ../data/verbal_analogies.xml.h:51
+msgid "Enneagram"
+msgstr "Enneagram"
+
+#: ../data/verbal_analogies.xml.h:52
+msgid "Envelop"
+msgstr "Envelop"
+
+#: ../data/verbal_analogies.xml.h:53
+msgid "Erroneous"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:54
+msgid "Fish"
+msgstr "Fish"
+
+#: ../data/verbal_analogies.xml.h:55
+msgid "Fishes"
+msgstr "Fishes"
+
+#: ../data/verbal_analogies.xml.h:56
+msgid "Flower"
+msgstr "Flower"
+
+#: ../data/verbal_analogies.xml.h:57
+msgid "Fork"
+msgstr "Fork"
+
+#: ../data/verbal_analogies.xml.h:58
+msgid "Fossil"
+msgstr "Fossil"
+
+#: ../data/verbal_analogies.xml.h:59
+msgid "Frog"
+msgstr "Frog"
+
+#: ../data/verbal_analogies.xml.h:60
+msgid "Gallon"
+msgstr "Gallon"
+
+#: ../data/verbal_analogies.xml.h:61
+msgid "Golf"
+msgstr "Golf"
+
+#: ../data/verbal_analogies.xml.h:62
+msgid "Grain"
+msgstr "Grain"
+
+#: ../data/verbal_analogies.xml.h:63
+msgid "Grape"
+msgstr "Grape"
+
+#: ../data/verbal_analogies.xml.h:64
+msgid "Hangar"
+msgstr "Hangar"
+
+#: ../data/verbal_analogies.xml.h:65
+msgid "Has no relation"
+msgstr "ไม่มีลำดับญาติ"
+
+#: ../data/verbal_analogies.xml.h:66
+msgid "Hectogram"
+msgstr "Hectogram"
+
+#: ../data/verbal_analogies.xml.h:67
+msgid "Hematology"
+msgstr "Hematology"
+
+#: ../data/verbal_analogies.xml.h:68
+msgid "Hide"
+msgstr "Hide"
+
+#: ../data/verbal_analogies.xml.h:69
+msgid "His father"
+msgstr "พ่อของเขา"
+
+#: ../data/verbal_analogies.xml.h:70
+msgid "His mother"
+msgstr "แม่ของเขา"
+
+#: ../data/verbal_analogies.xml.h:71
+msgid "Homeless"
+msgstr "Homeless"
+
+#: ../data/verbal_analogies.xml.h:72
+msgid "Horse / Pony"
+msgstr "Horse กับ Pony"
+
+#: ../data/verbal_analogies.xml.h:73
+msgid "Hyena"
+msgstr "Hyena"
+
+#: ../data/verbal_analogies.xml.h:74
+msgid "Hypochondria"
+msgstr "Hypochondria"
+
+#: ../data/verbal_analogies.xml.h:75
+msgid "Icon"
+msgstr "Icon"
+
+#: ../data/verbal_analogies.xml.h:76
+msgid "Icosagon"
+msgstr "Icosagon"
+
+#: ../data/verbal_analogies.xml.h:77
+msgid "Ignore"
+msgstr "Ignore"
+
+#: ../data/verbal_analogies.xml.h:78
+msgid "Ink"
+msgstr "Ink"
+
+#: ../data/verbal_analogies.xml.h:79
+msgid "Innovator"
+msgstr "Innovator"
+
+#: ../data/verbal_analogies.xml.h:80
+msgid "Insects"
+msgstr "Insects"
+
+#: ../data/verbal_analogies.xml.h:81
+msgid "Ironic"
+msgstr "Ironic"
+
+#: ../data/verbal_analogies.xml.h:82
+msgid "Island"
+msgstr "Island"
+
+#: ../data/verbal_analogies.xml.h:83
+msgid "It is the only one that does not use a ball in the game."
+msgstr "เป็นอย่างเดียวที่ไม่ได้ใช้ลูกบอลในเกม"
+
+#: ../data/verbal_analogies.xml.h:84
+msgid "It is the only one that is not a carnivore."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่สัตว์กินเนื้อ"
+
+#: ../data/verbal_analogies.xml.h:85
+msgid "It is the only one that is not a cereal."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่ธัญพืช"
+
+#: ../data/verbal_analogies.xml.h:86
+msgid "It is the only one that is not a fruit."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่ผลไม้"
+
+#: ../data/verbal_analogies.xml.h:87
+msgid "It is the only one that is not a medical specialty."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่ศัพท์เฉพาะทางการแพทย์"
+
+#: ../data/verbal_analogies.xml.h:88
+msgid "It is the only one that is not a metal."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่โลหะ"
+
+#: ../data/verbal_analogies.xml.h:89
+msgid "It is the only one that is not a reptile."
+msgstr "เป็นอย่างเดียวที่ไม่ใช่สัตว์เลื้อยคลาน"
+
+#: ../data/verbal_analogies.xml.h:90
+msgid "It is the only one that is not a woodwind instrument."
+msgstr "เป็นเครื่องดนตรีชนิดเดียวที่ไม่ใช่เครื่องเป่า"
+
+#: ../data/verbal_analogies.xml.h:91
+msgid "It is the only one that is not related to architecture."
+msgstr "เป็นอย่างเดียวที่ไม่ได้เกี่ยวข้องกับสถาปัตยกรรม"
+
+#: ../data/verbal_analogies.xml.h:92
+msgid "It is the only unit that does not belong to the metric system."
+msgstr "เป็นหน่วยเดียวที่ไม่ใช่ระบบเมตริก"
+
+#: ../data/verbal_analogies.xml.h:93
+msgid ""
+"John's father's sister's sister-in-law is also? Do not assume that John has "
+"any relative that has not been mentioned."
+msgstr "พี่สะใภ้ของน้องสาวของพ่อของจอห์นถือว่าเป็น? ให้ถือว่าจอห์นไม่มีญาติคนอื่นที่ไม่ได้กล่าวถึงอีก"
+
+#: ../data/verbal_analogies.xml.h:94
+msgid ""
+"John's mother's brother's brother-in-law is also is also? Do not assume that "
+"John has any relative that has not been mentioned."
+msgstr "พี่เขยของน้องชายของแม่ของจอห์นถือว่าเป็น? ให้ถือว่าจอห์นไม่มีญาติคนอื่นที่ไม่ได้กล่าวถึงอีก"
+
+#: ../data/verbal_analogies.xml.h:95
+msgid "Kilometer"
+msgstr "Kilometer"
+
+#: ../data/verbal_analogies.xml.h:96
+msgid "Lentils"
+msgstr "Lentils"
+
+#: ../data/verbal_analogies.xml.h:97
+msgid "Liter"
+msgstr "Liter"
+
+#: ../data/verbal_analogies.xml.h:98
+msgid "Loner"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:99
+msgid "Lychee"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:100
+msgid "Mango"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:101
+msgid "Martyr"
+msgstr "Martyr"
+
+#: ../data/verbal_analogies.xml.h:102
+msgid "Money"
+msgstr "Money"
+
+#: ../data/verbal_analogies.xml.h:103
+msgid "Oboe"
+msgstr "Oboe"
+
+#: ../data/verbal_analogies.xml.h:104
+msgid "Obscure"
+msgstr "Obscure"
+
+#: ../data/verbal_analogies.xml.h:105
+msgid "Offensive"
+msgstr "Offensive"
+
+#: ../data/verbal_analogies.xml.h:106
+msgid "Oligarchy"
+msgstr "Oligarchy"
+
+#: ../data/verbal_analogies.xml.h:107
+msgid "Olive"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:108
+msgid "Onion"
+msgstr ""
+
+#. Translators: refers to the fruit
+#: ../data/verbal_analogies.xml.h:110
+msgid "Orange"
+msgstr "Orange"
+
+#: ../data/verbal_analogies.xml.h:111
+msgid "Ostentation"
+msgstr "Ostentation"
+
+#: ../data/verbal_analogies.xml.h:112
+msgid "Pain"
+msgstr "Pain"
+
+#: ../data/verbal_analogies.xml.h:113
+msgid "Paleontology"
+msgstr "Paleontology"
+
+#: ../data/verbal_analogies.xml.h:114
+msgid "Person expelled from society"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:115
+msgid "Pioneer"
+msgstr "Pioneer"
+
+#: ../data/verbal_analogies.xml.h:116
+msgid "Pleasure"
+msgstr "Pleasure"
+
+#: ../data/verbal_analogies.xml.h:117
+msgid "Portico"
+msgstr "Portico"
+
+#: ../data/verbal_analogies.xml.h:118
+msgid "Positivism"
+msgstr "Positivism"
+
+#: ../data/verbal_analogies.xml.h:119
+msgid "Potato"
+msgstr "Potato"
+
+#: ../data/verbal_analogies.xml.h:120
+msgid "Printer"
+msgstr "Printer"
+
+#: ../data/verbal_analogies.xml.h:121
+msgid "Property"
+msgstr "Property"
+
+#: ../data/verbal_analogies.xml.h:122
+msgid "Psychiatry"
+msgstr "Psychiatry"
+
+#: ../data/verbal_analogies.xml.h:123
+msgid "Radius"
+msgstr "Radius"
+
+#: ../data/verbal_analogies.xml.h:124
+msgid "Related"
+msgstr "Related"
+
+#: ../data/verbal_analogies.xml.h:125
+msgid "Repugnance"
+msgstr "Repugnance"
+
+#: ../data/verbal_analogies.xml.h:126
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: ../data/verbal_analogies.xml.h:127
+msgid "Rice"
+msgstr "Rice"
+
+#: ../data/verbal_analogies.xml.h:128
+msgid "River"
+msgstr "River"
+
+#: ../data/verbal_analogies.xml.h:129
+msgid "Shame"
+msgstr "Shame"
+
+#: ../data/verbal_analogies.xml.h:130
+msgid "Simplistic"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:131
+msgid "Snake"
+msgstr "Snake"
+
+#: ../data/verbal_analogies.xml.h:132
+msgid "Sodium"
+msgstr "Sodium"
+
+#: ../data/verbal_analogies.xml.h:133
+msgid "Son-in-law"
+msgstr "ลูกเขย"
+
+#: ../data/verbal_analogies.xml.h:134
+msgid "Specializes in skin diseases"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:135
+msgid "Sport"
+msgstr "Sport"
+
+#: ../data/verbal_analogies.xml.h:136
+msgid "Suffers a skin disease"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:137
+msgid "Sugarcane"
+msgstr "Sugarcane"
+
+#: ../data/verbal_analogies.xml.h:138
+msgid "Sweet corn"
+msgstr "Sweet corn"
+
+#: ../data/verbal_analogies.xml.h:139
+msgid "Synonym"
+msgstr "Synonym"
+
+#: ../data/verbal_analogies.xml.h:140
+msgid "Table"
+msgstr "Table"
+
+#: ../data/verbal_analogies.xml.h:141
+msgid "Tangent"
+msgstr "Tangent"
+
+#: ../data/verbal_analogies.xml.h:142
+msgid "Tennis"
+msgstr "Tennis"
+
+#: ../data/verbal_analogies.xml.h:143
+msgid ""
+"The ethical doctrine holding that only what is pleasant is an intrinsic good."
+msgstr "หลักจริยธรรมที่ถือว่าสิ่งที่ให้ความสุขคือสิ่งที่ดีในตัวเอง"
+
+#: ../data/verbal_analogies.xml.h:144
+msgid "The first word is the instrument and the second what it measures."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:145
+msgid ""
+"The practice of austere self-discipline in order to achieve a higher or "
+"spiritual idea."
+msgstr "แนวปฏิบัติที่เคร่งครัดกับวินัยในตนเองเพื่อให้บรรลุความคิดที่สูงขึ้นหรือบรรลุความคิดทางจิตวิญญาณ"
+
+#: ../data/verbal_analogies.xml.h:146
+msgid "The radius of a circle is half the diameter."
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:147
+msgid "The word 'taxidermist' is used to define a person that?"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:148
+msgid "Think of the items used in the game."
+msgstr "นึกถึงสิ่งที่ใช้ในเกม"
+
+#: ../data/verbal_analogies.xml.h:149
+msgid "Tiger"
+msgstr "Tiger"
+
+#: ../data/verbal_analogies.xml.h:150
+msgid "Titanium"
+msgstr "Titanium"
+
+#: ../data/verbal_analogies.xml.h:151
+msgid "Totalitarianism"
+msgstr "Totalitarianism"
+
+#: ../data/verbal_analogies.xml.h:152
+msgid "Turtle"
+msgstr "Turtle"
+
+#: ../data/verbal_analogies.xml.h:153
+msgid "Unorthodox"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:154
+msgid "Violin"
+msgstr "Violin"
+
+#: ../data/verbal_analogies.xml.h:155
+msgid "Wealthy"
+msgstr "Wealthy"
+
+#: ../data/verbal_analogies.xml.h:156
+msgid "Weapon"
+msgstr "Weapon"
+
+#: ../data/verbal_analogies.xml.h:157
+msgid "What is a 'halberd'?"
+msgstr "'halberd' เป็นอะไร?"
+
+#: ../data/verbal_analogies.xml.h:158
+msgid "Wheat"
+msgstr "Wheat"
+
+#: ../data/verbal_analogies.xml.h:159
+msgid "Which of the following sentences defines better an 'ostracized' person?"
+msgstr ""
+
+#.
+#. Translators, please check these recommendations when translating gbrainy: http://live.gnome.org/gbrainy/Localizing
+#.
+#: ../data/verbal_analogies.xml.h:163
+msgid "Which of the following sports is the odd one?"
+msgstr "กีฬาใดต่อไปนี้ที่แตกต่างจากพวก?"
+
+#: ../data/verbal_analogies.xml.h:164
+msgid "Which of the following words is closer to the meaning of 'asceticism'?"
+msgstr "คำใดต่อไปนี้มีความหมายใกล้เคียงกับ 'asceticism' ที่สุด?"
+
+#: ../data/verbal_analogies.xml.h:165
+msgid "Which of the following words is closer to the meaning of 'hedonism'?"
+msgstr "คำใดต่อไปนี้มีความหมายใกล้เคียงกับ 'hedonism' ที่สุด?"
+
+#: ../data/verbal_analogies.xml.h:166
+msgid "Which of the following words is closer to the meaning of 'oxymoron'?"
+msgstr "คำใดต่อไปนี้มีความหมายใกล้เคียงกับ 'oxymoron' ที่สุด?"
+
+#: ../data/verbal_analogies.xml.h:167
+msgid "Which of the following words is the closest in meaning to 'censure'?"
+msgstr "คำใดต่อไปนี้มีความหมายใกล้เคียงกับ 'censure' ที่สุด?"
+
+#: ../data/verbal_analogies.xml.h:168
+msgid "Which of the following words is the odd one?"
+msgstr "คำใดต่อไปนี้ที่แตกต่างจากพวก?"
+
+#: ../data/verbal_analogies.xml.h:169
+msgid "Which of the following words means fear of people?"
+msgstr "คำใดที่หมายถึงอาการกลัวผู้คน?"
+
+#: ../data/verbal_analogies.xml.h:170
+msgid "Winery"
+msgstr "Winery"
+
+#: ../data/verbal_analogies.xml.h:171
+msgid "Wolf"
+msgstr "Wolf"
+
+#: ../data/verbal_analogies.xml.h:172
+msgid "Works with dead animals"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:173
+msgid "Works with leather"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:174
+msgid "Zinc"
+msgstr "Zinc"
+
+#: ../data/verbal_analogies.xml.h:175
+msgid "airplane | aeroplane | plane"
+msgstr "airplane | aeroplane | plane"
+
+#: ../data/verbal_analogies.xml.h:176
+msgid "ankle"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:177
+msgid "art / gallery | drama"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:178
+msgid "atlas"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:179
+msgid "bite"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:180
+msgid "body | skin"
+msgstr "body | skin"
+
+#: ../data/verbal_analogies.xml.h:181
+msgid "book | magazine | document"
+msgstr ""
+
+#. Translators: 'open' is used as a verb (open a box)
+#: ../data/verbal_analogies.xml.h:183
+msgid "box / open | banana"
+msgstr "box / open | banana"
+
+#: ../data/verbal_analogies.xml.h:184
+msgid "bridge / over | tunnel"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:185
+msgid "burst | pop"
+msgstr ""
+
+#. Translators: key refers to a key used to open a lock
+#: ../data/verbal_analogies.xml.h:187
+msgid "button / push | key (used in a lock)"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:188
+msgid "cage | zoo | zoological garden"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:189
+msgid "camera"
+msgstr "camera"
+
+#: ../data/verbal_analogies.xml.h:190
+msgid "car / garage | plane"
+msgstr "car / garage | plane"
+
+#: ../data/verbal_analogies.xml.h:191
+msgid "car / road | train"
+msgstr "car / road | train"
+
+#: ../data/verbal_analogies.xml.h:192
+msgid "chop"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:193
+msgid "circle / semicircle | diameter"
+msgstr "circle / semicircle | diameter"
+
+#: ../data/verbal_analogies.xml.h:194
+msgid "coins"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:195
+msgid "composer | songwriter | lyricist"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:196
+msgid "constellation / stars | archipelago"
+msgstr ""
+
+#. Translators: 'dance' is used as a noun
+#: ../data/verbal_analogies.xml.h:198
+msgid "dance"
+msgstr "dance"
+
+#: ../data/verbal_analogies.xml.h:199
+msgid "desert / oasis | sea"
+msgstr "desert / oasis | sea"
+
+#: ../data/verbal_analogies.xml.h:200
+msgid "dish / break | balloon"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:201
+msgid "dog / tame | wolf"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:202
+msgid "elbow / knee | wrist"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:203
+msgid "error / correct | damage"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:204
+msgid "eyebrow / eye | mustache"
+msgstr ""
+
+#. Translators: the concept 'toe' (http://en.wikipedia.org/wiki/Toe) does not exist in all languages. Feel free to change it to 'fingers' and adapt the answer accordingly
+#: ../data/verbal_analogies.xml.h:206
+msgid "feet / two | toes"
+msgstr "feet / two | toes"
+
+#: ../data/verbal_analogies.xml.h:207
+msgid "fish / aquarium | monkey"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:208
+msgid "fish / submarine | bird"
+msgstr "fish / submarine | bird"
+
+#: ../data/verbal_analogies.xml.h:209
+msgid "five / pentagon | ten"
+msgstr "five / pentagon | ten"
+
+#: ../data/verbal_analogies.xml.h:210
+msgid "fox / den | bird"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:211
+msgid "glass / break | paper"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:212
+msgid "hands / grab | teeth"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:213
+msgid "herbivorous | herbivore"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:214
+msgid "horticulture / plants | ornithology"
+msgstr "horticulture / plants | ornithology"
+
+#: ../data/verbal_analogies.xml.h:215
+msgid "hour / minute | minute"
+msgstr "hour / minute | minute"
+
+#: ../data/verbal_analogies.xml.h:216
+msgid "hungry / eat | tired"
+msgstr "hungry / eat | tired"
+
+#: ../data/verbal_analogies.xml.h:217
+msgid "hunter / rifle | photographer"
+msgstr "hunter / rifle | photographer"
+
+#: ../data/verbal_analogies.xml.h:218
+msgid "ice / slippery | glue"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:219
+msgid "in | under | through"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:220
+msgid "islands"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:221
+msgid "leopard / spots | tiger"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:222
+msgid "letter / word | page"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:223
+msgid "lip | mouth"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:224
+msgid "nest"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:225
+msgid "nose"
+msgstr "nose"
+
+#: ../data/verbal_analogies.xml.h:226
+msgid "novel / author | song"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:227
+msgid "orange / fruit | spinach"
+msgstr "orange / fruit | spinach"
+
+#: ../data/verbal_analogies.xml.h:228
+msgid "pediatrics / children | numismatics"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:229
+msgid "peel"
+msgstr "peel"
+
+#: ../data/verbal_analogies.xml.h:230
+msgid "pessimist / optimist | poor"
+msgstr "pessimist / optimist | poor"
+
+#: ../data/verbal_analogies.xml.h:231
+msgid "poems / anthology | maps"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:232
+msgid "puzzle / solve | game"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:233
+msgid "repair | fix"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:234
+msgid "ring / finger | bracelet"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:235
+msgid "seal / flippers | bird"
+msgstr ""
+
+#. Translators: refers to the unit of time
+#: ../data/verbal_analogies.xml.h:237
+msgid "second"
+msgstr "second"
+
+#: ../data/verbal_analogies.xml.h:238
+msgid "shovel / dig | axe"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:239
+msgid "sink"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:240
+msgid "sleep | rest"
+msgstr "sleep | rest"
+
+#: ../data/verbal_analogies.xml.h:241
+msgid "slurp / tongue | snort"
+msgstr "slurp / tongue | snort"
+
+#: ../data/verbal_analogies.xml.h:242
+msgid "sour"
+msgstr ""
+
+#. Translators: stick refers to a piece of wood
+#: ../data/verbal_analogies.xml.h:244
+msgid "stick / float | stone"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:245
+msgid "sticky"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:246
+msgid "stripes"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:247
+msgid "sugar / sweet | vinegar"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:248
+msgid "talk / yell | dislike"
+msgstr "talk / yell | dislike"
+
+#: ../data/verbal_analogies.xml.h:249
+msgid "tear | rip"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:250
+msgid "tears / eyes | sweat"
+msgstr "tears / eyes | sweat"
+
+#. Translators: referred to 'feet / two | toes'
+#: ../data/verbal_analogies.xml.h:252
+msgid "ten | 10"
+msgstr "ten | 10"
+
+#: ../data/verbal_analogies.xml.h:253
+msgid "tennis / sport | ballet"
+msgstr "tennis / sport | ballet"
+
+#: ../data/verbal_analogies.xml.h:254
+msgid "thankful / ingratitude | despotism"
+msgstr "thankful / ingratitude | despotism"
+
+#: ../data/verbal_analogies.xml.h:255
+msgid "theatre | theater"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:256
+msgid "thermometer / temperature | clock"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:257
+msgid "tiger / carnivore | cow"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:258
+msgid "time"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:259
+msgid "toy / play | tool"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:260
+msgid "track | railway | rails"
+msgstr "track | railway | rails"
+
+#: ../data/verbal_analogies.xml.h:261
+msgid "turn"
+msgstr ""
+
+#. Translators: letter refers to letter (in paper form)
+#: ../data/verbal_analogies.xml.h:263
+msgid "turtle / shell | letter"
+msgstr "turtle / shell | letter"
+
+#: ../data/verbal_analogies.xml.h:264
+msgid "vegetable"
+msgstr "vegetable"
+
+#: ../data/verbal_analogies.xml.h:265
+msgid "whirlpool / water | tornado"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:266
+msgid "wild | savage"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:267
+msgid "win | play"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:268
+msgid "wind | air"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:269
+msgid "wine / grape | rum"
+msgstr "wine / grape | rum"
+
+#: ../data/verbal_analogies.xml.h:270
+msgid "wings"
+msgstr ""
+
+#. Translators: 'work' is used as a verb (to work)
+#: ../data/verbal_analogies.xml.h:272
+msgid "work"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:273
+msgid "wrist | arm"
+msgstr ""
+
+#: ../data/verbal_analogies.xml.h:274
+msgid "write / pen | eat"
+msgstr "write / pen | eat"
+
+#: ../src/Core/Views/CountDownView.cs:81
+msgid "Get ready to memorize the next objects..."
+msgstr "เตรียมตัวให้พร้อม ที่จะจดจำสิ่งของที่กำลังจะมา..."
+
+#: ../src/Core/Views/FinishView.cs:97
+#: ../src/Core/Views/PlayerHistoryView.cs:67
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:64
+msgid "Total"
+msgstr "ทั้งหมด"
+
+#: ../src/Core/Views/FinishView.cs:104 ../src/Core/Main/GameTypes.cs:44
+#: ../src/Clients/Classical/gbrainy.cs:366
+msgid "Logic"
+msgstr "ตรรกะ"
+
+#: ../src/Core/Views/FinishView.cs:111 ../src/Core/Main/GameTypes.cs:48
+#: ../src/Clients/Classical/gbrainy.cs:371
+msgid "Calculation"
+msgstr "คำนวณ"
+
+#: ../src/Core/Views/FinishView.cs:118 ../src/Core/Main/GameTypes.cs:46
+#: ../src/Clients/Classical/gbrainy.cs:377
+msgid "Memory"
+msgstr "ความจำ"
+
+#: ../src/Core/Views/FinishView.cs:125 ../src/Core/Main/GameTypes.cs:50
+#: ../src/Clients/Classical/gbrainy.cs:383
+msgid "Verbal"
+msgstr "ภาษา"
+
+#: ../src/Core/Views/FinishView.cs:141
+msgid "Score"
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:151
+#, csharp-format
+msgid "Games won: {0} ({1} played)"
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:153
+#, csharp-format
+msgid "{0}. Games won: {1} ({2} played)"
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:157
+#, csharp-format
+msgid "Time played {0} (average per game {1})"
+msgstr "เวลาที่เล่น {0} (เฉลี่ยเกมละ {1})"
+
+#. Translators: translated string should not be longer that the English original (space restriction on the UI)
+#: ../src/Core/Views/FinishView.cs:166
+msgid "For details on how gbrainy's scoring works refer to the help."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:176
+msgid "Tips for your next games"
+msgstr "คำแนะนำสำหรับเกมถัดไป"
+
+#: ../src/Core/Views/FinishView.cs:204
+msgid "Congratulations! New personal record"
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:214
+#, csharp-format
+msgid ""
+"By scoring {0} in logic puzzle games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:220
+#, csharp-format
+msgid ""
+"By scoring {0} in calculation games you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:226
+#, csharp-format
+msgid ""
+"By scoring {0} in memory games you have established a new personal record. "
+"Your previous record was {1}."
+msgstr ""
+
+#: ../src/Core/Views/FinishView.cs:232
+#, csharp-format
+msgid ""
+"By scoring {0} in verbal analogies you have established a new personal "
+"record. Your previous record was {1}."
+msgstr ""
+
+#: ../src/Core/Views/WelcomeView.cs:61
+msgid "Logic puzzles. Challenge your reasoning and thinking skills."
+msgstr "ปริศนาตรรกะ ท้าทายทักษะการคิดและใช้เหตุผลของคุณ"
+
+#: ../src/Core/Views/WelcomeView.cs:82
+msgid ""
+"Mental calculation. Arithmetical operations that test your mental "
+"calculation abilities."
+msgstr "เลขคิดในใจ โจทย์เลขคณิตที่จะทดสอบความสามารถในการคิดเลขในใจของคุณ"
+
+#: ../src/Core/Views/WelcomeView.cs:103
+msgid "Memory trainers. To prove your short term memory."
+msgstr "เกมฝึกความจำ เพื่อทดสอบความจำระยะสั้นของคุณ"
+
+#: ../src/Core/Views/WelcomeView.cs:124
+msgid "Verbal analogies. Challenge your verbal aptitude."
+msgstr "เปรียบเทียบศัพท์ ท้าทายความคล่องคำศัพท์ของคุณ"
+
+#. Translators: {0} is the version number of the program
+#: ../src/Core/Views/WelcomeView.cs:141
+#, csharp-format
+msgid "Welcome to gbrainy {0}"
+msgstr "ยินดีต้อนรับสู่ gbrainy {0}"
+
+#: ../src/Core/Views/WelcomeView.cs:145
+msgid ""
+"gbrainy is a brain teaser game and trainer to have fun and to keep your "
+"brain trained. It includes:"
+msgstr "gbrainy เป็นเกมฝึกสมองที่จะช่วยให้คุณได้สนุกและฝึกใช้สมอง โดยประกอบด้วย:"
+
+#: ../src/Core/Views/WelcomeView.cs:149 ../src/Core/Main/GameTips.cs:67
+msgid "Use the Settings to adjust the difficulty level of the game."
+msgstr ""
+
+#: ../src/Core/Main/ColorPalette.cs:48
+msgid "red"
+msgstr "แดง"
+
+#: ../src/Core/Main/ColorPalette.cs:49
+msgid "green"
+msgstr "เขียว"
+
+#: ../src/Core/Main/ColorPalette.cs:50
+msgid "blue"
+msgstr "น้ำเงิน"
+
+#: ../src/Core/Main/ColorPalette.cs:51
+msgid "yellow"
+msgstr "เหลือง"
+
+#: ../src/Core/Main/ColorPalette.cs:52
+msgid "magenta"
+msgstr "บานเย็น"
+
+#: ../src/Core/Main/ColorPalette.cs:53
+msgid "orange"
+msgstr "ส้ม"
+
+#: ../src/Core/Main/ColorPalette.cs:54
+msgid "black"
+msgstr "ดำ"
+
+#: ../src/Core/Main/ColorPalette.cs:55
+msgid "white"
+msgstr "ขาว"
+
+#: ../src/Core/Main/Game.cs:151
+#, csharp-format
+msgid "The correct answer is {0}."
+msgstr "คำตอบที่ถูกต้องคือ {0}"
+
+#. Translators Note
+#. The following series of answers may need to be adapted
+#. in cultures with alphabets different to the Latin one.
+#. The idea is to enumerate a sequence of possible answers
+#. For languages represented with the Latin alphabet use
+#. the same than English
+#. First possible answer for a series (e.g.: Figure A)
+#: ../src/Core/Main/Game.cs:316
+msgid "A"
+msgstr "ก"
+
+#. Second possible answer for a series
+#: ../src/Core/Main/Game.cs:318
+msgid "B"
+msgstr "ข"
+
+#. Third possible answer for a series
+#: ../src/Core/Main/Game.cs:320
+msgid "C"
+msgstr "ค"
+
+#. Fourth possible answer for a series
+#: ../src/Core/Main/Game.cs:322
+msgid "D"
+msgstr "ง"
+
+#. Fifth possible answer for a series
+#: ../src/Core/Main/Game.cs:324
+msgid "E"
+msgstr "จ"
+
+#. Sixth possible answer for a series
+#: ../src/Core/Main/Game.cs:326
+msgid "F"
+msgstr "ฉ"
+
+#. Seventh possible answer for a series
+#: ../src/Core/Main/Game.cs:328
+msgid "G"
+msgstr "ช"
+
+#. Eighth possible answer for a series
+#: ../src/Core/Main/Game.cs:330
+msgid "H"
+msgstr "ซ"
+
+#: ../src/Core/Main/Game.cs:338
+#, csharp-format
+msgid "Figure {0}"
+msgstr "ภาพ {0}"
+
+#: ../src/Core/Main/GameManager.cs:319
+msgid "Extensions database:"
+msgstr "ฐานข้อมูลส่วนขยาย:"
+
+#. Translators: 'Games registered' is the games know to gbrainy (build-in and load from addins-in and external files)
+#: ../src/Core/Main/GameManager.cs:325
+#, csharp-format
+msgid ""
+"Games registered: {0}: {1} logic puzzles, {2} calculation trainers, {3} "
+"memory trainers, {4} verbal analogies"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:176
+#, csharp-format
+msgid "Games played: {0} (Score: {1})"
+msgstr "เกมที่เล่นแล้ว: {0} (คะแนน {1})"
+
+#: ../src/Core/Main/GameSession.cs:177
+#, csharp-format
+msgid " - Time: {0}"
+msgstr " - เวลา: {0}"
+
+#: ../src/Core/Main/GameSession.cs:180
+#, csharp-format
+msgid "- Game: {0}"
+msgstr "- เกม: {0}"
+
+#: ../src/Core/Main/GameSession.cs:194
+msgid "Outstanding results"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:196
+msgid "Excellent results"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:198
+msgid "Good results"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:200
+msgid "Poor results"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:201
+msgid "Disappointing results"
+msgstr ""
+
+#: ../src/Core/Main/GameSession.cs:263
+msgid "Paused"
+msgstr "พัก"
+
+#: ../src/Core/Main/GameTips.cs:51
+msgid "Read the instructions carefully and identify the data and given clues."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:53
+msgid ""
+"To score the player gbrainy uses the time and tips needed to complete each "
+"game."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:55
+msgid ""
+"In logic games, elements that may seem irrelevant can be very important."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:57
+msgid "Break the mental blocks and look into the boundaries of problems."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:59
+msgid "Enjoy making mistakes, they are part of the learning process."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:61
+msgid ""
+"Do all the problems, even the difficult ones. Improvement comes from "
+"practicing."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:63
+msgid "Play on a daily basis, you will notice progress soon."
+msgstr ""
+
+#. Translators: Custom Game Selection is a menu option
+#: ../src/Core/Main/GameTips.cs:65
+msgid ""
+"Use the 'Custom Game Selection' to choose exactly which games you want to "
+"play."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:69
+msgid "Association of elements is a common technique for remembering things."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:71
+msgid ""
+"Grouping elements into categories is a common technique for remembering "
+"things."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:73
+msgid "Build acronyms using the first letter of each fact to be remembered."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:75
+msgid ""
+"The enjoyment obtained from a puzzle is proportional to the time spent on it."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:77
+msgid "Think of breaking down every problem into simpler components."
+msgstr ""
+
+#: ../src/Core/Main/GameTips.cs:79
+msgid "When answering verbal analogies pay attention to the verb tense."
+msgstr ""
+
+#: ../src/Core/Main/Memory.cs:53
+msgid "Memorize the objects below in the given time"
+msgstr "จำสิ่งของด้านล่างให้ได้ภายในเวลาที่กำหนด"
+
+#: ../src/Core/Main/Memory.cs:217
+msgid "Time left"
+msgstr "เวลาที่เหลือ"
+
+#: ../src/Core/Main/Verbal/Analogies.cs:56
+#, csharp-format
+msgid "Possible correct answers are: {0}."
+msgstr "คำตอบที่เป็นไปได้คือ: {0}"
+
+#. Translators: this the separator used when concatenating multiple possible answers for verbal analogies
+#. For example: "Possible correct answers are: sleep, rest."
+#. Translators: this the separator used when concatenating possible options for answering verbal analogies
+#. For example: "Possible correct answers are: a, b, c, d."
+#: ../src/Core/Main/Verbal/Analogies.cs:90
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:63
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:64
+msgid ", "
+msgstr ", "
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:43
+#, csharp-format
+msgid "Multiple options #{0}"
+msgstr "เลือกตัวเลือก #{0}"
+
+#. Translators: {0} is replaced by a question and {1} by the suggestions on how to answer
+#. E.g: What is the correct option? Answer A, B, C.
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:69
+#, csharp-format
+msgid "{0} Answer {1}."
+msgstr "{0} ตอบ {1}"
+
+#. Translators: this "option) answer" for example "a) "21 x 60 = 1260". This should not be changed for most of the languages
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:105
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:112
+#: ../src/Games/Logic/PuzzleOstracism.cs:159
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:177
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:161
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:143
+#, csharp-format
+msgid "{0}) {1}"
+msgstr "{0}) {1}"
+
+#: ../src/Core/Main/Verbal/AnalogiesMultipleOptions.cs:119
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:129
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:190
+#: ../src/Games/Logic/PuzzleLargerShape.cs:302
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:172
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:216
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:312
+#: ../src/Games/Logic/PuzzleNextFigure.cs:165
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:190
+#: ../src/Games/Logic/PuzzleSquareDots.cs:320
+#: ../src/Games/Logic/PuzzleTetris.cs:171
+msgid "Possible answers are:"
+msgstr "คำตอบที่เป็นไปได้คือ:"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:42
+#, csharp-format
+msgid "Pair of words compare #{0}"
+msgstr "เปรียบเทียบคู่คำ #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:58
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:69
+#, csharp-format
+msgid ""
+"Given the relationship between the two words below, which word has the same "
+"relationship to '{0}'?"
+msgstr "จากความสัมพันธ์ระหว่างสองคำข้างล่างนี้ คำใดมีความสัมพันธ์แบบเดียวกันกับ '{0}'"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsCompare.cs:94
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:133
+#, csharp-format
+msgid "Words: {0}"
+msgstr "คำ: {0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesPairOfWordsOptions.cs:40
+#, csharp-format
+msgid "Pair of words #{0}"
+msgstr "คู่คำ #{0}"
+
+#: ../src/Core/Main/Verbal/AnalogiesQuestionAnswer.cs:38
+#, csharp-format
+msgid "Question and answer #{0}"
+msgstr "ถาม-ตอบ #{0}"
+
+#: ../src/Clients/Classical/gbrainy.cs:359
+msgid "Play all the games"
+msgstr "เล่นทุกเกม"
+
+#: ../src/Clients/Classical/gbrainy.cs:360
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: ../src/Clients/Classical/gbrainy.cs:365
+msgid "Play games that challenge your reasoning and thinking"
+msgstr "เล่นเกมท้าทายความคิดและการใช้เหตุผลของคุณ"
+
+#: ../src/Clients/Classical/gbrainy.cs:372
+msgid "Play games that challenge your mental calculation skills"
+msgstr "เล่นเกมท้าทายทักษะการคิดเลขในใจของคุณ"
+
+#: ../src/Clients/Classical/gbrainy.cs:378
+msgid "Play games that challenge your short term memory"
+msgstr "เล่นเกมท้าทายความจำระยะสั้นของคุณ"
+
+#: ../src/Clients/Classical/gbrainy.cs:384
+msgid "Play games that challenge your verbal aptitude"
+msgstr "เล่นเกมท้าทายความคล่องคำศัพท์ของคุณ"
+
+#: ../src/Clients/Classical/gbrainy.cs:389
+#: ../src/Clients/Classical/gbrainy.cs:623
+msgid "Pause"
+msgstr "พัก"
+
+#: ../src/Clients/Classical/gbrainy.cs:390
+msgid "Pause or resume the game"
+msgstr "พักหรือเล่นเกมต่อ"
+
+#: ../src/Clients/Classical/gbrainy.cs:395
+msgid "End the game and show score"
+msgstr "จบเกมและแสดงคะแนน"
+
+#: ../src/Clients/Classical/gbrainy.cs:396
+msgid "Finish"
+msgstr "เสร็จ"
+
+#: ../src/Clients/Classical/gbrainy.cs:486
+msgid "Congratulations."
+msgstr "ยินดีด้วย"
+
+#: ../src/Clients/Classical/gbrainy.cs:488
+msgid "Incorrect answer."
+msgstr "คำตอบผิด"
+
+#: ../src/Clients/Classical/gbrainy.cs:546
+msgid ""
+"Once you have an answer type it in the \"Answer:\" entry box and press the "
+"\"OK\" button."
+msgstr "เมื่อคุณได้คำตอบแล้ว ให้ป้อนลงในช่อง \"คำตอบ:\" แล้วกดปุ่ม \"ตกลง\""
+
+#: ../src/Clients/Classical/gbrainy.cs:627
+msgid "Resume"
+msgstr "เล่นต่อ"
+
+#: ../src/Clients/Classical/gbrainy.cs:742
+#, csharp-format
+msgid "Startup time {0}"
+msgstr "เวลาที่ใช้เปิดโปรแกรม {0}"
+
+#. Translators: {0} is a date
+#: ../src/Clients/Classical/CommandLine.cs:106
+#, csharp-format
+msgid "(built on {0})"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:118
+msgid "List of available games"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:181
+msgid "Usage: gbrainy [options]"
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:182
+msgid "  --version\t\t\tPrint version information."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:183
+msgid "  --help\t\t\tPrint this usage message."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:184
+msgid "  --gamelist\t\t\tShows the list of available games."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:185
+msgid ""
+"  --customgame [game1, gameN]\tSpecifies a list of games to play during a "
+"custom game."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:186
+msgid ""
+"  --norandom \t\t\tThe custom game list provided will not be randomized."
+msgstr ""
+
+#: ../src/Clients/Classical/CommandLine.cs:187
+msgid "  --versions \t\t\tShow dependencies."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:34
+msgid "Software"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:37
+msgid "Based on ideas by"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:41
+msgid "MENSA works"
+msgstr ""
+
+#. Translators: Replace by the name of the people that translated the application
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:61
+msgid "translator-credits"
+msgstr "Sira Nokyoongotong"
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:66
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as  published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:67
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+"\n"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:68
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:78
+msgid "A brain teaser game for fun and to keep your brain trained."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/AboutDialog.cs:80
+msgid "gbrainy web site"
+msgstr "เว็บไซต์ gbrainy"
+
+#. Column: Game Name
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:67
+msgid "Game Name"
+msgstr "ชื่อเกม"
+
+#. Column: Type
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:89
+msgid "Type"
+msgstr "ประเภท"
+
+#: ../src/Clients/Classical/Dialogs/CustomGameDialog.cs:111
+msgid "Enabled"
+msgstr "เปิดใช้"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:45
+msgid "The graph below shows the player's game score evolution."
+msgstr "กราฟข้างล่างนี้แสดงพัฒนาการของคะแนนของผู้เล่น"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:49
+msgid ""
+"You need more than one game session recorded to see the score evolution."
+msgstr "คุณต้องมีบันทึกการเล่นมากกว่าหนึ่งเกมเพื่อแสดงพัฒนาการ"
+
+#: ../src/Clients/Classical/Dialogs/PlayerHistoryDialog.cs:53
+#, csharp-format
+msgid "It is built using the results of {0} recorded game session."
+msgid_plural ""
+"It is built using the results of the last {0} recorded game sessions."
+msgstr[0] "กราฟนี้สร้างจากผลของเกมล่าสุด {0} เกมที่ได้บันทึกไว้"
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:81
+msgid "You are about to delete the player's game session history."
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:82
+msgid ""
+"If you proceed, you will lose the history of the previous game sessions. Do "
+"you want to continue?"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/PreferencesDialog.cs:83
+msgid "_Delete"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:1
+msgid "Custom Game"
+msgstr "เกมกำหนดเอง"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:2
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:3
+msgid "Unselect all"
+msgstr "เลิกเลือกทั้งหมด"
+
+#: ../src/Clients/Classical/Dialogs/ui/CustomGameDialog.ui.h:4
+msgid "_Start"
+msgstr "เ_ริ่ม"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:1
+#: ../src/Clients/Classical/gbrainy.ui.h:9
+msgid "Player's Game Session History"
+msgstr "ประวัติการเล่นของผู้เล่น"
+
+#: ../src/Clients/Classical/Dialogs/ui/PlayerHistoryDialog.ui.h:2
+msgid "Show:"
+msgstr "แสดง:"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:1
+msgid "<b>Difficulty Level</b>"
+msgstr "<b>ระดับความยาก</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:2
+msgid "<b>General Settings</b>"
+msgstr "<b>การตั้งค่าทั่วไป</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:3
+msgid "<b>Memory Games</b>"
+msgstr "<b>เกมความจำ</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:4
+msgid "<b>Player's Game Session History</b>"
+msgstr "<b>ประวัติการเล่นของผู้เล่น</b>"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:5
+msgid "Delete Player's Game Session History"
+msgstr "ลบประวัติการเล่นของผู้เล่น"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:6
+msgid "Easy"
+msgstr "ง่าย"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:7
+msgid "Master"
+msgstr "มืออาชีพ"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:8
+msgid "Maximum number of records in the player's game session history:"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:9
+msgid "Medium"
+msgstr "ปานกลาง"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:10
+msgid "Minimum number of played games to store the game session:"
+msgstr ""
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:11
+#: ../src/Clients/Classical/gbrainy.ui.h:10
+msgid "Preferences"
+msgstr "ปรับแต่ง"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:12
+msgid "Show countdown message"
+msgstr "แสดงข้อความนับถอยหลัง"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:13
+msgid "Skip games that use colors (friendly to colorblind users)"
+msgstr "ข้ามเกมที่ใช้สี (เหมาะกับผู้ใช้ที่ตาบอดสี)"
+
+#: ../src/Clients/Classical/Dialogs/ui/PreferencesDialog.ui.h:14
+msgid "Time in seconds to memorize the challenge:"
+msgstr "เวลาเป็นวินาทีที่จะให้จดจำโจทย์"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:32
+msgid "3D Cube"
+msgstr "ลูกบาศก์ 3 มิติ"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:36
+msgid ""
+"How many small cubes does it take to build the large cube below? Answer "
+"using a number."
+msgstr "ต้องใช้ลูกบาศก์เล็กทั้งหมดกี่ลูกในการสร้างลูกบาศก์ใหญ่ข้างล่างนี้? ตอบเป็นตัวเลข"
+
+#: ../src/Games/Logic/Puzzle3DCube.cs:40
+msgid "A cube is a regular solid object having six congruent square faces."
+msgstr "ลูกบาศก์คือวัตถุทรงตันที่มีหน้าเป็นสี่เหลี่ยมจัตุรัสขนาดเท่ากันหกหน้า"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:49
+msgid "Balance"
+msgstr "สมดุล"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:53
+msgid ""
+"How many triangles are needed in the right part of the last figure to keep "
+"it balanced?"
+msgstr "ต้องใช้สามเหลี่ยมกี่รูปในช่องทางขวาของภาพสุดท้าย เพื่อให้ได้สมดุล?"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:58
+msgid "Every triangle counts as 1, each circle as 2 and each square as 3."
+msgstr "สามเหลี่ยมทุกรูปจะนับเป็น 1, วงกลมแต่ละรูปนับเป็น 2 และสี่เหลี่ยมจัตุรัสแต่ละรูปนับเป็น 3"
+
+#: ../src/Games/Logic/PuzzleBalance.cs:63
+msgid "Every circle counts as two triangles."
+msgstr "วงกลมทุกวงนับเป็นสามเหลี่ยมสองรูป"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:51
+msgid "Build a triangle"
+msgstr "สร้างสามเหลี่ยม"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:56
+#, csharp-format
+msgid ""
+"Which three pieces can you use together to build a triangle? Answer using "
+"the three figure names, e.g.: {0}{1}{2}."
+msgstr ""
+"สามชิ้นใดที่คุณสามารถนำมาประกอบกันเป็นสามเหลี่ยมได้? ตอบโดยใช้ชื่อของภาพสามภาพ, เช่น: {0}"
+"{1}{2}"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:61
+msgid "The resulting triangle is isosceles."
+msgstr "สามเหลี่ยมที่ได้เป็นสามเหลี่ยมหน้าจั่ว"
+
+#: ../src/Games/Logic/PuzzleBuildTriangle.cs:182
+msgid "The triangle is:"
+msgstr "สามเหลี่ยมนั้นคือ:"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:30
+msgid "Circles in a square"
+msgstr "วงกลมในจัตุรัส"
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:34
+msgid ""
+"What is the maximum number of circles (as shown) that fit in the square "
+"below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:38
+msgid "You can fit more than 64 circles."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:43
+#, csharp-format
+msgid ""
+"In the layout shown {0} units of height are gained in each row. This allows "
+"using an additional row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:77
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:98
+msgid "8 units"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:117
+#: ../src/Games/Logic/PuzzleCirclesSquare.cs:136
+msgid "1 unit"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleClocks.cs:38
+msgid "Clocks"
+msgstr "นาฬิกา"
+
+#. Translators: {0} is replaced by 'Figure X'
+#: ../src/Games/Logic/PuzzleClocks.cs:44
+#, csharp-format
+msgid ""
+"To what number should the large handle of the '{0}' clock point? Answer "
+"using numbers."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleClocks.cs:50
+#, csharp-format
+msgid ""
+"Starting from the first clock sum {0} to the value indicated by the hands."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleClocks.cs:55
+msgid "The clocks do not follow the time logic."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:48
+msgid "Count circles"
+msgstr "นับวงกลม"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:52
+msgid "How many circles do you count?"
+msgstr "คุณนับวงกลมได้เท่าไร?"
+
+#: ../src/Games/Logic/PuzzleCountCircles.cs:56
+msgid "It is an easy exercise if you systematically count the circles."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:41
+msgid "Counting"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:64
+#, csharp-format
+msgid "We have a {0} meter piece of fabric."
+msgid_plural "We have a {0} meters piece of fabric."
+msgstr[0] ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:68
+#, csharp-format
+msgid ""
+"Machine A takes {0} second to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgid_plural ""
+"Machine A takes {0} seconds to cut 1 meter of this fabric. How many seconds "
+"does Machine A take to cut the entire piece of fabric into 1 meter pieces?"
+msgstr[0] ""
+
+#. Translators: {0} is always a number greater than 1
+#: ../src/Games/Logic/PuzzleCounting.cs:73
+#, csharp-format
+msgid "With the {0} cut, Machine A creates two 1 meter pieces."
+msgstr ""
+
+#. Translators: {0} is always a number greater than 20
+#: ../src/Games/Logic/PuzzleCounting.cs:83
+#, csharp-format
+msgid ""
+"A fence is built to enclose a square shaped region. {0} fence poles are used "
+"in each side of the square. How many fence poles are used in total?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:87
+#, csharp-format
+msgid ""
+"There are {0} fence poles since the poles on the corners of the square are "
+"shared."
+msgstr ""
+
+#. Translators: {0} is always a number greater than 5
+#: ../src/Games/Logic/PuzzleCounting.cs:96
+#, csharp-format
+msgid ""
+"Wrapping an anniversary present costs one euro. The anniversary present "
+"costs {0} euros more than the cost to wrap it. How much does it cost to both "
+"purchase and wrap the present?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCounting.cs:98
+msgid "Individually, the present costs one euro more to purchase than to wrap."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:39
+msgid "Count series"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:51
+msgid ""
+"How many numbers '9' are required to represent the numbers between 10 to 100?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:56
+msgid ""
+"How many two digit numbers occur where the first digit is larger than the "
+"second (e.g.: 20 and 21)?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCountSeries.cs:61
+msgid ""
+"How many two digit numbers occur where the first digit is smaller than the "
+"second (e.g.: 12 and 13)?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:35
+msgid "Cover percentage"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleCoverPercentage.cs:39
+msgid "What percentage of the figure is colored?"
+msgstr "ภาพนี้ถูกระบายสีคิดเป็นสัดส่วนร้อยละเท่าใด?"
+
+#: ../src/Games/Logic/PuzzleCube.cs:45
+msgid "Cube"
+msgstr "กล่อง"
+
+#: ../src/Games/Logic/PuzzleCube.cs:49
+#, csharp-format
+msgid ""
+"When folded as a cube, which face on the figure is opposite the face with a "
+"{0} drawn on it? Answer the number written on face."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:50
+msgid ""
+"What is the probability of getting a '2' or a '6' in a single throw of a "
+"fair 6 sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:52
+msgid "There are 2 of 6 possibilities."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:54
+msgid ""
+"What is the probability of not getting a '5' in a single throw of a fair 6 "
+"sided die? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:56
+msgid "There are 5 of 6 possibilities."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:58
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two even numbers? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:60
+msgid "There are 9 of 36 possibilities of getting two even numbers."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:62
+msgid ""
+"Two fair 6 sided dices are thrown simultaneously. What is the probability of "
+"getting two '6'? Answer using a fraction (e.g.: 1/2)."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:64
+msgid ""
+"There is 1 of 6 possibilities of getting a '6' on the first die and the same "
+"for the second die."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDice.cs:68
+msgid "Dice"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:45
+msgid "Divide circles"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:49
+msgid ""
+"In the last figure, in how many regions is the circle divided into when all "
+"dots are connected?"
+msgstr "ในภาพสุดท้าย เมื่อลากเส้นเชื่อมระหว่างจุดทุกจุดแล้ว รูปวงกลมจะถูกแบ่งออกเป็นกี่ส่วน?"
+
+#: ../src/Games/Logic/PuzzleDivideCircle.cs:179
+#, csharp-format
+msgid "Has {0} region"
+msgid_plural "Has {0} regions"
+msgstr[0] "มี {0} ส่วน"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:33
+msgid "Equation"
+msgstr "สมการ"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:37
+msgid "What is the result of the equation below?"
+msgstr "สมการข้างล่างนี้มีผลลัพธ์เท่าใด?"
+
+#: ../src/Games/Logic/PuzzleEquation.cs:42
+msgid ""
+"The order of arithmetical operations is always as follows: exponents and "
+"roots, multiplication and division, addition and subtraction."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:41
+msgid "Extra circle"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:50
+#, csharp-format
+msgid ""
+"Which circle does not belong to the group? It is not a sequence of elements. "
+"Answer {0}, {1}, {2} or {3}."
+msgstr "วงกลมใดที่ไม่เข้าพวก? นี่ไม่ใช่ลำดับขององค์ประกอบ ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:55
+msgid "All circles share a common property except for one."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleExtraCircle.cs:60
+msgid ""
+"In all circles the color slices follow the same order except for this one."
+msgstr "วงกลมทั้งหมดเรียงสีชิ้นส่วนในลำดับที่เหมือนกัน ยกเว้นวงนี้"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:40
+msgid "Figures and text"
+msgstr "ภาพและตัวอักษร"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:44
+msgid ""
+"The figures and the text are related. What text should go under the last "
+"figure?"
+msgstr "ภาพและตัวอักษรนั้นมีความสัมพันธ์กัน ตัวอักษรใดที่ควรอยู่ใต้ภาพสุดท้าย?"
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:48
+msgid "Every character of the text represents a property of the figure."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigureLetter.cs:53
+msgid ""
+"'A' indicates that the figures overlap, 'B' that are squares, 'C' that are "
+"circles, 'D' that the figures are separated, 'E' that there are three "
+"figures and 'F' that there are two figures."
+msgstr ""
+"'A' หมายถึงภาพเหลื่อมกันอยู่, 'B' หมายถึงสี่เหลี่ยมจัตุรัส, 'C' หมายถึงวงกลม, 'D' "
+"หมายถึงภาพแยกออกจากกัน, 'E' หมายถึงภาพประกอบขึ้นจากรูปสามรูป และ 'F' "
+"หมายถึงภาพประกอบขึ้นจากรูปสองรูป"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:40
+msgid "Figure pattern"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:45
+#, csharp-format
+msgid "What figure should replace the question mark? Answer {0}, {1} or {2}."
+msgstr "ภาพใดที่ควรนำมาแทนที่เครื่องหมายคำถาม? ตอบ {0}, {1} หรือ {2}"
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:50
+msgid ""
+"The third figure of every row involves somehow combining the first two "
+"figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigurePattern.cs:55
+msgid ""
+"Superpose the first and second figures and remove the lines that they have "
+"in common, then rotate the resulting figure 45 degrees."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:42
+msgid "Figures"
+msgstr "ภาพ"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:46
+msgid ""
+"What is the next logical sequence of objects in the last column? See below "
+"the convention when giving the answer."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:51
+msgid ""
+"It is the only combination that you can build with the given elements "
+"without repeating them."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:78
+#: ../src/Games/Logic/PuzzleFigures.cs:90
+#: ../src/Games/Logic/PuzzleFigures.cs:103
+#, csharp-format
+msgid "{0} ->"
+msgstr "{0} ->"
+
+#: ../src/Games/Logic/PuzzleFigures.cs:159
+msgid "Convention when giving the answer is:"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFigures.cs:163
+#, csharp-format
+msgid "E.g: {0}{1}{2} (pentagon, triangle, circle)"
+msgstr "เช่น: {0}{1}{2} (ห้าเหลี่ยม, สามเหลี่ยม, วงกลม)"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:32
+msgid "Four sided"
+msgstr "สี่ด้าน"
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:36
+msgid "How many four sided figures do you count in the figure below?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:40
+msgid "A four sided figure can be embedded inside another figure."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleFourSided.cs:45
+#, csharp-format
+msgid "The four sided figures are made by connecting the following points: {0}"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:32
+msgid "Handshakes"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:37
+#, csharp-format
+msgid ""
+"All attendees to a party are introduced to one another. {0} handshakes are "
+"made in total. How many people are attending the party?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleHandshakes.cs:42
+msgid ""
+"Try to imagine a situation in which you are meeting a small number of people."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:113
+msgid "Larger shape"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLargerShape.cs:122
+#, csharp-format
+msgid ""
+"Which larger shape can you make combining the first two figures? Answer {0}, "
+"{1}, {2} or {3}."
+msgstr ""
+"รูปทรงใดที่คุณสามารถสร้างได้จากการนำสองภาพแรกมาประกอบกัน? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzleLines.cs:34
+msgid "Lines"
+msgstr "เส้น"
+
+#: ../src/Games/Logic/PuzzleLines.cs:38
+msgid ""
+"How many line segments in total are in the figures below? A line segment is "
+"a line between two points with no crossing lines."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:43
+#, csharp-format
+msgid ""
+"There are {0} lines in the figure to the left and {1} in the figure to the "
+"right."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleLines.cs:48
+msgid "It is an easy exercise if you systematically count the lines."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:35
+msgid "Matrix groups"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:39
+msgid "One of numbers in the matrix must be circled. Which one?"
+msgstr "มีเลขตัวหนึ่งในตารางที่ควรกาวงกลม เลขนั้นคืออะไร?"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:43
+msgid "All circled numbers share an arithmetical property."
+msgstr "ตัวเลขที่กาวงกลมทั้งหมดจะมีคุณสมบัติทางเลขคณิตที่เหมือนกัน"
+
+#: ../src/Games/Logic/PuzzleMatrixGroups.cs:48
+#, csharp-format
+msgid "Every circled number can be divided by {0}."
+msgstr "ตัวเลขที่กาวงกลมทั้งหมดสามารถหารด้วย {0} ลงตัว"
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:44
+msgid "Matrix numbers"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:48
+msgid ""
+"The numbers in the matrix follow a pattern. Which number should replace the "
+"question mark?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:54
+msgid "The pattern is arithmetical and works vertically."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:56
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:167
+msgid "The pattern is arithmetical and works horizontally."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:65
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and adding "
+"the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:67
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"adding the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:71
+msgid ""
+"The fourth row is calculated by multiplying the first two rows and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:73
+msgid ""
+"The fourth column is calculated by multiplying the first two columns and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:77
+msgid ""
+"The fourth row is calculated by adding the first two rows and subtracting "
+"the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMatrixNumbers.cs:79
+msgid ""
+"The fourth column is calculated by adding the first two columns and "
+"subtracting the third."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:35
+msgid "Missing piece"
+msgstr "ชิ้นที่หายไป"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:40
+#, csharp-format
+msgid "Which square completes the figure below? Answer {0}, {1} or {2}."
+msgstr "สี่เหลี่ยมใดจะเติมภาพข้างล่างนี้ให้สมบูรณ์? ตอบ {0}, {1} หรือ {2}"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:45
+msgid "The logic works at row level."
+msgstr "คิดด้วยตรรกะตามแนวนอน"
+
+#: ../src/Games/Logic/PuzzleMissingPiece.cs:50
+msgid ""
+"In every row the third square is made by flipping the first square and "
+"superimposing it on the second square, followed by removing the matching "
+"lines."
+msgstr ""
+"ในทุกแถว สี่เหลี่ยมอันที่สามจะสร้างจากการพลิกสี่เหลี่ยมอันแรก แล้วนำไปซ้อนทับสี่เหลี่ยมอันที่สอง "
+"ตามด้วยการลบเส้นที่ซ้อนทับกัน"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:62
+msgid "Missing slice"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:67
+#, csharp-format
+msgid ""
+"Some slices have a common property. Which is the missing slice in the circle "
+"below? Answer {0}, {1} or {2}."
+msgstr ""
+"มีชิ้นส่วนบางชิ้นที่มีคุณสมบัติเหมือนกัน ชิ้นใดที่หายไปจากวงกลมข้างล่างนี้? ตอบ {0}, {1} หรือ {2}"
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:72
+msgid "Each slice is related to the opposite one."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMissingSlice.cs:77
+#, csharp-format
+msgid ""
+"All numbers of each slice, when added to the ones of the opposite slice, add "
+"always {0}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:76
+msgid "Most in common"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:81
+#, csharp-format
+msgid ""
+"Which of the possible answers have the most in common with the four given "
+"figures? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:86
+msgid "Think of the common elements that the given figures have inside them."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:92
+msgid ""
+"It has the same number of elements inside the figure as the given figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMostInCommon.cs:94
+msgid ""
+"It is the figure with the most elements in common compared to the given "
+"figures."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:33
+msgid "Move figure"
+msgstr "ย้ายภาพ"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:37
+msgid ""
+"What is the minimum number of circles to be moved in order to convert the "
+"left figure into the right figure?"
+msgstr "จำนวนของวงกลมที่น้อยที่สุดที่จะย้าย เพื่อเปลี่ยนรูปทางซ้ายให้เป็นรูปทางขวา คือเท่าใด?"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:44
+msgid ""
+"Move the circle from the first line to the second and move two circles from "
+"the fourth line to the second and the fifth lines."
+msgstr ""
+"ย้ายวงกลมจากแถวแรกไปแถวที่สอง และย้ายวงกลมสองวงจากแถวที่สี่ไปยังแถวที่สองและแถวที่ห้า"
+
+#: ../src/Games/Logic/PuzzleMoveFigure.cs:46
+msgid ""
+"Move the first line to the seventh; move the two circles of the second line "
+"to third; and move first and last circles of the fifth line to the sixth."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:53
+msgid "Next figure"
+msgstr "ภาพถัดไป"
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:58
+#, csharp-format
+msgid ""
+"Which is the next logical figure in the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNextFigure.cs:65
+msgid ""
+"From first figure, the top circle advances by two positions clockwise, while "
+"the left circle goes backwards one position."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:38
+msgid "Numeric relation"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:42
+msgid "What number should replace the question mark?"
+msgstr "เลขอะไรที่ควรนำมาแทนที่เครื่องหมายคำถาม?"
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:46
+msgid "The numbers are related arithmetically."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:53
+#, csharp-format
+msgid "Every group of {0} numbers sums exactly {1}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:55
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by multiplying by the two previous ones."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericRelation.cs:57
+msgid ""
+"Divide the sequence in groups of three numbers. Every third number is "
+"calculated by subtracting the second number from the first."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:35
+msgid "Numeric sequence"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:39
+msgid ""
+"The next sequence follows a logic. What number should replace the question "
+"mark?"
+msgstr "ลำดับถัดไปจะเป็นไปตามตรรกะบางอย่าง เลขอะไรที่ควรนำมาแทนที่เครื่องหมายคำถาม?"
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:43
+msgid "Every number in the sequence is related to the previous one."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:50
+msgid ""
+"Every number in the sequence is the result of subtracting 1 from the "
+"previous number and multiplying it by 2."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:52
+msgid ""
+"Every number in the sequence is the result of adding 1 to the previous "
+"number and multiplying it by 3."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleNumericSequence.cs:54
+msgid ""
+"Every number in the sequence is the result of subtracting 2 from the "
+"previous number and multiplying it by -2."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:53
+msgid "Ostracism"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:58
+#, csharp-format
+msgid ""
+"Which element does not belong to the group? It is not related to "
+"divisibility of the numbers. Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"สิ่งใดที่ไม่เข้าพวก? นี่ไม่เกี่ยวข้องกับการหารลงตัวของตัวเลข ตอบ {0}, {1}, {2}, {3} หรือ {4}"
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:66
+msgid ""
+"The criteria for deciding if an equation belongs to the group is not "
+"arithmetical."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:68
+msgid ""
+"Consider that every number that belongs to the group has two parts that are "
+"related."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:79
+msgid ""
+"In all the other equations the digits from the left side appear also in the "
+"right side."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleOstracism.cs:81
+msgid ""
+"In all the other numbers the last three digits are the square of the first "
+"two digits."
+msgstr "ในเลขชุดอื่น ๆ ตัวเลขสามตัวท้ายจะได้จากการยกกำลังสองของเลขสองตัวแรก"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:56
+#, csharp-format
+msgid ""
+"If all painters are artists and some citizens of Barcelona are artists. "
+"Which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าจิตรกรทุกคนเป็นศิลปิน และชาวเมืองบาร์เซโลนาบางคนเป็นศิลปิน ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ "
+"{0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:58
+msgid "Some citizens of Barcelona are painters"
+msgstr "ชาวเมืองบาร์เซโลนาบางคนเป็นจิตรกร"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:59
+msgid "All citizens of Barcelona are painters"
+msgstr "ชาวเมืองบาร์เซโลนาทั้งหมดเป็นจิตรกร"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:60
+msgid "No citizen of Barcelona is a painter"
+msgstr "ไม่มีชาวเมืองบาร์เซโลนาคนใดเป็นจิตรกร"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:61
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:69
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:77
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:85
+msgid "None of the other options"
+msgstr "ผิดทุกข้อที่กล่าวมา"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:64
+#, csharp-format
+msgid ""
+"If no ill artist is happy and some artists are happy. Which of the following "
+"conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าไม่มีศิลปินป่วยคนใดมีความสุข และศิลปินบางคนมีความสุข ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, "
+"{2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:66
+msgid "Some artist are not ill"
+msgstr "ศิลปินบางคนไม่ได้ป่วย"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:67
+msgid "Some painters are not artists"
+msgstr "จิตรกรบางคนไม่ใช่ศิลปิน"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:68
+msgid "All artists are happy"
+msgstr "จิตรกรทุกคนมีความสุข"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:72
+#, csharp-format
+msgid ""
+"People that travel always buy a map. You are not going to travel. Which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"คนที่เดินทางจะซื้อแผนที่เสมอ คุณไม่ได้กำลังจะเดินทาง ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, "
+"{2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:74
+msgid "You do not have any map"
+msgstr "คุณไม่มีแผนที่ใดๆ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:75
+msgid "You do not buy a map"
+msgstr "คุณไม่ซื้อแผนที่"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:76
+msgid "All people have a map"
+msgstr "ทุกคนมีแผนที่"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:80
+#, csharp-format
+msgid ""
+"If you whistle if you are happy and you always smile when you whistle, which "
+"of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าคุณผิวปากถ้าคุณมีความสุข และคุณจะยิ้มเมื่อคุณผิวปากเท่านั้น ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, "
+"{1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:82
+msgid "You smile if you are happy"
+msgstr "คุณจะยิ้มถ้าคุณมีความสุข"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:83
+msgid "You are only happy if you whistle"
+msgstr "คุณจะมีความสุขก็ต่อเมื่อคุณผิวปากเท่านั้น"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:84
+msgid "You whistle if you are not happy"
+msgstr "คุณจะผิวปากถ้าคุณไม่มีความสุข"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:88
+#, csharp-format
+msgid ""
+"If your course is always honest and your course is always the best policy, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าการกระทำของคุณซื่อสัตย์เสมอ และการกระทำของคุณเป็นนโยบายที่ดีที่สุดเสมอ "
+"ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:90
+msgid "Honesty is sometimes the best policy"
+msgstr "ความซื่อสัตย์เป็นนโยบายที่ดีที่สุดในบางครั้ง"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:91
+msgid "Honesty is always the best policy"
+msgstr "ความซื่อสัตย์เป็นนโยบายที่ดีที่สุดเสมอ"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:92
+msgid "Honesty is not always the best policy"
+msgstr "ความซื่อสัตย์ไม่ได้เป็นนโยบายที่ดีที่สุดเสมอไป"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:93
+msgid "Some of the best policies are dishonest"
+msgstr "นโยบายที่ดีที่สุดบางนโยบายก็ไม่ซื่อสัตย์"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:96
+#, csharp-format
+msgid ""
+"If no old misers are cheerful and some old misers are thin, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าไม่มีคนตระหนี่คนใดร่าเริง และคนตระหนี่บางคนผอม ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, "
+"{2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:98
+msgid "Some thin people are not cheerful"
+msgstr "คนผอมบางคนไม่ร่าเริง"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:99
+msgid "Thin people are not cheerful"
+msgstr "คนผอมจะไม่ร่าเริง"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:100
+msgid "Cheerful people are not thin"
+msgstr "คนร่าเริงจะไม่ผอม"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:101
+msgid "Some cheerful people are not thin"
+msgstr "คนร่าเริงบางคนไม่ผอม"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:104
+#, csharp-format
+msgid ""
+"If all pigs are fat and nothing that is fed on barley-water is fat, which of "
+"the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าหมูทุกตัวอ้วน และไม่มีสัตว์ใดที่กินน้ำข้าวบาร์เลย์แล้วอ้วน ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, "
+"{2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:106
+msgid "All animals fed on barley-water are non pigs"
+msgstr "สัตว์ทุกตัวที่กินน้ำข้าวบาร์เลย์ไม่ใช่หมู"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:107
+msgid "No pigs are fed on barley-water"
+msgstr "ไม่มีหมูตัวใดกินน้ำข้าวบาร์เลย์"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:108
+msgid "Pigs are not fed on barley-water"
+msgstr "หมูไม่กินน้ำข้าวบาร์เลย์"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:109
+msgid "All the other options"
+msgstr "ถูกทุกข้อที่กล่าวมา"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:112
+#, csharp-format
+msgid ""
+"If some pictures are first attempts and no first attempts are really good, "
+"which of the following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าภาพบางภาพเกิดจากการวาดครั้งแรก และไม่มีการวาดครั้งแรกใดจะออกมาสวยงาม "
+"ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:114
+msgid "Some bad pictures are not first attempts"
+msgstr "ภาพไม่สวยบางภาพไม่ใช่การวาดครั้งแรก"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:115
+msgid "Some pictures are not really good"
+msgstr "ภาพบางภาพไม่สวยงาม"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:116
+msgid "All bad pictures are first attempts"
+msgstr "ภาพไม่สวยทั้งหมดเกิดจากการวาดครั้งแรก"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:117
+msgid "All the others"
+msgstr "ถูกทุกข้อที่กล่าวมา"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:120
+#, csharp-format
+msgid ""
+"If you have been out for a walk and you are feeling better, which of the "
+"following conclusions is correct? Answer {0}, {1}, {2} or {3}."
+msgstr ""
+"ถ้าคุณได้ออกไปเดินเล่นมาและคุณกำลังรู้สึกดีขึ้น ข้อสรุปใดต่อไปนี้ถูกต้อง? ตอบ {0}, {1}, {2} หรือ "
+"{3}"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:122
+msgid "To feel better, you must go out for a walk"
+msgstr "ถ้าจะให้รู้สึกดีขึ้น คุณต้องออกไปเดินเล่น"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:123
+msgid "If you go out for a walk, you will feel better"
+msgstr "ถ้าคุณออกไปเดินเล่น คุณจะรู้สึกดีขึ้น"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:124
+msgid "Some who go out for a walk feel better"
+msgstr "คนบางคนที่ออกไปเดินเล่นจะรู้สึกดีขึ้น"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:125
+msgid "No one feels better who does not go out for a walk"
+msgstr "ไม่มีใครที่ไม่ออกไปเดินเล่นจะรู้สึกดีขึ้น"
+
+#: ../src/Games/Logic/PuzzlePredicateLogic.cs:130
+msgid "Predicate Logic"
+msgstr "ตรรกศาสตร์อนุมาน"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:38
+msgid "Pencil"
+msgstr "ดินสอ"
+
+#: ../src/Games/Logic/PuzzlePencil.cs:43
+#, csharp-format
+msgid ""
+"Which of the following figures cannot be drawn without crossing any previous "
+"lines nor lifting the pencil? Answer {0}, {1}, {2}, {3} or {4}."
+msgstr ""
+"ภาพใดต่อไปนี้ที่ไม่สามารถวาดได้โดยไม่ลากตัดผ่านเส้นเดิมหรือยกดินสอ? ตอบ {0}, {1}, {2}, {3} "
+"หรือ {4}"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:45
+msgid "People at a table"
+msgstr "นั่งล้อมโต๊ะ"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:49
+#, csharp-format
+msgid ""
+"A group of people are sitting at round table, evenly spaced out. How many "
+"people are there if the {0} person is across from the {1}?"
+msgstr ""
+"คนกลุ่มหนึ่งนั่งล้อมโต๊ะกลมโดยที่นั่งวางห่างเท่าๆ กัน มีคนรอบโต๊ะทั้งหมดกี่คนถ้าคนที่ {0} "
+"นั่งตรงข้ามกับคนที่ {1} อยู่?"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:54
+msgid ""
+"Subtracting the two positions you find out how many people are seated half "
+"way around the table. Doubling this number leaves you with the total amount "
+"of people."
+msgstr ""
+"หาผลต่างของตำแหน่งทั้งสอง คุณจะทราบว่ามีคนกี่คนนั่งอยู่ครึ่งหนึ่งของโต๊ะ "
+"คูณผลต่างนี้ด้วยสองก็จะได้จำนวนคนทั้งหมด"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:62
+msgid "5th"
+msgstr "5"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:63
+msgid "19th"
+msgstr "19"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:67
+msgid "4th"
+msgstr "4"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:68
+msgid "12th"
+msgstr "12"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:72
+msgid "9th"
+msgstr "9"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:73
+msgid "22nd"
+msgstr "22"
+
+#: ../src/Games/Logic/PuzzlePeopleTable.cs:113
+msgid "Two people in the table sitting across each other"
+msgstr "คนสองคนนั่งตรงข้ามกันในโต๊ะ"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:41
+msgid "Percentage"
+msgstr "ร้อยละ"
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:78
+#, csharp-format
+msgid ""
+"After getting {0}% discount you have paid {1} monetary units for a TV set. "
+"What was the original price of the TV set?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:96
+#, csharp-format
+msgid ""
+"John's shop had sales of {0} monetary units. This was an increase of {1}% "
+"over last month. What were last month sales?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:112
+#, csharp-format
+msgid ""
+"The amount of water in a bucket decreases by {0}%. By what percentage must "
+"the amount of water increase to reach its original value?"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzlePercentage.cs:115
+msgid "The objective is to obtain the same total amount."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:44
+msgid "Quadrilaterals"
+msgstr "สี่เหลี่ยม"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:49
+#, csharp-format
+msgid ""
+"Which of the following figures does not belong to the group? Answer {0}, "
+"{1}, {2}, {3}, {4} or {5}."
+msgstr "ภาพใดต่อไปนี้ไม่เข้าพวก? ตอบ {0}, {1}, {2}, {3}, {4} หรือ {5}"
+
+#: ../src/Games/Logic/PuzzleQuadrilaterals.cs:56
+msgid "It is the only figure with all lines of equal length."
+msgstr "มีเพียงภาพเดียวที่ด้านทั้งหมดมีความยาวเท่ากัน"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:159
+msgid "Related numbers"
+msgstr "ตัวเลขที่สัมพันธ์กัน"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:163
+msgid "In the matrix below, which number should replace the question mark?"
+msgstr "ในตารางข้างล่างนี้ เลขอะไรที่ควรนำมาแทนที่เครื่องหมายคำถาม?"
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:174
+msgid ""
+"The number on the middle in every row is equal to half of the sum of the "
+"other numbers of the row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:176
+msgid ""
+"The number on the middle in every row is equal the sum of the other numbers "
+"of the row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleRelatedNumbers.cs:178
+msgid ""
+"The number on the middle in every row is equal to the double of the sum of "
+"the other numbers of the row."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:204
+msgid "Square with dots"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareDots.cs:209
+#, csharp-format
+msgid ""
+"What is the letter of the figure that represents the next logical figure in "
+"the sequence? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:35
+msgid "Squares and letters"
+msgstr "สี่เหลี่ยมกับอักษร"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:39
+msgid ""
+"The letters around the squares follow a pattern. Which letter should replace "
+"the question mark in the last square?"
+msgstr ""
+"อักษรรอบสี่เหลี่ยมจะเรียงตัวอย่างมีรูปแบบ อักษรใดที่ควรนำมาแทนเครื่องหมายคำถามในสี่เหลี่ยมสุดท้าย?"
+
+#: ../src/Games/Logic/PuzzleSquaresAndLetters.cs:44
+#, csharp-format
+msgid ""
+"Every letter is calculated by taking the alphabetical position of the "
+"previous character and adding {0} to it in order to get the position of the "
+"new letter."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:32
+msgid "Squares"
+msgstr "สี่เหลี่ยมจัตุรัส"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:36
+msgid "How many squares of any size do you count in the figure below?"
+msgstr "คุณนับสี่เหลี่ยมจัตุรัสได้กี่รูปจากภาพข้างล่าง?"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:40
+msgid ""
+"A square is a rectangle with sides of equal length. A square can also be "
+"built from other squares."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquares.cs:47
+msgid ""
+"There are 16 single squares, 9 squares made by 4 single squares, 4 squares "
+"made by 9 single squares and 1 square made by 16 single squares."
+msgstr ""
+"มีสี่เหลี่ยมเล็ก 16 รูป, มีสี่เหลี่ยม 9 รูปที่ได้จากการรวมกันของสี่เหลี่ยมเล็ก 4 รูป, มีสี่เหลี่ยม 4 "
+"รูปที่ได้จากการรวมกันของสี่เหลี่ยมเล็ก 9 รูป และมีสี่เหลี่ยมใหญ่ 1 รูปที่ได้จากสี่เหลี่ยมเล็ก 16 "
+"รูปรวมกัน"
+
+#: ../src/Games/Logic/PuzzleSquares.cs:49
+msgid ""
+"There are 9 single squares, 4 squares made by 4 single squares and 1 square "
+"made by 9 single squares."
+msgstr ""
+"มีสี่เหลี่ยมเล็ก 9 รูป, มีสี่เหลี่ยม 4 รูปที่ได้จากการรวมกันของสี่เหลี่ยมเล็ก 4 รูป, และมีสี่เหลี่ยมใหญ่ "
+"1 รูปที่ได้จากสี่เหลี่ยมเล็ก 9 รูปรวมกัน"
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:29
+msgid "Square sheets"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:33
+msgid ""
+"What is the minimum number of square sheets of paper of any size required to "
+"create the figure? Lines indicate frontiers between different sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:37
+msgid "The sheets should overlap."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleSquareSheets.cs:42
+msgid ""
+"The numbers in the figure reflect the different areas covered by each one of "
+"the sheets."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:35
+msgid "Tetris"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:40
+#, csharp-format
+msgid "What figure completes the sequence below? Answer {0}, {1} or {2}."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTetris.cs:46
+msgid ""
+"It is the figure that completes all possible combinations with four blocks "
+"without taking into account rotations."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:34
+msgid "Time now"
+msgstr ""
+
+#. TimeNow Puzzle. Translators: {1}, {2} {3} are replaced by hours. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:44
+#, csharp-format
+msgid ""
+"{0} hours ago it was as long after {1:h tt} as it was before {2:h tt} on the "
+"same day. What is the time now? Answer using the hour (e.g.: {3:h tt})"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTimeNow.cs:50
+#, csharp-format
+msgid ""
+"You have to calculate the hour from which the distance is the same for the "
+"given times, and then add the {0} hours to convert it to present time."
+msgstr ""
+
+#. TimeNow Puzzle. Translators: {0} is used to check the hour answered by the user.
+#. Use the right time format specification for your culture
+#. Explanation of the date and time format specifications can be found here:
+#. http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.aspx
+#. For 12-hour clock format use {0:%h} and for 24-hour clock format use {0:%H}. The date formats {0:h} and {0:H} are invalid.
+#: ../src/Games/Logic/PuzzleTimeNow.cs:76
+#, csharp-format
+msgid "{0:h tt}"
+msgstr "{0:%H}"
+
+#. No hands
+#: ../src/Games/Logic/PuzzleTimeNow.cs:85
+msgid "Sample clock"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrains.cs:41
+msgid "Trains"
+msgstr "รถไฟ"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:53
+msgid "The distance formula is 'distance = rate x time'."
+msgstr "สูตรของระยะทางคือ 'ระยะทาง = อัตราเร็ว x เวลา'"
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:82
+#, csharp-format
+msgid ""
+"A train leaves the station traveling at {0} mph. {1} hour later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgid_plural ""
+"A train leaves the station traveling at {0} mph. {1} hours later a second "
+"train leaves the station traveling in the same direction at {2} mph. How "
+"many hours does it take the second train to overtake the first train?"
+msgstr[0] ""
+"รถไฟขบวนหนึ่งออกจากสถานีด้วยอัตราเร็ว {0} กม./ชม. {1} ชั่วโมงถัดมา "
+"รถไฟขบวนที่สองก็ออกจากสถานีเดิมในทิศทางเดียวกันด้วยอัตราเร็ว {2} กม./ชม. "
+"ต้องใช้เวลากี่ชั่วโมงกว่าที่รถไฟขบวนที่สองจะตามทันรถไฟขบวนแรก?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:86
+msgid ""
+"You can calculate the answer multiplying the second train speed by the time "
+"and dividing it by the difference of speeds."
+msgstr ""
+"คุณสามารถคำนวณคำตอบได้โดยคูณอัตราเร็วของรถไฟขบวนแรกด้วยเวลาออกที่ต่างกัน "
+"แล้วหารด้วยผลต่างของอัตราเร็วของทั้งสองขบวน"
+
+#. Translators:
+#. - {0}, {1} and {3} are always greater than 2
+#. - mph (miles per hour) and miles must be localized this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:104
+#, csharp-format
+msgid ""
+"Two trains separated by {0} miles are heading towards each other on straight "
+"parallel tracks. One travels at {1} mph and the other at {2} mph. In how "
+"many hours do they meet?"
+msgstr ""
+"รถไฟสองขบวนอยู่ห่างกันเป็นระยะทาง {0} กม. และกำลังวิ่งเข้าหากันบนรางตรงคู่ขนาน "
+"ขบวนหนึ่งวิ่งด้วยอัตราเร็ว {1} กม./ชม. และอีกขบวนหนึ่งวิ่งด้วยอัตราเร็ว {2} กม./ชม. "
+"รถไฟทั้งสองขบวนจะพบกันในกี่ชั่วโมง?"
+
+#: ../src/Games/Logic/PuzzleTrains.cs:107
+#: ../src/Games/Logic/PuzzleTrains.cs:128
+msgid ""
+"You can calculate the answer dividing the distance by the sum of both speeds."
+msgstr "คุณสามารถคำนวณคำตอบได้โดยหารระยะทางด้วยผลบวกของอัตราเร็วของทั้งสองขบวน"
+
+#. Translators:
+#. - {0}, {1} and {2} are always greater than 2
+#. - mph (miles per hour). You must localize this using the right unit of speed for your locale
+#: ../src/Games/Logic/PuzzleTrains.cs:125
+#, csharp-format
+msgid ""
+"Two trains on straight parallel tracks leave from the same point and time "
+"traveling in opposite directions at {0} and {1} mph respectively. In how "
+"many hours they will be {2} miles apart?"
+msgstr ""
+"รถไฟสองขบวนบนรางตรงคู่ขนานวิ่งออกจากจุดเดียวกันในเวลาเดียวกัน "
+"โดยวิ่งในทิศทางตรงข้ามกันที่อัตราเร็ว {0} และ {1} กม./ชม. ตามลำดับ รถไฟทั้งสองขบวนจะห่างกัน "
+"{2} กม. ในเวลากี่ชั่วโมง?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:32
+msgid "Triangles"
+msgstr "สามเหลี่ยม"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:36
+msgid "How many triangles of any size do you count in the figure below?"
+msgstr "คุณนับสามเหลี่ยมขนาดใดๆ ได้กี่รูปจากภาพข้างล่าง?"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:40
+msgid "A triangle can be embedded inside another triangle."
+msgstr "สามเหลี่ยมแต่ละรูปสามารถวางซ้อนในสามเหลี่ยมอื่นได้"
+
+#: ../src/Games/Logic/PuzzleTriangles.cs:45
+#, csharp-format
+msgid "The triangles are made by connecting the following points: {0}"
+msgstr "สามเหลี่ยมเกิดจากการเชื่อมต่อจุดดังต่อไปนี้: {0}"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:58
+msgid "Triangles with numbers"
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:62
+msgid "Which number should replace the question mark below?"
+msgstr "เลขอะไรที่ควรนำมาแทนที่เครื่องหมายคำถามข้างล่าง?"
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:67
+msgid "All the triangles share a property and are independent of the rest."
+msgstr ""
+
+#: ../src/Games/Logic/PuzzleTrianglesWithNumbers.cs:72
+#, csharp-format
+msgid "The result of multiplying the two numbers inside every triangle is {0}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:51
+msgid "Colored figures"
+msgstr "ภาพสี"
+
+#: ../src/Games/Memory/MemoryColouredFigures.cs:60
+#, csharp-format
+msgid ""
+"Which of these figures was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "ภาพใดต่อไปนี้ที่ได้แสดงไปเมื่อสักครู่? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:36
+msgid "Colored text"
+msgstr "ข้อความสี"
+
+#: ../src/Games/Memory/MemoryColouredText.cs:45
+#, csharp-format
+msgid "What was the color of the text that said '{0}'?"
+msgstr "คำที่เขียนว่า '{0}' มีสีอะไร?"
+
+#: ../src/Games/Memory/MemoryCountDots.cs:41
+msgid "Counting dots"
+msgstr "นับจุด"
+
+#. Translators: {0} is the name of the color. The color name is always singular
+#: ../src/Games/Memory/MemoryCountDots.cs:52
+#, csharp-format
+msgid ""
+"How many dots of {0} color were in the previous image? Answer using numbers."
+msgstr "มีจุดสี{0}กี่จุดในภาพที่แสดงไปเมื่อสักครู่? ตอบเป็นตัวเลข"
+
+#: ../src/Games/Memory/MemoryFacts.cs:49
+msgid "Memorize facts"
+msgstr ""
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:108
+#, csharp-format
+msgid ""
+"Shiny Cars had already announced a {0} day production halt next month, but "
+"before that it had not cut production since {1}."
+msgid_plural ""
+"Shiny Cars had already announced a {0} days production halt next month, but "
+"before that it had not cut production since {1}."
+msgstr[0] ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:112
+msgid "For how many days did Shiny Cars halt its production?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:113
+msgid "In what year did Shiny Cars last halt its production?"
+msgstr ""
+
+#. Translators: {0} is replaced by a number, {1} by a year (like 1940)
+#: ../src/Games/Memory/MemoryFacts.cs:121
+#, csharp-format
+msgid ""
+"Shiny Cars sales fell {0}% this past December, the worse decline since {1}."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:123
+msgid "By how much did company sales fall last December?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:124
+msgid ""
+"In what year did Shiny Cars record a sales total lower than that of last "
+"December?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:129
+#, csharp-format
+msgid "About {0}% of Shiny Cars produced worldwide are sold in Europe."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:131
+msgid ""
+"What percentage of all Shiny Cars produced worldwide are sold in Europe?"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFacts.cs:137
+#, csharp-format
+msgid ""
+"About {0}% of Shiny Cars use diesel, {1}% use gasoline and the remainder use "
+"electric."
+msgstr "ประมาณ {0}% ของรถ Shiny ใช้น้ำมันดีเซล, {1}% ใช้น้ำมันเบนซิน และที่เหลือใช้ไฟฟ้า"
+
+#: ../src/Games/Memory/MemoryFacts.cs:139
+msgid "What percentage of Shiny Cars use diesel?"
+msgstr "กี่เปอร์เซ็นต์ของรถ Shiny ที่ใช้น้ำมันดีเซล?"
+
+#: ../src/Games/Memory/MemoryFacts.cs:140
+msgid "What percentage of Shiny Cars use gasoline?"
+msgstr "กี่เปอร์เซ็นต์ของรถ Shiny ที่ใช้น้ำมันเบนซิน?"
+
+#: ../src/Games/Memory/MemoryFigures.cs:55
+msgid "Memory figures"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFigures.cs:60
+msgid ""
+"In which cell is the other figure like the one shown below? Answer the cell "
+"number."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:51
+msgid "Triangle"
+msgstr "สามเหลี่ยม"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:53
+msgid "Square"
+msgstr "สี่เหลี่ยมจัตุรัส"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:55
+msgid "Pentagon"
+msgstr "ห้าเหลี่ยม"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:57
+msgid "Circle"
+msgstr "วงกลม"
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:65
+msgid "Memorize figures and text"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresAndText.cs:69
+msgid ""
+"The list below enumerates the figures shown in the previous image except for "
+"one. Which is the missing figure? Possible answers are triangle, square, "
+"pentagon and circle."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:39
+msgid "Figures with numbers"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryFiguresNumbers.cs:44
+#, csharp-format
+msgid ""
+"Which one of these squares was previously shown? Answer {0}, {1}, {2} or {3}."
+msgstr "สี่เหลี่ยมใดต่อไปนี้ที่ได้แสดงไปเมื่อสักครู่? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:130
+#, csharp-format
+msgid "Start at point number {0}"
+msgstr "เริ่มที่จุดหมายเลข {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:134
+msgid "Move right"
+msgstr "เลื่อนขวา"
+
+#: ../src/Games/Memory/MemoryIndications.cs:136
+msgid "Move left"
+msgstr "เลื่อนซ้าย"
+
+#: ../src/Games/Memory/MemoryIndications.cs:138
+msgid "Move up"
+msgstr "เลื่อนขึ้น"
+
+#: ../src/Games/Memory/MemoryIndications.cs:140
+msgid "Move down"
+msgstr "เลื่อนลง"
+
+#: ../src/Games/Memory/MemoryIndications.cs:145
+#, csharp-format
+msgid "End at point {0}"
+msgstr "จบที่จุด {0}"
+
+#: ../src/Games/Memory/MemoryIndications.cs:159
+msgid "Memorize indications"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryIndications.cs:165
+#, csharp-format
+msgid ""
+"Which of the following graphics represent the indications previously given? "
+"Answer {0}, {1}, {2} or {3}."
+msgstr "ภาพใดต่อไปนี้ที่ตรงกับทิศทางที่ได้บอกไว้เมื่อสักครู่? ตอบ {0}, {1}, {2} หรือ {3}"
+
+#: ../src/Games/Memory/MemoryNumbers.cs:56
+msgid "How many odd numbers were in the previous image? Answer using numbers."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryNumbers.cs:76
+msgid "How many even numbers were in the previous image? Answer using numbers."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryNumbers.cs:96
+msgid ""
+"How many numbers with more than one digit were in the previous image? Answer "
+"using numbers."
+msgstr ""
+
+#: ../src/Games/Memory/MemoryNumbers.cs:113
+msgid "Memorize numbers"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryWords.cs:37
+msgid "Memorize words"
+msgstr ""
+
+#: ../src/Games/Memory/MemoryWords.cs:42
+msgid ""
+"There is a missing word from the previous list. Which one is the missing "
+"word?"
+msgstr "มีคำหนึ่งที่ไม่มีในรายการที่แสดงเมื่อสักครู่ คำนั้นคือะไร?"
+
+#. Body parts
+#: ../src/Games/Memory/MemoryWords.cs:51
+msgid "wrist"
+msgstr "ข้อมือ"
+
+#: ../src/Games/Memory/MemoryWords.cs:52
+msgid "elbow"
+msgstr "ศอก"
+
+#: ../src/Games/Memory/MemoryWords.cs:53
+msgid "armpit"
+msgstr "รักแร้"
+
+#: ../src/Games/Memory/MemoryWords.cs:54
+msgid "hand"
+msgstr "มือ"
+
+#: ../src/Games/Memory/MemoryWords.cs:55
+msgid "chest"
+msgstr "หน้าอก"
+
+#. Fishes
+#: ../src/Games/Memory/MemoryWords.cs:58
+msgid "sardine"
+msgstr "ปลาซาร์ดีน"
+
+# Not direct translation, for Thai familiarity
+#: ../src/Games/Memory/MemoryWords.cs:59
+msgid "trout"
+msgstr "ปลาทู"
+
+# Not direct translation, for Thai familiarity
+#: ../src/Games/Memory/MemoryWords.cs:60
+msgid "monkfish"
+msgstr "ปลาดุก"
+
+# Not direct translation, for Thai familiarity
+#: ../src/Games/Memory/MemoryWords.cs:61
+msgid "cod"
+msgstr "ปลากระพง"
+
+#: ../src/Games/Memory/MemoryWords.cs:62
+msgid "salmon"
+msgstr "ปลาแซลมอน"
+
+#. Vegetables
+#: ../src/Games/Memory/MemoryWords.cs:65
+msgid "potato"
+msgstr "มันฝรั่ง"
+
+#: ../src/Games/Memory/MemoryWords.cs:66
+msgid "ginger"
+msgstr "ขิง"
+
+#: ../src/Games/Memory/MemoryWords.cs:67
+msgid "pepper"
+msgstr "พริกไทย"
+
+#: ../src/Games/Memory/MemoryWords.cs:68
+msgid "garlic"
+msgstr "กระเทียม"
+
+#: ../src/Games/Memory/MemoryWords.cs:69
+msgid "pumpkin"
+msgstr "ฟักทอง"
+
+#. Bicycle
+#: ../src/Games/Memory/MemoryWords.cs:72
+msgid "brake"
+msgstr "เบรก"
+
+#: ../src/Games/Memory/MemoryWords.cs:73
+msgid "pedal"
+msgstr "คันเหยียบ"
+
+#: ../src/Games/Memory/MemoryWords.cs:74
+msgid "chain"
+msgstr "โซ่"
+
+#: ../src/Games/Memory/MemoryWords.cs:75
+msgid "wheel"
+msgstr "ล้อ"
+
+#: ../src/Games/Memory/MemoryWords.cs:76
+msgid "handlebar"
+msgstr "มือจับ"
+
+#. Music
+#: ../src/Games/Memory/MemoryWords.cs:79
+msgid "drummer"
+msgstr "มือกลอง"
+
+#: ../src/Games/Memory/MemoryWords.cs:80
+msgid "speaker"
+msgstr "ลำโพง"
+
+#: ../src/Games/Memory/MemoryWords.cs:81
+msgid "lyrics"
+msgstr "เนื้อเพลง"
+
+#: ../src/Games/Memory/MemoryWords.cs:82
+msgid "beat"
+msgstr "จังหวะ"
+
+#: ../src/Games/Memory/MemoryWords.cs:83
+msgid "song"
+msgstr "เพลง"
+
+#. Weather
+#: ../src/Games/Memory/MemoryWords.cs:86
+msgid "cloud"
+msgstr "เมฆ"
+
+#: ../src/Games/Memory/MemoryWords.cs:87
+msgid "rain"
+msgstr "ฝน"
+
+#: ../src/Games/Memory/MemoryWords.cs:88
+msgid "storm"
+msgstr "พายุ"
+
+#: ../src/Games/Memory/MemoryWords.cs:89
+msgid "fog"
+msgstr "หมอก"
+
+#: ../src/Games/Memory/MemoryWords.cs:90
+msgid "rainbow"
+msgstr "รุ้ง"
+
+#. Animals
+#: ../src/Games/Memory/MemoryWords.cs:93
+msgid "rabbit"
+msgstr "กระต่าย"
+
+#: ../src/Games/Memory/MemoryWords.cs:94
+msgid "mouse"
+msgstr "หนู"
+
+#: ../src/Games/Memory/MemoryWords.cs:95
+msgid "monkey"
+msgstr "ลิง"
+
+#: ../src/Games/Memory/MemoryWords.cs:96
+msgid "bear"
+msgstr "หมี"
+
+#: ../src/Games/Memory/MemoryWords.cs:97
+msgid "wolf"
+msgstr "หมาป่า"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:42
+msgid "Arithmetical"
+msgstr "เลขคณิต"
+
+#: ../src/Games/Calculation/CalculationArithmetical.cs:50
+msgid "What is the result of the arithmetical operation?"
+msgstr "ผลลัพธ์ของการคำนวณคืออะไร?"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:38
+msgid "Average"
+msgstr "ค่าเฉลี่ย"
+
+#: ../src/Games/Calculation/CalculationAverage.cs:55
+#, csharp-format
+msgid ""
+"Given the numbers: {0}. Which of the following numbers is the nearest to the "
+"average? Answer {1}, {2}, {3} or {4}."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationAverage.cs:60
+msgid ""
+"The average of a list of numbers is the sum of all of the numbers divided by "
+"the number of items in the list."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationAverage.cs:65
+#, csharp-format
+msgid "The result of the operation is {0:##0.###}."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:37
+msgid "Closer fraction"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:46
+#, csharp-format
+msgid ""
+"Which of the following numbers is closer to {0:##0.###}? Answer {1}, {2}, "
+"{3} or {4}."
+msgstr "เลขใดต่อไปนี้ที่ใกล้เคียงกับ {0:##0.###} มากที่สุด? ตอบ {1}, {2}, {3} หรือ {4}"
+
+#: ../src/Games/Calculation/CalculationCloserFraction.cs:54
+#, csharp-format
+msgid "The result of the operation {0} / {1} is {2:##0.###}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationFractions.cs:60
+msgid "Fractions"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationFractions.cs:68
+msgid ""
+"What is the result of the given operation? Answer using either a fraction or "
+"a number."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:37
+msgid "Greatest divisor"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:45
+msgid ""
+"Which of the possible divisors is the greatest that divides all numbers?"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:236
+#: ../src/Games/Calculation/CalculationPrimes.cs:233
+msgid "Numbers"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationGreatestDivisor.cs:250
+msgid "Possible divisors"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationOperator.cs:35
+msgid "Operators"
+msgstr "เครื่องหมายเลขคณิต"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:39
+#, csharp-format
+msgid "The first operator is {0}."
+msgstr "เครื่องหมายแรกคือ {0}"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:47
+#, csharp-format
+msgid "Which operators make {0}, {1}, and {2} equal {3}? Answer using '+-/*'."
+msgstr "เครื่องหมายใดทำทำให้ {0}, {1}, และ {2} เท่ากับ {3}? ตอบ '+-/*'"
+
+#: ../src/Games/Calculation/CalculationOperator.cs:59
+#: ../src/Games/Calculation/CalculationRatio.cs:67
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:71
+#, csharp-format
+msgid "{0} and {1}"
+msgstr "{0} กับ {1}"
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:153
+msgid "Primes"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:161
+msgid ""
+"In the set of numbers below, which of the following numbers is a prime? A "
+"prime number is a positive integer that has exactly two different positive "
+"divisors, 1 and itself."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationPrimes.cs:165
+msgid ""
+"If the sum of all digits in a given number is divisible by 3, then so is the "
+"number. For example 15 = 1 + 5 = 6, which is divisible by 3."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationProportions.cs:37
+msgid "Proportions"
+msgstr "สัดส่วน"
+
+#: ../src/Games/Calculation/CalculationProportions.cs:47
+#, csharp-format
+msgid "What is {0}% of {1}/{2}? Answer {3}, {4}, {5} or {6}."
+msgstr "{0}% ของ {1}/{2} เท่ากับเท่าไร? ตอบ {3}, {4}, {5} หรือ {6}"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:32
+msgid "Ratio"
+msgstr "อัตราส่วน"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:42
+#, csharp-format
+msgid ""
+"Two numbers sum {0} and have a ratio of {1} to {2}. Which are these numbers? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"มีเลขสองจำนวนที่รวมกันได้ {0} และมีอัตราส่วนเป็น {1} ต่อ {2} เลขสองจำนวนนั้นคืออะไร? "
+"ตอบเป็นตัวเลขสองจำนวน (เช่น 1 กับ 2)"
+
+#: ../src/Games/Calculation/CalculationRatio.cs:49
+#, csharp-format
+msgid ""
+"The second number is calculated by multiplying the first by {0} and dividing "
+"it by {1}."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:55
+msgid ""
+"A ratio specifies a proportion between two numbers. A ratio a:b means that "
+"for every 'a' parts you have 'b' parts."
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:108
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:126
+#, csharp-format
+msgid "x + y = {0}"
+msgstr ""
+
+#: ../src/Games/Calculation/CalculationRatio.cs:111
+#, csharp-format
+msgid "have a ratio of {0}:{1}"
+msgstr "มีอัตราส่วนเป็น {0}:{1}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:42
+msgid "Two numbers"
+msgstr "เลขสองจำนวน"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:53
+#, csharp-format
+msgid ""
+"Which two numbers when added are {0} and when multiplied are {1}? Answer "
+"using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"เลขสองจำนวนใดที่บวกกันได้ {0} และคูณกันได้ {1}? ตอบเป็นตัวเลขสองจำนวน (เช่น 1 กับ 2)"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:55
+#, csharp-format
+msgid ""
+"Which two numbers when subtracted are {0} and when multiplied are {1}? "
+"Answer using two numbers (e.g.: 1 and 2)."
+msgstr ""
+"เลขสองจำนวนใดที่ลบกันได้ {0} และคูณกันได้ {1}? ตอบเป็นตัวเลขสองจำนวน (เช่น 1 กับ 2)"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:129
+#, , csharp-format
+msgid "x - y = {0}"
+msgstr "x - y = {0}"
+
+#: ../src/Games/Calculation/CalculationTwoNumbers.cs:136
+#, csharp-format
+msgid "x * y = {0}"
+msgstr "x * y = {0}"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:1
+msgid "All Games (Logic, Mental Calculation, Memory and Verbal Analogies)"
+msgstr "ทุกเกม (ตรรกะ, เลขคิดในใจ, ความจำ และเปรียบเทียบศัพท์)"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:2
+msgid "Answer:"
+msgstr "คำตอบ:"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:3
+msgid "Custom Game Selection..."
+msgstr "เลือกชุดเกม..."
+
+#: ../src/Clients/Classical/gbrainy.ui.h:4
+msgid "Extensions"
+msgstr "ส่วนขยาย"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:5
+msgid "How to Extend gbrainy's Functionality"
+msgstr "วิธีขยายขอบเขตการทำงานของ gbrainy"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:6
+msgid "Logic Puzzles Only"
+msgstr "ปริศนาตรรกะเท่านั้น"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:7
+msgid "Memory Trainers Only"
+msgstr "เกมฝึกความจำเท่านั้น"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:8
+msgid "Mental Calculation Trainers Only"
+msgstr "เกมเลขคิดในใจเท่านั้น"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:11
+msgid "Toolbar"
+msgstr "แถบเครื่องมือ"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:12
+msgid "Verbal Analogies Only"
+msgstr "เกมเปรียบเทียบศัพท์เท่านั้น"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:13
+msgid "_Contents"
+msgstr "เนื้อ_หา"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:14
+msgid "_End Game"
+msgstr "_จบเกม"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:15
+msgid "_Game"
+msgstr "เ_กม"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:16
+msgid "_Help"
+msgstr "_วิธีใช้"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:17
+msgid "_New Game"
+msgstr "เกมใ_หม่"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:18
+msgid "_Next"
+msgstr "_ถัดไป"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:19
+msgid "_Pause Game"
+msgstr "_พักเกม"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:20
+msgid "_Settings"
+msgstr "_ตั้งค่า"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:21
+msgid "_Tip"
+msgstr "_คำแนะนำ"
+
+#: ../src/Clients/Classical/gbrainy.ui.h:22
+msgid "_View"
+msgstr "มุม_มอง"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:1
+msgid "<b>Select the add-ins to install and click on Next</b>"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:2
+msgid "<big><b>Add-in Manager</b></big>"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:3
+msgid "Add-in"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:4
+msgid "Add-in Dependencies:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:5
+msgid "Add-in Installation"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:6
+msgid "Add-in Manager"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:7
+msgid "Additional extensions are required to perform this operation."
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:8
+msgid "All registered repositories"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:9
+msgid "Author:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:10
+msgid "Browse..."
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:11
+msgid "Copyright:"
+msgstr "ลิขสิทธิ์:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:12
+msgid "Disable"
+msgstr "ปิดใช้งาน"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:13
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:14
+msgid "Install from:"
+msgstr "ติดตั้งจาก:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:15
+msgid "Name"
+msgstr "ชื่อ"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:16
+msgid "Other"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:17
+msgid "Path:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:18
+msgid "Register a local repository"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:19
+msgid "Register an on-line repository"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:20
+msgid "Repository"
+msgstr "คลัง"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:21
+msgid "Select _All"
+msgstr "เลือก_ทั้งหมด"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:22
+msgid "Select the location of the repository you want to register:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:23
+msgid "Show all packages"
+msgstr "แสดงแพกเกจทั้งหมด"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:24
+msgid "Show new versions only"
+msgstr "แสดงรุ่นใหม่เท่านั้น"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:25
+msgid "Show updates only"
+msgstr "แสดงการปรับรุ่นเท่านั้น"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:26
+msgid "The following add-ins are currently installed:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:27
+msgid "The following add-ins will be installed:"
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:28
+msgid "Url"
+msgstr "Url"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:29
+msgid "Url:"
+msgstr "Url:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:30
+msgid "Version"
+msgstr "รุ่น"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:31
+msgid "Version:"
+msgstr "รุ่น:"
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:32
+msgid "_Install Add-ins..."
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:33
+msgid "_Repositories..."
+msgstr ""
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:34
+msgid "_Uninstall..."
+msgstr "_ถอดถอน..."
+
+#: ../src/Clients/Classical/mono-addins-strings.xml.h:35
+msgid "_Unselect All"
+msgstr "ย_กเลิกการเลือกทั้งหมด"
+
+#~ msgid "John's father's sister's sister-in-law is also?"
+#~ msgstr "พี่สะใภ้ของน้องสาวของพ่อของจอห์นถือว่าเป็น?"
+
+#~ msgid "Water polo"
+#~ msgstr "Water polo"
+
+#~ msgid "win"
+#~ msgstr "win"
+
+#~ msgid ""
+#~ "Which element does not belong to the group? Answer {0}, {1}, {2}, {3} or "
+#~ "{4}."
+#~ msgstr "สิ่งใดไม่เข้าพวก? ตอบ {0}, {1}, {2}, {3} หรือ {4}"
+
+#~ msgid "Rectangle"
+#~ msgstr "สี่เหลี่ยมผืนผ้า"
+
+#~ msgid "Diamond"
+#~ msgstr "สี่เหลี่ยมข้าวหลามตัด"
+
+#~ msgid "number1 + number2 = {0}"
+#~ msgstr "หมายเลข1 + หมายเลข2 = {0}"
+
+#~ msgid "number1 - number2 = {0}"
+#~ msgstr "หมายเลข1 - หมายเลข2 = {0}"
+
+#~ msgid "number1 * number2 = {0}"
+#~ msgstr "หมายเลข1 * หมายเลข2 = {0}"

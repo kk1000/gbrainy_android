@@ -1,0 +1,7 @@
+
+This is a collection of unit tests to verify that the key features of gbrainy
+behave as intended.
+
+To run the tests use:
+
+make && make run
